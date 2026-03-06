@@ -4,6 +4,7 @@ import re
 import requests
 
 # Ayarlar ve Yollar
+#Diğer YKS soruları için pdf_path ve klasor_adi yollarını güncelleyiniz.
 pdf_path = "/content/yks-tyt-2025.pdf"
 klasor_adi = "YKS_Tyt_2025_Question"
 
