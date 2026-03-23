@@ -329,17 +329,16 @@ for sayfa_no in range(len(doc)):
                 if not cozumlu_mu and sayfada_cozum_var:
                     diger_sutun = sag_sutun_ogeler if sutun["crop_x0"] < orta_cizgi else sol_sutun_ogeler
                     for diger_oge in diger_sutun:
-                        if diger_oge["y0"] > mevcut_oge["y0"] - 50:
                             
-                            # Yan sütunda aşağı doğru okurken başka bir "Soru"ya çarparsak dur!
-                            if diger_oge["tip"] == "soru":
-                                break
+                        # Yan sütunda aşağı doğru okurken başka bir "Soru"ya çarparsak dur!
+                        if diger_oge["tip"] == "soru":
+                            break
                                 
-                            # Eğer Çözüm veya Cevap satırına denk gelirsek kaydet ve okumaya DEVAM ET
-                            if diger_oge["tip"] in ["cozum", "cevap_satiri"]:
-                                cozumlu_mu = True
-                                if diger_oge.get("bulunan_cevap", "Bulunamadi") != "Bulunamadi":
-                                    bulunan_cevap = diger_oge["bulunan_cevap"]
+                        # Eğer Çözüm veya Cevap satırına denk gelirsek kaydet ve okumaya DEVAM ET
+                        if diger_oge["tip"] in ["cozum", "cevap_satiri"]:
+                            cozumlu_mu = True
+                            if diger_oge.get("bulunan_cevap", "Bulunamadi") != "Bulunamadi":
+                                bulunan_cevap = diger_oge["bulunan_cevap"]
 
 
                 if aktif_konu not in konu_son_soru:
