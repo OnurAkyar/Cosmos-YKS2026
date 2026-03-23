@@ -1,0 +1,21 @@
+# Paragrafta Anlam 1
+
+## Paragrafta Konu
+
+Bir konuşmada, yazıda ya da eserde ele alınan düşünce, olay ya da duruma konu denir. Konu, genellikle paragrafın ilk cümlesinde verilir; sonraki cümlelerle geliştirilir. Konuyla ilgili sorular "Bu parçanın konusu aşağıdakilerin hangisinde verilmiştir?", "Bu parçada aşağıdakilerin hangisi üzerinde durulmaktadır?", "Bu parçada aşağıdakilerin hangisinden söz edilmektedir?" ya da "Bu parçada aşağıdakilerin hangisinden yakınılmaktadır?" biçiminde karşımıza çıkar.
+
+Örnek paragraf: "İslamiyet'in kabulünden önce Türklerin, başka hiçbir toplumun etkisinde kalmamış bir dilleri ve edebiyatları vardı. Her ilkel edebiyatta olduğu gibi bu edebiyatta da şiirle büyü birlikte yürümekte ve dinsel törenler önemli bir yer tutmaktaydı. Bunun yanı sıra ozan, baksı, şaman gibi adlarla anılan şairlerde olağanüstü güçler bulunduğuna inanılırdı. Çoğu ortak ve sözlü ürünlerden oluşan bu edebiyatın en önemli bölümünü destanlar oluşturmaktaydı." Bu paragrafın konusu "eski Türklerde edebiyat"tır. Bu konu olarak belirlenir çünkü paragraftaki her cümle İslamiyet öncesi Türk edebiyatının bir özelliğine değinmektedir: edebiyatın bağımsızlığı, şiir ile büyünün birlikteliği, şairlerin toplumsal rolü, sözlü ürünler ve destanlar. Konu, paragraftaki tüm cümleleri birbirine bağlayan ortak çatıdır; hiçbir cümle bu çatının dışına çıkmamaktadır.
+
+## Paragrafta Başlık
+
+Bir yazının, bir kitabın bölümlerinin başına konulan ve konuyu kısaca tanıtan ibareye başlık denir. Bir başlık doğrudan konuyla ilgilidir; konunun özeti niteliğindedir. Paragrafın konusunu yansıtan bir veya birkaç kelime paragrafın başlığını oluşturur.
+
+Örnek paragraf: "Sanatın amacı, kişinin düşüncesini, duyarlığını geliştirmek; ona dünyaya ve insanlara insanca bakma, sezme, kavrama gücü kazandırmaktır. Sanat ürünlerine ilgi duymayan, hayali işlemeyen, başkalarının acılarına, dertlerine ortak olmayan bir bilim adamı, bir yargıç, bir yönetici düşünelim; ne yararı olur bunların toplumlarına, insanlığa? İnsanın, insan sevgisiyle yoğrulmadığı toplumlarda bütün yönleriyle ilkellik egemen olmaz mı?" Bu paragrafın başlığı "Sanat ve İnsan" olabilir. Bu başlık uygundur çünkü paragraf boyunca sanatın insanı nasıl geliştirdiği, insani duyarlık kazandırdığı ve sanattan yoksun bir toplumun nasıl ilkelleşeceği işlenmektedir. "Sanat ve İnsan" başlığı hem konuyu (sanat) hem de sanatın etkilediği varlığı (insan) kapsayarak paragrafın tematik çatısını özetler; tek başına "Sanat" ya da "Sanatın Önemi" gibi seçeneklerden daha isabetlidir çünkü paragrafın odağı sanat-insan ilişkisidir.
+
+## Paragrafta Ana Düşünce
+
+Yazarın paragrafta okura iletmek istediği mesaja ana düşünce denir. Ana düşünce paragrafın tamamını kapsayan en geniş yargıdır. Konuyla ilgili sorular "Bu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?", "Bu parçada vurgulanmak istenen aşağıdakilerden hangisidir?", "Bu parçadan çıkarılabilecek en kapsamlı yargı aşağıdakilerden hangisidir?" biçiminde sorulur.
+
+Örnek paragraf: "Eğitim ve dil, birbiriyle yakından ilgili iki alan. Kuşkusuz dili kullanımının tek amacı eğitim değildir ama eğitimi dilsiz gerçekleştiremezsiniz. Bu yüzden eğitici yayınların dili, açık seçik, doğru ve seslendiği kitlenin düzeyine uygun olmalıdır. Bu koşullara sahip olmayan bir kitap, içindeki bilgiler ne kadar yararlı olursa olsun işlevini yerine getiremez. Aktarılamayan, anlaşılmayan bilgi de bir bakıma yok sayılır." Bu paragrafın ana düşüncesi şudur: Eğitime yönelik kitaplar, ancak okurlarının anlayabileceği bir dille hazırlanırsa amacına ulaşır. Bu ana düşüncedir çünkü paragraftaki tüm cümleler bu yargıyı desteklemektedir: eğitimde dilin önemi, eğitici yayınlarda dilin nitelikleri, bu niteliklere sahip olmayan kitabın işlevsiz kalacağı ve anlaşılmayan bilginin yok sayılacağı. Ana düşünce paragrafın tamamını kapsayan en geniş yargıdır; yardımcı düşünceler bu yargıyı farklı açılardan destekler.
+
+---

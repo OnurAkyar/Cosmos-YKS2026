@@ -1,0 +1,5 @@
+# Aktif Taşıma
+
+Küçük moleküllerin az yoğun olduğu ortamdan çok yoğun olduğu ortama doğru enerji (ATP) harcanarak enzim ve taşıyıcı proteinler yardımıyla taşınmasına aktif taşıma denir. Örneğin, sinir hücrelerinde uyartı iletimi sırasında sodyum ve potasyum iyonları aktif taşıma ile yer değiştirir.
+
+Maddeler az yoğun olduğu ortamdan çok yoğun olduğu ortama doğru taşınır. Aktif taşımada enerji (ATP) harcanır. Ayrıca canlı hücrede gerçekleşir. Enzimler görev yapar. Küçük yapılı moleküllerin geçişi sağlanır. Su, hiçbir zaman aktif yolla taşınmaz sadece osmozla yer değiştirir.

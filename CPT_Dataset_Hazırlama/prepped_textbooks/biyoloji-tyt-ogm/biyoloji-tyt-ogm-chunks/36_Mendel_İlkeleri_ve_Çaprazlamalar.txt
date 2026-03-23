@@ -1,0 +1,61 @@
+# Mendel İlkeleri ve Çaprazlamalar
+
+Avusturyalı bilim insanı Gregor Mendel, bezelyeler üzerinde yaptığı denemelerden elde ettiği bilgilere dayanarak bugünkü modern genetiğin temellerini kurmuş ve bu sebeple "Genetiğin Babası" ünvanını almıştır. Canlıların çeşitliliği konusundaki merakı, Mendel'i kalıtım ile ilgili çalışmalar yapmaya yönlendirmiştir.
+
+1856 yılında yaptığı genetik ile ilgili araştırmalarda bezelye bitkisini kullanmasında bezelye bitkisinin sahip olduğu bazı özellikler etkili olmuştur.
+
+Hızlı üreyen bir bitkidir. Dişi ve erkek organları aynı çiçek üzerinde bulunduğundan kendi kendini dölleyebilir. Ayrıca her nesilde çok sayıda yavru verir. Yapay döllenmeye uygundur. Gözle görülebilen ve bireyden bireye farklılık gösteren çeşitli özelliklere sahiptir. Mendel, yaptığı çalışmalarda bezelyelerin yedi adet gözlemlenebilen karakterini seçmiştir.
+
+Bu yedi karakter çıplak gözle rahatlıkla izlenebilen niteliklerdir. Bu karakterlerden her biri, birbirinden farklı olan iki özellik ile temsil edilmektedir.
+
+Mendel'in çalışmalarında kullandığı yedi karakterin her biri baskın ve çekinik olmak üzere iki özellik taşımaktadır. Tohum renginde baskın özellik sarı, çekinik özellik yeşildir. Tohum şeklinde baskın özellik yuvarlak, çekinik özellik buruşuktur. Çiçek renginde baskın özellik mor, çekinik özellik beyazdır. Tohum zarfı renginde baskın özellik yeşil, çekinik özellik sarıdır. Tohum zarfı biçiminde baskın özellik şişkin, çekinik özellik boğumludur. Çiçek konumunda baskın özellik ortada, çekinik özellik uçtadır. Son olarak gövde uzunluğunda baskın özellik uzun, çekinik özellik cücedir. Bezelye çiçeklerinde hem erkek hem de dişi organ bulunduğu için bezelye çiçekleri kendi kendini dölleyebilir ve bu sayede arı döller oluşabilir.
+
+Mendel, çiçeklerin kendi kendini döllemesini önleyerek beyaz bir bezelyeden aldığı polenleri mor bir bezelyenin dişi organına taşıyarak çapraz döllenme ile melez bireyler elde etmiştir.
+
+Mendel, homozigot mor ve beyaz çiçekli bitkileri çaprazlayarak elde ettiği melez tohumları ekmiş ve oluşan yavru bezelyelerin mor çiçek renkli olarak geliştiğini gözlemlemiştir.
+
+Bu çalışmada Mendel, bezelyelerdeki her bir karakterin birbirine zıt iki özelliğini seçerek bunları kendi aralarında çaprazlamış ve her seferinde aynı sonuçlara ulaşmıştır. Bir karakter bakımından heterozigot iki bireyin çaprazlanmasına monohibrit çaprazlama denir.
+
+Mor (AA) ve beyaz (aa) çiçekli bezelyelerin alelleri homozigot durumdadır. Genotipi, herhangi bir özellik bakımından homozigot durumda olan bireylere arı döl denir.
+
+Mendel, arı dölleri (Parental = P) çaprazlayarak $F_1$ kuşağındaki (Filial=Kuşak=Nesil) tüm bezelyelerin mor çiçekli olduğunu görmüştür.
+
+Mor çiçek renk faktörünün bezelyede mevcut olduğu sürece beyaz çiçek renk faktörününün gizlendiği sonucuna varmıştır. Mendel birinci nesilde açığa çıkan özelliği baskın, gizlenen özelliği ise çekinik olarak tanımlamıştır. Bu duruma baskınlık ilkesi adını vermiştir. Baskınlık ilkesinin sonucu olarak birinci nesildeki tüm bezelyeler mor renkli olmuştur.
+
+Mendel, bir karakter için zıt özelliğe sahip homozigot iki bireyin çaprazlanması sonucu birinci nesildeki tüm bireylerin aynı olmasına benzerlik ilkesi adını vermiştir.
+
+Mendel, daha sonra $F_1$ kuşağındaki bireyleri de kendi arasında çaprazlayarak (kendileştirme) $F_2$ kuşağını elde etmiş ve bu kuşakta mor ile beyaz çiçekli bezelyeleri gözlemlemiştir. Aynı genotipte iki bireyin çaprazlanmasına kendileştirme denir. Bu durum, $F_1$ kuşağındaki mor çiçekli bezelyelerin genotipindeki baskın ve çekinik alellerin birbirinden ayrılarak gametlere eşit olasılıkla aktarıldığını göstermiştir; Mendel bu ilkeye ayrılma ilkesi adını vermiştir. Genetik çaprazlamalar sonucu oluşması muhtemel genotipler, Punnett karesi olarak adlandırılan tablo ile de gösterilebilir.
+
+Bu yöntem, İngiliz genetik bilimci Reginald Curundall Punnett (Recinıld Kırandıl Panıt) tarafından geliştirildiği için Punnett karesi olarak adlandırılır.
+
+Punnett karesi yöntemi, ebeveynlerin oluşturabileceği gametler ile döllenme sonucu oluşabilecek fenotip ve genotip çeşitlerinin daha iyi anlaşılması için kullanılır.
+
+$F_1$'in oluşturduğu gametler, satır ve sütunlara yerleştirilir. Satır ve sütunların kesiştiği kutulara yavruların oluşabilecek genotipleri yazılır.
+
+Aa genotipli iki bireyin çaprazlanmasında erkek gametler A ve a, dişi gametler ise B ve a olmak üzere iki çeşittir. Bu çaprazlama sonucunda AA, Aa ve aa genotipli bireyler oluşmaktadır. $F_1$ kuşağındaki bireyler kendileştirildiğinde şu sonuçlar ortaya çıkar: Homozigot mor (AA), heterozigot mor (Aa) ve beyaz (aa) olmak üzere üç çeşit genotip elde edilir. Heterozigot genotipli (Aa) bireylerin oluşma ihtimali %50'dir. Bu oran aynı zamanda oluşan yavruların atasıyla aynı genotipe sahip olma ihtimalini de gösterir. Ayrıca çekinik fenotipli (a) bireylerin oluşma ihtimali %25'tir. Mor ve beyaz olmak üzere iki çeşit fenotip elde edilir. Baskın fenotipli (A) bireylerin oluşma ihtimali %75'tir. Genotip oranı: 1:2:1, Fenotip oranı: 3:1'dir.
+
+İki karakter yönüyle heterozigot (melez) olan bireylere dihibrit, böyle iki bireyin çaprazlanmasına dihibrit çaprazlama denir. Mendel, bezelye bitkilerini yetiştirirken hem tohum rengini (sarı veya yeşil) hem de tohum şeklini (düzgün veya buruşuk) incelemiştir.
+
+Mendel, önce iki karakter açısından homozigot sarı ve düzgün tohumlu bezelyelerle yeşil ve buruşuk tohumlu bezelyeleri çaprazlamıştır. Böylece tohumun rengi ve şekli açısından heterozigot baskın bireyler (dihibrit) elde etmiştir. Sarı tohum aleli S, yeşil tohum aleli s, düzgün tohum aleli D ve buruşuk tohum aleli d olarak gösterilmiştir. Daha sonra $F_1$ kuşağındaki dihibrit bireyleri kendi arasında çaprazlayıp $F_2$ kuşağını elde etmiştir. Bunun için önce $F_1$ bireylerinin oluşturabileceği gametler belirlenir; bu gametler Punnett karesine yerleştirilerek $F_2$ kuşağındaki olası genotip ve fenotip oranları bulunur.
+
+İkinci nesli ($F_2$) elde etmek için gametleri tüm ihtimalleri göz önüne alarak birleştirmek gerekmektedir. Bu işlem sırasında oluşabilecek karışıklıkları önlemek amacıyla Punnett karesi kullanmak daha güvenilir olacaktır.
+
+İki karakterin birlikte kalıtıldığı dihybrit çaprazlamasında $F_2$ kuşağında 9 farklı genotip elde edilir. Fenotipik açıdan değerlendirildiğinde bireylerin $\frac{9}{16}$'ı sarı-düzgün (SSDD, SSDd, SsDD, SsDd), $\frac{3}{16}$'ı sarı-buruşuk (SSdd, Ssdd), $\frac{3}{16}$'ı yeşil-düzgün (ssDD, ssDd) ve $\frac{1}{16}$'ı yeşil-buruşuk (ssdd) özelliktedir. Bu oran Mendel'in bağımsız açılım ilkesinin klasik 9:3:3:1 fenotip oranını yansıtmaktadır. Genotip Oranı: 1:2:2:4:1:2:1:2:1 Fenotip Oranı: 9:3:3:1 olarak bulunur. Mendel, bu çaprazlama sonucu oluşan bazı yavruların dişi ata bireye bazılarının da erkek ata bireye benzediğini fark etmiştir.
+
+Dişi ve erkek atada bulunan iki farklı karakterin birbirinden bağımsız olarak aktarılmasıyla yeni gen kombinasyonuna sahip bireyler oluşmuştur. Bunun sonucunda ebeveynlere tamamen benzemeyen sarı-buruşuk, yeşil-düzgün ve yeşil-buruşuk bezelyeler meydana gelmiştir. Mendel'e göre her karakteri kontrol eden gen, gametlere bağımsız olarak aktarılır.
+
+Çaprazlama sonucunda hem sarı ve düzgün tohumlu hem de sarı ve buruşuk tohumlu bezelyelerin görülmesi, tohum rengi ve şekli karakterlerini belirleyen alellerin birbirinden bağımsız olarak gametlere aktarıldığını gösterir.
+
+Mendel, bu duruma bağımsız açılım ilkesi adını vermiştir. Bağımsız genlerde heterozigot karakter sayısı n olarak alındığında, fenotip çeşit sayısı $2^n$, genotip çeşit sayısı $3^n$ ve gamet çeşit sayısı $2^n$ formülleriyle hesaplanabilir.
+
+Baskınlık İlkesi: Bir bireyde, bir karakterin farklı özelliklerine ait genler bir arada bulunuyorsa bu genlerden yalnız biri tam olarak etkisini gösterir.  $Ss \rightarrow S$
+
+Bir özellik bakımından farklı iki arı dölün çaprazlanması sonucu $F_1$ dölündeki bireylerin hepsi birbirine Bir çift genden her biri eşit olasılıkla birbirinden ayrılarak farklı gametlere gider. Oluşan gametler her alel çiftinden sadece birini taşır.
+
+Melezlerin kendi aralarında çaprazlanması ile her karakteri kontrol eden gen, gametlere bağımsız olarak aktarılır. Bu durumun sebebi homolog kromozom çiftlerinin mayoz sırasında bağımsız bir şekilde ayrılmasıdır. Bağımsız açılım ilkesine göre gametler SsDd ya da ssDd şeklinde oluşabilir.
+
+Fenotipinde baskın bir özelliği taşıyan bireyde bu özelliği kontrol eden gen çiftinin homozigot mu yoksa heterozigot mu olduğunu belirlemek için yapılan çaprazlamalara kontrol çaprazlaması denir.
+
+Kontrol çaprazlamasıyla genotipi bulunmaya çalışılan birey, homozigot çekinik bireyle çaprazlanır ve oluşan yavrulara bakılarak genotipi bilinmeyen bireyin genotipi bulunmuş olur. Genotipi bilinmeyen düzgün tohumlu bezelye (baskın fenotipli), buruşuk tohumlu bezelye (çekinik fenotipli) ile çaprazlanır.
+
+Oluşan yavrular a'daki gibi hep baskın fenotipli (düzgün tohumlu bezelye) oluyorsa genotipi belirlenmek istenen bezelye bitkisi muhtemelen homozigot genotiplidir (DD ). b'deki gibi oluşan yavrular arasında çekinik fenotipli bireyler varsa genotipi bilinmeyen birey kesinlikle heterozigottur (Dd ).

@@ -1,0 +1,13 @@
+# Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı
+
+Hücre, görev ve yapı bakımından canlıların bütün özelliklerini gösteren en küçük birimdir. Tüm canlılar hücre ya da hücrelerden oluşur. Hücre ve organellerin yapısının keşfedilmesi, merceklerin özellikle de mikroskobun gelişmesi sayesinde mümkün olmuştur. Zacharias Janssen, hücreyi 9 kat büyüten ilk mikroskobu icat etti. Ayrıca Marcello Malpighi, kılcal damarlardaki kan akışını inceledi. İngiliz doğa bilimcisi Robert Hooke (Rabırt Huk) (1637-1703) hücre terimini ilk olarak kullanan bilim insanıdır. İncelediği meşe ağacının mantar dokusunda gördüğü küçük odacıklara hücre anlamına gelen "cellula" adını verdi. Biyolojinin en önemli gözlem ve ölçme aracı mikroskoplardır.
+
+Antonie van Leeuwenhoek sperm hücrelerini, bakterileri incelemiş; mikroskopla bakterilerin varlığını keşfeden ilk kişi ve mikrobiyoloji biliminin de kurucusu ünvanını almıştır. Matthias Schleiden, bitki hücrelerini incelemiş; çekirdeğin hücre bölünmesindeki rolünü belirtmiştir. Theodor Schwann, hayvan hücrelerini ve hayvan hücrelerinin bölünmesini inceleyerek hücrelerin canlıların yapı birimi olduğunu belirtmiştir. Rudolf Virchow, var olan hücrelerin öncekilerden meydana geldiğini belirtmiştir. Mikroskobun icadı ve gösterdiği gelişim, devrim niteliğinde buluşlara yol açmış; birçok yeni bilim dalının ortaya çıkmasını sağlamıştır. Bütün bu çalışmalar hücre teorisinin ortaya çıkmasını sağlamıştır.
+
+Hücre, canlının temel yapı ve görev birimidir. Canlılar, bir ya da birden çok hücreden meydana gelir. Ayrıca yeni hücreler, öncekilerin bölünmesi ile oluşur. Hücreler, içerdiği kalıtım maddesini bölünerek yavru hücrelere aktarır. Tüm metabolik olaylar hücre içinde gerçekleşir. Hücreler yapılarına göre prokaryot ve ökaryot hücre olmak üzere iki çeşittir. Prokaryot hücrelerde DNA halkasal yapıda olup sitoplazmada dağınık hâlde bulunur.
+
+Prokaryot hücrelerde zarlı organel bulunmaz; yalnızca protein sentezinden sorumlu ribozomlar vardır. Zarla çevrili belirgin çekirdekleri yoktur. Bakteriler ve arkeler prokaryot hücre yapısına sahip canlılardır. Prokaryot canlılar tek hücrelidir, ökaryot canlılar ise tek hücreli olabildiği gibi çok hücreli de olabilir.
+
+Ökaryot hücrelerde DNA doğrusal şekilli ve proteinle kaplı kromatin hâlindedir. Zarlı ve zarsız tüm organellere sahip olan bu hücreler çift katlı zarla çevrili bir çekirdeğe sahipken DNA çekirdek içerisinde bulunur. Protista, mantar, bitki ve hayvanların tamamı ökaryot hücre yapısına sahip canlılardır.
+
+Prokaryot hücreler, tüm yaşamsal faaliyetlerini sitoplazmada veya hücre zarındaki yapılarda gerçekleştirirken ökaryot hücrelerde yaşamsal faaliyetler hücre zarı, sitoplazma ve organellerde gerçekleşir.

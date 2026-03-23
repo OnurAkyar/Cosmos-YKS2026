@@ -1,0 +1,29 @@
+# Zarf (Belirteç)
+
+Fiil, fiilimsi, sıfat ve kendi türünden sözcükleri zaman, durum, yer-yön, ölçü ve soru yönünden belirten ve sınırlayan sözcüklerdir.
+
+Zarflar her zaman yalnızca fiilleri değil; fiilimsileri, sıfatları ya da başka zarfları da etkileyebilir: "Bugün çok yoruldu." (fiili), "Bu işe bilinçli hazırlanmak zorundayız." (fiilimsiy), "En taze yeşillik burada satılır." (sıfatı), "Sınavlarına daha iyi çalıştı." (zarfı).
+
+## Zarf Türleri
+
+Durum zarfları, bir fiilin ya da fiilimsinin anlamını durum bakımından belirtir ve "nasıl?" sorusuna cevap verir: "Yeni gelenlerle güzel konuşmak istiyordu.", "Çocuk okula yürüyerek geliyordu.", "Dünkü soruları heyecandan yapamadım."
+
+"Nasıl?" sorusunun isme yöneltildiğinde alınan cevap sıfat; fiile yöneltildiğinde alınan cevap zarf olur: "Güzel bir haber aldım." (sıfat), "Toplantıda güzel konuştu." (zarf).
+
+Zaman zarfları fiilleri zaman yönünden belirtir ve "ne zaman?" sorusuna cevap verir: "Annemle her sabah yürüyüşe gideriz." Zaman anlamı taşıyan sözcükler isim de olabilir: "Akşamın insanı hüzünlendiren bir yanı olmuştur hep." (isim), "Akşam bize uğradı, havadan sudan konuştuk." (zarf).
+
+Yer-yön zarfları fiilleri ve fiilimsileri yer-yön bakımından belirtir ve "ne yöne?" sorusuna cevap verir. Yer-yön bildiren sözcükler cümlede zarf, isim ya da sıfat olabilir: "Aşağı yolda trafik yoğun." (sıfat), "Olan biteni öğrenmek için aşağı indi." (zarf), "Aşağıda çok fazla gürültü vardı." (isim).
+
+Miktar (azlık-çokluk) zarfları fiillerin, fiilimsilerin, sıfatların ya da başka zarfların anlamlarını ölçü bakımından belirtir ve "ne kadar?" sorusuna cevap verir: "Bugün çok çalıştım." (fiili belirten miktar zarfı), "Her gün daha hızlı okudum." (zarfı belirten miktar zarfı), "En doğru yol bu sanırım." (sıfatı belirten miktar zarfı).
+
+Soru zarfları fiil ya da fiilimsileri soru yoluyla belirtir: "Düşündüklerini neden söylemedin?", "Arkadaşlarına ne zaman buluşacaksın?"
+
+Soru anlamlı bazı sözcükler bir isme yönelik kullanıldığında soru sıfatı olur: "Kütüphanedeki nasıl bir soru?" (soru sıfatı), "Okula nasıl gidiyorsunuz?" (soru zarfı).
+
+"Ne" sözcüğü soru zamiri, soru sıfatı ve soru zarfı olarak kullanılabilir: "Dışarıda ne duruyorsun?" (soru zarfı), "Bütün bu söylediklerimden ne anladın?" (soru zamiri), "Siz ne işler çeviriyorsunuz?" (soru sıfatı).
+
+## Zarflarda Pekiştirme
+
+Pekiştirme ünsüzleri ve ikilemeler kullanılarak yapılır: "Elleri soğuktan mosmor olmuştu.", "Dışarıda şakır şakır yağmur yağıyordu." Pekiştirilen sözcük ismi etkilerse sıfat, fiil ya da fiilimsiy etkilerse zarf olur.
+
+---

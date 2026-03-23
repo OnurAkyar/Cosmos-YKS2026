@@ -1,0 +1,33 @@
+# Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği
+
+Su, canlı yaşamı için vazgeçilmez bir gereksinimdir. Yeryüzünde içme ve kullanma suyunun miktarı sınırlıdır. Suların giderek kirlenmesi, temiz su kaynaklarını daha da önemli kılmaktadır. Küresel ısınma ve çevre kirliliği gibi sebeplerden su kaynakları her geçen gün azalmaktadır. Canlılığın devamı için var olan su kaynaklarının korunması ve temiz tutulması gerekmektedir.
+
+Toprakta meydana gelen kirlilik, su kirliliğine de neden olmaktadır. Su kaynaklarına yakın olan kanalizasyon suları, fabrika ve petrol atıkları, evsel atıklar suları kirletmektedir. Ayrıca tarımsal ilaçlar ve gübreleme, madencilik ve nükleer atıklar, elektronik cihazlar ve pillerde bulunan ağır metallerin suya ve toprağa bırakılması kirlilik sebepleridir.
+
+Tarımda kullanılan gübrelerin, evsel ve endüstriyel atıkların su kaynaklarına karışması sudaki azot ve fosforun miktarını artırır. Bu durum su bitkilerinin ve alg türlerinin ortamda kontrolsüz bir şekilde çoğalmalarına neden olur. Su yüzeyi alglerle kaplandığından suyun üstü, yeşil renge döner. Bu da ışığın suyun alt kısımlarına ulaşmasını engeller. Alttaki bitkiler, fotosentez yapamaz hâle gelir. Mevsim süresince alg ve bitki ölümleriyle sudaki organik madde miktarında artış gerçekleşir. Bu durum ayrıştırıcı bakterilerin artmasına neden olur. Bakterilerin faaliyetleri sırasında sudaki oksijen miktarı hızla azalır ve zehirli gazlar ortaya çıkar. Suda kokuşma olur ve su canlılar tarafından kullanılamaz hâle gelir. Bunun sonucunda sudaki birçok canlı türü yok olur ve besin zincirleri olumsuz etkilenir, biyolojik çeşitlilik azalır. Su kirliliğine de neden olan bu olaya ötrofikasyon denir.
+
+İçme ve kullanma sularının çeşitli etkenlerle kirlenmesi insanlarda çeşitli hastalıklara sebep olur. Özellikle az gelişmiş ve gelişmekte olan ülkelerde bu sorunlar daha çok görülmektedir. Kolera, sarılık, tifo, ishal ve amipli dizanteri gibi hastalıklar atık ve kirli sulardan kaynaklanır.
+
+Kirli sularla bulaşan bu hastalıkların her biri insanlar için tehlikelidir ve önleyici tedbirler alınması gerekmektedir. Zararlı ve atık maddelerin toprağa karışması sonucu toprağın yapısının bozulmasına ise toprak kirliliği denir. Birçok canlıya ev sahipliği yapan toprağa bırakılan kirleticiler, topraktan bitkilere geçer. Besin zinciri yoluyla insana kadar ulaşır. Toprağın temiz kalması, toprağa bağımlı yaşayan canlılar için oldukça önemlidir. Kirlenmiş topraklarda bitkiler yetişmez, toprağın içerisinde yaşayan milyonlarca canlı yaşamını yitirir. Ekosistemin devamlılığı için bu canlıların her biri ayrı öneme sahiptir. Evsel, endüstriyel ve radyoaktif atıklar; iş yeri, hastane ve şehir kanalizasyon atıkları; araçların egzoz gazları ve fabrika bacalarından çıkan gazlar toprak kirliliğine yol açar. Aynı zamanda asit yağmurları ve su kirliliği, toprak kirliliğine neden olurken toprak kirliliği de yer altı sularının kirlenmesine neden olur. Toprak kirliliğini önlemede kullanılan en önemli uygulamalardan bazıları;
+
+Geri dönüştürülebilir atık maddeler geri dönüşüme kazandırılmalıdır. Verimli topraklar korunmalı, yeşil alanlar artırılmalıdır. Ayrıca evsel ve endüstriyel atıklar, toprağa zarar veremeyecek şekilde toplanıp imha edilmelidir. Tarım ilaçlarının yanlış kullanımı önlenmelidir. Sanayi atıkları arıtılmadan toprağa verilmemelidir. Nükleer enerji santrallerinin kurulumu toprağa zarar vermeyecek şekilde planlanmalıdır.
+
+Lağım suları ile kirlenmiş topraktan insanlara kolera, tifo, amipli dizanteri gibi hastalıklar bulaşır. Kimyasal ve radyoaktif kirlilik sonucu topraktan ağır metaller, radyoaktif maddeler ve zehirli atıklar insanlara toprakla veya besin yoluyla geçebilir. Bunlar zehirlenme, alerji ve kanser gibi hastalıklara neden olur.
+
+Bazı radyoaktif maddeler; atom çekirdeği parçalandığı zaman çevreye alfa, beta ve gama ışınlarını yayar. Duyu organları ile algılanamayan bu zararlı ışınlara radyasyon denir.
+
+Radyasyon kaynaklarının başında uzay ve Güneş'ten gelen kozmik ışınlar, yer kabuğundaki uranyum ve toryum gibi radyoizotoplar, tıbbi amaçla kullanılan X ışını cihazları, nükleer santraller ve televizyon, bilgisayar, mikrodalga fırın, cep telefonu gibi elektronik cihazlar gelir. Radyasyon canlılarda gen mutasyonlarına, kansere, sakat doğumlara ve doku hasarlarına yol açabilir.
+
+Radyasyonun canlılar üzerindeki etkisi; cins, yaş ve organlara göre ayrıca radyasyonun şiddetine, maruz kalınan süreye ve ışınların türüne göre değişmektedir. Özellikle göz, en fazla etkilenen organdır.
+
+Görme zayıflığına, katarakta ve göz uyumunun yavaşlamasına sebep olabilir. DNA moleküllerinde kalıcı hasara yol açarak hayati tehlike oluşturabilir. Ayrıca cilt, kemik iliği, bağırsak hücreleri gibi hızlı bölünen hücreler radyoaktif ışımaya karşı daha da hassastır. Bu da cilt, akciğer ve tiroit kanseri görülme riskini artırır. Özellikle hamilelerin ve bebeklerin radyasyondan olabildiğince korunması gereklidir.
+
+Radyasyonun zararları genellikle zamanla ortaya çıkan bir etki olup ani etki ancak atom bombalarının yol açtığı ölümler ve yüksek radyasyondaki yanmalar şeklinde kendini göstermektedir.
+
+İnsanlar, günlük hayatta radyasyonla sürekli iç içe yaşamaktadır. Telefonlar, çalar saatler, elektrikli ev aletleri, elektromanyetik radyasyon yaymaktadır. Radyasyondan daha fazla etkilenmemek için telefonla uzun süreli konuşma yapmamak ve telefonları başucundan uzak yerde bulundurmak gerekir. Yatak odalarında bilgisayar ve televizyon bulundurmamak, kullanılmadığı zamanlarda elektrikli aletlerin fişini çekmek bu aletlerin çevreye yaydığı elektromanyetik radyasyonun etkilerini azaltacaktır.
+
+İnsanlar üzerinde olumsuz etki yapan ve belirli bir ses şiddetinin üzerinde olan, istenmeyen seslere gürültü veya ses kirliliği denir. Ses kirliliğini bazen bir insan sesi, bazen bir ev eşyası, bazen de otomobilden gelen rahatsız edici bir ses oluşturabilir. Genellikle trafik gürültüsü, sanayi tesisleri, inşaat faaliyetleri, yüksek sesli müzik aletleri ile kara, hava, deniz ve demir yolu araçları gibi ulaşım araçları ses kirliliğine neden olmaktadır.
+
+Ses kirliliği, insanlar üzerinde fizyolojik ve psikolojik etkilere sebep olur. Kalıcı işitme kayıpları, yüksek tansiyon, solunum rahatsızlıkları, sinirlilik, stres, uyku düzensizliği, yorgunluk ve zihinsel performansta yavaşlama ses kirliliğinin insanlar üzerindeki etkileridir.
+
+Ses kirliliğini önlemek için sanayi bölgeleri ve hava alanları şehirden uzakta kurulmalı, kamuoyuna açık yerlerde yüksek sesli müzik çalınması engellenmelidir. Akustik teknolojiye göre şehir planlaması yapılmalı, iş yerlerinde ve binalarda ses yalıtımı sağlanmalı, bireyler toplu taşıma kullanmaya teşvik edilmelidir.

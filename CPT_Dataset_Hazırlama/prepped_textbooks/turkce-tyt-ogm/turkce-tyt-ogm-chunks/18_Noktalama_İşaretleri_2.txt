@@ -1,0 +1,33 @@
+# Noktalama İşaretleri 2
+
+## İki Nokta (:)
+
+İki nokta birkaç farklı amaçla kullanılır. Kendisiyle ilgili örnek verilecek ya da açıklama yapılacak cümlenin sonuna konur: "Bir öyküde bulunması gereken iki özellik vardır: iyi bir kurgu, güçlü bir düş." Karşılıklı konuşmalarda konuşan kişiyi belirten sözlerden sonra ve edebi metinlerde konuşma bölümlerinden önce kullanılır. Ses bilgisinde uzun ünlüyü göstermek için kullanılır: a:ile, ka:til. İki noktadan sonra gelen ifade cümle niteliğindeyse büyük, cümle niteliğinde değilse küçük harfle başlar.
+
+## Üç Nokta (...)
+
+Bitmemiş cümlelerin sonunda kullanılır: "Odanın kapısından dışarı taşan sesler, haykırmalar, homurdanmalar..." Ünlem ve seslenmelerde anlamı pekiştirmek için konur: "Mehmet Efendi... Mehmet Efendi... yangın!.." Kaba sayıldığı için yazılmak istenmeyen sözcüklerin yerine kullanılır: "Bu olayda E...'nin de parmağı olduğunu biliyor ama konuşmuyordu." Alıntı metinlerde alınmayan yerleri göstermek için kullanılır. Sözün bir yerden kesilerek okuyucunun zihninde tamamlaması için kullanılır.
+
+## Soru İşareti (?)
+
+Soru cümlelerinden sonra kullanılır: "Bugün kimlerin konuşma yapacağını biliyor musun?" Soru eki ya da sözcüğü taşımayan ama soru anlamı olan ifadelerden sonra kullanılır. Bilinmeyen ya da şüphe edilen durumları belirtmek için yay ayraç içinde kullanılır: "1496 (?) yılında doğan Fuzuli divan şiirimizin en güçlü kalemlerinden biridir."
+
+Soru işareti konulmayacak durumlar da vardır. "Mı/mi" ekini alan yan cümle temel cümlenin zarf tümleci olduğunda soru işareti konmaz: "Bahar geldi mi Büyük Göl'ün etrafı yeniden sürülerle dolar." Soru ifadesi taşıyan sıralı ve bağlı cümlelerde soru işareti en sona konur: "Çok yakından mı bu sesler, çok uzaklardan mı?" Sıralı cümlelerde son cümle soru anlamı taşımıyorsa soru işareti kullanılmaz: "Bundan sonra her şey eskisi gibi olabilir mi, bilmiyorum."
+
+## Ünlem İşareti (!)
+
+Acı, sevinç, heyecan gibi duyguları bildiren cümle ya da ibarelerden sonra kullanılır: "Ne mutlu sizin gibi düşünen gençlere!" Seslenme, hitap ve uyarı sözlerinden sonra kullanılır: "Ey Türk gençliği!" Alay, kinaye ya da küçümseme anlamı katmak için yay ayraç içinde kullanılır: "Çok ucuz(!) bir şehir burası."
+
+Ünlem işareti, seslenme ve hitap sözlerinden hemen sonra konulabileceği gibi cümlenin sonuna da konabilir: "Eyvah! Kitaplarımı unuttum." ya da "Eyvah, kitaplarımı unuttum!"
+
+## Uzun Çizgi (—)
+
+Satır başına alınan konuşmaları göstermek için kullanılır.
+
+## Kısa Çizgi (-)
+
+Kısa çizgi çeşitli amaçlarla kullanılır. Satıra sığmayan sözcükleri bölerken satır sonuna konur. Ekleri göstermek için eklerin başında kullanılır: -de, -da, -te, -ta. Fiil kök ya da gövdelerini göstermek için sözcüğün sonunda kullanılır: oku-, yat-. Anlam veya görev yönünden ilişkili sözcüklerin, sayıların arasında kullanılır: Türkiye - Mısır ilişkileri; 10.00 - 15.30 saatleri. Sözcükleri ekine ya da köküne ayırırken kullanılır: Türk-çe-miz-de. Ara söz ya da ara cümleleri göstermek için ifadelerin başında ve sonunda kullanılır. Matematikte çıkarma işlemini göstermek ve sıfırdan küçük değerleri göstermek için kullanılır: -7 derece.
+
+Cümle içinde sayı adlarının yinelenmesinde araya kısa çizgi konmaz: "On on beş yıl oldu.", "Üç beş kişi geldi."
+
+---

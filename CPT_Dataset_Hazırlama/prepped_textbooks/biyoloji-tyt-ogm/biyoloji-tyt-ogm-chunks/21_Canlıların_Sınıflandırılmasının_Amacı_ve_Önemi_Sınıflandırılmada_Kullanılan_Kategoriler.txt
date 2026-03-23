@@ -1,0 +1,37 @@
+# Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandırılmada Kullanılan Kategoriler
+
+Çeşitli canlı formlarını isimlendiren ve sınıflandıran bilim dalına taksonomi, canlıların sınıflandırılması ve akrabalık ilişkilerinin belirlenmesiyle ilgili bilim dalına da sistematik denir.
+
+Geçmişten günümüze kadar türlerin sadece isimleri yazılsa bile ciltler dolusu kitaplıklar oluşturulabilir, işlemler sırasında da birçok bilgi karmaşası yaşanabilir. Bu nedenle türlerin belirli bir düzen içerisinde sınıflandırılması ve isimlendirilmesi gerekmektedir.
+
+Canlıları belirlenmiş bilimsel kurallar dâhilinde gruplandırarak doğayı daha anlaşılır hâle getirmek. Bir canlı çeşidi üzerinde yapılan araştırmalar sonucunda elde edilen bilgilerin diğer bilim insanlarıyla paylaşılmasını sağlamak ve aynı konu üzerinde tekrar tekrar çalışılmasını önlemek. Ayrıca nesilleri tükenmiş türler ile günümüzde yaşayan türleri karşılaştırmak, akrabalık derecelerini belirlemek; yeni bulunan türlerin tanımlanmasını ve adlandırılmasını kolaylaştırmak. Ekolojik ve ekonomik kaynakları tespit etmek. Canlı türlerini birbirinden ayırt edebilecek düzenli bir sistem oluşturmak. Her canlının doğada bir rolü olduğunun bilincini geliştirmek. Dünyanın yalnızca insanlara ait olmadığı ve her canlının yaşam hakkının olduğu bilincini geliştirmek.
+
+Canlıların sınıflandırılmasında kullanılan ölçüt, yaklaşım ve modeller: Canlıların dış görünüşlerine ve yaşadıkları yere bakılarak yapılan sınıflandırmaya yapay (ampirik) veya sunî sınıflandırma denir. İlk sınıflandırmayı Aristo yapmıştır. Aristo, canlıları sınıflandırırken dış görünüşleri ve yaşadıkları yere göre sınıflandırmıştır.
+
+Embriyolojik ve filogenetik kökenleri farklı, görevleri aynı olan organlara analog organ denir. Yapay sınıflandırmada analog organlar dikkate alınır. Örneğin, kuşun kanadı ve sineğin kanadı analog organdır. Her iki organın da dış görünüşleri ve görevleri benzer olmasına rağmen kuşun kanadı kas, sinir, deri gibi yapılardan; sineğin kanadı ise deri çıkıntısından oluşur.
+
+Canlıların köken benzerliklerine, akrabalık derecelerine, sahip oldukları homolog yapılarına bakılarak yapılan sınıflandırmaya doğal (filogenetik) veya bilimsel sınıflandırma denir. İlk doğal sınıflandırmayı John Ray (Con Rey) yapmıştır. Bilimsel sınıflandırmada canlıların akrabalık derecesini tespit etmek için aşağıdaki özellikler dikkate alınır.
+
+Doğal sınıflandırmada kullanılan kriterler arasında vücut simetri benzerliği, embriyonik gelişim evrelerindeki benzerlik, fizyolojik ve biyokimyasal özellik ortaklıkları, organların kökeni ile anatomik benzerlik, hücresel yapı benzerliği ve DNA ile protein benzerliği yer almaktadır. Embriyonik kökeni aynı olan, yapı ve gelişimleri birbirine benzeyen, aynı veya farklı fonksiyonları yerine getiren organlara homolog organlar denir.
+
+Bilimsel sınıflandırmada homolog organlar dikkate alınır. Örneğin; kedi, at ve kurbağanın ön bacağı, insanın kolu, balinanın ön yüzgeci ve kuşun kanadı homolog organlardır.
+
+Homolog organlar, görev bakımından farklı olmalarına rağmen organlarının yapısında yer alan kemikler açısından benzer anatomik yapıya ve fizyolojik özelliklere sahiptir. Yapay (ampirik) ve doğal (filogenetik) sınıflandırma arasındaki farklar aşağıdaki gibi sıralanabilir.
+
+Yapay (ampirik) sınıflandırma ile doğal (filogenetik) sınıflandırma birbirinden önemli noktalarda ayrılır. Yapay sınıflandırmada yalnızca canlıların dış görünüşleri ve yaşadıkları yer dikkate alınırken doğal sınıflandırmada anatomik, fizyolojik, morfolojik, genetik ve embriyolojik özellikler gibi tüm kriterler bir arada değerlendirilir. Yapay sınıflandırma analog organlara, doğal sınıflandırma ise homolog organlara dayanır. Nitel gözleme dayanan yapay sınıflandırmanın aksine doğal sınıflandırma nicel verileri esas alır. Bilimsel adlandırmayı kullanmayan yapay sınıflandırma günümüzde geçerliliğini yitirmiş; bilimsel adlandırmayı temel alan doğal sınıflandırma ise günümüzde kabul görmektedir.
+
+Sınıflandırmada Kullanılan Kategoriler ve Kategoriler Arasındaki Hiyerarşi: Belirli bir düzene göre sıralanmış, belirli özellikler taşıyan ve buna göre adlandırılan sınıflandırma birimlerine kategori adı verilir.
+
+Canlılar; tür, cins, aile, takım, sınıf, şube ve âlem olmak üzere yedi kategoride sınıflandırılır. Kategoriler, canlının sınıflandırma basamağındaki seviyesini veya derecesini ifade eder. Kategorilerdeki sınıflandırma basamakları arasındaki geçişlerde, ortak özelliklerde artma veya azalma görülür. Belirli bir kategoriye dâhil olan ortak özelliklere sahip bireylerin oluşturduğu topluluğa takson denir.
+
+Tür kavramı ilk olarak John Ray tarafından kullanılmıştır. Ortak bir atadan gelen, yapı ve işlev bakımından benzer özellikler taşıyan ve doğal koşullarda çiftleştiklerinde kısır olmayan yavrular (verimli döller) verebilen bireyler topluluğuna tür denir.
+
+Genellikle aynı türdeki tüm bireylerin kromozom sayıları aynıdır (mutasyonlar hariç). Ancak farkı türlere ait canlıların kromozom sayıları da aynı olabilir. Örneğin: Tayvan munçağı, lepistes, sable antilobu, kurtbağrı bitkisi ve insan 46 kromozomludur. Kromozom sayılarının aynı olması bu canlılar arasında akrabalık ilişkisi olduğunu göstermez.
+
+Carolus Linnaeus (Karl Linne) tarafından önerilen ikili (binomial) adlandırma sistemi, günümüzde türlerin adlandırmasında kullanılan sistemlerin temelini oluşturur.
+
+Linneaus; her bir tür için bir cins ismi, diğeri o türü niteleyen isim olmak üzere Latince iki kelimeden oluşan ikili adlandırma sistemini kullanmıştır. Türün adlandırılmasında kullanılan ilk kelimeye cins ismi, ikinci kelimeye ise tamamlayıcı ad denir. Cins ismi tamamlayıcı adla birlikte tür adını oluşturur.
+
+Tamamlayıcı ad bir türün özelliğini belirten sıfat olup o türü tanımlamak için tek başına yeterli değildir. Çünkü birbirinden farklı türlerin tamamlayıcı adı aynı olabilir.
+
+Canlıların adlandırılmasında her bir tür için ikili adlandırma yöntemi kullanılır. İkili adlandırmada ilk ad türün ait olduğu cinsi ifade eder ve ilk harfi büyük yazılır. İkinci ad tamamlayıcı ad olarak kullanılır ve küçük harfle yazılır. İki ad birlikte tür adını oluşturur. Tür ve cins adları yazılırken italik yazı karakteri kullanılır.

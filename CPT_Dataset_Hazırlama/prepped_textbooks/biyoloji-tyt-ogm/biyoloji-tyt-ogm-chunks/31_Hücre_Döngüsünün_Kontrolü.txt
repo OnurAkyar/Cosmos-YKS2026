@@ -1,0 +1,21 @@
+# Hücre Döngüsünün Kontrolü
+
+Hücrelerin yaşam döngüsünde gerçekleşen tüm olaylar genlerle kontrol edilir. Hücre bölünmesinin doğru ilerleyebilmesi için bölünmenin çeşitli aşamalarında kontrol noktaları vardır. Bu kontrol noktalarında bulunan protein yapıda bazı işlevsel moleküller görev alır. Hücrede $G_1$, $G_2$ ve M olmak üzere üç tane kontrol noktası vardır. Bu kontrol noktalarındaki işlevsel proteinler ile "Dur." ve "Devam et." sinyalleri verilerek hücrenin bölünme sürecindeki bütün aşamaların sırayla gerçekleşmesi kontrol edilir. Kontrol noktalarında bir önceki süreç tamamlanmadan bir sonraki aşamanın gerçekleşmesi engellenir.
+
+$G_1$ kontrol noktasında "Devam et." sinyali alan hücre, döngünün diğer aşamasına geçme imkânı bulur. $G_1$ kontrol noktasında hücre yeterli büyüklüğe ulaşmışsa, ortamda yeterli besin ve büyüme faktörleri varsa, DNA'da hasar yoksa "Devam et." sinyali verilir ve S evresi başlar. S evresinde DNA kendini eşler. Hücrede "Dur." sinyali verilirse hücre döngüden çıkar ve bölünmez. Hücrenin bölünememe durumu $G_0$ olarak adlandırılır.
+
+$G_2$ kontrol noktasında DNA eşlenmesinin doğru yapılıp yapılmadığı kontrol edilir. DNA eşlenirken hata veya hasar oluşmuş ise "Dur." sinyali verilir. DNA eşlenmesinde hata yoksa "Devam et." sinyali verilir.
+
+M kontrol noktasında kromozomların iğ ipliklerine bağlanıp bağlanmadığı kontrol edilir. Kinetokorlar iğ ipliğine bağlanmazsa anafaz başlamaz. İğ ipliklerinin kromozomlara bağlanmasında hata yoksa "Devam et." sinyali verilir. Bu kontrol, yavru hücrelere eşit sayıda kromozom aktarılmasını sağlar.
+
+Hücre bölünmesi için gerekli koşullar hazır değilse döngü devam etmez. Bölünmenin gerçekleşebilmesi için ortamda yeteri kadar besin ve büyüme faktörü bulunmalıdır. Büyüme faktörü, vücut hücreleri tarafından salınır ve diğer hücrelerin bölünmesinde etkilidir.
+
+Ortamda büyüme faktörleri olmasa da bazen hücreler "Dur." sinyaline cevap vermez ve bölünmeye devam eder. Bu durumda hücre döngüsü kontrolden çıkar. Büyüme faktöründen başka hücre döngüsünü kontrol eden genlerde herhangi bir nedenle meydana gelecek mutasyonlar da hücre döngüsünün bozulmasına neden olur. Hücre döngüsü bozulursa kanser ortaya çıkabilir.
+
+Kanser, bir organ veya dokudaki hücrelerin kontrolsüz olarak bölünüp çoğalmasıdır. Kanserli hücreler, DNA'daki hasardan oluşur. DNA, kendisinde oluşan hataları onarabilecek genlere sahiptir. Hücrenin normal yaşam döngüsü sırasında DNA'da hasar oluşursa hücre bunu ya onarır ya da ölür. Kanser hücrelerinde hasarlı DNA onarılamaz, hücre döngüsünün kontrolü bozulur ve hücreler sinyallere cevap veremez.
+
+Bağışıklık sistemi, genellikle kontrol mekanizması bozulan hücreleri yok eder. Ancak bağışıklık sisteminin yok edemediği bu hücreler, çoğalarak anormal hücre kitleleri olan tümörleri (ur) oluşturur. Hücre kitlesi, hızlı büyüme ve yayılma özelliği göstermiyorsa bu tip tümörlere iyi huylu tümör denir. İyi huylu tümörler, genellikle soruna neden olmaz ve cerrahi müdahale yoluyla çıkartılır. Tümör oluşturan hücre kitlesi bir ya da birkaç organın işlevini bozacak şekilde vücuda yayılırsa bu tümörlere kötü huylu tümör veya kanser denir. Kanser hücrelerinin bu şekilde kan ya da lenf dolaşımı aracılığı ile vücudun diğer bölgelerine taşınıp yayılmasına metastaz adı verilir.
+
+Kanser sebeplerine genetik yatkınlık, tütün ürünleri, alkol kullanımı, yanlış beslenme, obezite, radyasyon, çevre kirliliği, yaşlanma, genlerde meydana gelen bozukluklar, virüsler ve aşırı güneş ışınına maruz kalma örnek verilebilir.
+
+Dünyada kanser hastalarının sayısı hızla artmaktadır. Örneğin, kolon kanseri adı verilen kalın bağırsak kanseri bunlardan biridir. Her yaşta görülebilmesine rağmen en sık 50 yaşından sonra gözlenmektedir. Kolon kanseri, kalın bağırsak iç yüzeyini örten hücrelerin kontrolsüz bölünüp çoğalmasıyla gelişir.

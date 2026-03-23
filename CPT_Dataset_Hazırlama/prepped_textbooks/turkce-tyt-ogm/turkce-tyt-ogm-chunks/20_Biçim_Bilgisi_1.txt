@@ -1,0 +1,65 @@
+# Biçim Bilgisi 1
+
+## Kök
+
+Bir sözcüğün aldığı tüm ekler çıkarıldıktan sonra geriye kalan anlamlı en küçük parçadır. Örneğin "dalgıçlardan" sözcüğünde dal-gıç-lar-dan bölümlemesi yapıldığında kök "dal"dır. "İzlemelisiniz" sözcüğünde iz-le-meli-siniz bölümlemesi yapıldığında kök "iz"dir.
+
+Kökler isim kökü ve fiil kökü olmak üzere ikiye ayrılır. İsim kökü, kavramların, varlıkların ve duyguların adı olan köklerdir: dağ, masa, bal, neşe, insan. Fiil kökü ise iş, oluş, hareket ve durum bildiren köklerdir: koş-, bak-, uyu-, sev-, iç-, sür-.
+
+## İkili Kök
+
+Bazı kökler hem ad kökü hem de eylem kökü olarak kullanılabilir. Bu tür köklere ikili kök denir ve iki gruba ayrılır.
+
+Kökteş kök (ortak kök), aralarında anlam ilgisi bulunan isim ve fiil kökü olarak kullanılan sözcük kökleridir: "boya/boya-" kökteştir çünkü "boya" ismi (renkli madde) ile "boya-" fiili (boyamak) arasında doğrudan anlam bağı vardır — boya maddesiyle boyama eylemi aynı kavram alanına aittir. "ekşi/ekşi-" kökteştir çünkü "ekşi" sıfatı (ekşi tat) ile "ekşi-" fiili (ekşimek, ekşi hâle gelmek) anlam bakımından ilişkilidir. "tat/tat-" kökteştir çünkü "tat" ismi (lezzet) ile "tat-" fiili (tatmak) arasında anlam bağı vardır. Sesteş kök ise aralarında anlam ilgisi bulunmayan isim ve fiil kökü olarak kullanılan sözcük kökleridir: "yaz/yaz-" sesteştir çünkü mevsim anlamındaki "yaz" ile "yazmak" eyleminin kökü "yaz-" arasında hiçbir anlam bağı yoktur; yalnızca ses bakımından aynıdırlar. "gül/gül-" sesteştir çünkü çiçek anlamındaki "gül" ile "gülmek" eyleminin kökü "gül-" arasında da anlam bağı yoktur; ses benzerliği bir rastlantıdır.
+
+Sorularda "sözcük kökünün türü" ifadesi kökün isim mi yoksa fiil mi olduğunu bulmayı gerektirir. Yansıma sözcük kökleri isim köküdür: şırıltı, gürültü.
+
+## Çekim Ekleri
+
+Sözcükleri cümle içinde çekerek sözcüklerin diğer sözcüklerle anlam ilgisi kurmasını sağlayan eklerdir. İsim çekim ekleri ve fiil çekim ekleri olmak üzere ikiye ayrılır.
+
+İsim çekim ekleri içinde hâl ekleri önemli bir yer tutar. Belirtme hâli eki "-ı, -i, -u, -ü"dür: "Arabayı temizledi." — "arabayı" belirtili nesne işlevindedir; "neyi temizledi?" sorusuna cevap verir. Yönelme hâli eki "-e, -a"dır: "Arabaya bindi." — "arabaya" yer tamlayıcısıdır; "nereye bindi?" sorusuna cevap verir. Bulunma hâli eki "-de, -da, -te, -ta"dır: "Arabada bıraktı." — "arabada" yer tamlayıcısıdır; "nerede bıraktı?" sorusuna cevap verir. Ayrılma hâli eki "-den, -dan, -ten, -tan"dır: "Arabadan indi." — "arabadan" yer tamlayıcısıdır; "nereden indi?" sorusuna cevap verir. Bir sözcük hâl eklerinden hiçbirini almamışsa yalın hâldedir: "Araba çok pahalıydı." cümlesinde "araba" herhangi bir hâl eki almamış, yalın hâldedir.
+
+Bağlaç olan "de, da" ile hâl eki olan "-de, -da" karıştırılmamalıdır. Bağlaç olan "de, da" her zaman ayrı yazılır ve ünsüz sertleşmesi kuralına uymaz: "Üzüldüğünü görünce onu da yanlarına aldılar." — burada "da" bağlaçtır; cümleye "de/da" ile sınama yapılır: "Üzüldüğünü görünce onu ve yanlarına aldılar" anlamlıdır, dolayısıyla "da" bağlaçtır ve ayrı yazılır. "Dün izlediğim filmde anlatılan hikâye gerçekmiş." — burada "-de" bulunma hâli ekidir; "nerede?" sorusuna cevap verir ve "filmde" olduğunu bildirir, sözcüğe bitişik yazılır. Ayrıca "-de, -da, -den, -dan" ekleri eklendiği sözcüğün anlamını değiştiriyorsa yapım eki olur: "Sınıfın gözde öğrencisi bugün derste yoktu." — "göz" ismine "-de" yapım eki gelmiş ve "gözde" (sevilen, değer verilen) anlamında yeni bir sözcük türetmiştir. "Onun kadar candan bir insan görmedim." — "can" ismine "-dan" yapım eki gelmiş ve "candan" (içten, samimi) sıfatını türetmiştir. Ayrıca "-de, -da, -den, -dan" ekleri eklendiği sözcüğün anlamını değiştiriyorsa yapım eki olur: "Sınıfın gözde öğrencisi bugün derste yoktu." ve "Onun kadar candan bir insan görmedim." cümlelerinde bu ekler yapım ekidir.
+
+Tamlayan (ilgi hâli) eki "-ın, -in, -un, -ün"dür: şiirin dizeleri, sanatçının yorumu. "-dan/-den" eki tamlayan eki yerine de kullanılabilir: "Öğrencilerden bazıları ödevlerini zamanında teslim etmedi." (Öğrencilerin bazıları).
+
+Tamlanan (iyelik/aitlik/sahiplik) eki "-ı, -i, -u, -ü"dür: ağacın dalı, yolun yarısı. Belirtme hâli eki ile iyelik ekini karıştırmamak gerekir. "Misafirler gelmeden evi güzelce temizledi." cümlesinde "evi" belirtme hâli ekidir; çünkü "neyi temizledi?" sorusuna "evi" yanıtı alınır — ev belirtili nesne konumundadır ve "-i" eki belirtme işlevi taşır. "Evi çok güzel bir bahçeye sahipti." cümlesinde ise "evi" iyelik ekidir; çünkü burada "ev" birinin mülküdür, "-i" eki sahiplik anlamı taşımaktadır (onun evi). Bu iki eki ayırt etmenin yolu "neyin evi?" sorusunu sormaktır: eğer sahiplik ilişkisi kurulabiliyorsa iyelik ekidir, belirtili nesne sorusu ("-i" alan nesne aranıyorsa) belirtme hâli ekidir.
+
+Çoğul eki "-lar/-ler"dir. Bu ek cümleye çoğul anlamının yanı sıra farklı anlamlar da katabilir: aile anlamı: "Dayımları yemeğe davet ettik." — "dayımları" tekil bir kişiyi (dayıyı) değil, dayı ve ailesini (dayımın ailesi) anlatır; "-lar" eki burada aile anlamı kazandırmıştır. abartma anlamı: "Hasta ateşler içinde yanıyordu." — hasta gerçekte birden fazla ateşe maruz kalmamıştır; "-ler" eki ateşin şiddetini abartmak için kullanılmıştır. benzerlik anlamı: "Bu ülke nice Fatihler yetiştirir." — burada birden fazla Fatih Sultan Mehmet kastedilmemektedir; "-ler" eki Fatih gibi büyük fatihlere benzer kişileri ifade etmektedir. saygı anlamı: "Arif Beyler toplantıyı başlattı." — toplantıyı tek kişi başlatmış olsa da "-ler" eki saygı bildirmek amacıyla kullanılmıştır. iğneleme anlamı: "Emel Hanımlar derse yine geç geldi." — "-lar" eki burada alaycı ya da iğneleyici bir ton katmak için kullanılmıştır.
+
+İlgi zamiri "-ki" de isim çekim ekidir: "Arda'nın defteri seninkinden daha temiz ve düzenli."
+
+## Fiil Çekim Ekleri
+
+Fiilleri kip ve kişi bakımından çekimleyen eklerdir. Kip ekleri haber (bildirme) kipleri ve dilek (tasarlama) kipleri olarak ikiye ayrılır.
+
+Haber kipleri beş tanedir. Görülen (bilinen) geçmiş zaman eki "-dı/-di/-du/-dü/-tı/-ti/-tu/-tü"dür: bil-di-m. Duyulan (öğrenilen) geçmiş zaman eki "-mış/-miş/-muş/-müş"tür: yaz-mış-ım. Şimdiki zaman eki "-(i)yor"dur. Gelecek zaman eki "-acak/-ecek"tir: bil-eceğ-im. Geniş zaman eki ise "-r/-ar/-er"dir: bak-ar-ım, oku-r-um. Geniş zamanın olumsuzunda "-maz/-mez" eki kullanılır.
+
+"-mez, -ar, -ecek, -miş" kip ekleriyle aynı yazılışa sahip olan sıfat fiil ekleri karıştırılmamalıdır: "Dönülmez akşamın ufkundayız." (sıfat fiil eki), "Koşar adımlarla uzaklaştı." (sıfat fiil eki), "Ütülenecek çamaşırları getir." (sıfat fiil eki), "Depoda unutulmuş eşyalar var." (sıfat fiil eki).
+
+Dilek (tasarlama) kipleri de dört tanedir. Gereklilik kipi eki "-meli/-malı"dır. İstek kipi eki "-e/-a"dır. Dilek-şart kipi eki "-se/-sa"dır. Emir kipinin eki yoktur.
+
+Kişi (şahıs) ekleri eylemin kim tarafından yapıldığını gösterir: okudu-m, okudu-n, okudu, okudu-k, okudu-nuz, okudu-lar.
+
+## Yapım Ekleri
+
+Eklendiği sözcüğün anlamını, yapısını ve türünü değiştiren eklerdir. Dört türü vardır.
+
+İsimden isim yapım ekleri eklendiği isimden yeni bir isim yapar: "-lık" (kitaplık), "-li" (akıllı), "-sız" (suçsuz), "-ci" (saatçi), "-ıncı" (birinci).
+
+İsimden fiil yapım ekleri eklendiği isimden fiil yapar: "-ar/-er" (sarar-, yaşar-), "-ımsa/-imse" (benimse-, özümse-), "-laş/-leş" (dertleş-, kucaklaş-), "-la/-le" (gözle-, başla-).
+
+Fiilden fiil yapım ekleri eklendiği fiilden yeni bir fiil yapar: "-dır/-dir" (yazdır-, gezdir-), "-ıl/-il" (atıl-, sevil-), "-ın/-in" (gezin-, bakın-), "-ır/-ir" (kaçır-, içir-).
+
+Fiilden isim yapım ekleri eklendiği fiilden isim yapar: "-men/-man" (öğretmen, okutman), "-ık/-ik" (yanık, çizik), "-ak/-ek" (kaçak, binek), "-gı/-gi" (sevgi, tutku), "-ıcı/-ici" (geçici, itici). Tüm fiilimsi ekleri de fiilden isim yapım ekidir.
+
+Bir sözcüğün yapım eki almış hâline gövde denir. Kök + Yapım Eki = Gövde formülüyle özetlenebilir. Örneğin "dağcı" sözcüğünde dag-cı bölümlemesi yapıldığında kök "dağ", yapım eki "-cı", gövde ise "dağcı"dır. Sorularda "gövdeden türemiş sözcük" ifadesiyle karşılaşıldığında en az iki yapım eki aranmalıdır: saygılı (say-gı-lı), birincilik (bir-inci-lik), atılgan (at-ıl-gan).
+
+Türkçede kök üzerine gelen ekler belirli bir sıraya göre dizilir. Kök + Çekim Eki: "Öğrenciler sırayla geldiler." Kök + Yapım Eki: "Annesinden yeni kalemlik istedi." Kök + Yapım Eki + Çekim Eki: "Yolun başındaki arabacıya seslendi." Ancak çekim ekinin yapım ekinden önce geldiği örnekler de vardır: "Yoldaki taşları kaldırdılar.", "Annemsiz bir yere gitmem.", "Gelirken beni arayın."
+
+## Sözcüğün Yapısı
+
+Sözcükler yapıları bakımından üçe ayrılır. Basit sözcükler yapım eki almamış sözcüklerdir: kitap, ev, yol. Türemiş sözcükler en az bir yapım eki almış sözcüklerdir: güldür- (gül-dür), sula- (su-la), yalnızlık (yalnız-lık). Türemiş sözcükler yapım ekinin yanı sıra çekim eki de alabilir: sessizlikten (ses-siz-lik-ten). Birleşik sözcükler ise en az iki sözcüğün bir araya gelmesiyle oluşan yeni sözcüklerdir: hanımeli (hanım+eli), Karadeniz (kara+deniz), başhekim (baş+hekim), ateşkes (ateş+kes).
+
+---

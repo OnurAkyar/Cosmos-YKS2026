@@ -1,0 +1,25 @@
+# Paragrafta Anlam 3
+
+## Anlatımın Özellikleri
+
+İyi bir anlatım çeşitli niteliklere sahip olmalıdır. Bu nitelikleri aşağıda ayrıntılı biçimde ele alacağız.
+
+Açıklık, anlatımın tek bir yargıyı ifade etmesi, bir yargıdan birden fazla anlam çıkartılmamasıdır. Gereğinden fazla uzatılmış cümleler, sık kullanılmayan söz ve söz öbekleri, anlatım bozuklukları açıklığı engeller. "Kitaplar okumayı arkadaşından çok seviyordu." cümlesi açık değildir; çünkü arkadaşın mı kitap okumayı değil de başka bir şeyi sevdiğini mi, yoksa öznenin arkadaşından daha çok mu sevdiğini anlamak mümkün değildir. Bu tür karışık anlatım açıklık ilkesini ihlal eder.
+
+Duruluk, aynı anlama gelen söz ya da söz öbeklerinin bir arada bulunmaması, gereksiz ek kullanılmamasıdır. "İskartaya çıkardığımız, değersiz bulduğumuz eserleri..." ifadesinde "iskartaya çıkarmak" ve "değersiz bulmak" aynı anlamı taşıdığından biri gereksizdir; duruluk ilkesine aykırıdır.
+
+Yalınlık, anlatımın süslü ve anlaşılması zor sözcüklerden uzak olmasıdır; söz sanatlarına yer verilmemesidir. "Türklerin halk edebiyatında birtakım hususi nazım şekillerinin mevcudiyeti eskiden beri malumdur." gibi bir anlatımda yaygın kullanılmayan sözcükler yer almaktadır; yalınlık ilkesine aykırıdır.
+
+Akıcılık, okunması zor sözlerin ya da seslerin olmaması, kelime tekrarlarına başvurulmamasıdır. "Kendisine ayrılan zamanın sınırlı olduğunu bilmek onu kaygılandırıyordu. Zamanın hızla tükeneceğinden kaygılanıyordu. Yaşadığı kaygının işini etkileyeceğinden korkup bu yüzden de kaygılanıyordu." anlatımında "kaygı" sözcüğü gereksiz yere tekrarlanmaktadır; akıcılık ilkesine aykırıdır.
+
+Sağlamlık, anlatımın dil bilgisi kurallarına uygun olmasıdır. Öge eksikliği, ek yanlışlığı gibi dil bilgisi hataları sağlamlığı bozar.
+
+Tutarlılık, anlatımın mantık kurallarına uygun olması ve düşünsel ya da duygusal çelişkiler taşımamasıdır. Bir paragrafta çelişen yargılar tutarlılığı ortadan kaldırır.
+
+Doğallık (samimiyet), anlatımın yapmacıklıktan uzak, içten ve gerçekçi olmasıdır.
+
+Özgünlük, anlatımın başka bir anlatıma benzememesi, taklitten uzak olmasıdır. Şairin çarpıcı ve yeni imgelerle dolu dizeler kurması özgünlüğün göstergesidir.
+
+Özlülük, az sözle çok şey anlatılması, anlatımın yoğun ve özlü olmasıdır. "Düşmanın en büyük hilesi dostluğudur.", "Biz evvela kelimeleri öğreniriz sonra yaşadıkça teker teker manalarını." gibi cümleler özlülüğün örnekleridir.
+
+---

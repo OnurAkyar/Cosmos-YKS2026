@@ -1,0 +1,39 @@
+# Sıfat (Ön Ad)
+
+İsimleri renk, durum, biçim yönünden niteleyen ya da soru, sayı, belgisizlik ve işaret yönünden belirten sözcüklerdir.
+
+## Sıfatların Temel Özellikleri
+
+Türkçede bir sözcüğün sıfat olabilmesi için mutlaka bir isimle kullanılması gerekir. Sıfatın olduğu her yerde sıfat tamlaması vardır: sıfat + isim = sıfat tamlaması. Sıfatlar çekim eki almaz; alırsa adlaşır: "Gençlere her zaman destek olmalıyız." cümlesinde "gençlere" adlaşmış sıfat olarak kullanılmıştır.
+
+## Sıfat Türleri
+
+Niteleme sıfatları isimleri renk, durum ya da biçim yönünden niteler ve "nasıl?" sorusuna cevap verir: "Durgun sularda yapayalnızdık." — "durgun" sözcüğü "nasıl sular?" sorusuna yanıt verir ve suların durumunu (hareketsiz, sakin) niteler; niteleme sıfatıdır. "Köşeli masayı seçtim." — "köşeli" sözcüğü "nasıl masa?" sorusuna yanıt verir ve masanın biçimini niteler; niteleme sıfatıdır.
+
+İşaret sıfatları isimleri işaret yoluyla belirtir ve "hangi?" sorusuna cevap verir: "Bu kelimeyi hep sevmişimdir." — "bu" sözcüğü konuşana yakın olan belirli bir kelimeyi işaret eder; "hangi kelimeyi?" sorusuna cevap verir ve bir isimle (kelimeyi) birlikte kullanıldığı için işaret sıfatıdır. "Şu saatler bir geçse…" — "şu" sözcüğü konuşandan biraz uzaktaki saatleri işaret eder; isimle (saatler) birlikte kullanılmıştır, işaret sıfatıdır. "O yol her zaman tehlikelidir." — "o" sözcüğü konuşandan uzaktaki belirli bir yolu işaret eder; isimle (yol) birlikte kullanılmıştır, işaret sıfatıdır.
+
+Soru sıfatları isimleri soru yoluyla belirtir: "Nice insanlar geçti buradan?" — "nice" bir ismi (insanlar) soru yoluyla belirtmektedir; kaç tane ya da nasıl türden insanlar olduğu sorgulanmaktadır. Soru sıfatıdır çünkü bir isimle birlikte kullanılmıştır. "Kaçıncı ayrılık?" — "kaçıncı" bir ismi (ayrılık) soru yoluyla sıra bakımından belirtmektedir; soru sıfatıdır. "Hangi yöne bakacağım?" — "hangi" bir ismi (yöne) soru yoluyla belirtmektedir; soru sıfatıdır.
+
+Belgisiz sıfatlar isimleri kesinlik olmadan belirtir. "birkaç, bütün, bir, birçok, bazı, her, hiçbir" sözcükleri belgisiz sıfat olarak kullanılır: "Birkaç gün sonra döneceğim." — "birkaç" bir ismi (gün) kesinlik bildirmeksizin, belirsiz bir sayıyla belirtmektedir; kaç gün olduğu tam olarak belli değildir. Bir isimle (gün) birlikte kullanıldığı için belgisiz sıfatır.
+
+Sayı sıfatları birkaç türe ayrılır. Asıl sayı sıfatları varlıkların sayısını belirtir: "İki çocuk bahçede oynuyordu." — "iki" kaç çocuk olduğunu tam sayıyla belirtmektedir; "kaç çocuk?" sorusuna cevap verir. Sıra sayı sıfatları varlıkların sırasını belirtir: "Üçüncü kattaki daire satılık." — "üçüncü" katın sırasını belirtmektedir; "kaçıncı kat?" sorusuna cevap verir. Üleştirme sayı sıfatları varlıkların paylaşımını belirtir: "Öğrencilere ikişer kalem verildi." — "ikişer" her öğrenciye kaçar kalem düştüğünü anlatmaktadır; paylaştırma bildirmektedir. Kesir sayı sıfatları kesir miktarları bildirir: "Yarım ekmek kaldı." — "yarım" ekmeğin bir bütünün yarısı olduğunu bildiren kesir değerini ifade etmektedir. Topluluk sayı sıfatları varlıkların bir topluluk oluşturduğunu belirtir: "İkiz kardeşler." — "ikiz" iki çocuğun bir bütün topluluk oluşturduğunu belirtmektedir.
+
+"O kitabı çok sevdim." — "o" burada işaret sıfatıdır çünkü bir isimle (kitabı) birlikte kullanılmış ve o belirli kitabı işaret etmektedir; isim tamlamasında belirteç görevindedir. "Onu çok sevdim." — "onu" burada işaret zamiridir çünkü bir ismin yerine geçmektedir; yanında bir isim yoktur, bağlamdan anlaşılan bir nesneyi temsil eder. "O işini bilir." — "o" burada kişi zamiridir çünkü belirli bir kişinin adının yerine geçmektedir; bir insan özneyi temsil eder ve yanında isim yoktur.
+
+"İkisi bir yaşatılamış." — burada "bir" niteleme sıfatıdır; iki kişinin "aynı, birbirinin eşi" niteliğinde olduğunu anlatır; "nasıl?" sorusuna cevap verir. "Bir gün bakarsın, gelir." — burada "bir" belgisiz sıfatıdır; "hangi gün?" belirsizdir, belirsiz bir gelecek zamanı anlatmaktadır; kesin bir sayı bildirmez. "Bir elma daha koyalım." — burada "bir" sayı sıfatıdır; "kaç elma?" sorusuna "1" sayısıyla kesin yanıt verir.
+
+Ünvan sıfatları kişilerin cinsiyetlerini, makamlarını, mesleklerini ya da takma adlarını belirtir ve isimlerden önce ya da sonra gelebilir: Doktor Olcay, Nazım Bey, İsmet Paşa.
+
+## Sıfatlarda Küçültme ve Pekiştirme
+
+Sıfatlarda küçültme "-cik, -ce, -(i)msi, -(i)mtırak" ekleriyle yapılır: "Minicik bir kapıdan içeri girdik.", "Sarımsı bir halı yerde seriliydi."
+
+Sıfatların anlamını güçlendirmek için çeşitli pekiştirme yolları kullanılır. "m, p, r, s" ünsüzleriyle pekiştirme yapılabilir: "Simsiyah bir gecenin ortasındayım." İkilemelerle pekiştirme yapılabilir: "Tatlı tatlı sözlere beni oyalamaya çalışıyordu." "mi" soru ekiyle de pekiştirme yapılabilir: "Şirin mi şirin bir evi vardı."
+
+Pekiştirilen sözcük ismi nitelerse sıfat, fiili nitelerse zarf, çekim eki alırsa isim olur: "Yapayalnız bir insandı her limanda." (sıfat), "Gittiği yerde hep yapayalnızdı." (isim), "Herkes gidince yapayalnız kalmıştı." (zarf).
+
+## Sıfatlarda Yapı
+
+Sıfatlar yapıları bakımından basit, türemiş ve birleşik olarak üçe ayrılır. Basit sıfatlar yapım eki almayan sıfatlardır: "Biz ilk durakta inelim." Türemiş sıfatlar yapım eki almış sıfatlardır: "Kiralık ev arıyoruz." Birleşik sıfatlar iki sözcüğün birleşmesiyle oluşur ve anlamca kaynaşmış ile kurallı olmak üzere iki alt türe ayrılır. Anlamca kaynaşmış birleşik sıfatlar: "Canciğer dost olmuşlar.", "Biraz zaman gerekiyor." Kurallı birleşik sıfatlar ise sıfat tamlamasına "-lı/-lık/-sız" eki getirilerek, isim tamlaması sıfat yapılarak ya da sıfat tamlaması ters çevrilip isme iyelik eki getirilerek oluşturulur: "O mavi gözlü bir devdi.", "Üç kuruşluk iş için değmez.", "Salonu büyük bir ev aldılar."
+
+---

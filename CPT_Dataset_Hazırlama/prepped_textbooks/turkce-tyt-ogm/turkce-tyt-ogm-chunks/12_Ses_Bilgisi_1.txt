@@ -1,0 +1,41 @@
+# Ses Bilgisi 1
+
+## Ses ve Harf
+
+Kulağın duyabildiği titreşimlere ses denir. Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her birine harf denir. Ses ile harf birbirinden farklı kavramlardır; ses fiziksel bir titreşimken harf bu titreşimi temsil eden yazılı işarettir.
+
+## Ünlü Harfler
+
+Ses yolunda bir engelle karşılaşmadan oluşan seslere ünlü denir. Türkçedeki ünlü harfler şunlardır: a, e, ı, i, o, ö, u, ü. Bu sekiz ünlü harf kalınlık-incelik ve düzlük-yuvarlaklık özelliklerine göre sınıflandırılır.
+
+Kalınlık-incelik bakımından a, ı, o, u kalın; e, i, ö, ü ince ünlülerdir. Düzlük-yuvarlaklık bakımından a, e, ı, i düz; o, ö, u, ü ise yuvarlak ünlülerdir. Bu özellikleri bir arada değerlendirildiğinde şu tablo ortaya çıkar: a geniş-kalın-düz, e geniş-ince-düz, ı dar-kalın-düz, i dar-ince-düz, o geniş-kalın-yuvarlak, ö geniş-ince-yuvarlak, u dar-kalın-yuvarlak, ü dar-ince-yuvarlaklık özelliği taşır.
+
+## Büyük Ünlü Uyumu
+
+Bir kelimenin birinci hecesinde kalın bir ünlü (a, ı, o, u) bulunuyorsa diğer hecelerdeki ünlüler de kalın; ince bir ünlü (e, i, ö, ü) bulunuyorsa diğer hecelerdeki ünlüler de ince olur. "sevgiler" sözcüğü büyük ünlü uyumuna uygundur çünkü ilk hecedeki ince ünlü "e" (sev-) sonraki hecelerdeki ince ünlüleri zorunlu kılar ve tüm heceler "e-i-e" ile ince sırada devam eder. "karanlık" sözcüğü büyük ünlü uyumuna uygundur çünkü ilk hecedeki kalın ünlü "a" (kar-) sonraki hecelerin de kalın ünlü taşımasını gerektirir ve "a-a-ı" sıralamasıyla tüm ünlüler kalındır. "kardeş" sözcüğü büyük ünlü uyumuna uymaz çünkü ilk hecede kalın ünlü "a" (kar-) varken ikinci hecede ince ünlü "e" (-deş) bulunmaktadır; kalın-ince geçişi uyumu bozar. "şişman" sözcüğü büyük ünlü uyumuna uymaz çünkü ilk hecede ince ünlü "i" (şiş-) varken ikinci hecede kalın ünlü "a" (-man) bulunmaktadır; ince-kalın geçişi uyumu bozar.
+
+## Küçük Ünlü Uyumu
+
+Bir kelimede düz bir ünlüden (a, e, ı, i) sonra düz ünlü; yuvarlak bir ünlüden (o, ö, u, ü) sonra ya "a, e" ya da "u, ü" ünlüleri bulunabilir. "uçurtma" sözcüğü küçük ünlü uyumuna uygundur çünkü "u" yuvarlak ünlüsünden sonra "a" gelmektedir; yuvarlak ünlünün ardından "a/e" ya da "u/ü" gelmesi kurala uygundur. "gezinti" sözcüğü küçük ünlü uyumuna uygundur çünkü "e" düz ünlüsünden sonra "i" gelmektedir; düz ünlünün ardından düz ünlü gelmesi kurala uygundur. "çamur" sözcüğü küçük ünlü uyumuna uymaz çünkü "a" düz ünlüsünden sonra yuvarlak ünlü "u" gelmektedir; düz ünlünün ardından yuvarlak ünlü gelmesi kuralı ihlal eder. "onunki" sözcüğü küçük ünlü uyumuna uymaz çünkü "u" yuvarlak ünlüsünden sonra "u" gelmesi beklentisini karşılamakla birlikte "-ki" ekinin "i" sesi bu uyumu bozar; yuvarlak ünlüden sonra "i" gelmesi kurala aykırıdır.
+
+## Ünlü Düşmesi
+
+Bazı sözcükler çekim eki aldığında ünlü düşebilir: karın → karım: "karın" sözcüğünün ikinci hecesindeki "ı" ünlüsü, iyelik eki alan çekimli biçimde düşmüş ve "kar-n-ım" → "karım" oluşmuştur. ömür → ömrü: aynı şekilde "ömür" sözcüğünün ikinci hecesindeki "ü" ünlüsü eklenince düşmüş, "ömr-ü" biçimi oluşmuştur. Bazı sözcükler yapım eki aldığında da ünlü düşer: beniz → benze-: "beniz" sözcüğünün ikinci hecesindeki "i" ünlüsü yapım eki gelince düşmüş, "benz-e-" kökü oluşmuştur. koku → kokla-: "koku" sözcüğünün "u" ünlüsü "-la" yapım eki gelince düşmüş, "kok-la-" biçimi ortaya çıkmıştır. İki sözcüğün birleştiği bazı durumlarda da ünlü düşmesi görülür: kahır + olmak → kahrolmak: birincinin sondaki "ı" ünlüsü birleşme sırasında düşmüştür. cuma + ertesi → cumartesi: "cuma"nın sondaki "a" ünlüsü birleşme sırasında düşmüştür.
+
+## Ünlü Türemesi
+
+Bazı sözcüklere "-cık/-cik" küçültme eki gelince ünlü türer: dar → daracık: "dar" sözcüğüne "-cık" eki gelince "a" ünlüsü türemiş ve "dara-cık" biçimi oluşmuştur. bir → biricik: "bir" sözcüğüne "-cik" eki gelince "i" ünlüsü türemiş ve "biri-cik" biçimi oluşmuştur. genç → gencecik: "genç" sözcüğüne "-cik" eki gelince "e" ünlüsü türemiş ve "gence-cik" biçimi oluşmuştur. az → azıcık: "az" sözcüğüne "-cık" eki gelince "ı" ünlüsü türemiş ve "azı-cık" biçimi oluşmuştur. Bazı sözcükler "m, p, r, s" ünsüzleriyle pekiştirilince de ünlü türeyebilir: sağlam → sapasağlam: pekiştirme ünsüzü "p" ile oluşan ilk hece "sa-pa-" yapısında "a" ünlüsü türemiştir. gündüz → güpegündüz: "p" pekiştirme ünsüzüyle oluşan "gü-pe-" yapısında "e" ünlüsü türemiştir.
+
+## Ünlü Daralması
+
+"-yor" şimdiki zaman ekindeki "y" sesi, kendinden önceki "a" ve "e" düz geniş ünlülerini daraltıp "ı, i, u, ü" dar ünlülerine çevirir: söyle → söylüyor, bakma → bakmıyor. Tek heceli olan "de-" ve "ye-" fiillerinde ve "ne" sözcüğünde de "y" kaynaştırma harfi ünlü daralmasına sebep olur: de + y → diye, ye + y + ecek → yiyecek, ne + y → niye.
+
+## Ünlü Değişimi
+
+"Ben" ve "sen" sözcüklerine yönelme durum eki getirildiğinde kelimenin kökünde bulunan "e" ünlüsü "a" ünlüsüne döner: ben + e → bana, sen + e → sana.
+
+## Ulama
+
+Art arda gelen iki kelimeden birincisinin sonundaki ünsüzün, ikinci kelimenin başındaki ünlüyle ses bakımından bir hece oluşturacak biçimde bağlanarak söylenmesine ulama denir. "Artarak gönlümün aydınlığı her saniyede / Bir mehabeti sabah oldu Süleymaniye'de" dizelerinde ulama görülmektedir.
+
+---

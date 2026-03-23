@@ -1,0 +1,15 @@
+# Soyağacı Analizi ve Örnekleri
+
+Genetik bilimciler tarafından geliştirilmiş anne, baba, çocuk ve aralarında kan bağı bulunan akrabalar arasında belirli bir karakterin kuşaktan kuşağa geçişini açıklayan şemaya soyağacı denir.
+
+Soyağacı hazırlanırken evrensel semboller kullanılır: kare erkek, daire dişi bireyi gösterir; ikisi arasındaki yatay çizgi evlilik bağını, altındaki dikey çizgiler ise çocukları soldan sağa doğum sırasına göre temsil eder. İncelenen özelliği fenotipte gösteren bireyler renkli ya da taralı olarak gösterilir.
+
+İnsanların eşeysel olgunluğa erişmesinin uzun zaman alması, genetik çalışma ve araştırma uygulamalarında insan kullanımını zorlaştırır. Bu durum etik açıdan da belli ilkeler gerektirir; katılımcı yeterli düzeyde bilgilendirilmeli, onayı alınmalı ve kimlik ile genetik bilgileri gizli tutulmalıdır. Genetikçiler, daha önce gerçekleşmiş olan evliliklerin sonuçlarını analiz ederler. Bunun için bir özellik bakımından seçilen ailenin tüm bilgileri toplanarak kuşaktan kuşağa nasıl aktarıldığı soyağacı üzerinde gösterilir. Soyağacı sorularında verilen özellikler tek tek denenir. Genellikle bir özelliği taşıyan birey, koyu renkli ya da içi taralı olarak belirtilir. Otozomal baskın, otozomal çekinik, otozomal eş baskın, X ve Y kromozomuna bağlı özellikler aşağıdaki şekilde gösterilebilir:
+
+Soyağacı gösteriminde otozomal baskın alel büyük harf (A), otozomal çekinik alel küçük harf (a), otozomal eş baskın aleller AB veya MN gibi iki büyük harf ile gösterilir. X'e bağlı çekinik alel X^a, X'e bağlı baskın alel X^A; Y'ye bağlı baskın alel Y^A, Y'ye bağlı çekinik alel Y^a ile sembolize edilir. X ve Y'nin homolog bölgesinde taşınan çekinik aleller ise X^aY^a şeklinde gösterilir.
+
+Taralı veya renkli verilen bireylerin özelliği yerine yazılır ve kalıtımın doğruluğu denenir. Soyağacında olmaması gereken bir özellik ortaya çıkmışsa mutasyondan söz edilebilir.
+
+Soyağaçları ile yapılan çalışmalarda birinci nesil (ata) bireylerin fenotip ve genotip özelliklerinden yola çıkarak daha sonraki nesillerin genotipleri veya sonraki nesillerin fenotiplerine bakılarak ata bireylerin genotipleri tahmin edilmeye çalışılır. Kalıtsal hastalıkların çoğu çekinik alellerle taşınır.
+
+Kan grupları, otozomal ve gonozomal kalıtıma ait soyağacı örnekleri genetik problemlerde, ata bireylerden yola çıkarak sonraki nesillerin genotiplerini ya da tam tersine sonraki nesillerin fenotiplerinden ata bireylerin genotiplerini belirlemeye yönelik uygulamalarda kullanılır.

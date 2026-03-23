@@ -1,0 +1,33 @@
+# Cümlede Anlam 2
+
+## Yakın Anlamlı Cümleler
+
+Aynı düşünce etrafında gelişen cümlelerdir. Bu cümlelerde belirli bir konu benzer bakış açılarıyla değerlendirilir. "Kendisiyle barışık olamayanlar, sürekli birlikte olduğu insanlara bile küskündür." cümlesi, iç huzursuzluğun dış ilişkilere yansımasını küskünlük kavramı üzerinden anlatır. "Kendini sevmeyen ve kendine saygı duymayan insan, başkalarıyla iyi geçinemez." cümlesi ise aynı temel fikri — kendisiyle barışık olmayan birinin başkalarıyla da sağlıklı ilişki kuramayacağını — öz sevgi ve saygı eksikliği üzerinden ifade eder. Bu iki cümle yakın anlamlıdır çünkü her ikisi de aynı nedeni (kendisiyle barışık olmama) ve aynı sonucu (başkalarıyla sorun yaşama) paylaşır; yalnızca ifade biçimi ve odaklandıkları kavramlar farklıdır.
+
+## Amaç-Sonuç Cümleleri
+
+Yargının amacıyla birlikte verildiği cümlelerdir. Bu cümlelerde gerçekleştirilen ya da gerçekleştirilmek istenen bir eylem, neden değil bunun amacı belirtilerek açıklanır. Amaç cümlelerinde amaçlanan şey henüz gerçekleşmemiştir. "Ne için?" ve "hangi amaçla?" sorularının cevabı bu cümlelerde bulunur.
+
+Amaç-sonuç ilişkisi genellikle "için", "üzere", "diye" edatlarıyla ve "-e" ekiyle sağlanır. "Seni göreyim diye buralara kadar geldim." cümlesi amaç-sonuç içerir çünkü "diye" edatı bir amacı bildirir; seni görmek amaçtır ve henüz gerçekleşip gerçekleşmediği belirsizdir — kişi bu amaçla gelmiştir. "Kitap okumak için sessiz bir ortam gerek." cümlesi amaç-sonuç içerir çünkü "için" edatı kitap okumanın amacını değil, sessiz ortamın ne için gerektiğini — yani kitap okumayı — ifade eder; amaçlanan eylem (kitap okuma) henüz gerçekleşmemiştir. "Okula gitmek üzere yola çıktım." cümlesi amaç-sonuç içerir çünkü "üzere" edatı henüz gerçekleşmemiş bir amacı — okula gitmeyi — bildirir; kişi yola çıkmıştır ama hedefe henüz ulaşmamıştır.
+
+## Neden-Sonuç Cümleleri
+
+Bir sonucun meydana gelmesine sebep olan durumla birlikte verildiği cümlelerdir. Neden-sonuç cümlelerinde neden zaten gerçekleşmiştir; bu, amaç-sonuç cümlelerinden temel farkıdır. "Neden?" ve "niçin?" sorularının cevabı bu cümlelerde yer alır.
+
+Neden-sonuç ilişkisi genellikle "için", "diye", "-den ötürü", "-den dolayı" edatlarıyla; "çünkü", "mademki", "zira" bağlaçlarıyla; "-den", "-dığından", "-ınca" ekleriyle kurulur. "Geç kaldığı için sınavını bitiremedi." cümlesi neden-sonuç içerir çünkü "geç kalmak" zaten gerçekleşmiş bir olgudur ve bu somut neden "sınavı bitirememe" sonucunu doğrudan tetiklemiştir; neden gerçekleşmiştir. "Hedeflerimin peşinden koşunca hayallerime kavuştum." cümlesi neden-sonuç içerir çünkü "-ınca" eki gerçekleşmiş bir eylemi — hedeflerin peşinden koşmayı — bildirir ve bu eylem hayallere kavuşma sonucunu doğurmuştur. "Hastalandığımdan okula gidemedim." cümlesi neden-sonuç içerir çünkü hastalık gerçekleşmiş bir durumdur ve bu neden gidememek sonucunu üretmiştir. Amaç-sonuç cümlelerinden farkı şudur: bu cümlelerde neden zaten olmuştur, amaç-sonuç cümlelerinde ise amaçlanan eylem henüz gerçekleşmemiştir.
+
+Neden-sonuç cümleleri ile amaç-sonuç cümlelerini birbirinden ayırt etmek önemlidir. Neden-sonuç cümlelerinde "neden" gerçekleşmiştir; ancak amaç-sonuç cümlelerinde "amaç" henüz gerçekleşmemiştir.
+
+## Koşul Cümleleri
+
+Yargının gerçekleşmesinin bir duruma ya da olguya bağlı olduğu cümlelerdir. "Hangi şartla?" sorusunun cevabı bu cümlelerde yer alır. Koşul anlamı genellikle "-sa/-se" kipiyle, "üzere", "yeter ki", "ama", "mi" edat ve bağlaçlarıyla; "-ınca", "-dıkça", "-madan" ekleriyle sağlanır. "Gençliğinde çalışırsan sonra rahat edersin." cümlesi koşul içerir çünkü "-sa/-se" kipi gerçekleşmesi belirsiz bir koşulu bildirir; "rahat etmek" yargısı ancak "çalışmak" koşulu yerine getirilirse geçerli olacaktır. "Kitap okudukça çok mutlu oluyorum." cümlesi koşul içerir çünkü "-dıkça" eki koşullu bir tekrarı bildirir; mutluluk yalnızca okuma eylemi gerçekleştikçe ortaya çıkar. "Buraya geldiğinde birlikte çalışırız." cümlesi koşul içerir çünkü "-diğinde" eki yargının gerçekleşmesini bir koşula — karşıdakinin gelmesine — bağlar; çalışmak ancak o koşul sağlandığında mümkün olacaktır.
+
+## Açıklama Cümleleri
+
+Önce sonucun, sonra nedenin söylendiği cümlelerdir. Bu yapıda okuyucu önce yargıyla karşılaşır, ardından bu yargının gerekçesi sunulur. Açıklama ilişkisi genellikle "çünkü", "demek ki", "öyleyse", "anlaşılıyor ki" gibi bağlaçlarla sağlanır. "Beni dinlemiyorlar; demek ki ben onlar için önemli değilim." cümlesi açıklama içerir çünkü önce yargı/sonuç verilmiş ("beni dinlemiyorlar"), ardından "demek ki" bağlacıyla bu gözlemin gerekçesi sunulmuştur ("önemli değilim"). Neden-sonuç cümlelerinde önce neden sonra sonuç gelirken açıklama cümlelerinde sıra tersine döner. "Soruyu anlamakta zorlandım çünkü o derse katılamamıştım." cümlesi açıklama içerir çünkü önce yaşanan zorluk belirtilmiş, ardından "çünkü" bağlacıyla bu zorluğun gerekçesi açıklanmıştır; yargı önce, açıklama sonra gelmektedir.
+
+## Karşılaştırma Cümleleri
+
+Varlık, kavram ve durumları benzerlik, farklılık, eşitlik ya da üstünlük gibi ilgiler kurarak kıyaslayan cümlelerdir. "Evimiz iç çitin içindeki en güzel evdi." cümlesi karşılaştırma içerir çünkü "en güzel" ifadesi bir üstünlük karşılaştırması kurar; ev, çitteki diğer tüm evlerle kıyaslanarak en üst konuma yerleştirilmiştir. "Bu filmden daha güzelini izlememiştim." cümlesi karşılaştırma içerir çünkü "daha güzelini" yapısı bu filmi daha önce izlenenlerle kıyaslar; film, geçmişte izlenen diğer tüm filmlerden üstün bulunmuştur. Her iki cümlede de en az iki unsur belirli bir ölçüte göre birbirine göre konumlandırılmaktadır.
+
+---

@@ -1,0 +1,33 @@
+# Cümlenin Ögeleri
+
+Bir fikri, duyguyu, düşünceyi, oluşu ya da kılışı bir yargı hâlinde anlatmak için çekimli fiille kullanılan kelimeler dizisine ya da tek başına kullanılan çekimli fiile cümle denir. Cümlenin ögeleri temel ögeler ve yardımcı ögeler olmak üzere ikiye ayrılır.
+
+## Temel Ögeler
+
+Yüklem, cümlede iş, oluş ve yargıyı bildiren çekime girmiş kelimenin söz dizimindeki adıdır. Fiillerden, isimlerden, isim tamlamalarından, sıfat tamlamalarından, deyimlerden, birleşik fiillerden, adlaşmış sıfatlardan, fiilimsilerden ve zamirlerden oluşabilir. Yüklem cümlenin başında, ortasında ya da sonunda bulunabilir: "Unuttum artık eski günleri.", "Yine geldi akşam vakti.", "Çocuklar neşe içinde oynadılar." Bir cümlede ortak kullanılan birden fazla yüklem bulunabilir: "Her canlı doğar, yaşar, ölür." Diğer ögeleri bulurken tüm sorular yükleme yöneltilir.
+
+Özne, cümlede yüklemin belirttiği işi yapan ya da bir oluşa konu olan ögedir. "Kim, ne" ya da "olan ne, olan kim" soruları fiile yöneltilerek bulunur.
+
+Gerçek özne, etken çatılı fiillerin yüklem olduğu cümlelerde ya da isim cümlelerinde işi yapan ya da üstlenen ögedir. Açık ya da gizli olabilir: "Bahçedeki ağaçların tamamını biz budadık." (açık özne), "Uyku saatlerinden başladı yaşamını düzenlemeye." (gizli özne: o). Gizli özne öge sıralamasına ve sayısına dahil edilmez.
+
+Sözde özne, edilgen çatılı fiillerin yüklem olduğu cümlelerde yapılan işten etkilenen ögedir: "Hafta sonu yapılacak maç için saha temizlendi." (sözde özne: saha).
+
+Örtülü özne, edilgen çatılı fiillerin yüklem olduğu cümlelerde yükleme yöneltilen "kim tarafından, kimce" sorularıyla bulunan ögedir. Öge incelemesinde zarf tümleci olarak değerlendirilir: "Valilik tarafından okullar üç gün tatil edildi."
+
+## Yardımcı Ögeler
+
+Nesne (düz tümleç), geçişli fiili tümleyen, yalın ya da belirtme durumunda bulunan tümleçtir. Belirtili nesne belirtme durumu eki (-ı/-i/-u/-ü) almıştır ve "neyi, kimi, nereyi" sorularına cevap verir: "En sevdiğim arkadaşımı daha önce hiç böyle görmemiştim." Belirtisiz nesne belirtme durumu ekini almamıştır ve "ne" sorusuna cevap verir: "Ömer tatilde okumak için yanına birkaç roman almış."
+
+Yer tamlayıcısı (dolaylı tümleç), yönelme (-e/-a), kalma (-de/-da) ya da çıkma (-den/-dan) durumlarından birinde bulunan tümleçtir. "Neye, kime, nereye / neyde, kimde, nerede / neyden, kimden, nereden" sorularıyla bulunur: "Yaptığımız açıklamalara hepiniz önem vermelisiniz." "-e, -de, -den" eklerini alan sözcükler cümleye zaman ya da neden anlamı katıyorsa zarf tümleci olur.
+
+Zarf tümleci (zarf tamlayıcısı), yüklemin anlamını zaman, durum, sebep, ölçü, araç, şart, yer, yön gibi bakımlardan belirleyen tümleçtir. "Neden, niçin, ne zaman, nasıl, ne kadar" gibi sorularla bulunur: "Halime Hanım bu koca yalıda tek başına yaşıyordu." Yer yön zarfı olan sözcükler isim çekim eki aldıklarında dolaylı tümleç ya da belirtili nesne olur: "Yağmur dinince yürüyüş yapmak için dışarıya çıktık." (belirtili nesne), "Cam kirli olduğu için geriyi göremiyordum." (belirtili nesne).
+
+## Cümlede Vurgu
+
+Fiil cümlelerinde yüklemden önce gelen öge vurgulanan ögedir: "Köpek kendisine yardım eden adamın arkasında usul usul yürüyordu." cümlesinde vurgulanan öge "usul usul"dur. İsim cümlelerinde vurgu yüklemin üzerindedir. Yüklem cümlenin başındaysa vurgu yüklemin üzerindedir: "Fark etmedim senin orada olduğunu." Soru cümlelerinde vurgu soru anlamı katan sözcükler üzerindedir: "Bu oyun ne zaman sahnelenecek?"
+
+## Cümle Dışı Unsurlar
+
+Ünlemler ve ünlem niteliği taşıyan seslenmeler cümle dışı unsur sayılır: "Eyvah, dedesinin rahatsızlığını ona nasıl söyleyeceğiz?" Bağlaçlar da cümle dışı unsurdur: "Diğerlerini bilmem ama ben bu işte sonuna kadar seninleyim." Ara sözler de cümle dışındadır: "Yusuf Mete'yi, onu canımdan çok severim, çok özlemiştim." Ara sözler bir ögenin açıklayıcısı olarak kullanılabilir: "Onu dikkatle dinleyenlerden biri, Ahmet Bey, usulca oturduğu yerden kalktı."
+
+---

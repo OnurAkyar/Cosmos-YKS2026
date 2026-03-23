@@ -1,0 +1,43 @@
+# Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful
+
+Ribozom, tüm prokaryot ve ökaryot hücrelerde bulunan, protein sentezinden sorumlu olan organeldir. Çekirdekçikte sentezlenen rRNA'lar proteinle birleşerek küçük ve büyük alt birimleri meydana getirir. Küçük ve büyük alt birimler büyük çekirdek zarı porlarından sitoplazmaya çıkarken hücre zarından dışarı çıkamazlar. Ayrıca protein sentezi gerçekleşeceği zaman ribozomun büyük ve küçük alt birimleri bir araya gelerek ribozomu oluşturur.
+
+Bir hücre aynı proteinden aynı anda ve kısa sürede çok sayıda üretmek isterse birden fazla ribozom yan yana gelerek poliribozom (polizom) denilen yapıları oluşturur.
+
+Protein sentezidir. Sitoplazmadaki ribozomlar hücrenin kullanacağı proteinleri, çekirdek zarlarındaki ribozomlar çekirdekte kullanılacak olan proteinleri, kloroplast ve mitokondridekiler bu organellerde kullanılacak proteinleri, endoplazmik retikulum zarlarındaki ribozomlar ise hücre dışına salgılanacak olan salgılara dönüşecek proteinleri üretirler. Ayrıca ribozom aynı canlının farklı hücrelerinde farklı sayılarda olabilir.
+
+Sabit bir büyüklüğü ve şekli olmayan, dolayısıyla hücre içindeki miktarı sayı ile belirtilemeyen bir organeldir. Olgun alyuvar hücreleri dışında genellikle bütün ökaryot yapılı hücrelerde bulunur. Hücre bölünmesi sırasında eriyerek kaybolur. Bölünme tamamlandığında yeniden yapılır.
+
+Çekirdek zarından başlayıp hücre zarına kadar uzanan hücre içi kanallar sistemidir. Zar yapısı üzerinde ribozom bulunduran endoplazmik retikuluma granüllü endoplazmik retikulum, zar yapısı üzerinde ribozom bulunmuyorsa granülsüz endoplazmik retikulum adını alır.
+
+Hücre iskeleti; hücre içi madde iletimini ve hücreye desteklik sağlar, çekirdeğin belirli bir bölgede sabit kalmasını destekler, asidik-bazik tepkimelerin birbirinden ayrılmasına yardımcı olur ve $Ca^{2+}$ ile protein gibi maddeleri depolar.
+
+Protein sentezi yapar. Protein sentezinin hızlı olduğu hücrelerde bol miktarda bulunur. Salgıların çoğunluğunu sentezler. Ayrıca sentezlenen protein ve salgılar küçük keseler içinde paketlenerek Golgi aygıtına gönderilir. Hücre zarının proteinlerine lipit ekleyerek zarı büyütür.
+
+Yağ ve karbonhidrat (glikojen) sentezi yapar. Sentezlenen maddeleri keseler halinde Golgi aygıtına gönderir. Ayrıca çizgili kas hücrelerinin kasılabilmesi için gerekli olan kalsiyumu depo eder. Karaciğer hücrelerinde depolanan glikojeni glikoza parçalar. Steroit yapılı bazı hormonları sentezler. Birtakım zararlı maddeleri (böcek zehiri, ilaç, alkol gibi) değişime uğratarak zararsız hâle getirir. Hücre zarı ile çoğu organelin zar yapısına katılan yağ moleküllerini sentezler.
+
+Golgi Aygıtı: 1898 yılında İtalyan bilim insanı Camillo Golgi (Kamillo Golgi) tarafından keşfedildiği için bu organel onun adıyla anılmaktadır. Golgi aygıtı, olgun alyuvarlar ve sperm gibi ökaryot hücreler ile bakteriler gibi prokaryot hücrelerde bulunmaz.
+
+Çok sayıda yassılaşmış keseden ve küçük kofullardan meydana gelir. Protein ve yağ yapılıdır. Ayrıca granülsüz endoplazmik retikulum tarafından üretilir. Tükürük bezi hücrelerinde, hormon salgılayan bezlerde ve bitkilerin bal özü, nektar üreten hücrelerinde iyi gelişmiştir. Golgi aygıtının büyüklüğü ve gelişimi, hücre tipine ve metabolik durumuna göre değişiklik gösterir.
+
+Endoplazmik retikulumlarda üretilen maddelerin çoğunluğu Golgi aygıtında ayrıştırılır, depolanır ve paketlenir. Glikoprotein ve lipoprotein gibi maddelerin üretimi ve salgılanmasından sorumludur. Ayrıca lizozomların oluşumunda rol oynar.
+
+Hücre zarının yenilenmesi ve onarımı, bitki hücrelerinin bölünmesi sırasında ara lamelin oluşturulması, apoenzim-kofaktör ilişkisinin gerçekleştirilmesi ve bitkilerde duvar yapısına katılan pektin gibi polisakkaritlerin üretilmesi fonksiyonlarına da sahiptir.
+
+Bugüne kadar etkin bir şekilde tedavi edilemeyen bazı hastalıklarda Golgi aygıtında işlev bozukluğu olduğu anlaşılmıştır. Örneğin sinir hücrelerinde işlev kaybına neden olan Alzheimer ile kistik fibrozis hastalığında Golgi aygıtının hem yapısında hem de işlevlerinde anormallikler olduğu ortaya konulmuştur.
+
+Alyuvarlar hariç bütün hayvansal hücrelerde ve sıvı ortamda yaşayan tek hücreli canlılarda (amip, paramesyum gibi) bulunur. Yüksek yapılı bitki hücrelerinde lizozom organeli bulunmaz. Fakat içerisinde lizozoma göre daha az çeşitte ve miktarda sindirim enzimi bulunduran kesecikler vardır. Mantar hücrelerinde de lizozom yoktur.
+
+Tek katlı zarla çevrilidir. Içinde protein, karbonhidrat ve lipit gibi molekülleri parçalayan sindirim enzimleri bulunur. Ayrıca lizozom zarının iç yüzeyi, enzimlerin zarar vermesini engelleyen özel bir madde ile kaplıdır. Lizozom oluşumunda sırasıyla ribozom, endoplazmik retikulum ve Golgi aygıtı görev alır. Golgi aygıtına taşınan enzimlerin etrafı bir zarla çevrilerek paketlenir. Küçük keseler hâlindeki bu yapılara vezikül denir. Veziküllerin bazıları hücre içinde kalır ve lizozom organeline dönüşür.
+
+Hücre içi sindirim yapar. (Sindirim için ortamın pH değeri 5 olmalıdır.). Otofaji yapar. Bozulmuş ya da yıpranmış yaşlı organelleri parçalayarak ortadan kaldırır. Ayrıca savunma görevi yapan akyuvar hücreleri bakteri, virüs ve bunların toksik maddelerini etkisiz hâle getirmede lizozom görevi yapar. Otoliz olayını gerçekleştirir. Herhangi bir etki sonucu lizozom içindeki enzimlerin sitoplazmaya dağılmasıyla hücrenin sindirilmesi olayına otoliz denir.
+
+İnsan embriyosunda el ve ayak parmakları arasındaki boşlukların oluşumu, yaşlanmış ve görevini yerine getiremeyen hücrelerin ölümü ve kertenkelenin bir tehlikeyle karşılaştığında kuyruğunu bırakması otoliz olayıdır. Aşırı soğuk veya sıcağa maruz kalan deri hücrelerinde yanıkların oluşmasının sebebi lizozomların parçalanmasıdır.
+
+Lizozomlardaki fonksiyon bozuklukları, bazı hastalıklara neden olur. Örneğin Tay-Sachs (Tay Saks) hastalığında sinir hücrelerinin lizozomlarında lipitleri sindiren enzimler eksiktir. Zamanla sinir hücrelerinde biriken lipitler, hücrelerin fonksiyonlarının bozulmasına neden olur. Lizozom faaliyeti sonucu parçalanması gereken maddeler parçalanmadığından zamanla lizozomlarda birikebilir. Bu maddeler yaşlılık pigmenti adı verilen pigmentlere dönüşür. Bu durum deride kahverengi lekelerin oluşmasına yol açar. Golgi aygıtı, endoplazmik retikulum, hücre zarı ve çekirdek zarı tarafından oluşturulan hücre organelidir. Tek katlı zarla çevrilidir. Yassı keseciklerden oluşur. Ayrıca genç hücrelerde daha küçüktür. Hücre yaşlandıkça koful büyür. Besin, depo, boşaltım ve kontraktil (kasılgan) koful olarak farklı görevler üstlenen dört çeşit koful vardır.
+
+Besinlerin endositoz yoluyla hücreye alınması sonucu oluşan keseciklere denir. Genellikle amip, paramesyum gibi bir hücreli canlılarda ve insanların akyuvar gibi fagositoz yapabilen hücrelerinde bulunur. Ayrıca besinler lizozomlardaki sindirici enzimlerle parçalanır.
+
+Bitki hücrelerinde büyük ve merkezi bir koful halini alır. Hayvan hücrelerinde küçük yapıdadır. Ayrıca bitki ve hayvan hücrelerinde atık maddeleri ve suyu depo eder. Bitki hücresinde merkezi kofulda depo edilen suyun oluşturduğu basınç hücreye dolayısıyla bitkiye destek sağlar. Bitkilerde metabolizma sonucu oluşan zehirli maddeleri çeşitli tuzlarla birleştirilerek zehirsiz kristaller hâlinde biriktirir. Bitkilerde zehirli maddeler, metabolizma sonucunda meydana gelen atıklar, boya maddeleri, köklerden suyla birlikte alınan tuzun fazlası, zehirli maddeler ile organik asitler yaprak hücrelerinin kofullarında biriktirilir ve sonbaharda yaprak dökümüyle bitkiden uzaklaştırılır. Golgi aygıtında üretilen salgılar ile metabolik atıkların dışarı atılmasını sağlar.
+
+Sitoplazmaya doğru uzanan çok sayıda kol ve etrafını saran, kasılabilen ipliksi yapılardan oluşur. Tatlı sularda yaşayan amip, paramesyum, öglena gibi ökaryotik tek hücreli canlılarda hücre içine giren suyun fazlasını enerji (ATP) harcayarak hücre dışına atar. Ayrıca hücrenin su dengesinin korunmasında (homeostasi) rol oynar.

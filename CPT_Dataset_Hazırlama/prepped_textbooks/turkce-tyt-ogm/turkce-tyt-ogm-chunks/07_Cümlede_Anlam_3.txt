@@ -1,0 +1,79 @@
+# Cümlede Anlam 3
+
+## Öznel ve Nesnel Anlatım Cümleleri
+
+Kişisel duygu, düşünce ve yorumlar içeren, göreceli yargılar bildiren cümleler öznel anlatım cümlesidir. Bu tür cümlelerde anlatılan şey kişiden kişiye değişebilir; herkesçe kabul görmesi gerekmez. "Fikir adamı yazdıklarını canlı bir şekilde verebiliyorsa o zaman yaşar." cümlesi özneldir çünkü "yaşar" yargısı kişisel bir değerlendirmeye dayanır; "canlı verip verememek" ve "yaşamak" ölçütleri kişiden kişiye farklılık gösterir, herkes bu görüşe katılmayabilir. "Umut, insanı diri tutan en önemli güçtür." cümlesi özneldir çünkü "en önemli güç" ifadesi bir sıralama ve değer yargısı içerir; başka biri sevgiyi ya da sağlığı en önemli güç olarak görebilir. Bir cümlenin öznel olduğunun testi: yargıya itiraz edilebilmesidir.
+
+Genel kanı niteliği taşıyan, kişisel değerlendirme içermeyen cümleler ise nesnel anlatım cümlesidir. Bu cümleler herkes tarafından doğrulanabilir ya da gözlemlenebilir gerçekleri aktarır. "Evin bahçe kapısı ormana açılıyordu." cümlesi nesneldir çünkü kapının nereye açıldığı herkes tarafından fiziksel olarak gözlemlenip doğrulanabilir; kişisel yorum içermez. "Romanın bazı bölümlerinde olaylar tek bir kahramanın ağzından anlatılıyor." cümlesi nesneldir çünkü romanın anlatı tekniğine ilişkin bu bilgi, eseri okuyan herkes tarafından doğrulanabilir; değer yargısı ya da kişisel görüş içermez.
+
+## Doğrudan ve Dolaylı Anlatım Cümleleri
+
+Başkasına ait bir sözün ağızdan çıktığı gibi, olduğu gibi aktarılmasına doğrudan anlatım denir. "Yahya Kemal ana dilimiz olan Türkçeye olan sevgisini 'Bu dil ağzımda annemin ak sütüdür.' sözüyle ifade eder." cümlesinde doğrudan aktarım yapılmıştır. Bu doğrudan anlatımdır çünkü Yahya Kemal'in söylediği söz tırnak içine alınarak değiştirilmeden, olduğu gibi verilmiştir; tırnak işareti sözün aynen aktarıldığının açık göstergesidir.
+
+Başkasına ait bir sözün yeni bir cümleye dahil edilerek birtakım değişikliklerle aktarılmasına dolaylı anlatım denir. "Başarısında en büyük payın annesine ait olduğunu söyledi." cümlesinde dolaylı aktarım kullanılmıştır çünkü aktarılan söz tırnak içinde değildir; "-dığını söyledi" yapısıyla yeni bir cümleye entegre edilmiş ve kişi ile zaman gibi dil bilgisel unsurlar yeniden düzenlenmiştir. "Polis, suçluların en kısa sürede yakalanacağını söyledi." cümlesinde de dolaylı aktarım kullanılmıştır çünkü polisin söylediği söz olduğu gibi verilmemiş, "-acağını söyledi" yapısıyla dönüştürülmüş ve ana cümleye bağlanmıştır.
+
+## İçerik ve Üslup Cümleleri
+
+Bir eserde ne anlatıldığıyla ilgili yargılar içeren cümleler içerik cümlesidir. "Ateşten Gömlek, Türk Kurtuluş Savaşı sırasındaki anlardan oluşmaktadır." cümlesi içerik bildirir çünkü eserin ne anlattığına — konu ve zaman dilimine — ilişkin bilgi vermektedir; bu, eserin içeriğiyle ilgili nesnel bir saptamadır. "Dizelerinde memleket özlemini dile getirmiş." cümlesi içerik bildirir çünkü şairin şiirlerinde ne işlediğini — tematik içeriği — anlatmaktadır. İçerik cümlelerini üslup cümlelerinden ayıran özellik şudur: içerik cümleleri ne anlatıldığıyla ilgilenirken üslup cümleleri nasıl anlatıldığıyla ilgilenir.
+
+Yazarın anlatım tarzıyla, yani dili kullanma şekliyle veya söyleyiş özelliğiyle ilgili cümleler ise üslup (biçem) cümlesidir. "Eserlerinde kullandığı devrik cümleler ile anlatımı sıkıcılıktan kurtarmış." cümlesi üslup bildirir çünkü yazarın dili yapısal olarak nasıl kullandığına — devrik cümle tercihine — odaklanmaktadır; bu anlatım biçimiyle ilgili bir değerlendirmedir, içerikle değil. "Şair, ses düzeni bakımından birbirine yakın kelimeleri aynı mısra içinde kullanmayı tercih etmiş." cümlesi üslup bildirir çünkü şairin söyleyiş biçimini — ses düzenini — ele almaktadır; bu da ne anlattığından bağımsız, nasıl yazdığına dair bir gözlemdir.
+
+## Tanım Cümleleri
+
+Bir kavramın veya varlığın niteliklerini tarif eden, belirten, açıklayan cümlelerdir. Tanım cümleleri "Bu nedir?" ve "Bu kimdir?" sorularına cevap verir. "Nomofobi; cep telefonuna erişememe, iletişim kuramama ve bu cihazlardan mahrum kalma korkusudur." cümlesi tanım niteliği taşır çünkü "Nomofobi nedir?" sorusuna yanıt verir; özne (Nomofobi) ile bu öznenin kapsamını kesin biçimde belirleyen yüklem (...korkusudur) arasındaki ilişki bir tanımın yapısını oluşturur. "Töre komedileri, toplumların bazı törelerini konu alan ve bunların gülünç yanlarını dikkatlere sunan oyunlardır." cümlesi tanım niteliği taşır çünkü "Töre komedisi nedir?" sorusuna yanıt verir; kavramın hem konusunu (toplumsal törenler) hem de işlevini (gülünç yanları göstermek) kapsayan belirleyici özellikleri bir arada verilmiştir.
+
+## Kınayıcı Anlatım Cümleleri
+
+Söylenen sözün, alay etme ya da iğneleme gibi amaçlarla tam tersini ifade edecek şekilde kullanılmasıdır. "O kadar çalışkan ki hiçbir işi zamanında bitiremiyor." cümlesinde söylenen ile kastedilen birbirinin tam tersidir. Bu kınayıcı anlatımdır çünkü "çalışkan" olumlu bir nitelemeyken "hiçbir işi zamanında bitirememe" tembelliğin kanıtıdır; bu çelişki cümlenin aslında tembeli kınadığını ortaya koyar. "Bu hızla yürürsek yarın sabaha eve varırız." cümlesi de kınayıcı bir anlatım içerir çünkü "yarın sabaha" ifadesi yürüyüşün son derece yavaş olduğunu ince bir iğnelemeyle anlatır; söylenen ile kastedilen ters yöndedir.
+
+## Aşamalı Durum Cümleleri
+
+Birdenbire değil, süreç içinde yavaş yavaş değişen durumu ifade eden cümlelerdir. "Küresel ısınmanın dünya üzerindeki olumsuz etkileri günden güne belirginleşiyor." cümlesi aşamalı durum içerir çünkü "günden güne belirginleşmek" değişimin süreç içinde ve kademeli olarak ilerlediğini gösterir; birdenbire olan bir değişimi değil, hâlihazırda devam eden ve giderek artan bir süreci anlatmaktadır. "İstanbul gün geçtikçe kalabalıklaşıyor." cümlesi aşamalı durum içerir çünkü "gün geçtikçe kalabalıklaşmak" da kademeli ve süregelen bir artışı ifade eder; değişim anlık ya da koşula bağlı değil, sürekli ve aşama aşamadır.
+
+## Olasılık ve Tahmin Cümleleri
+
+Bir olayın gerçekleşip gerçekleşmeyeceğinin kesin olarak belli olmadığı cümleler olasılık cümlesidir. "Beni bu şehirde bir daha görmeyebilirsiniz." cümlesi olasılık içerir çünkü "görmeyebilirsiniz" ifadesi kesin bir bilgiye değil yalnızca ihtimale dayalı belirsizliği işaret eder; gerçekleşmesi ya da gerçekleşmemesi eşit ölçüde mümkündür. "Sınavda bu konudan daha fazla soru gelebilir." cümlesi olasılık içerir çünkü "gelebilir" ifadesi de aynı şekilde kesinlik taşımaz; olayın gerçekleşip gerçekleşmeyeceği belirsizliğini korumaktadır.
+
+Bazı kanıtlara dayanılarak bir olayın ya da durumun nasıl gerçekleşeceğine dair fikir yürütüldüğü cümleler ise tahmin cümlesidir. "Bu yıl su sıkıntısı yaşayacağımızı düşünüyorum." cümlesi tahmin içerir çünkü "düşünüyorum" ifadesi bir değerlendirme ya da kanıta dayalı zihinsel yargıya işaret eder; konuşan bunu rastgele söylememekte, belirli bir gerekçeden yola çıkmaktadır. "Voleybol turnuvasını bizim okul kazanacak bence." cümlesi tahmin içerir çünkü "bence" ifadesi konuşanın kişisel değerlendirmesine dayalı olası bir sonucu bildirmektedir. Tahmin ile olasılık cümlesinin farkı şudur: olasılık cümlelerinde herhangi bir yargı yürütülmeden salt belirsizlik ifade edilirken tahmin cümlelerinde konuşan bir değerlendirme sonucuna ulaşmıştır.
+
+## Sitem, Yakınma, Hayıflanma ve Pişmanlık Cümleleri
+
+Bir kimseye, yaptığı bir hareketin ya da söylediği sözün üzüntü, alınganlık ya da kırgınlık uyandırdığının öfkelenmeden belirtildiği cümleler sitem cümlesidir. "Hani iyi günde, kötü günde hep beraber olacaktık?" cümlesi sitem içerir çünkü "hani" sözcüğü verilen sözü anımsatarak karşıdakinin o sözü tutmadığını, bunun da üzüntü ve kırgınlık yarattığını öfkesiz biçimde ima eder; üzüntü karşıdaki kişiye yöneliktir. "Beni araman için hasta olmam mı gerekiyordu?" cümlesi sitem içerir çünkü soru biçiminde kurulmuş olsa da gerçekte bir soru sormaktan çok, karşıdakinin ilgisizliğinden duyulan kırgınlığı dile getirir.
+
+Kişinin bir olaydan ya da durumdan sızlanarak şikâyet ettiği cümleler yakınma cümlesidir. "Bir de verdiği sözü tutmayı becerebilse." cümlesi yakınma bildirir çünkü kişi başkasının sözünü tutmamasından sızlanarak şikâyet etmektedir; bu şikâyet belli bir kişiye yönelik olmakla birlikte genel bir bezginlik ve memnuniyetsizlik içerir. "Ne yazık ki gençlerin kitap okuma oranı istediğimiz seviyede değil." cümlesi yakınma bildirir çünkü "ne yazık ki" ifadesi mevcut durumdan duyulan üzüntüyü ve hoşnutsuzluğu yansıtır; kişi bu durumu değiştiremediğinden sızlanmaktadır.
+
+Kişinin eline geçen bir fırsatı değerlendirememesi nedeniyle kendi kendine üzülmesini ifade eden cümleler hayıflanma cümlesidir. "Keşke öğretmenimi dinleyip derslerime düzenli çalışsaydım." hayıflanmayı dile getirir çünkü "keşke" sözcüğü geçmişte kaçırılmış bir fırsata ya da yapılmamış bir şeye duyulan özlem ve üzüntüyü ifade eder; kişi elindeki imkânı değerlendirememesinden ötürü içinden sızlanmaktadır. Pişmanlıktan farkı şudur: hayıflanmada odak yapılmayan, kaçırılan şeydeyken pişmanlıkta yapılan ve olumsuz sonuç doğuran eylem ön plandadır.
+
+Yapılan bir işin, davranışın olumsuz sonucunun görülerek üzüntü duyulduğunun ifade edildiği cümleler pişmanlık cümlesidir. "Maçta çok fazla koşmasaydım bu kadar yorulmazdım." cümlesi pişmanlık bildirir çünkü kişi zaten gerçekleştirdiği bir eylemin — fazla koşmanın — olumsuz sonucunu — yorgunluğu — yaşamış ve buna üzüntü duymuştur; eylem yapılmış ve geri alınamaz. "Keşke o ağır sözleri sana söylemeseydim." cümlesi pişmanlık bildirir çünkü "keşke" sözcüğü yapılan bir eylemin yarattığı olumsuz sonuç karşısında duyulan pişmanlığı ifade eder; sözler söylenmiştir ve bunun verdiği zarar fark edilmiştir.
+
+## Tasarı, Eşitlik, Öneri, Ön Yargı ve Öz Eleştiri Cümleleri
+
+Yapılması düşünülenleri ya da geleceğe dair planlamaları ifade eden cümleler tasarı cümlesidir. "Konu özetini bu akşam tamamlamayı düşünüyorum." cümlesi tasarı içerir çünkü "düşünüyorum" ifadesi henüz gerçekleşmemiş, yalnızca niyetlenilmiş bir eylemi bildirir; eylem planlanmış ama henüz başlanmamıştır. "Severerek okuduğum romanları sevdiklerime hediye etmeyi planlıyorum." cümlesi tasarı içerir çünkü "planlıyorum" ifadesi geleceğe yönelik bilinçli bir niyeti ortaya koyar; bu eylem henüz gerçekleşmemiş, yalnızca tasarlanmıştır.
+
+Karşılaştırılan iki ya da daha fazla unsur arasında eşitlik bulunduğunu anlatan cümleler eşitlik cümlesidir. "Elmayı ortadan ikiye bölerek kardeşler arasında paylaştırdı." cümlesi eşitlik içerir çünkü "ortadan ikiye bölmek" iki eşit parça oluşturduğunu açıkça ifade eder; karşılaştırılan iki unsur — kardeşler — arasında tam bir eşitlik kurulmuştur. "Paranın yarısını bankaya yatırdı, geri kalanıyla bir arsa aldı." cümlesi eşitlik içerir çünkü "yarısı" ve "geri kalanı" ifadeleri tutarın iki eşit bölüme ayrıldığını gösterir; toplam miktarın biri diğerine eşit iki parçaya bölünmesi eşitlik anlamını oluşturur.
+
+Herhangi bir konuda yol gösterip bilgi ve fikir verme ya da tavsiyede bulunma anlamı içeren cümleler öneri cümlesidir. "Araba kullanırken cep telefonu kullanılmaması kazaların önüne geçecektir." cümlesi öneri bildirir çünkü sürüş sırasında telefon kullanmama tavsiyesi, bu davranışın getireceği olumlu sonuçla birlikte verilmektedir; yargı kişiyi yönlendirmeye yöneliktir. "Sınav kitapçığındaki uyarıları okusanız iyi olur." cümlesi öneri bildirir çünkü "okusanız iyi olur" yapısı nazik ama açık bir tavsiyeyi ifade eder; dinleyeni belirli bir davranışa yönlendirme amacı taşır.
+
+Bir durum ya da olayla ilgili önceden edinilmiş olumlu ya da olumsuz yargı içeren cümleler ön yargı cümlesidir. "Yeni yazdığı roman ilki kadar ilgi görmeyecek." cümlesi ön yargı taşır çünkü roman henüz okunmamış ya da sonucu ortaya çıkmamışken "ilgi görmeyecek" yargısı önceden oluşturulmuş bir kanıya dayanmaktadır; bu yargı kanıtsız bir beklenti ya da önyargıdır. "Yaptıklarından sonra yine onu affedecek." cümlesi ön yargı taşır çünkü affetme eyleminin gerçekleşip gerçekleşmeyeceği henüz belli değilken "yine affedecek" yargısı geçmiş deneyime dayalı önceden oluşturulmuş bir beklentiyi yansıtmaktadır.
+
+Kişinin kendisini eleştirdiği cümleler öz eleştiri cümlesidir. "Şimdi düşündüğümde gençlik yıllarımda verdiğim tepkilerin aşırı olduğunu görüyorum." cümlesi öz eleştiri içerir çünkü hem eleştiren hem de eleştirilen aynı kişidir; kişi kendi geçmiş davranışlarını nesnel bir bakışla değerlendirerek olumsuz bir yargıya varmaktadır. "Şimdi düşündüğümde" ifadesi bu değerlendirmenin dışarıdan değil içeriden — kişinin kendisinden — geldiğini gösterir.
+
+## Varsayım, Saptama ve Dilek Cümleleri
+
+Gerçekte olmayan bir durumun varmış gibi ya da olan bir durumun yokmuş gibi kabul edilerek anlatıldığı cümleler varsayım cümlesidir. "Diyelim ki üniversiteyi kazandığını öğrendin, ilk kimi ararsın?" cümlesi varsayım içerir çünkü "diyelim ki" ifadesi gerçekte olmayan ya da henüz gerçekleşmemiş bir durumu sanki olmuş gibi kabul etmeyi sağlar; bu hipotetik çerçeve üzerinden bir soru sorulmaktadır. Saptama ya da dilek cümlelerinden farkı şudur: varsayımda bir durum gerçekmiş gibi farz edilirken saptamada durum zaten gerçektir, dilekte ise gerçekleşmesi arzulanır.
+
+Bir durumu şüphe götürmeyecek şekilde ortaya koyan cümleler saptama cümlesidir. "Ahmet Rasim eserlerinde İstanbul Türkçesini kullanır." kesin bir saptamadır çünkü bu bilgi eserlerin incelenmesiyle herkes tarafından doğrulanabilir; kuşkuya ya da kişisel yoruma yer yoktur. Saptama cümlelerini öznel cümlelerden ayıran temel özellik bu doğrulanabilirliktir.
+
+Bir dileği ya da isteği dile getiren cümleler dilek cümlesidir. "Yağmur yağsa, tabiat suya doysa..." cümlesi dilekte bulunmaktadır çünkü "-sa/-se" eki burada bir koşul değil, gerçekleşmesi arzu edilen bir isteği ifade etmektedir; üç nokta da cümlenin özlem dolu bir beklentiyle yarım bırakıldığını gösterir. Koşul cümlelerinde "-sa/-se" bir yargıyı koşula bağlarken dilek cümlelerinde aynı ek istek ve arzu anlamı taşır.
+
+## Kanıksama, Küçümseme ve Azımsama Cümleleri
+
+Kişinin tekrarlanan olumsuz durumlara alıştığını ifade eden cümleler kanıksama cümlesidir. "Okuyucu onun sıkı dilini artık umursamıyordu." cümlesi kanıksama bildirir çünkü "artık" sözcüğü bir durumun tekrar edene kadar sıradanlaştığını işaret eder; okuyucu başlangıçta dikkat çekici ya da zorlaştırıcı olan sıkı dile zamanla alışmış ve bunu umursamaz hâle gelmiştir.
+
+Hor görmeyi ya da küçük görmeyi ifade eden cümleler küçümseme cümlesidir. "Bu öyküyü ilkokul öğrencisi bile yazar." cümlesi küçümseme içerir çünkü "bile" sözcüğü beklentinin çok altında bir ölçütü — ilkokul öğrencisini — örnek göstererek eserin değerini en alt düzeye indirir; öykünün son derece basit ve yetersiz bulunduğunu ima eder.
+
+Bir şeyin beklenenden az bulunmasını ifade eden cümleler azımsama cümlesidir. "Onca emeğin maddi karşılığı senin gözünde bu kadar mı?" cümlesi azımsamayı dile getirir çünkü "bu kadar mı?" yapısı harcanan emeğin karşılığında elde edilenin beklenenin çok altında kaldığı kanaatini ifade eder; alınan karşılık yetersiz bulunmaktadır.
+
+Gerçekleşmemiş beklentiyi ifade eden cümleler ise beklentinin olumlu sonuçlanmadığını anlatır. "Bu kış yağış çok olur sanmıştım." cümlesi gerçekleşmemiş beklentiyi ifade eder çünkü "sanmıştım" geçmiş zamanda sahip olunan bir beklentiyi, "-dı" eki ise bu beklentinin artık geçmişte kaldığını — yani gerçekleşmediğini — göstermektedir; kişinin beklediği şey olmamıştır.
+
+---

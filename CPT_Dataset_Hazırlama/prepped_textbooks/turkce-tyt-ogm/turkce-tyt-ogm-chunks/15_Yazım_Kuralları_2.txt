@@ -1,0 +1,59 @@
+# Yazım Kuralları 2
+
+## Sayıların Yazılışı
+
+Sayılar harflerle de yazılabilir: bin yıldan beri, on dört gün, haftanın beşinci günü, üç ayda bir, yüz soru. Saat, para tutarı, ölçü, istatistik verilerine ilişkin sayılarda rakam kullanılır: 17.30'da, 1.500.000 lira, 25 kilogram, 15 metre kumaş. Saatler ve dakikalar metin içinde yazıyla da yazılabilir: saat dokuzu beş geçe, saat yediye çeyrek kala.
+
+Dört veya daha çok basamaklı sayıların okunuşunu kolaylaştırmak için bin, milyon, milyar ve trilyon sözleri harfle yazılabilir: 1 milyar 500 milyon kişi, 3 bin 255 kalem.
+
+Dört ve daha çok basamaklı sayılar sondan sayılmak üzere üçlü gruplara ayrılarak yazılır ve aralarına nokta konur: 4.567, 326.197, 49.750.812.
+
+Yüzde ve binde işaretleri yazılırken sayılarla işaret arasında boşluk bırakılmaz: %25, %50.
+
+Sayılarda kesirler virgülle ayrılır: 15,2 (on beş tam onda iki), 5,26 (beş tam yüzde yirmi altı).
+
+Sıra sayıları rakamla gösterildiğinde ya rakamdan sonra nokta konur ya da kesme işareti konularak ek yazılır: 15. ya da 15'inci, XX. ya da XX'nci. Ancak iki yöntem aynı anda kullanılmaz; "8.'inci" yanlış, "8'inci" ya da "8." doğrudur.
+
+Üleştirme sayıları rakamla değil yazıyla belirtilir: ikişer (2'şer değil), dokuzar (9'ar değil), yüzer (100'er değil).
+
+## Kısaltmaların Yazımı
+
+Kuruluş, ülke, kitap, dergi ve yön adlarının kısaltmaları her kelimenin ilk harfinin büyük olarak yazılmasıyla oluşturulur: TDK (Türk Dil Kurumu), KB (Kutadgu Bilig), B (batı), D (doğu). Geleneksel olan T.C. ve T. (Türkçe) kısaltmalarının dışında büyük harflerle yapılan kısaltmalarda nokta kullanılmaz.
+
+Bazen kelimelerin birkaç harfi kısaltmaya alınarak telaffuzu kolaylaştırıcı bir sözcük elde edilmeye çalışılır: BOTAŞ, İLESAM, TÖMER gibi.
+
+Ölçü birimlerinin uluslararası kısaltmaları kullanılır ve bunlarda nokta kullanılmaz: cm, g, l, mg, m².
+
+Büyük harflerle yapılan kısaltmalara getirilen eklerde kısaltmanın son harfinin okunuşu esas alınır: TDK'den, THY'de, TRT'den. Ancak kelime gibi okunan kısaltmalara getirilen eklerde kısaltmanın okunuşu esas alınır: ASELSAN'da, BOTAŞ'ın, NATO'dan.
+
+Sert ünsüzle biten kısaltmalar ek aldıklarında okunuşta sert ses yumuşatılmaz: AGİK'in (AGİĞ'in değil), RTÜK'e (RTÜĞ'e değil).
+
+Küçük harflerle yapılan kısaltmalara getirilen eklerde kelimenin okunuşu esas alınır: cm'yi, kg'dan, mm'den.
+
+## Ek Fiilin Yazılışı
+
+Ek fiilin çekimli biçimleri olan "idi, imiş, ise" ayrı yazılabildiği gibi bitişik olarak da yazılabilir. Ünsüzle biten kelimelere bitişik yazıldığında baştaki "i" ünlüsü düşer ve büyük ünlü uyumuna uyar: yorgundu (yorgun idi): "yorgun" ünsüzle bittiği için "idi" bitişik yazılmış, baştaki "i" düşmüş ve büyük ünlü uyumuna uyarak "du" biçimini almıştır. güzelmiş (güzel imiş): "güzel" ünsüzle bittiği için "imiş" bitişik yazılmış, baştaki "i" düşmüş ve ünlü uyumuna uyarak "miş" biçimini almıştır. gelirse (gelir ise): "gelir" ünsüzle bittiği için "ise" bitişik yazılmış, baştaki "i" düşmüş ve "se" biçimini almıştır. Ünlüyle biten kelimelere bitişik yazıldığında araya "y" ünsüzü girer ve baştaki "i" ünlüsü düşer: sonuncuydu (sonuncu idi): "sonuncu" ünlüyle bittiğinden araya "y" girmiş, "idi"nin başındaki "i" düşmüş ve "du" kalmıştır. yabancıymış (yabancı imiş): "yabancı" ünlüyle bittiğinden araya "y" girmiş, "imiş"in başındaki "i" düşmüş ve "mış" kalmıştır. neyse (ne ise): "ne" ünlüyle bittiğinden araya "y" girmiş, "ise"nin başındaki "i" düşmüş ve "se" kalmıştır.
+
+Ek fiilin zarf fiil biçimi olan "iken" de ayrı yazılabildiği gibi eklenerek de yazılabilir. Eklenerek yazıldığında baştaki "i" düşer: başlayacakken, çalışıyorken, durgunken. Ünlüyle biten kelimelere bitişik yazıldığında araya "y" girer: evdeyken, okuldalyken.
+
+## Bağlaç Olan Ki'nin Yazılışı
+
+Bağlaç olan "ki" ayrı yazılır: "bilmem ki" — "ki" burada bir düşünceyi bağlamak amacıyla kullanılmış bağlaçtır ve kendinden önceki sözcükten ayrı yazılır. "demek ki" — aynı şekilde bir sonuç ya da çıkarım bildiren bağlaç işleviyle kullanılmıştır, ayrı yazılır. "kaldı ki" — yine bağlaç işleviyle kullanılmış olup ayrı yazılır. Ancak birkaç örnekte "ki" bağlacı kalıplaşmış olduğu için bitişik yazılır: "belki" — "bel" + "ki"den oluşmuş, zamanla kalıplaşıp tek sözcük hâline gelmiştir, bitişik yazılır. "çünkü" — "çün" + "ki"den oluşmuş, kalıplaşmıştır, bitişik yazılır. "hâlbuki, mademki, meğerki, oysaki, sanki" — bunların hepsi "ki" bağlacını içeren ve tarihsel süreçte kalıplaşmış bileşik sözcüklerdir; bitişik yazılır. Şüphe ve pekiştirme göreviyle kullanılan "ki" de ayrı yazılır: "Ders bitti, zil çaldı mı ki?" — burada "ki" şüphe ya da pekiştirme bildirmekte ve ayrı yazılmaktadır. "Seni öyle göreceğim geldi ki." — burada "ki" duyguyu pekiştiren bir işlev taşımakta ve ayrı yazılmaktadır.
+
+## İkilemelerin Yazılışı
+
+İkilemeler ayrı yazılır: "adım adım" — aynı sözcüğün tekrarıyla oluşmuş bir ikilemdir; iki sözcük arasına virgül ya da tire konmadan ayrı yazılır. "ağır ağır" — yine aynı sözcüğün tekrarıyla oluşmuştur; ayrı yazılır. "bata çıka" — iki farklı fiilimsi kökünden oluşan ikilemlere örnektir; ayrı yazılır. "eski püskü" — biri anlamlı ("eski"), diğeri ikilemin ses uyumunu sağlamak için türetilmiş sözcükten ("püskü") oluşan ikilemdir; ayrı yazılır. "M" ile yapılmış ikilemeler de ayrı yazılır: "at mat" — "at" sözcüğünün başına "m" getirilmesiyle oluşturulmuş "m'li ikilem"dir; iki parça ayrı yazılır. "çocuk mocuk, dolap molap, kitap mitap" — aynı kuralla, sözcüğün başına "m" eklenerek oluşturulmuş "m'li ikilemeler"dir; ayrı yazılır. İsim durum ekleri ve iyelik ekiyle yapılan ikilemeler de ayrı yazılır: "baş başa" — yönelme/kalma ekiyle oluşturulmuş ikilemdir; ayrı yazılır. "günden güne" — ayrılma hâli ekiyle oluşturulmuş ikilemdir; ayrı yazılır. "ardı ardına" — iyelik ve yönelme ekiyle oluşturulmuş ikilemdir; ayrı yazılır. "boşu boşuna" — iyelik ve yönelme ekiyle oluşturulmuştur; ayrı yazılır.
+
+## Pekiştirmeli Sözlerin Yazılışı
+
+Sıfat veya zarf görevindeki pekiştirmeli sözler bitişik yazılır: "apaçık" — "açık" sözcüğüne "ap-" pekiştirme hecesi getirilmiş, "a" ünlüsü türemiş ve tek sözcük hâlinde bitişik yazılmıştır. "çepeçevre" — "çevre" sözcüğüne "çep-" pekiştirme hecesi getirilmiş, "e" ünlüsü türemiş ve bitişik yazılmıştır. "dümdüz" — "düz" sözcüğüne "düm-" pekiştirme hecesi getirilmiş, bitişik yazılmıştır. "sapasağlam" — "sağlam" sözcüğüne "sap-" pekiştirme hecesi getirilmiş, "a" ünlüsü türemiş ve bitişik yazılmıştır. Bu sözcüklerin tamamında pekiştirme hecesi anlamı güçlendirir ("apaçık" = son derece açık) ve sözcük bitişik yazılır çünkü kalıplaşmış tek bir birimdir.
+
+## Soru Eki Mi/Mı/Mu/Mü'nün Yazılışı
+
+Soru eki geleneksel olarak ayrı yazılır ve ünlü uyumuna uyar: "Kaldı mı?" — "kaldı"nın son ünlüsü "ı" olduğu için soru eki "mı" biçimini almış ve ayrı yazılmıştır. "Sen de mi geldin?" — "de"nin son ünlüsü "e" olduğu için soru eki "mi" biçimini almış ve ayrı yazılmıştır. "Olur mu?" — "olur"un son ünlüsü "u" olduğu için soru eki "mu" biçimini almış ve ayrı yazılmıştır. Soru ekinden sonra gelen ekler bu eke bitişik olarak yazılır: "Okuyor muyuz?" — soru eki "mu" ayrı yazılmış, ardından gelen kişi eki "-yuz" buna bitişik yazılmıştır: "mu+yuz". "Çocuk muyum?" — soru eki "mu" ayrı, kişi eki "-yum" bitişik yazılmıştır. "Gelecek miydi?" — soru eki "mi" ayrı, ek-fiil "-ydi" bitişik yazılmıştır. Bu ek sorudan başka görevlerde kullanıldığında da ayrı yazılır: "Güzel mi güzel!" — burada "mi" soru bildirmez, pekiştirme anlamı taşır; yine de ayrı yazılır. "Yağmur yağdı mı dışarı çıkamayız." — burada "mı" koşul (-ınca) anlamı taşır ve ayrı yazılır.
+
+## Bağlaç Olan Da/De'nin Yazılışı
+
+Bağlaç olan "da/de" ayrı yazılır ve büyük ünlü uyumuna uyar: "Kızı da geldi gelini de." — "kızı"nın son ünlüsü "ı" (kalın) olduğu için bağlaç "da" biçimini almış ve ayrı yazılmıştır. "Durumu oğluna da bildirdi." — "oğluna"nın son ünlüsü "a" (kalın) olduğu için bağlaç "da" biçimini almış ve ayrı yazılmıştır. Bu bağlaç hiçbir zaman "ta/te" biçiminde yazılmaz: ünsüz sertleşmesi kuralı bu bağlaca uygulanmaz çünkü bağlaç, ek değil bağımsız bir sözcüktür. Bağlaç olan "da/de" önceki kelimeden kesme işaretiyle ayrılmaz: "Ayşe de geldi." doğrudur — "de" bağlaçtır, özel ada kesme işaretiyle bağlanmaz. "Ayşe'de geldi." yanlıştır — bu yazım "Ayşe"de bulunma anlamı verir; oysa kasıt "Ayşe de" bağlacıdır.
+
+---

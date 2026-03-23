@@ -1,0 +1,31 @@
+# Ses Bilgisi 2
+
+## Ünsüz Harfler
+
+Ses yolunda bir engele çarparak çıkan seslere ünsüz denir. Türkçede "b, c, d, g, ğ, j, l, m, n, r, v, y, z" ünsüzleri yumuşak; "ç, f, h, k, p, s, ş, t" ünsüzleri ise serttir.
+
+## Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)
+
+Türkçede "ç, f, h, k, p, s, ş, t" sert ünsüzleri ile biten sözcüklere "c, d, g" ünsüzleriyle başlayan bir ek getirilirse bu ünsüzler sertleşip "ç, t, k"ya dönüşür. Saf + ca → safça: "saf" sözcüğü "f" sert ünsüzüyle bittiğinden "c" sesi sertleşip "ç"ye dönüşmüştür. şaş + gın → şaşkın: "şaş" sözcüğü "ş" sert ünsüzüyle bittiğinden "g" sesi sertleşip "k"ya dönüşmüştür. seç + di → seçti: "seç" sözcüğü "ç" sert ünsüzüyle bittiğinden "d" sesi sertleşip "t"ye dönüşmüştür.
+
+## Ünsüz Yumuşaması (Ünsüz Değişimi)
+
+Türkçede "p, ç, t, k" sert ünsüzleri ile biten sözcüklere ünlü ile başlayan ekler geldiğinde bu ünsüzler yumuşayarak "b, c, d, g, ğ"ye dönüşür. Sarkaç + a → sarkaca: "sarkaç" sözcüğü "ç" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "ç" yumuşayıp "c"ye dönüşmüştür. çok + ul → çoğul: "çok" sözcüğü "k" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "k" yumuşayıp "ğ"ye dönüşmüştür. dert + i → derdi: "dert" sözcüğü "t" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "t" yumuşayıp "d"ye dönüşmüştür. kalp + im → kalbim: "kalp" sözcüğü "p" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "p" yumuşayıp "b"ye dönüşmüştür.
+
+## Ünsüz Türemesi
+
+Arapçadan dilimize giren tek heceli bazı sözcükler, ünlüyle başlayan ek aldıklarında veya yardımcı fiille birleştiğinde ünsüz türeyebilir. Sır → sırrımız: Arapça kökenli "sır" sözcüğü ünlüyle başlayan ek aldığında "r" ünsüzü ikizleşmiş ve "sırr-ımız" biçimi oluşmuştur. zan + etmek → zannetmek: Arapça kökenli "zan" sözcüğü yardımcı fiille birleştiğinde "n" ünsüzü ikizleşmiş ve "zann-etmek" biçimi oluşmuştur.
+
+## Ünsüz Düşmesi
+
+Bazı sözcükler ek aldığında ünsüz düşmesi görülebilir. Minik + cik → minicik: "minik" sözcüğünün son "k" ünsüzü "-cik" eki gelince düşmüş ve "mini-cik" biçimi oluşmuştur. sağlık + cak → sağlıcak: "sağlık" sözcüğünün son "k" ünsüzü "-cak" eki gelince düşmüş ve "sağlı-cak" biçimi oluşmuştur. alçak + lı → alçalmak: "alçak" sözcüğünün son "k" ünsüzü yapım eki gelince düşmüş ve "alça-l-mak" biçimi oluşmuştur. ad + daş → adaş: iki "d" ünsüzü yan yana gelince biri düşmüş ve "adaş" biçimi oluşmuştur.
+
+## Kaynaştırma Ünsüzleri
+
+Türkçe sözcüklerde iki ünlü yan yana bulunmaz. Ünlü ile biten bir sözcüğe ünlü ile başlayan ekler gelecek olursa araya "y, ş, s, n" kaynaştırma ünsüzlerinden biri girer.
+
+## "n-m" Değişimi
+
+Türkçede "b"den önce "n" bulunmaz; "b" sesi kendinden önce gelen "n"leri "m"ye çevirir. Tenbel → tembel: "ten-bel" sözcüğünde "b"den önce gelen "n" sesi "b"nin etkisiyle "m"ye dönüşmüş ve "tembel" biçimi oluşmuştur. saklanbaç → saklambaç: "saklan-baç" sözcüğünde "b"den önce gelen "n" sesi "m"ye dönüşmüş ve "saklambaç" biçimi oluşmuştur. Bu değişim Türkçede zorunlu bir ses uyumudur: "b"den önce asla "n" bulunmaz.
+
+---

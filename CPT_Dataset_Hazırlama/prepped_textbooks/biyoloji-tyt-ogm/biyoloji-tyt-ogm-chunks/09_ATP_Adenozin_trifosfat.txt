@@ -1,0 +1,15 @@
+# ATP (Adenozin trifosfat)
+
+Güneş enerjisi, fotosentez yapan canlılar tarafından organik besinlerin yapısında kimyasal bağ enerjisine dönüştürülür. Besinlerde depolanan kimyasal enerji hücrelerde solunumla açığa çıkarılır ve açığa çıkan serbest enerjiyi depolayan ATP (Adenozin trifosfat) molekülüdür. ATP hücrelerde elektrik, hareket gibi farklı enerjilere dönüştürülür.
+
+ATP (adenozin trifosfat) nükleotit yapılı bir moleküldür. Azotlu organik baz (adenin), beş karbonlu şeker (riboz) ve üç fosfat grubundan oluşur. Adenin organik bazı ile riboz arasında glikozit bağı, riboz şeker ile fosfat grubu arasında ester bağı, fosfat molekülleri arasında fosfat bağları vardır.
+
+Adenin azotlu organik bazına riboz şekerin bağlanmasıyla adenozin oluşur. Adenozin molekülüne bir fosfatın bağlanmasıyla adenozin monofosfat (AMP), AMP'ye bir fosfatın bağlanmasıyla adenozin difosfat (ADP), ADP'ye bir fosfatın bağlanmasıyla da adenozin trifosfat (ATP) oluşur.
+
+ATP büyük organik molekül olduğundan hücre dışına çıkamaz, dolayısıyla bir hücreden diğerine aktarılamaz. Bu nedenle her hücre ihtiyaç duyduğu ATP'yi kendisi üretir. ATP enerjisi gerektiren reaksiyonlar da hücre içinde gerçekleşir. ATP molekülünün hücrede solunum olayı ile yapımına ve metabolik faaliyetlerde kullanılmak için yıkımına ATP döngüsü  denir. ADP'ye bir fosfat bağlanması ile ATP molekülünün sentezine fosforilasyon denir. Ayrıca ATP'nin yapımı enerji gerektiren (endergonik) bir reaksiyondur. ADP ve ATP birbirine dönüşerek enerji döngüsünü oluşturur. ATP'nin yapısından bir fosfat molekülünün ayrılmasına yani ATP tüketilmesine defosforilasyon denir. Bir molekül ATP'nin hidrolizi sonucu adenozin difosfat (ADP) ve inorganik fosfat ($P_i$) ile serbest enerji açığa çıkar. Açığa çıkan bu enerji canlılık faaliyetleri için kullanılır. ATP'nin yıkımı enerji açığa çıkaran (ekzergonik) tepkimelerdir.
+
+ATP depolanamaz, sürekli kullanılan ve yenilenebilen bir moleküldür. Hücre içinde üretilir ve tüketilir. Üretimi ve tüketimi birbirini takip eden döngü şeklinde süreklilik gösterir.
+
+Canlılar hücre zarından madde taşıma, hücre bölünmesi, organik madde sentezi, hareket, sinirsel iletim ve üreme gibi yaşamsal faaliyetler için enerjiye ihtiyaç duyar. ATP bu enerjiyi karşılayan temel moleküldür.
+
+Yaşamın devamı, enerjinin varlığı ve dönüşümü ile mümkündür. ATP canlıların pek çok reaksiyonu gerçekleştirmek için ihtiyaç duyduğu enerji molekülüdür. Tüm hücrelerde ATP molekülü bulunur. ATP sentezlenmeyen hücrelerde canlılık son bulur. Ayrıca hücrelerde büyüme, üreme, hareket, biyosentez, aktif taşıma gibi birçok metabolik faaliyet ATP molekülü sayesinde geçekleşir ve ATP tüm metabolik olayların ayrılmaz parçasıdır. ATP sitoplazma, mitokondri ve kloroplast gibi yapılarda sentezlenir. Oluşumu dehidrasyon, parçalanması hidroliz tepkimesiyle gerçekleşir.

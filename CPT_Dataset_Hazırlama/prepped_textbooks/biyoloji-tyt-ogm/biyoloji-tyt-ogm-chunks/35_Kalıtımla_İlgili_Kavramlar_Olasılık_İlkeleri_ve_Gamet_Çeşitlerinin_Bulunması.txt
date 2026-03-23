@@ -1,0 +1,35 @@
+# Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması
+
+Gen: Bir karakterin oluşumunda etkili olan DNA parçasıdır. Genler, özelliklerin bir nesilden diğer nesile aktarılmasını sağlar.
+
+Kalıtsal bilgileri taşıyan, DNA ve proteinden oluşan yapıdır. Bölünme sırasında kromatin ipliklerin kısalıp kalınlaşarak özel katlanmaları sonucu oluşur. Bir genin kromozom üzerindeki özgül yerleşim yeridir (çoğul: lokuslar).
+
+Diploit (2n) canlılarda biri anneden diğeri babadan gelen ve aynı özelliğin genlerini taşıyan kromozomlardır. Aleller; homolog kromozomların karşılıklı lokuslarında yer alan, biri anneden diğeri babadan gelen ve aynı karaktere etki eden gen çiftine denir. Bir genin farklı alelleri, aynı harfin büyüğü ya da küçüğü ile sembolize edilir. Bir karakterle ilgili genin aynı alellerine sahip canlılardır. Homozigot bireyler mayozla tek çeşit gamet oluşturur.
+
+Örnek: DD homozigot yuvarlak tohumlu bezelye, dd homozigot buruşuk tohumlu bezelye Bir karakterle ilgili genin farklı alellerine sahip canlılardır. Heterozigot bireyler, mayozla iki çeşit gamet oluşturur. Heterozigot durumda canlının fenotipinde etkisini gösteren aleldir ve büyük harf ile gösterilir (A, B, C, D, E, ..). Baskın fenotipli bireylerin genotipi homozigot (AA) ya da heterozigot (Aa) olabilir. Heterozigot durumdayken canlının dış görünüşünde etkisini gösteremeyen genlerdir ve küçük harf ile gösterilir (a, b, c, d, e,.). Çekinik fenotipli bireylerin genotipleri her zaman homozigottur (aa). Bir bireyin sahip olduğu genlerin (baskın ve çekinik) tamamıdır. Diploit canlının (2n) genotipinde her bir özellik için aynı harfin büyüğü ve küçüğü bir arada yazılır. Haploit (n) canlıda her bir özellik için birer gen bulunacağından sadece bir harf kullanılır. Canlının dış görünüşünde gözlenebilen ya da ölçülebilen özelliklerdir. Fenotip etkisini gösteren genin harfiyle ifade edilir. DD ve Dd genotipli bezelyelerin fenotipi yuvarlaktır ve D ile gösterilir. dd genotipli bezelyelerin fenotipi buruşuktur ve d ile gösterilir.
+
+Canlılar arasında çeşitlilik gösteren, dölden döle aktarılabilen, bireylerin sahip olduğu niteliklerin her birine karakter adı verilir. İnsanda göz rengi; bezelyede tohumun şekli, rengi ve çiçek rengi karaktere örnek olarak verilebilir.
+
+Bir karakterin her bir farklı tipine özellik denir. Göz renginin ela ya da yeşil olması, bezelye tohumunun düz ya da buruşuk olması yine bu tohumun sarı veya yeşil renge sahip olması özelliğe örnek olarak verilebilir.
+
+Karakter ve özellik kavramları şu şekilde örneklendirilebilir: göz rengi bir karakterdir; mavi, kahverengi ve yeşil göz rengi ise bu karakterin farklı özellikleridir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Göz rengi, kan grubu, renk körlüğü gibi fenotipik özelliklerin bazıları sadece genlerin etkisiyle; bazı fenotipik özellikler ise hem genlerin hem çevrenin etkisiyle meydana gelir. Çevre şartları (ısı, ışık, nem, ilaçlar gibi) genlerin işleyişinde değişiklikler yapar (modifikasyon) ancak genin yapısında bir değişiklik olmaz. İnsanda zekâ, boy uzunluğu, derinin bronzlaşması gibi özellikler bu duruma örnek verilebilir.
+
+Şansa bağlı bir olayın bir defa denenmesinden elde edilen sonuç, daha sonraki denemelerden elde edilen sonuçları etkilemez; bağımsız olayların sonuçları da bağımsızdır. Örneğin, madeni para havaya atıldığında her defasında tura veya yazı gelme olasılığı yine $\frac{1}{2}$'dir. Şansa bağlı iki bağımsız olayın aynı anda gerçekleşme olasılığı, ayrı ayrı olma olasılıklarının çarpımına eşittir; iki paranın ikisinin de aynı anda tura gelme olasılığı $\frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$'tür. Şansa bağlı bir olay iki ya da daha fazla yolla gerçekleşiyorsa olma olasılığı bağımsız olasılıkların toplamıdır; örneğin aynı anda atılan iki paradan birinin tura diğerinin yazı gelme olasılığı $\frac{1}{4} + \frac{1}{4} = \frac{2}{4}$'tür.
+
+Eşeyli üreyen canlılarda, mayoz sonucu oluşan n kromozomlu erkek ve dişi üreme hücrelerine gamet adı verilir ve gametler, her karakterle ilgili bir alel taşır. Karakterlere etki eden aleller farklı kromozomlar üzerinde ise bunlara bağımsız gen denir. Karakterlere etki eden aleller aynı kromozom üzerinde ise bunlara bağlı gen denir.
+
+1) Bağımsız genlerde gamet çeşidinin bulunması: Homozigot Alellerin Gametlere Taşınması: Bir ya da daha fazla karakter bakımından homozigot genotipli bireyler, mayozla tek çesit gamet oluşturur. Homozigot karakter sayısı gamet çeşitliliğini değiştirmez. Ayrıca AA, aa genotipli bireylerin oluşturacağı gametler tek çeşittir. Oluşabilecek gamet çeşidi sayısı $2^n$ ile hesaplanır. n heterozigot karakter sayısıdır.
+
+Verilen homozigot baskın (AA) ve homozigot çekinik (aa) bireylerde heterozigot gamet bulunmadığından her biri için  $2^n = 2^0 = 1$  çeşit gamet oluşur.
+
+Bir karakter bakımından bağımsız genlere sahip heterozigot bireyler, mayoz sonucu iki çeşit gamet oluştururlar. Bireylerin oluşturabileceği gamet çeşidi sayısı bulunurken $2^n$ formülünden yararlanılabilir. n, heterozigot karakter sayısını ifade eder. Ayrıca verilen heterozigot baskın (Aa) bireyde tek bir heterozigot gamet bulunduğundan $2^n = 2^1 = 2$ çeşit gamet oluşur. Heterozigot baskın durumda · Bir canlının genotipindeki heterozigot karakter sayısı arttıkça mayoz sonucu oluşturacağı gamet çeşidi sayısı artar.
+
+Bir bireyin oluşturabileceği gamet çeşidi sayısı, sahip olduğu heterozigot karakter sayısına göre $2^n$ formülüyle hesaplanır. Buna göre BBdd genotipi yalnızca tek çeşit gamet (Bd) oluştururken Bbdd genotipi iki çeşit gamet (Bd ve bd) oluşturur. AaDd genotipi dört çeşit gamet (AD, Ad, aD, ad) üretir; AaDDBb genotipi de yine dört çeşit gamet (ADB, ADb, aDB, aDb) oluşturur.
+
+Mendel yasaları, bağımsız genler için geçerlidir. Genetik ile ilgili problemlerde aksi belirtilmedikçe genlerin bağımsız olduğu varsayılır. Bağlı gen varsa ayrıca belirtilir.
+
+2) Bağlı genlerde gamet çeşidinin bulunması: Mayozda krossing over veya mutasyon yoksa, bağlı genler birlikte hareket edip aynı gamete geçerler.
+
+Krossing over (mayoz sırasında homolog kromozomlar arasında gen alışverişi) olduğunda bu genler birbirinden ayrılabilir. Bu durumda meydana gelebilecek gamet çeşidi, bağımsız genlerde olduğu gibi toplam heterozigot gen sayısı alınarak $2^n$ formülü ile hesaplanır. Krossing over olayı, gamet çeşitliliğinin artmasını sağlar. Çünkü krossing over sonucunda yeni gen kombinasyonlarına sahip kromozomlar oluşur ve gamet çeşitliliği artar. Ayrıca genler arasındaki mesafe ile krossing over meydana gelme olasılığı doğru orantılıdır. Bağlı genler birbirinden ne kadar uzak ise krossing over ile ayrılarak farklı gametlere gitme olasılığı o kadar yüksektir.

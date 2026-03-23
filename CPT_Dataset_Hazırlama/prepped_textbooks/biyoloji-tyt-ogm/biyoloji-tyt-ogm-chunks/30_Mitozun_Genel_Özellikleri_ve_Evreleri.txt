@@ -1,0 +1,27 @@
+# Mitozun Genel Özellikleri ve Evreleri
+
+Mitoz; tek hücreli ökaryotlarda üremeyi sağlarken çok hücrelilerde organizmanın büyümesini, gelişmesini ve yıpranan kısımların onarılmasını sağlar. Ancak hücre gibi karmaşık bir yapının bölünmesi sadece ikiye ayrılma şeklinde gerçekleşen basit bir olay değildir. Mitozun diğer bir amacı da ana hücredeki kalıtım maddesinin yavru hücrelere aynen ve eşit şekilde aktarılmasıdır. Mitoz, interfazın sonu ile başlayan ve birbirini takip eden evrelerden oluşur.
+
+Hücre bölünmesi interfaz ve mitotik evre olmak üzere iki temel aşamadan oluşmaktadır. Mitotik evre de kendi içinde iki alt aşamaya ayrılır: çekirdek bölünmesi olan mitoz (karyokinez) ve sitoplazma bölünmesi olan sitokinez. Mitozun dört alt evresi ise sırasıyla profaz, metafaz, anafaz ve telofazdır. Bazı hücre tiplerinin mitoz yeteneği yoktur. Örneğin, memelilerin kanında bulunan alyuvar hücreleri olgunlaşırken çekirdeklerini kaybeder. Bu hücreler mitoz geçiremediği için bir süre sonra ölür ve kemik iliği tarafından yeni alyuvar hücreleri üretilir.
+
+Mitotik evre, bölünme ile ilgili tüm hazırlıklar yapıldıktan sonra bölünmenin gerçekleştiği evredir. Farklı kromozom takımlarına sahip (n, 2n, 3n gibi) hücrelerde gerçekleşebilir.
+
+Ökaryotik tek hücrelilerde üremeyi; çok hücrelilerde ise çoğunlukla büyümeyi, gelişmeyi, yenilenmeyi, kromozom yapısı ve sayısı değişmediğinden kalıtsal devamlılığı sağlar.
+
+1. Mitoz (Karyokinez): Profaz, metafaz, anafaz ve telofaz olmak üzere dört evrede gerçekleşir. Profaz başlangıcında kromatin iplikler kısalarak kromozom hâlini almaya başlar. Çekirdekçikler kaybolur. Ayrıca çekirdek zarı ve endoplazmik retikulum parçalanmaya başlar. Mitotik iğ iplikleri oluşur. Her bir kromozom sentromer bölgelerinden birbirine tutunmuş özdeş iki kromatitten oluşur. Sentrozoma sahip olan hücrelerde interfazda eşlenen sentrozomlar, birbirinden uzaklaşır ve zıt kutuplara doğru gider. Profaz sonuna doğru çekirdek zarı parçalanır.
+
+İğ ipliklerine kinetokorlarından tutunmuş kromozomlar, hücrenin ekvatoral düzleminde (metafaz plağı) yan yana dizilir. Metafaz, kromozomların en belirgin görüldüğü evredir.
+
+Kardeş kromatitler ayrılarak zıt kutuplara çekilir. Bu olay, anafazın başlangıcı olarak kabul edilir. Kardeş kromatitler, kutuplara gitmek üzere ayrıldığında artık kromozom olarak adlandırılır. Ayrıca kromozomlar kutuplara ulaştığında anafaz tamamlanır.
+
+Çekirdek zarının yeniden oluşmasıyla iki çekirdekli bir hücre oluşur. Iğ iplikleri kaybolur. Ayrıca çekirdekçikler yeniden oluşur. Kromozomlar kromatin ipliklere dönüşür ve çekirdek bölünmesi tamamlanır. Genellikle telofazın sonuna doğru bitki hücrelerinde orta lamel (ara plak) oluşumu, hayvan hücrelerinde sitoplazma boğumlanması başlar.
+
+Profazda meydana gelen olaylar, bitki hücrelerinde hayvan hücrelerine göre farklılıklar gösterir. Bunlardan biri mitotik iğ ipliklerinin oluşumunda görülür. Bitki hücrelerinde sentrozom olmadığı için iğ ipliklerini mikrotübül organize edici bölge oluşturur. Kromozomların büyüklüğüne ve biçimine göre çiftler hâlinde görüntülenmesi yöntemine karyotip denir. Metafazda kromozomların karyotipi çıkarılarak varsa sayı ve şekil bakımından kromozom anormallikleri belirlenir. Bu yöntemle bazı kalıtsal hastalıkların erken teşhisi konulur.
+
+2. Sitoplazma Bölünmesi (Sitokinez): Çekirdek bölünmesinin ardından meydana gelen sitoplazma bölünmesine sitokinez denir. Sitokinez genellikle telofazla başlar ve mitozun bitişinden kısa bir süre sonra iki yavru hücre oluşur. Sitokinez bitki ve hayvan hücrelerinde farklıdır. Hayvan hücrelerinde mikroflamentlerin kasılmasıyla hücre zarının her iki yönde dıştan içe boğumlanması, sitoplazmayı ikiye böler.
+
+Bitki hücrelerinde hücre duvarı bulunduğu için boğumlanma gerçekleşmez. Golgiden ayrılan keseciklerin orta lamel oluşturmasıyla sitoplazma bölünmesi sağlanır. Lamel oluşumu, ortada başlayıp merkezden kenarlara doğru iki yönde zara değinceye kadar devam eder.
+
+İnterfazda DNA eşlendiğinden miktarı iki katına çıkar. Sitokinezin tamamlanmasıyla hücreler ayrılırken oluşan her hücreye eşit miktarda DNA aktarılır. Böylece yeni hücreler, bölünmeye giren ata hücreyle aynı miktarda DNA'ya sahip olur.
+
+Anafazda kardeş kromatitler ayrılarak kromozoma dönüştüğünden hücrenin kromozom sayısı geçici olarak iki katına çıkar. Sitokinezde hücreler ayrıldığından her hücre başlangıçtaki ata hücrenin kromozom sayısına sahip olur. Mitoz sonucu oluşacak hücre sayısı $2^n$ ile hesaplanır (n = bölünme sayısı).

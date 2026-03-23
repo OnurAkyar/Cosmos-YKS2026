@@ -1,0 +1,11 @@
+# Sözcükte Anlam 3
+
+## Genel ve Özel Anlamlı Sözcükler
+
+Aynı türden varlıkları topluca ifade eden sözcükler genel, tek tek ifade eden sözcükler özel anlamlıdır. "Ağaç" genel anlamlı bir sözcükken "çam" özel anlamlıdır; çünkü ağaç türlerinden yalnızca birini karşılar. "Kuş" genel anlamlıdır çünkü serçe, kartal, güvercin, papağan gibi tüm kuş türlerini kapsar; hiçbirini dışarıda bırakmaz. "Bülbül" özel anlamlıdır çünkü kuş türleri arasından yalnızca belirli bir ötücü kuşu adlandırır. "Çiçek" genel anlamlıdır çünkü gül, lale, papatya, menekşe gibi tüm çiçek türlerini kapsar. "Gül" özel anlamlıdır çünkü çiçek türleri arasından yalnızca dikenli sapı ve katmanlı taçyaprağıyla tanınan belirli bir türü ifade eder. Genel anlamlı sözcükler daha geniş bir kapsamı, özel anlamlı sözcükler ise bu kapsamın içindeki belirli bir varlığı karşılar.
+
+## Yansıma Sözcükler
+
+Doğadaki seslerin taklit edilmesiyle oluşan sözcüklerdir. Bu sözcükler, insanın ya da doğanın çıkardığı sesleri dile yansıtır. "Arıların vızıltıları bahçenin her yerinden duyuluyordu." cümlesinde "vızıltı" yansıma sözcüktür çünkü arıların çıkardığı o tiz, titrek sesi taklit edecek biçimde oluşturulmuştur; sözcüğü söylerken ağızdan çıkan ses gerçek arı sesine yaklaşır. "Dün akşamki maçta iki tane top patlatmışlar." cümlesinde "patlatmak" yansıma kökenlidir çünkü ani ve sert bir patlama sesini taklit eden "pat" kökünden türemiştir. "Arkadaşının kulağına bir şeyler fısıldadı." cümlesinde "fısıldamak" yansıma sözcüktür çünkü kısık ve hışırtılı konuşmayı ses bakımından yansıtan "fısıl" köküne dayanır. Yansıma sözcük kökleri isim köküdür; "şırıltı" suyun akış sesini, "gürültü" ise yüksek ve karmaşık sesi taklit eden yansıma köklerden türemiştir.
+
+---

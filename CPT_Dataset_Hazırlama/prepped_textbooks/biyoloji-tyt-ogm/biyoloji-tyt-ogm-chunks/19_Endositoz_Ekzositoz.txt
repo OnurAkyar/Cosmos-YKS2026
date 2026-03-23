@@ -1,0 +1,13 @@
+# Endositoz, Ekzositoz
+
+Büyük moleküllerin hücre zarının içeriye doğru çökmesiyle oluşan cepler yardımıyla enerji harcanarak hücre içine alınmasına endositoz denir. Bakteri ve mantar hücrelerinde hücre duvarı endositozu engeller. Endositoz, fagositoz ve pinositoz olmak üzere iki şekilde gerçekleşir.
+
+Endositoz olayında Hücre zarının bir kısmı koparak koful oluşumuna katıldığı için hücre zarı yüzeyi küçülür. ATP harcanır. Ayrıca enzimler görev yapar. Her iki olayda da yoğunluk farkına bağlı olmaksızın tek yönlü taşıma gerçekleşir. Taşıma sırasında ATP harcanır.
+
+Büyük moleküllü katı partiküllerin hücre içine alınmasıdır. Büyük moleküllü katı partiküller hücre içine yalancı ayaklar (psödopod) yardımıyla alınır. Ayrıca hücre zarı bir çöküntü oluşturarak cep şeklini alır. Cep koparak sitoplazmaya geçer. Oluşan keseye besin kofulu denir. Sindirim enzimi taşıyan lizozom ile besin kofulu kaynaşır ve sindirilir. Insan vücudundaki akyuvarlar, yabancı mikroorganizmaları bu yolla yok eder. Örneğin; amip, öglena, paramesyum gibi tek hücreli ökaryot canlılar besinleri fagositoz ile hücre içine alır.
+
+Büyük moleküllü ve suda çözünebilen maddelerin hücre içine alınmasıdır. Hücre zarından gelişen cepler yardımıyla gerçekleşir. Ayrıca çözünmüş maddeler pinositoz cebinin iki ucunun birleşmesiyle oluşan besin kofulu içerisinde sitoplazmaya alınır. Pinositoz cepleri fagositoz ceplerinden daha küçüktür. Enzimlerin, bazı virüslerin ve antikorların alınması ile hormonların kan yoluyla taşınması pinositozla gerçekleşir.
+
+Hücre içinde bulunan büyük moleküllü maddelerin enerji (ATP) harcanarak kofullar yardımıyla endositozun tersi bir yöntemle hücre dışına verilmesine ekzositoz denir.
+
+Hücrede üretilen enzim, hormon, tükürük, süt gibi salgılar ve boşaltım kofullarında bulunan çeşitli atıklar ekzositoz ile hücre dışına verilir. Koful zarı, hücre zarı ile birleştiğinden hücre zarının yüzeyi büyür. Ayrıca bakteriler ve arkeler, zarlı organeller oluşturmadığı için endositoz ve ekzositoz yapamaz. Mantarlar ve bitki hücreleri, ekzositoz yapabilir. Örneğin; sindirim enzimleri, böcekçil bitkilerde ve ayrıştırıcı (çürükçül) mantarlarda bu yolla hücre dışına verilir. Maddelerin taşınım yönü yoğunluk farkına bağlı değildir. Enzimlere ihtiyaç duyulur. ATP harcanır.

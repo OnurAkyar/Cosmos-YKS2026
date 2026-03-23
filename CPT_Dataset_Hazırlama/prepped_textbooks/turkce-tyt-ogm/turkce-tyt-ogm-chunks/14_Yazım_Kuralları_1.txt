@@ -1,0 +1,47 @@
+# Yazım Kuralları 1
+
+## Büyük Harflerin Kullanıldığı Yerler
+
+Türkçede büyük harf kullanımı belirli kurallara bağlıdır.
+
+Cümleler büyük harfle başlar. Cümle içinde tırnak veya yay ayraç içine alınan cümleler de büyük harfle başlar ve sonlarına uygun noktalama işareti konur. Örneğin "Söylediklerimi bir kenara not etmelisin." ve "Atatürk 'Ben sporcunun zeki, çevik ve aynı zamanda ahlâklısını severim.' demiştir." cümleleri bu kurala örnektir. Ancak iki çizgi arasındaki açıklama cümleleri büyük harfle başlamaz: "Bu projede çalıştıktan sonra -gecikmiş olsan da- hedefe ulaşırsın." İki noktadan sonra cümle ya da özel ad niteliğinde olmayan örnekler sıralandığında bunlar da büyük harfle başlamaz: "Bence bir insanda olması gereken özellikler: merhamet, merhamet, merhamet…"
+
+Dizeler büyük harfle başlar.
+
+Özel adlar büyük harfle başlar. Bu kural pek çok alt başlık içerir. Kişi adları ve soyadları büyük harfle başlar: Mustafa Kemal Atatürk, Kâzım Karabekir, Ahmet Haşim, Yunus Emre, Karacaoğlan. Takma adlar da büyük harfle başlar: Muhibbi (Kanuni Sultan Süleyman), Server Bedi (Peyami Safa). Kişi adlarından önce ve sonra gelen ünvanlar, saygı sözleri, rütbe adları ve lakaplar büyük harfle başlar: Kaymakam Erol Bey, Sayın Prof. Dr. Hasan Eren, Zeynep Hanım, Mareşal Fevzi Çakmak. Akrabalık adı olup lakap ya da ünvan olarak kullanılan kelimeler büyük harfle başlar: Baba Gündüz, Nene Hatun, Susuz Dede, Telli Baba. Ancak akrabalık bildiren kelimeler küçük harfle başlar: "Suna teyzemi çok özledim."
+
+Hayvan adları büyük harfle başlar: Boncuk, Fındık, Minnoş, Pamuk.
+
+Millet, boy, oymak adları büyük harfle başlar: Alman, Arap, Japon, Türk; Kazak, Kırgız, Oğuz, Tatar.
+
+Dil ve lehçe adları büyük harfle başlar: Türkçe, Arapça, Kazakça.
+
+Devlet adları büyük harfle başlar: Türkiye Cumhuriyeti, Azerbaycan.
+
+Din ve mezhep adları ile bunların mensuplarını bildiren sözler büyük harfle başlar: Müslümanlık, Müslüman; Hristiyanlık, Hristiyan; Hanefilik, Hanefî.
+
+Din ve mitoloji ile ilgili özel adlar büyük harfle başlar: Tanrı, Allah, İlah, Cebrail, Zeus, Osiris. Ancak bu sözler özel ad olarak kullanılmadıklarında küçük harfle başlar: "Mahallenin müdavimleri kendini ilah sanıyor."
+
+Gezegen ve yıldız adları büyük harfle başlar: Merkür, Neptün, Satürn, Halley. Ancak "dünya, güneş, ay" kelimeleri gezegen anlamı dışında kullanıldığında küçük harfle başlar: "Senin geldiğini görünce dünyam aydınlandı."
+
+Düşünce, hayat tarzı, politika gibi anlamlar bildirdiğinde "doğu" ve "batı" sözleri büyük harfle başlar: Batı medeniyeti, Doğu mistisizmi. Yön bildirdiğinde ise küçük yazılır: Bursa'nın doğusu, Ankara'nın batısı.
+
+Yer adları büyük harfle başlar: Asya, Güneydoğu Anadolu, Trabzon, Akseki, Bahçelievler. Yer adlarında tür bildiren ikinci isimler de büyük harfle başlar: Ağrı Dağı, Aral Gölü, Fırat Nehri, Çanakkale Boğazı. Ancak özel ada dahil olmayan "şehir, il, ilçe, belde, köy" gibi sözler küçük harfle başlar: Konya ili, Etimesgut ilçesi.
+
+Mahalle, meydan, bulvar, cadde, sokak gibi yer adlarında bu sözcükler büyük harfle başlar: Halit Rifat Paşa Mahallesi, Karaköy Meydanı, Nene Hatun Caddesi, Cemal Nadir Sokağı.
+
+Kurum, kuruluş ve kurul adlarının her kelimesi büyük harfle başlar: Türkiye Büyük Millet Meclisi, Türk Dil Kurumu, Çankaya Lisesi. Kanun, tüzük, yönetmelik adlarının da her kelimesi büyük harfle başlar: Medeni Kanun, Türk Bayrağı Tüzüğü.
+
+Kitap, dergi, gazete ve sanat eserleri adlarının her kelimesi büyük harfle başlar: Safahat, Türk Dili, Resmî Gazete, Kaplumbağa Terbiyecisi. Ancak kitap ve dergi adlarında geçen "ve, ile, ya, veya, yahut, ki, da, de" bağlaçları ile "mı, mi, mu, mü" soru eki küçük harfle yazılır: Mai ve Siyah, Diyorlar ki.
+
+Tarihi olay, çağ ve dönem adları büyük harfle başlar: Kurtuluş Savaşı, Cilalı Taş Devri, Buzul Dönemi, Millî Edebiyat Dönemi.
+
+Özel adlardan türetilen bütün kelimeler büyük harfle başlar: Türklük, Türkleşmek, Türkçe, Bursalı, Darvinci. Ancak özel ad kendi anlamı dışında yeni bir anlam kazanmışsa küçük harfle başlar: acem (müzikte bir perde), donkışotluk (gereği yokken kahramanlık).
+
+Yer bildiren özel isimlerde kısaltmalı söyleyiş söz konusu olduğunda yer adının ilk harfi büyük yazılır: Hisar'dan, Boğaz'dan, Köşk'e.
+
+Para birimleri büyük harfle başlamaz: avro, dolar, lira. Müzikte kullanılan makam ve tür adları da büyük harfle başlamaz: acemaşıran, türkü, varsağı.
+
+Belirli bir tarih bildiren ay ve gün adları büyük harfle başlar: 29 Mayıs 1453 Salı günü. Belirli bir tarihi belirtmeyen ay ve gün adları ise küçük harfle başlar: "Üniversite bu yıl eylülde açılacak."
+
+---

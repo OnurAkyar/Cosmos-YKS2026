@@ -1,0 +1,35 @@
+# Zamir (Adıl)
+
+İsmin yerini tutan sözcüklerdir. İsme gelen çekim eklerini alır; tamlayan ya da tamlanan olarak kullanılabilir; hem tamlayan hem tamlanan olarak da kullanılabilir.
+
+## Zamir Türleri
+
+Kişi (şahıs) zamirleri kişi isimlerinin yerini tutar: "Ben de seni arıyordum." cümlesinde "ben" kişi zamiridir çünkü konuşan kişinin adının (örneğin "Ahmet de seni arıyordu") yerine geçmektedir; 1. tekil kişiyi temsil eden ismin yerini tutmaktadır.
+
+Dönüşlülük zamiri "kendi" sözcüğüdür. Kişi zamiriyle kullanıldığında yüklemi kişi yönünden pekiştirir: "Kendine güzel bir kahve yaptı." cümlesinde "kendine" dönüşlülük zamiridir çünkü yapılan işin (kahve yapma) hem faili hem de yararlanıcısı aynı kişidir; eylemin dönüşlü olarak kişinin kendisine yöneldiğini vurgular.
+
+İşaret zamirleri isimlerin yerini işaret yoluyla tutar: "Bu, hepimizin sorumluluğudur." cümlesinde "bu" işaret zamiridir çünkü yanında bir isim yoktur; bağlamdan anlaşılan belirli bir şeyin yerine geçmekte ve onu işaret etmektedir. Eğer yanında bir isim olsaydı (örneğin "bu iş") işaret sıfatı olurdu.
+
+Belgisiz zamirler isimlerin yerini belgisizlik yoluyla tutar: "Birçoğunu okumak için yanına aldı." cümlesinde "birçoğunu" belgisiz zamirdir çünkü kaç tane ya da hangi nesnelerin alındığı tam olarak belli değildir; belirsiz bir çoğunluğu temsil etmekte ve yanında isim olmadan ismin yerini tutmaktadır.
+
+Soru zamirleri isimlerin yerini soru yoluyla tutar: "Tatilde nereye gideceksiniz?" cümlesinde "nereye" soru zamiridir çünkü bir yer isminin yerine geçerek o yeri soru yoluyla sorgulamaktadır; yanında ayrıca bir isim yoktur.
+
+Ek hâlindeki zamirler de vardır. İyelik ekleri aynı zamanda iyelik zamirleridir: okulum, okulum, okulu, okulumuz, okulunuz, okulları. İlgi zamiri "-ki"dir; isim tamlamalarında tamlayan ekinden sonra gelerek tamlananın yerini tutar: "Senin sorun kolay, kardeşininki çok zor olmuş."
+
+## Zamirlerde Dikkat Edilmesi Gereken Noktalar
+
+"Bütün söylediklerinde hep o haklıydı." — burada "o" kişi zamiridir; belirli bir insanın adının yerine geçmekte ve özne işlevi taşımaktadır; bağlamdan bu kişinin belirli bir insan olduğu anlaşılmaktadır. "O, karşımda durmuş bana bakan bir kediydi." — burada "o" işaret zamiridir; belirli bir hayvanı (kediyi) işaret etmekte ve canlı olmakla birlikte kişi olmayan bir varlığın yerini tutmaktadır.
+
+"Bunu yeni aldım." — burada "bunu" işaret zamiridir çünkü yanında bir isim yoktur; bağlamdan anlaşılan bir nesnenin (örneğin kalemin) yerine geçmektedir. "Bu kalemi yeni aldım." — burada "bu" işaret sıfatıdır çünkü yanında bir isim (kalemi) vardır ve o ismi işaret yoluyla belirtmektedir. Ayırt etmenin temel kuralı: yanında isim varsa sıfat, ismin yerini tutuyorsa zamirdir.
+
+"Bu sorularda karşımıza çıkan bir konu." — burada "bu" işaret sıfatıdır çünkü virgül yoktur ve "bu" yanındaki isimle (sorularda) birlikte okunarak o soruları belirten bir sıfat işlevi görmektedir. "Bu, sorularda karşımıza çıkan bir konu." — burada "bu" işaret zamiridir çünkü virgül "bu"yu isimden ayırmakta ve "bu"nun bağımsız bir özne (zamir) olarak okunmasını sağlamaktadır; özne ile yüklem (bir konu) arasındaki ilişki virgülle netleşmektedir.
+
+"Kimi gayet güzel kitap okuyor." — burada "kimi" belgisiz zamirdir çünkü yanında bir isim yoktur; belirsiz bazı kişilerin yerini tutmaktadır ("kimi kişiler" anlamında). "Kimi insan gayet güzel kitap okuyor." — burada "kimi" belgisiz sıfatıdır çünkü yanında bir isim (insan) vardır ve o ismi belirsizlik bildirerek nitelendirmektedir.
+
+"Dışarıda ne duruyorsun?" — burada "ne" soru zarfıdır; fiili (duruyorsun) nitelendiren "niçin/nasıl?" anlamı taşıyan bir soru ifadesidir; fiili soru yoluyla belirtir. "Bütün bu söylediklerimden ne anladın?" — burada "ne" soru zamiridir; yanında isim yoktur ve "neyi anladın?" sorusundaki nesnenin yerini tutmaktadır. "Siz ne işler çeviriyorsunuz?" — burada "ne" soru sıfatıdır; yanında bir isim (işler) vardır ve o ismi soru yoluyla belirtmektedir.
+
+"-ki" cümlede üç farklı görevde kullanılabilir: "Büronun denizi Akdeniz'inkinden daha güzel." — burada "-ki" ilgi zamiridir; "Akdeniz'in denizi" yerine geçerek tamlananın (denizin) yerini tutmaktadır. "Dolaptaki çikolataların hepsini yedim." — burada "-ki" sıfat türeten yapım ekidir; "dolap"a eklenerek "dolaptaki" sıfatını oluşturmuş ve çikolatayı nitelemiştir. "Öyle bir baktı ki hepimiz korktuk." — burada "ki" bağlaçtır; iki yargıyı birbirine bağlamakta ve sonuç anlamı katmaktadır; ayrı yazılmaktadır.
+
+Türemiş zamir yoktur; zamirler yapım eki aldığında türünü kaybedip isim, sıfat ya da zarf olur: "Oraya sensiz gitmem." (zarf), "Sokaktayım, kimsesiz bir sokak ortasında;" (sıfat), "Bu araştırmamız insan benliği üzerine olacak." (isim).
+
+---

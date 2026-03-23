@@ -1,0 +1,35 @@
+# Fiilde Kip
+
+## Fiil (Eylem)
+
+İş, oluş, kılış, hareket bildiren sözcüklerdir. İş (kılış) fiilleri nesne alabilen fiillerdir ve "neyi?, kimi?" sorularına cevap verir: anla-, tanı-, oku-. Durum fiilleri ise nesne alamayan fiillerdir: uyu-, dinlen-, otur-. Oluş fiilleri kendiliğinden gerçekleşme anlamı taşıyan fiillerdir: sarar-, büyü-, olgunlaş-.
+
+Çekimli fiil, iş, oluş, kılış ve hareketi kip ve kişiye bağlayarak anlatan sözcüklerdir: oku-yor-um, gel-meli-sin. Bir fiil bir kip eki almışsa basit çekimli, birden çok kip eki almışsa birleşik çekimlidir: gel-ecek-ler (basit çekim), gel-ecek-ler-miş (birleşik çekim).
+
+## Haber (Bildirme) Kipleri
+
+Görülen (bilinen) geçmiş zaman eki "-dı/-di/-du/-dü/-tı/-ti/-tu/-tü"dür. Olumsuzu "bil-me-di-ler" gibi olumsuzluk ekiyle yapılır. Soru eki ayrı yazılır.
+
+Duyulan (öğrenilen) geçmiş zaman eki "-mış/-miş/-muş/-müş"tür.
+
+Şimdiki zaman eki "-(i)yor"dur.
+
+Gelecek zaman eki "-acak/-ecek"tir.
+
+Geniş zaman eki "-r/-ar/-er"dir; olumsuzunda "-maz/-mez" kullanılır.
+
+## Dilek (Tasarlama) Kipleri
+
+Gereklilik kipi eki "-malı/-meli"dir: gör-meli-y-im.
+
+İstek kipi eki "-a/-e"dir: görün-e-y-im.
+
+Dilek-şart kipi eki "-sa/-se"dir: bak-sa-m.
+
+Emir kipinin kip eki yoktur: yaz, yaz-sın, yaz-ın/yaz-ınız, yaz-sınlar. Birinci tekil ve çoğul kişi emir kipinde kullanılmaz.
+
+## Fiillerde Kip Kayması
+
+Fiilde kullanılan kip ile kastedilen kipin farklı olması durumudur. "Gelecek yıl Antalya'ya tatile gidiyoruz." cümlesinde şimdiki zaman kipiyle gelecek zaman anlamı verilmiştir. Bu kip kaymasıdır çünkü "-iyor" eki şimdiki zamana aittir; ancak "gelecek yıl" zaman zarfı eylemin henüz gerçekleşmediğini, yalnızca planlandığını gösterir. Kip ile zaman anlamı uyuşmamaktadır. "Geceleri yatmadan iki saat kitap okuyorum." cümlesinde şimdiki zaman kipiyle geniş zaman anlamı verilmiştir. Bu kip kaymasıdır çünkü "-iyor" eki şimdiki zamanı ifade etse de "geceleri" zarf ifadesi bu eylemin her gece tekrarlanan bir alışkanlığı — yani geniş zamanı — anlattığını gösterir; kip ile kastedilen zaman dilimi ayrışmaktadır.
+
+---

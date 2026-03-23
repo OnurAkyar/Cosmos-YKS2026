@@ -1,0 +1,21 @@
+# Peroksizom, Sentrozom, Hücre İskeleti
+
+Peroksizom, ökaryot hücrelerin tamamına yakınında bulunan bir organeldir. Tek katlı zarla çevrilidir. Oksitleyici ve antioksidan enzim içerir. Ayrıca elliye yakın farklı enzimi vardır.
+
+Zehirli maddelerin yok edilmesinden sorumludur. Ökaryotlarda oksijen kullanan ikinci organeldir. Diğeri ise mitokondridir. Ayrıca bazı peroksizomlar, yağ asitlerini mitokondrinin kullanabileceği daha küçük moleküllere dönüştürür. Böylece oksidasyon (oksitleyici) reaksiyon gerçekleştirmiş olur. Alkol, ilaç gibi zararlı maddelerin toksik etkilerini peroksidaz ve katalaz enzimleri ile yok eder. Hücre metabolizması sonucu oluşan hidrojen peroksit ($H_2O_2$) adlı zehiri antioksidan katalaz enzimiyle su ve oksijene ayrıştırır. Böylece hücresel yapılar ve moleküller, hidrojen peroksitin zararlı etkisinden korunmuş olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Hayvansal organizmalarda peroksizomlar; özellikle metabolik aktivitesi daha yüksek olan karaciğer, kalp, kas ve böbrek hücrelerinde daha fazla bulunur. Bitkilerde ise tohumlar ve yapraklar, peroksizom organeli bakımından daha zengindir. Sentrozom, hayvan hücrelerinin çoğunda ve ilkel yapılı bitki hücrelerinde çekirdeğe yakın bir yerde bulunan organeldir. Birbirine dik iki silindirik cisimden oluşur. Silindirik cisimler sentriyol adını alır. Ayrıca dokuz adet üçerli mikrotübülden meydana gelir.
+
+Hücre bölünmesinde görev alır. Hücre döngüsünün interfaz evresinde kendini eşler. Ayrıca sentriyoller ayrı kutuplara giderken iğ ipliklerini oluşturur. Iğ ipliklerine tutunan kromozomların kutuplara hareketini sağlar. Kamçı, sil gibi hücre hareketini sağlayan yapıların oluşumunda rol alır. Sentrozom bu yapıların dip kısımlarında bulunur.
+
+Kanser hastalığının tedavisinde kullanılan bazı ilaçlar, kanser hücrelerinde iğ ipliklerinin oluşumunu engelleyerek kanser hücrelerinin bölünmesini ve tümör dokusunun büyümesini önler.
+
+Sinir hücrelerinde, çizgili kas hücrelerinde, olgun alyuvarlarda, yumurtada, gelişmiş bitkilerin hücrelerinde, prokaryotlarda ve mantarlarda sentrozom yoktur.
+
+Sitoplazmada bulunan özel proteinlerin aralarında bağlar kurup, birleşerek oluşturduğu tüpsü ve ipliksi yapılara hücre iskeleti denir. Mikrofilament, arafilament ve mikrotübül adı verilen üç farklı yapıdan oluşur.
+
+Hücre iskeleti üç farklı yapıdan oluşur. Bunlardan mikrofilamentler en ince olanıdır; aktin proteinlerin üst üste dizilmesiyle oluşur, esnek yapıdadır ve hücrenin hareketine bağlı olarak sürekli oluşup ayrışabilir. Hayvanlarda kas hareketlerini, amiplerde yalancı ayak oluşumunu sağlar. Hücre bölünmesi sırasında boğumlanmada ve ince bağırsakta mikrovillus yapılarının oluşumunda görev alır.
+
+Arafilamentler mikrofilamentlerden kalın, mikrotübüllerden ince yapıdadır. Hücre tipine özgü çeşitli proteinlerin ipliksi biçimde üst üste sarılmasıyla oluşur. Hücre organellerinin yerini sabitler, hücreye şekil kazandırır ve gerilmeye karşı dirençli yapısı sayesinde vücut yüzeyindeki dokuların gerginliğini korur. Tırnak, tüy, balık pulu ve boynuz gibi yapıların oluşumunda da görev alır.
+
+Mikrotübüller ise tübülin proteinlerinden oluşan, içi boş uzun silindir biçimli yapılardır ve hücre iskeleti bileşenleri arasında en geniş çapa sahip olanlardır. Hücre içinde organellerin yer değiştirmesinde görevlidirler. Bitki hücrelerinde hücre duvarındaki selüloz liflerinin düzenlenmesini kontrol eder ve sentrozomun yapısına da katılırlar.

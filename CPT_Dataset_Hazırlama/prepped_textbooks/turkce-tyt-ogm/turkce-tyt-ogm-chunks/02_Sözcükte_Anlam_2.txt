@@ -1,0 +1,29 @@
+# Sözcükte Anlam 2
+
+## Eş Anlamlı (Anlamdaş) Sözcükler
+
+Yazılışları farklı, anlamları aynı olan sözcüklerdir. Örneğin "al" ve "kırmızı" eş anlamlıdır çünkü her ikisi de aynı rengi karşılar; "Al gül." yerine "Kırmızı gül." demek anlamı değiştirmez. "Kara" ve "siyah" eş anlamlıdır çünkü her ikisi de aynı rengi ifade eder; birinin yerine diğeri kullanıldığında cümlenin anlamında hiçbir farklılık oluşmaz. "Soru" ve "sual" eş anlamlıdır çünkü her ikisi de cevap beklenen ifadeyi karşılar; Türkçe kökenli "soru" ile Arapça kökenli "sual" aynı kavramı anlatır. "Yanıt" ve "cevap" eş anlamlıdır çünkü her ikisi de soruya verilen karşılığı ifade eder; bu sözcükler cümlede birbirinin yerine kullanılabilir, anlam değişmez.
+
+## Yakın Anlamlı Sözcükler
+
+Birbirinin yerini tam olarak tutmamakla birlikte cümle içinde birbirinin yerine kullanılabilen sözcüklerdir. Yakın anlamlı sözcükler arasında ince anlam farkları bulunur. "Çimlere basmayın, diyerek gençleri uyardı." cümlesinde "basmayın" ve "ezmeyin" sözcükleri yakın anlamlıdır. Her ikisi de ayakla üzerine kuvvet uygulamayı anlatır; ancak "ezmek" daha güçlü bir baskı ve zarar verme çağrışımı taşıdığından biri tam olarak diğerinin yerine geçemez — bu ince fark onları eş anlamlı değil, yakın anlamlı yapar. "Çocuklar bu akşam erkenden uyudu." cümlesinde ise "uyudu" ve "yattı" sözcükleri yakın anlamlıdır. "Yatmak" vücudun yatay konuma geçmesini, "uyumak" ise bilinç kaybını içerir; bu ince anlam farkı her ikisini de birbirinin tam yerine geçemeyen, yalnızca yakın anlamlı sözcükler yapar.
+
+## Zıt (Karşıt) Anlamlı Sözcükler
+
+Anlamca birbirinin tam tersini ifade eden sözcüklerdir. "Uzun-kısa" zıt anlamlıdır çünkü ikisi de boyutu ölçen aynı skalanın tam karşı uçlarını ifade eder. "Güzel-çirkin" zıt anlamlıdır çünkü estetik değerlendirmede olumlu ve olumsuz kutupları temsil eder. "Sıcak-soğuk" zıt anlamlıdır çünkü ısı skalasının birbirinin tam tersi iki ucunu karşılar. "Zengin-fakir" zıt anlamlıdır çünkü maddi durumu ekonomik olarak birbirinin zıddı şekilde niteler.
+
+## Sesteş (Eş Sesli) Sözcükler
+
+Yazılışları aynı fakat anlamları farklı olan sözcüklerdir. "çay" (bitki) ve "çay" (akarsu) sesteştir çünkü yazılışları ve okunuşları tamamen aynı olmasına rağmen aralarında hiçbir anlam ya da köken ilişkisi yoktur; bu çakışma yalnızca sessel bir rastlantıdır. "yüz" sözcüğü üç ayrı sesteş anlam taşır: sayı anlamındaki "yüz" (100), surat anlamındaki "yüz" (yüz ifadesi) ve "yüzmek" fiilinin kök biçimi olan "yüz-" bunların hiçbirinin diğeriyle anlam bağı yoktur; yalnızca aynı sesi paylaşırlar. Sesteş sözcükler eş anlamlıdan farklıdır: eş anlamlı sözcükler farklı seslerle aynı anlama gelirken sesteş sözcükler aynı sesle tamamen farklı anlamlara gelir.
+
+## Somut ve Soyut Anlamlı Sözcükler
+
+Beş duyu organından herhangi biriyle algılanabilen sözcükler somut, yalnızca zihin ve his yoluyla algılanabilen sözcükler ise soyut anlamlıdır. "Araba" somuttur çünkü gözle görülür ve elle dokunulabilir. "Su" somuttur çünkü hem gözle görülür hem de dokunma ve tatma duyularıyla algılanır. "Soğuk" somuttur çünkü dokunma duyusuyla doğrudan hissedilir. "Ses" somuttur çünkü işitme duyusuyla algılanır. "Işık" somuttur çünkü görme duyusuyla algılanır. "Akıl" soyuttur çünkü hiçbir duyu organıyla doğrudan algılanamaz; yalnızca zihinsel bir yeti olarak kavranır. "Sevgi" soyuttur çünkü görülemez, duyulamaz, dokunulamaz; yalnızca hissedilerek içten kavranır. "Nefret" soyuttur çünkü fiziksel bir varlığı yoktur, duyu organlarına hitap etmez. "Rüya" soyuttur çünkü yalnızca zihinsel bir deneyimdir; dış dünyada fiziksel karşılığı olmaz. "Zaman" soyuttur çünkü elle tutulamaz, gözle görülemez; yalnızca soyut olarak kavranır.
+
+## Nitel ve Nicel Anlamlı Sözcükler
+
+Varlıkları renk, durum, biçim bakımından belirten sözcükler nitel anlamlı; sayılabilen, ölçülebilen, derecelendirilebilen veya azalıp çoğalabilen yanlarıyla anlatan sözcükler ise nicel anlamlıdır.
+
+"Sınavdaki soruların kolay olması hepimizi şaşırtmıştı." cümlesinde "kolay" sözcüğü nitel anlamlıdır; soruların niteliğini, yani nasıl olduğunu belirtir. "Kolay" niteldir çünkü kolaylık standart bir ölçüm birimiyle sayısal olarak ifade edilemez; "Ne kadar kolay?" sorusuna rakamsal bir değer verilemez, yalnızca "nasıl?" sorusuna cevap verilir. Nitel sözcükler varlıkları renk, durum veya biçim bakımından niteler. "Bahçenin ortasındaki derin kuyuya bir teneke sallandırdı." cümlesinde "derin" sözcüğü nicel anlamlıdır; kuyunun ölçülebilir bir özelliğini, yani derinliğini belirtir. "Derin" nicelidir çünkü derinlik metre ya da santimetre gibi birimlerle somut olarak ölçülüp sayısal değer alabilir; "Ne kadar derin?" sorusuna rakamsal yanıt vermek mümkündür. Nicel sözcükler sayılabilen, ölçülebilen veya derecelendirilebilen nitelikleri ifade eder. "Kuşun ayaklarına dolaşan uzun ipi makasla kesip çıkardı." cümlesinde "uzun" sözcüğü nicel anlamlıdır; ipin ölçülebilir bir özelliğini, yani boyunu belirtir. "Uzun" nicelidir çünkü boy da metre ya da santimetre ile ölçülebilir; "Ne kadar uzun?" sorusuna kesin bir sayısal yanıt verilebilir. "Etrafımızda mutlu insanların olması bizi olumlu şekilde etkiler." cümlesinde "mutlu" sözcüğü nitel anlamlıdır; insanların duygusal durumunu, yani nasıl olduklarını belirtir. "Mutlu" niteldir çünkü mutluluk düzeyi standart birimlerle ölçülemez; "Ne kadar mutlu?" sorusuna nesnel, sayısal bir yanıt verilemez. Ölçülemeyen, yalnızca nitelik bildiren sözcükler niteldir.
+
+---

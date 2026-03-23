@@ -1,0 +1,17 @@
+# Fiilde Yapı
+
+Fiiller yapıları bakımından basit, türemiş ve birleşik olmak üzere üçe ayrılır.
+
+Basit fiiller kök hâlinde olup çekim eki alabilir ancak yapım eki almaz: "Çocukluğumu yeniden yaşamak isterdim."
+
+Türemiş fiiller yapım eki almış fiillerdir; isim ya da fiil kökünden türeyebilir: "Koşudan sonra çok susadım." (isim kökünden: su-sa-), "Bahçeye gelen kedileri kovaladı." (fiil kökünden: kov-ala-).
+
+Birleşik fiiller en az iki sözcüğün anlam ve biçim bakımından kaynaşmasıyla oluşur ve üç türü vardır.
+
+Kurallı birleşik fiiller belirli bir kural çerçevesinde oluşturulur. Yeterlik fiili "-e bil(mek)" yapısıyla: düşünebilmek, gülüvermek. Tezlik fiili "-i ver(mek)" yapısıyla: gidivermek, söyleyivermek. Sürerlik fiili "-a kal(mak), -e gel(mek), -e dur(mak)" yapısıyla: süregelmek, şaşakalmak. Yaklaşma fiili "-e yaz(mak)" yapısıyla: öleyazmak.
+
+Yardımcı eylemle kurulan birleşik fiiller isim + et-, ol-, kıl-, eyle- yapısıyla oluşturulur: yardım ettim, güçlü kıldı, uzakları yakın eylerim.
+
+Anlamca kaynaşmış birleşik fiiller mastar hâlindeki deyimler ve tek sözcükle fiilin kaynaştığı kalıplaşmış fiillerdir: gözüme kestirdi, başvurdum.
+
+---

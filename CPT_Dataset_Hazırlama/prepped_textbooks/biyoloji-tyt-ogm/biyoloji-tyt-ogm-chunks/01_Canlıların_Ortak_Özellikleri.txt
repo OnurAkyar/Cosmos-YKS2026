@@ -1,0 +1,63 @@
+# Canlıların Ortak Özellikleri
+
+Yaşam bilimi olarak da adlandırılan biyoloji; canlının yapısını, davranış şeklini, diğer canlılarla olan ilişkisini, yeryüzündeki dağılışını ve cansız faktörlerle ilişkisini inceler.
+
+Biyolojinin araştırma, inceleme ve uygulama alanı oldukça geniştir. Bu sebeple birçok alt bilim dalına ayrılmıştır. Bu alt bilim dalları, kendi konusuna göre ayrıntılı çalışmalarını sürdürür ve bilimsel çalışma sonuçlarını diğer bilim dallarıyla paylaşır. Bu paylaşımlardan tıp, veterinerlik, diş hekimliği, çevre mühendisliği, genetik mühendisliği, eczacılık, ziraat, uzay biyolojisi gibi bilim dalları faydalanır. Biyoloji bilimi ile ilgili çalışmalar bu bilim dalının güncel hayatla nasıl iç içe olduğunu da gösterir.
+
+Biyoloji; sağlık, gıda-beslenme ve çevre sorunlarına çözüm önerileri üreten, aynı zamanda biyolojik çeşitliliğin korunmasına yönelik çalışmalar yapan bir bilimdir.
+
+Canlıları cansız varlıklardan ayırmak ve canlıların ortak özelliklerini kavramak, biyolojinin en temel konularından olup biyolojinin günlük hayattaki önemini anlamaya da katkı sağlayacaktır.
+
+Canlıları cansız varlıklardan bir ya da birkaç özelliğine bakarak ayırt etmek zordur. Varlıkları canlı olarak nitelendirebilmek için hücresel yapı, beslenme, besinlerden enerji elde etme, boşaltım, hareket, uyarılara tepki, metabolizma, homeostazi, uyum, organizasyon, üreme, büyüme ve gelişme gibi özelliklere sahip olup olmadığına bakılır. Bu özelliklere sahip olan varlıklar canlı, varlıkların canlı olma durumu ise canlılık olarak tanımlanır. Bütün canlılar birbirinden farklı karakteristik özelliklere sahip olmalarına rağmen her canlı, özel fonksiyonlara sahip hücre ya da hücrelerden oluşur. Hücreler, organizmaların canlılık faaliyetlerini gerçekleştiren yapısal ve işlevsel en küçük birimleridir. Yapısal olarak iki çeşit hücre vardır:
+
+Çekirdeği ve zarlı organelleri bulunmayan hücrelere prokaryot hücre denir. Bakteriler ve arkeler prokaryot hücre yapısına sahip canlılardır. Bakteriler, prokaryot hücre yapısına sahip tek hücreli canlılardır.
+
+Çekirdeğe ve zarlı organellere sahip olan hücrelere ökaryot hücre denir. Öglena, paramesyum, amip, algler, mantarlar, bitkiler ve hayvanlar ökaryot hücre yapısına sahip canlılardır.
+
+Canlıların bazıları tek hücreli bazıları ise çok hücrelidir. Öglena, amip, paramesyum ve bakteri gibi canlılar tek hücreli olup gözle görülemez. Şapkalı mantarlar, bitkiler ve hayvanlar ise çok hücreli canlılardır ve gözle görülebilir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Ökaryot hücrelere özgü tek ya da çift katlı zara sahip hücre birimlerine organel denir. Prokaryot hücrelerde ise zarlı organel bulunmaz.
+
+Önemli bir nokta olarak belirtmek gerekir ki, her tek hücreli canlı prokaryot değildir. Ökaryot tek hücreli canlılar da vardır. Ancak her prokaryot canlı tek hücrelidir.
+
+Canlılar; büyüyüp gelişmek, yıpranan doku ve organlarını onarmak, enerji elde etmek ve düzenleyici faaliyetlerini devam ettirebilmek için besin maddelerine ihtiyaç duyar.
+
+Canlıların bir kısmı yaşadığı ortamdan su, mineral ve karbondioksit gibi inorganik maddeleri alıp güneş enerjisini veya kimyasal enerjiyi kullanarak ihtiyaç duyduğu organik besini üretir. Bu canlılara üretici (ototrof) canlılar denir. Bitkiler (tam parazit bitkiler hariç), algler (su yosunları) ve bazı tek hücreli canlılar üreticidir.
+
+Canlıların diğer bir kısmı ise inorganik maddelerden ihtiyaç duyduğu organik besinleri üretemez. Besinlerini yaşadıkları ortamdan hazır olarak alırlar. Bu canlılara tüketici (heterotrof) canlılar denir. Hayvanlar, mantarlar ve bazı tek hücreli canlılar tüketicidir.
+
+Canlılar, yaşamsal faaliyetlerini devam ettirebilmek için enerjiye ihtiyaç duyar. Bu enerji, besinlerin hücrede parçalanmasıyla elde edilen ATP (adenozin trifosfat) molekülünden karşılanır. Hücreler ATP'yi hücresel solunum ve fermantasyon ile üretir.
+
+Hücresel solunum oksijenli ve oksijensiz solunum olmak üzere iki çeşittir. Organik besinlerin yapı taşlarından oksijen yardımıyla ATP üretilmesi oksijenli solunum, oksijen olmaksızın farklı moleküller kullanılarak ATP üretimi oksijensiz solunum olarak adlandırılır.
+
+Bazı canlılar, solunum dışında elektron taşıma zinciri ve oksijen olmaksızın organik maddelerin enzimlerle daha küçük organik maddelere çevrilmesiyle ATP enerjisi üretebilir. Bu yıkım tepkimelerine de fermantasyon denir. Canlılar, hücrelerindeki düzeni korumak amacıyla metabolik faaliyetler sonucu oluşan atık maddeleri vücuttan uzaklaştırmak zorundadır.
+
+Tek hücreli canlılarda metabolik atıklar, hücre zarı ya da özelleşmiş organeller tarafından uzaklaştırılır. Örneğin; tatlı sularda yaşayan amip, öglena, paramesyum gibi tek hücreliler vücutlarındaki fazla suyu kontraktil koful (fazla suyu pompalayarak dışarı atan özelleşmiş organel) yardımıyla dışarı atar. Karbondioksit ve amonyak gibi atık gazlar ise hücre zarından dışarıya verilir.
+
+Gelişmiş yapılı bitkiler; atık maddeleri yaprak dökümü, terleme (transpirasyon: yapraklardan su buharı salınması), damlama (gutasyon: yaprak uçlarından su damlaması) ve kökleri yoluyla uzaklaştırır. Omurgalı hayvanlarda böbrekler, kandaki zararlı maddeleri süzerek idrarla; akciğerler, kandaki karbondioksiti solunum yoluyla vücuttan uzaklaştırır.
+
+Canlılar, çeşitli ihtiyaçlarını karşılamak için hareket eder. Bu ihtiyaçlar; avlanmak, göç etmek, üremek, yavrularını beslemek, ışık ve suya ulaşmak gibi çeşitli nedenlerle olabilir.
+
+Hayvanlarda hareket, çoğunlukla yer değiştirme şeklindedir ve kolaylıkla gözlemlenebilir. Hayvanlar hareket için bacak, kanat, yüzgeç gibi organlarını kullanır.
+
+Memeli bir hayvan olan çita, saatte 115 km hızla koşabilir. 108 km/saat hıza ise 3,1 saniyede çıkabilir. Bu sebeple avını yakalamak için yaptığı koşu, bir dakikadan az sürer. Tam hızlarına ulaştıklarında her adımda katettiği mesafe 15 metreye ulaşabilir. Bitkilerde hareket, yer değiştirme şeklinde değil durum değiştirme şeklindedir. Tek hücreli canlılar; kamçı, sil ve yalancı ayak gibi yapıları yardımıyla yer değiştirme hareketi yapar.
+
+Canlılarda durum değiştirmeye veya harekete sebep olan her türlü faktöre uyaran denir. Canlıların yaşadıkları ortamdaki ısı, ışık, su miktarı, avcı, kimyasal madde gibi dış uyarıları veya canlının kendi içinden gelen iç uyarıları alıp bunlara çeşitli tepkiler vermesi uyarana tepki olarak adlandırılır. Sıcak bir cisme dokunulduğunda elin hızla çekilmesi, uyarana verilen tepkidir. Canlılar olumlu uyaranlara yönelirken olumsuz uyaranlardan uzaklaşmaya çalışır. Lâle çiçekleri 15-20 °C sıcaklıkta açılarak, 5-10 °C sıcaklıkta ise kapanarak gün içerisindeki sıcaklık değişimlerine karşı kendini korur. Canlı hücrelerde gerçekleşen biyokimyasal olayların tamamına metabolizma denir. Bu metabolik olaylar anabolizma ve katabolizma olmak üzere iki bölümde incelenir.
+
+Hücrelerin küçük molekülleri birleştirerek büyük moleküller oluşturduğu yapım tepkimelerine anabolizma (özümleme) denir. Bitkilerin fotosentezle besin üretmesi, hayvanların protein ya da lipit sentezlemesi anabolizma örneklerindendir.
+
+Büyük moleküllerin parçalanarak daha küçük moleküller oluşturduğu yıkım tepkimelerine katabolizma (yadımlama)  denir. Sindirim ve hücresel solunum katabolizmaya örnektir. Bütün çevresel değişimlere rağmen organizmada kararlı bir iç ortamın sağlanması ve korunması olayına homeostazi  denir.
+
+Vücut sıvılarının asit baz dengesinin ayarlanması, vücut sıcaklığının sabit tutulması, zararlı atıkların vücudun dışına atılması ve vücuttaki su miktarının korunması homeostaziyi düzenleme amacıyla yapılan faaliyetlerdir. Örneğin; kuvvetli bir egzersiz yapıldığında ısı üretilir, o da vücut sıcaklığını arttırır. Sinir sistemi bu artışı algılayarak terlemeyi tetikler. Terlendiğinde ise nem deriden buharlaşarak vücut sıcaklığını düşürüp normal seviyeye getirir. Bir organizmanın yaşadığı çevrede hayatta kalma ve üreme şansını artıran kalıtsal özelliklerin tamamına uyum (adaptasyon) denir.
+
+Tüm canlılar, belirli bir organizasyona sahiptir. Atomlar birleşerek molekülleri, moleküller de birleşerek organelleri ve hücrenin diğer kısımlarını oluşturur. Bazı canlılar tek hücreden oluşur. Örneğin; tek hücreli bir canlı olan amip bu tek hücresi ile besinlerini alır; işler ve atıkları uzaklaştırır; çevresel uyarılara cevap verir; ürer ve diğer işlevlerini gerçekleştirir. Çok hücreli organizmalar ise tüm bunları özelleşmiş hücreler arasındaki iş bölümü ile gerçekleştirir.
+
+Çok hücreli canlılarda görev ve yapı bakımından benzer hücreler bir araya gelerek dokuları, dokular organları, organlar sistemleri, sistemler ise organizmayı meydana getirir.
+
+Çok hücreli canlılar, hücrelerin rastgele bir araya toplanmış hâli olmayıp iş birliği içinde olan çok sayıda hücrenin oluşturduğu birlikteliktir. Bu durum canlıya zaman ve enerji tasarrufu sağlar. Canlıların soylarını devam ettirmek için yeni bireyler oluşturmasına üreme denir. Eşeyli ve eşeysiz olmak üzere iki çeşit üreme vardır.
+
+Eşeyli üreme, dişi ve erkeğe ait üreme hücrelerinin birleşmesiyle yeni bireyler meydana gelmesidir. Eşeyli üremeyle oluşan yavrular hem anadan hem de babadan gelen özellikleri taşır. Bu şekilde kalıtsal çeşitlilik sağlanır.
+
+Eşeysiz üremede ana birey, döllenme olmaksızın kendisiyle aynı kalıtsal özelliklere sahip yavrular meydana getirir. Eşeysiz üreyebilen canlılara bir hücreli canlılar, bazı bitkiler ve bazı omurgasız hayvanlar örnek olarak verilebilir. Canlılar büyür, gelişir, yaşlanır ve ölür. Büyüme tek hücreli canlılarda sitoplazmanın hacimce ve kütlece artışı ile çok hücreli canlılarda ise hücre sayısının ve hacminin artışı ile sağlanır.
+
+Gelişme ise canlının sahip olduğu yapıların zamanla değişerek fonksiyonel olarak olgunlaşmasıdır. Yeni doğan bir bebeğin kilo alması, büyümeye; emeklemesi, yürümesi ve koşması ise gelişmeye örnektir.

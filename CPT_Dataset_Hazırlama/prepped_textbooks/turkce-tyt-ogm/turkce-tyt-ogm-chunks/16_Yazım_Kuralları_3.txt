@@ -1,0 +1,43 @@
+# Yazım Kuralları 3
+
+## Ayrı Yazılan Birleşik Kelimeler
+
+Etmek, edilmek, eylemek, olmak, olunmak yardımcı fiilleriyle kurulan birleşik fiiller, ilk kelimelerinde herhangi bir ses düşmesi ya da türemesi olmadığında ayrı yazılır: alt etmek, arz etmek, kabul etmek, not etmek, var olmak, söz etmek.
+
+Birleşme sırasında kelimelerinden hiçbiri ya da yalnızca ikinci kelimesi anlam değişikliğine uğramamışsa bu tür birleşik kelimeler ayrı yazılır. Bu kapsamda hayvan türlerinden birinin adıyla kurulan birleşik kelimeler ayrı yazılır: deve kuşu, dağ keçisi. Bitki türlerinden birinin adıyla kurulan birleşik kelimeler ayrı yazılır: ayrık otu, dağ elması, kuru fasulye, çam fıstığı. Nesne, eşya ve alet adlarından biriyle kurulan birleşik kelimeler ayrı yazılır: alçı taşı, dolma kalem, toplu iğne, duvar saati. Yol ve ulaşımla ilgili birleşik kelimeler ayrı yazılır: çevre yolu, deniz yolu, kara yolu. Durum, olgu ve olay bildiren sözlerle kurulan birleşik kelimeler ayrı yazılır: açık oturum, iş birliği, yer çekimi. Bilim ve bilgi sözleriyle kurulan birleşik kelimeler ayrı yazılır: anlam bilimi, dil bilimi, ses bilgisi, şekil bilgisi. Yiyecek ve içecek adlarıyla kurulan birleşik kelimeler ayrı yazılır: maden suyu, kuru yemiş, kestane şekeri. Organ adlarından biriyle kurulan birleşik kelimeler ayrı yazılır: patlak göz, azı dişi, serçe parmak. Zamanla ilgili birleşik kelimeler ayrı yazılır: gece yarısı, hafta sonu.
+
+"-r/-ar/-er, -maz/-mez, -an/-en" sıfat fiil ekleriyle kurulan sıfat tamlaması yapısındaki birleşik kelimeler ayrı yazılır: çalar saat, çıkar yol, güler yüz, çıkmaz sokak, tükenmez kalem, uçan daire.
+
+Renk sözü ya da renk adıyla kurulmuş isim tamlaması yapısındaki renk adları ayrı yazılır: bal rengi, duman rengi, gece mavisi, limon sarısı. Rengin tonunu belirtmek üzere renkten önce kullanılan sıfatlar da ayrı yazılır: açık mavi, koyu yeşil, kirli sarı.
+
+Yer adlarında "batı, doğu, güney, kuzey, güneydoğu, kuzeybatı, aşağı, yukarı, orta, iç, yakın, uzak" kelimeleri ayrı yazılır: Batı Trakya, Güney Kutbu, İç Anadolu, Yakın Doğu.
+
+Dış, iç, sıra sözleriyle oluşturulan birleşik kelimeler ayrı yazılır: yasa dışı, hafta içi, yanı sıra. Somut olarak yer belirten "alt" ve "üst" sözleriyle oluşturulanlar da ayrı yazılır: deri altı, yer altı, böbrek üstü bezi.
+
+## Bitişik Yazılan Birleşik Kelimeler
+
+Ses düşmesine uğrayan birleşik kelimeler bitişik yazılır: birbiri (biri biri'den), nasıl (ne asıl'dan), niçin (ne için'den), sütlaç (sütlü aş'tan).
+
+Özgün biçimleri tek heceli bazı Arapça kökenli kelimeler yardımcı fiillerle birleşirken ses düşmesi, ses değişmesi ya da ses türemesine uğradığında bitişik yazılır: emretmek, kaybolmak, cemetmek; affetmek, hissetmek, reddetmek.
+
+Anlam değişmesine uğrayan birleşik kelimeler bitişik yazılır. Bitki adı oluşturanlar: aslanağzı, civanperçemi, keçiboynuzu, kuşburnu. Hayvan adı oluşturanlar: danaburnu (böcek), akbaş (kuş). Hastalık adları: arpacık (idriseği), karabaş. Alet ve eşya adları: balıkgözü (halka), deveboynu (boru). Yiyecek adları: hanımgöbeği (tatlı), kadınbudu (köfte), kedidili (bisküvi). Renk adları: baklacığacı, camgöbeği, devetüyü, fildişi, gülkurusu.
+
+"-a/-e" zarf fiil ekleriyle bilmek, vermek, kalmak, durmak, gelmek ve yazmak fiilleriyle yapılan tasviri fiiller bitişik yazılır: düşünebilmek, gülüvermek, uyuyakalmak, gidedürmak, çıkagelmek, süregelmek.
+
+Emir kipiyle kurulan kalıplaşmış birleşik kelimeler bitişik yazılır: albeni, ateşkes, kapkaç, örtbas, tutkal, yapboz.
+
+"-dı/-di/-du/-dü/-tı/-ti/-tu/-tü" kalıplaşmış belirli geçmiş zaman ekleriyle kurulan birleşik kelimeler bitişik yazılır: albastı, gecekondu, imambayıldı, karyağdı, şıpsevdi, zıpçıktı.
+
+İki veya daha çok kelimenin birleşmesinden oluşmuş kişi adları, soyadları ve lakaplar bitişik yazılır: Alper, Gülnihal, Atatürk, Adıvar, Gökalp.
+
+İki ya da daha çok kelimeden oluşmuş il, ilçe, semt gibi yer adları bitişik yazılır: Çanakkale, Acıpayam, Beşiktaş, Kabataş.
+
+Ara yönleri belirten kelimeler bitişik yazılır: güneybatı, güneydoğu, kuzeybatı, kuzeydoğu.
+
+"Ev" kelimesiyle kurulan birleşik kelimeler bitişik yazılır: bakımevi, doğumevi, gözlemevi, yayınevi, polisevi.
+
+"-hane, -name, -zade, -zede" kelimeleriyle oluşturulan birleşik kelimeler bitişik yazılır: dershane, kahvehane, beyanname, seyahatname, amcazade, depremzede.
+
+Geleneksel olarak bitişik yazılan başka sözcükler de vardır. "Baş" sözüyle oluşturulan sıfat tamlamaları: başbakan, başhekim, başyazar. "Başı" sözüyle oluşturulan belirtisiz isim tamlamaları: aşçıbaşı, binbaşı, yüzbaşı. "Ağa, baba, bey, efendi, hanım" sözleriyle kurulan birleşik kelimeler: ağabey, beyefendi, hanımefendi. "Biraz, birçok, birkaç, birtakım, herhangi, hiçbir, hiçbiri" gibi belirsizlik sıfatı ve zamirleri de bitişik yazılır.
+
+---

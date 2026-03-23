@@ -1,0 +1,13 @@
+# Biçim Bilgisi 2
+
+## Birleşik Fiiller
+
+Birleşik fiiller en az iki sözcüğün anlam ve biçim bakımından birleşmesiyle oluşur. Üç türü vardır.
+
+Anlamca kaynaşmış birleşik fiiller, genellikle bir isimle bir fiilin bir araya gelerek kalıplaşması sonucunda oluşur. Mastar hâlindeki deyimler bu grupta değerlendirilir: gözden düşmek, küplere binmek, bağrına basmak. Bunların yanı sıra vazgeç-, varsay-, öngör-, başvur-, elver- fiilleri de anlamca kaynaşmış birleşik fiillerdir.
+
+Yardımcı eylemle kurulan birleşik fiiller, isimlerin "et-, ol-, eyle-, kıl-" yardımcı eylemleriyle oluşturduğu birleşik fiillerdir: park et-, memnun ol-, seyreyle-, mecbur kıl-. Bu birleşik fiiller, birleşme sırasında ses olayı olursa bitişik, olmadığı takdirde ayrı yazılır: affet- ve zannet- (bitişik), ziyaret et- ve fark et- (ayrı). "Et-, ol-" yardımcı eylemleri bazen tek başlarına asıl eylem olarak da kullanılabilir: "Günlük masrafımız tam iki yüz lira ediyordu.", "Buraya geleli neredeyse üç yıl oldu."
+
+Kurallı birleşik fiiller belirli bir kural çerçevesinde oluşturulan birleşik fiillerdir. Yeterlik fiili "-e bil(mek)" yapısıyla kurulur: çözebilmek, görebilmek. Yeterlik fiilinin olumsuzunda "bil-" düşer, yalnızca "-a/-e" zarf fiil eki kalır: yazabiliyorsun → yazamıyorsun, gezebildim → gezemedim. Tezlik fiili "-i ver(mek)" yapısıyla kurulur: gidivermek, söyleyivermek. Sürerlik fiili "-a kal(mak), -e gel(mek), -e dur(mak)" yapılarıyla kurulur: süregelmek, şaşakalmak, gidedürmak. Yaklaşma fiili ise "-e yaz(mak)" yapısıyla kurulur: öleyazmak, düşeyazmak.
+
+---

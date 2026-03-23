@@ -1,0 +1,39 @@
+# Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek
+
+Günümüzde hücre zarının yapısı akıcı-mozaik zar modeli ile açıklanır. 1972 yılında Seymour Jonathan Singer (Seymur Canıtın Singır) ve Garth L. Nicolson (Gart Nikılsın) tarafından önerilen akıcı-mozaik zar modeline göre hücre zarı protein, lipit ve karbonhidrat moleküllerinden oluşmaktadır.
+
+Hücre zarı seçici-geçirgen özelliği ile hücreye madde giriş-çıkışını kontrol eder. Bazı maddeler hücre zarından geçerken bazıları geçemez. Sürekli hareket hâlindedir ve bu durum zarın akıcı olmasını sağlar. Ayrıca esnektir. Esnek olması sayesinde şekil ve yüzey değişikliği gösterebilir. Ince ve yarı saydam özelliği sayesinde hücre içindeki yapılar mikroskop yardımıyla görülebilir. Dinamiktir, enerji gerektiren faaliyetleri gerçekleştirebilir.
+
+Hücre zarı hücreyi diğer hücrelerden ve dış çevreden ayırır. Hücreye şekil verir ve bütünlüğünü sağlar, dağılmasını önleyerek dış etkilerden korur. Ayrıca kontrollü madde alışverişini, uyarıların iletimini gerçekleştirir. Yapısında bulunan glikolipit ve glikoproteinler sayesinde hücreye özgünlük yani kimlik kazandırır. Yüzeyinde taşıdığı reseptörler sayesinde hücreleri ve mikroorganizmaları tanımasını, besinlere, hormonlara, ilaçlara cevap vermesini sağlar. Hücrelerin birbiriyle iletişimini ve diğer hücrelerin tanınmasını sağlar.
+
+Hücre zarının üç temel yapı bileşeni vardır: çift katlı fosfolipit tabakası, fosfolipit tabakası arasına gömülü proteinler ve fosfolipit ya da proteinlere bağlı karbonhidratlar.
+
+Fosfolipit tabakası: Hücre zarındaki lipitler çoğunlukla fosfolipit yapıdadır. Fosfolipitler zarın yapısında iki sıra hâlinde dizilir ve akıcılığı sağlar. Su geçirmez özelliktedir. Ayrıca suda çözünmez, organik çözücülerde çözünür.
+
+Bir fosfolipit molekülü baş ve kuyruk olmak üzere iki kısımdan oluşmaktadır. Baş kısmı suyu sever (hidrofilik kısım). Hücre içi ve dışındaki sıvı çözeltilere dönük olacak şekilde zara yerleştiğinden çözeltilerle temas hâlindedir. Ayrıca baş kısımları suda çözünür. Kuyruk kısmı suyu sevmez (hidrofobik kısım). Sudan uzak olacak şekilde zarın iç kısmında bulunur. Kuyruk kısımları suda çözünmez. Hücre zarını oluşturan iki sıralı fosfolipit tabaka, Golgi, lizozom, mitokondri ve kloroplast gibi organellerin zar yapısını da oluşturur. Kolesterol; zarın dayanıklılığını akışkanlığını geçirgenliğini esnekliğini sağlar. Kolesterol, hayvan hücrelerinin zarlarında fosfolipitler arasına gömülmüş bir steroit çeşididir.
+
+Hücre zarındaki fosfolipit molekülleri arasında gömülü proteinler ise mozaik görünümü oluşturur. Proteinler zarı boydan boya katederek kanal proteinlerini meydana getirir. Kanal proteinlerinin oluşturduğu açıklıklara por adı verilir. Porlar, hücrenin dış ortamla madde alışverişini sağlayarak bazı moleküllerin zardan geçişini sağlar ayrıca sitoplazmanın homeostazisini düzenler. Karbonhidratlar, zarda protein ve lipitlere bağlı olarak bulunur. Hücre zarının dışa bakan yüzeyinde proteinlere bağlanarak glikoproteinleri, lipitlere bağlanarak ise glikolipitleri oluşturur.
+
+Glikoproteinler ve glikolipitler uyarıları algılayan reseptör olarak görev yapar. Hücrelerin birbirini tanımasını sağlar. Hücre zarının seçici geçirgenliğini denetler. Bu moleküller her hücrede farklı miktar ve dağılımda bulunarak hücrenin özgüllüğünü sağlar ayrıca kimliğini belirler ve hücreye antijenik özellik kazandırır. Hücre duvarı; bitki, alg ve mantar hücreleri ile prokaryot canlıların hücre zarının dış kısmında bulunan bir yapıdır. Bakterilerde peptidoglikan, arkelerde pseudopeptidoglikan; bitkilerde ağırlıklı olarak selüloz; alg ve mantarlarda ise kitinden yapılmıştır.
+
+Bitki hücreleri yaşlandıkça hücre duvarları kalınlaşır. Hücre zarına göre daha kalın ve dayanıklı olduğundan hücreyi iç ve dış etkilere karşı korur. Cansızdır. Ayrıca üzerindeki geçitler sayesinde tam geçirgendir.
+
+Ökaryot hücrelerde hücre zarı ile çekirdek zarı arasını doldurur. Prokaryot hücrelerin zarla çevrili çekirdeği olmadığından hücre zarı içerisindeki tüm kısım sitoplazmayı oluşturur. Yarı akışkan, sıvısal ortamdır. Ayrıca %70-%90'ı sudur. Suyun yanı sıra proteinler, yağlar, karbonhidratlar, enzimler, hormonlar, vitaminler, mineraller, tuzlar, gazlar, boşaltım atıkları, ATP, nükleotitler ve RNA'lar bulunur. Organeller ve hücre iskeletini içerir. Sürekli hareket hâlindedir. Sitoplazmanın hareketli olması hücre içinin homojen olmasını sağlar.
+
+Prokaryot hücrelerde metabolik olaylar, genellikle sitoplazmada bulunan serbest enzimlerle, ökaryot hücrelerde ise bir kısmı sitoplazmada bulunan serbest enzimlerle, bir kısmı da organellerle gerçekleştirilir.
+
+Hücrenin yönetim ve kalıtım merkezidir. Çekirdeğin olup olmaması, çekirdek sayısı ve büyüklüğü hücrelerde farklılıklar gösterir. Örneğin, birçok hücrede çekirdek bir taneyken olgun alyuvar hücrelerinde çekirdek yoktur. Paramesyum, bazı mantar hücreleri, insanların karaciğer ve çizgili kas hücreleri gibi hücrelerde ise birden fazla olabilir. Ayrıca çekirdeğin büyüklüğü ile sitoplazma hacmi arasında da bir oran vardır. Genel olarak hayatsal faaliyetler hızlı ise çekirdek oransal olarak daha büyüktür.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Her zaman çekirdek bölünmesini sitoplazma bölünmesi takip eder mi? Hücre bölünürken çekirdek bölünüp sitoplazma bölünmezse ne olur? Hücre bölünmesi sırasında çekirdek bölünür ancak sitoplazma bölünmez ise hücre çok çekirdekli olur. Çekirdek dört kısımdan oluşur: Çekirdek zarı. Çekirdek sıvısı. Ayrıca çekirdekçik. Kalıtım materyali (kromatin).
+
+Endoplazmik retikulum tarafından oluşturulur. Çekirdek sıvısı ile sitoplazmayı birbirinden ayırır. Ayrıca hücre zarı yapısında ve çift katlıdır. Dış zarı üzerinde ribozomlar vardır. Hücre bölünürken kaybolur, sonra yeniden oluşur.
+
+Çekirdek zarı üzerindeki porlar, hücre zarındaki porlardan daha büyüktür ve bu porlar mRNA, protein, DNA üzerinden üretilen RNA'lar ve ATP gibi büyük moleküllerin sitoplazmaya geçmesini sağlar.
+
+Çekirdek zarı üzerinde sitoplazma ile madde alışverişini sağlayan, çekirdekçikte üretilen ribozomların büyük ve küçük alt birimlerinin de geçebileceği büyüklükte açılıp kapanabilen porları vardır.
+
+Büyüklüğü ve sayısı hücrenin bulunduğu dokuya ve işlevine göre değişir. Zarsızdır. Çekirdek zarı gibi hücre bölünürken kaybolur, sonra yeniden oluşur. Ayrıca DNA'dan gelen talimatlar doğrultusunda rRNA sentezlenir. Ribozomun ve rRNA'nın üretim yeridir. RRNA'lar sitoplazmadan gelen proteinler ile birleşerek ribozomların büyük ve küçük alt birimleri oluşturulur. Bu alt birimler sitoplazmaya geçerek protein sentezleneceği zaman birleşerek ribozomları oluşturur.
+
+Çekirdeğin içini dolduran, sitoplazmadan daha yoğun sıvıdır. Içeriğinde su, mineraller, ATP, protein, nükleotitler, DNA, RNA'lar ve diğer maddeler bulunur. Ökaryot hücrelerde çekirdekte DNA'nın özel proteinlere sarılı hâline kromatin adı verilir. Sitoplazmadan daha yoğun olması çözünmüş maddeler ve nükleik asitler bakımından daha zengin olmasındandır. Kalıtsal bilginin depolanıp, aktarılması, büyüme, onarım, hücre bölünmesinin kontrolüdür.
+
+Çekirdeği olmayan hücreler bölünemeyeceğinden uzun süre yaşayamaz ve ölür. Örneğin, insanın alyuvarları çekirdeğini kaybettikten sonra 120 gün kadar yaşarken çekirdeğe sahip sinir hücreleri yıllarca yaşayabilir.

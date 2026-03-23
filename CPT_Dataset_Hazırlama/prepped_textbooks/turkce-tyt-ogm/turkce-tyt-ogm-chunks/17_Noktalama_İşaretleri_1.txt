@@ -1,0 +1,19 @@
+# Noktalama İşaretleri 1
+
+## Nokta (.)
+
+Nokta birçok farklı işlevle kullanılır. Bitmiş cümlelerin sonunda kullanılır: "Edebiyat, çağ açıp çağ kapatacak kadar güçlü bir sanattır." Bazı kısaltmalardan sonra kullanılır: Cad. (cadde), Fr. (Fransızca), s. (sayfa). Sıra sayılarını göstermek için kullanılır: "Toplantının 3, 4 ve 5. maddelerini yeniden konuşalım." Saat ve dakika gösteren sayıların arasına konur: 14.00. Tarih gösteren sayıları birbirinden ayırmak için kullanılır: 19.05.1919. Dört ve dörtten çok basamaklı sayıları üçerli gruplara ayırmak için kullanılır: 137.000.
+
+T.C. ve T. (Türkçe) kısaltmaları dışında büyük harfle yapılan kısaltmalarda nokta kullanılmaz. Ölçü birimlerinin kısaltmalarında da nokta kullanılmaz: m (metre), cm (santimetre).
+
+## Virgül (,)
+
+Virgülün birçok kullanım alanı vardır. Art arda sıralanan eş görevli sözcük ve söz gruplarının arasına konur. Sıralı cümleleri ayırmak için kullanılır: "Cebinden kör bir çakı çıkardı, ıslak toprağa anlamsız birkaç çizgi çekti." Uzun cümlelerde özneyi belirtmek için kullanılır. Ara söz veya ara cümlelerin başında ve sonunda kullanılır: "Annemi, elleri öpülesi mübarek kadını, bu güzel köye ebe olarak göndermiş devletimiz." Tırnak içine alınmayan alıntı cümlelerinden sonra kullanılır. Ret, onay ve teşvik bildiren kelimelerden sonra kullanılır: "Hayır, hayal ile yoktur alışverişim." Hitap ifadelerinden sonra kullanılır: "Değerli milletvekilleri," Anlam karışıklığını gidermek için kullanılır. Sayılarda kesirli ifadeleri göstermek için kullanılır: 9,5 | 3,14.
+
+Virgül konulmayacak yerler de önemlidir. Metin içinde zarf fiil eki almış kelimelerden sonra virgül konmaz. "Ve, veya, yahut" bağlaçlarından önce ve sonra virgül konmaz: "Üç veya dördüncü denemesinde topu ağlara göndermeyi başardı." Tekrarlı bağlaçlardan önce ve sonra virgül konmaz: "Hem ağlar hem giderim." Pekiştirme ve bağlama görevindeki "da/de" bağlacından sonra virgül konmaz. "-ınca/-ince" anlamında kullanılan "mı/mi" ekinden sonra virgül konmaz: "Şu dağı da aştık mı Dikeni köyünün tarlalarını göreceğiz." Tamlamalarda tamlayanla tamlanan arasına virgül konmaz. İkilemelerin arasına virgül konmaz.
+
+## Noktalı Virgül (;)
+
+Noktalı virgül üç durumda kullanılır. Virgüllerle ayrılmış tür ve takımları birbirinden ayırmak için kullanılır: "İzlediğim filmler, tiyatrolar, gösteriler; okuduğum romanlar, hikâyeler, denemeler derin izler bıraktı." Ögeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır: "Sevinçten, heyecandan içim içime sığmıyor; bağırmak, kahkahalar atmak, ağlamak istiyorum." İkiden fazla eş değer ögesi olan cümlelerde özneden sonra konabilir: "Yeni usul şiirimiz; zevksiz, köksüz, acemice görünüyordu."
+
+---

@@ -1,0 +1,25 @@
+# Canlılardaki Beslenme Şekilleri
+
+Ekosistemde bulunan canlılar; beslenme şekillerine göre ototrof canlılar, heterotrof canlılar ve hem ototrof hem heterotrof canlılar olmak üzere üç grupta incelenir.
+
+İnorganik maddelerden organik madde sentezi yapabilen canlılardır. Üreticiler, fotosentez veya kemosentez olaylarını gerçekleştirerek kendi besinlerini yapar. Yeşil bitkiler (tam parazit bitkiler hariç), bazı bakteriler, arkeler, bazı protistler, siyanobakteriler ve algler ototrof canlılara örnektir. Suda yaşayan ve fotosentez yapabilen mikroskobik canlılara fitoplankton denir. Fitoplanktonla beslenen mikroskobik canlılara ise zooplankton denir. Üretici organizmalar, tüm canlıların besin ihtiyacını üretir ve ayrıca atmosferdeki oksijen ve karbondioksit dengesini de sağlar.
+
+Üretici canlılar, besinlerini üretirken kullandıkları enerji kaynağına göre fotosentetik ototroflar ve kemosentetik ototroflar  olmak üzere ikiye ayrılır.
+
+Fotosentetik Ototroflar: Işık enerjisi yardımıyla $CO_2$ ve $H_2O$ gibi inorganik bileşiklerden organik madde sentezi yapan üreticilerdir. Yeşil bitkiler (tam parazit olanlar hariç), siyanobakteriler, öglena gibi bazı protistler, bazı bakteriler ve algler fotosentetik canlılardır.
+
+Bazı inorganik maddelerin oksidasyonuyla elde edilen kimyasal enerji yardımıyla $CO_2$ ve $H_2O$'dan organik madde sentezi yapan üreticilerdir. Bazı bakteri ve arkebakteriler kemosentetik canlılardır.
+
+İhtiyacı olan besinleri üretemeyen, bulundukları ortamdan hazır alan canlılardır. Hayvanlar, mantarlar, bazı bakteri ve arkeler, amip ve paramesyum gibi protistler ve tam parazit bitkiler tüketici canlılardır. Tüketici canlılar yaşadıkları ortam ve kullandıkları besin çeşidine göre holozoik beslenenler ve ayrıştırıcılar olarak adlandırılır. Holozoik beslenen canlılar, besinlerini katı parçalar hâlinde alır. Ağız ve çene yapıları beslenme şekillerine uygun olarak oluşmuştur. Bu canlılarda gelişmiş sindirim sistemi bulunur. Aldıkları besinlerin yapısına göre otçullar (herbivorlar), etçiller (karnivorlar) ve hem etçiller hem otçullar (omnivorlar) olmak üzere üç grupta incelenir.
+
+Doğrudan üretici canlılarla beslenen tüketicilere otçul (herbivor) denir. Böcekler, kemirici memeliler, geviş getiren hayvanlar, fitoplanktonlarla beslenen zooplanktonlar, alglerle beslenen balıklar ve alglerle beslenen diğer canlılardır. Deve, zürafa, tavşan, koyun, çekirge otçullara örnek verilebilir.
+
+Plankton; suda bulunan, aktif hareket etme yeteneği olmayan, akıntıya bağlı olarak hareket edebilen canlılara verilen genel isimdir. Bunlardan fotosentez yapanlar "fitoplankton", diğer planktonları yiyerek beslenenler ise "zooplankton" olarak adlandırılır. Besin zincirinde diğer tüketicileri yiyerek beslenen canlılara etçil (karnivor) denir. Etçil canlılara; leopar, timsah, bazı böcek ve balık türleri, aslan, piton, kartal, kurt, baykuş, martı, köpek balığı gibi hayvanlar örnek verilebilir. Hem üretici hem de tüketici canlıları yiyerek beslenen canlılara karışık beslenenler (omnivor) denir. Hem etçil hem otçul canlılara insan, ayı, leylek, hindi, fare ve bazı balık türleri örnek verilebilir. Ayrıştırıcılar ise ölü bitki ve hayvan atıkları ile organik atıkların üzerine sindirim enzimleri salgılayarak bu maddeleri parçalar ve hücrelerine alır; böylece hem kendi besin ihtiyacını karşılar hem de madde döngülerinde rol oynar. Ayrıştırıcı canlılara bazı bakteri ve arkeler, cıvık mantarlar ve bazı mantar türleri örnek verilebilir. Bir ayrıştırıcı organizma, prokaryotik (bakteri) ya da ökaryotik (mantar) hücre yapısına sahip olabilir.
+
+Ekosistemlerdeki canlılar arasında bir denge vardır. Bu dengeyi üreticiler besin üretimiyle, tüketiciler madde aktarımıyla, ayrıştırıcılar da inorganik maddelerin doğaya geri dönüştürülmesiyle sağlar. Ayrıştırıcılar, doğadaki madde döngüsünün kilit canlılarıdır.
+
+Bir ekosistemde ayrıştırıcı organizma sayısı azalırsa inorganik madde miktarı düşer, organik atıkların birikmesiyle çevre kirliliği artar, başta azot olmak üzere madde döngüleri yavaşlar ve üretici ile tüketici canlıların sayısı azalır. Bir ekosistemden ayrıştırıcı canlılar çıkarılırsa ekosistem varlığını devam ettiremez.
+
+Bazı canlı türleri fotosentez yaparak organik besin ihtiyacını karşılarken dış ortamdan da hazır olarak besin alabilir. Bu tür canlılara hem ototrof hem heterotrof canlılar denir. Hem üretici hem tüketici olan canlılara öglena örnek verilebilir.
+
+Öglena kloroplast organeli bulundurur ve ışık varlığında kendi besinini kendisi sentezler. Bu yönüyle ototroftur. Işık yokluğunda ise dış ortamdan besinini hazır olarak alabilir. Bu yönüyle de heterotroftur. Ayrıştırıcılar hem sucul hem de karasal besin zincirlerinin tüm basamaklarında bulunur.

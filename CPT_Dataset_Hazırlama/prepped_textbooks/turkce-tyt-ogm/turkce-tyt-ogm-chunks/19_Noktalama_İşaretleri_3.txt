@@ -1,0 +1,21 @@
+# Noktalama İşaretleri 3
+
+## Eğik Çizgi (/)
+
+Dizeler yan yana yazıldığında aralarına konur: "Yaş otuz beş yolun yarısı eder/ Dante gibi ortasındayız ömrün." Adres yazarken apartman numarası ile daire numarası arasına ve semt ile şehir arasına konur: Yıldız Sokak No.: 15/3 Karatay/KONYA. Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları birbirinden ayırmak için konur: 11/12/1975. Dil bilgisinde eklerin farklı biçimlerini göstermek için kullanılır: -arak/-erek. Matematikte bölme işareti olarak kullanılır: 60/3 = 20. Fizik ve matematik gibi alanlarda birimler arası orantıları göstermek için boşluksuz kullanılır: g/sn.
+
+## Tırnak İşareti ("")
+
+Başka bir kimseden ya da yazıdan olduğu gibi aktarılan sözler tırnak içine alınır: "Paul Valéry, 'İlk dize Tanrı vergisidir, ondan sonrası da çaba…' dermiş." Tırnak içindeki alıntının sonunda bulunan noktalama işareti tırnak içinde kalır. Özel olarak vurgulanmak istenen sözler tırnak içine alınır. Cümle içerisinde eserlerin ve yazıların adları ile bölüm başlıkları tırnak içine alınır: "Bugün derste 'Eskici' adlı hikâyeyi okuduk." Tırnak içine alınan sözlerden sonra gelen ekleri ayırmak için kesme işareti kullanılmaz.
+
+## Yay Ayraç [( )]
+
+Cümlenin dışında kalan ek bilgiler için kullanılır. Tiyatro eserlerinde konuşanın hareketlerini ya da durumunu açıklamak için kullanılır. Alıntılarda alınmayan bölümlerin yerine konulan üç nokta yay ayraç içine alınabilir: (…). Bir bilginin şüpheyle karşılandığını ya da kesin olmadığını göstermek için kullanılan soru işareti yay ayraç içine alınır: "1240 (?) yılında doğan Yunus Emre…" Alıntıların aktarıldığı eseri, yazarı ya da künye bilgilerini göstermek için kullanılır: (Moran 1987:41). Bir söze alay, kinaye ya da küçümseme anlamı kazandırmak için kullanılan ünlem işareti yay ayraç içine alınır: "Bütün gece ders çalıştığını(!) söylüyor."
+
+## Kesme İşareti (')
+
+Özel adlara getirilen iyelik, durum ve bildirme ekleri kesme işaretiyle ayrılır: Çanakkale Savaşı'nı, Türkiye'mizin, Atatürk'e. Yer bildiren özel isimlerde kısaltmalı söyleyiş söz konusu olduğunda kesme işareti kullanılır: Hisar'dan, Boğaz'dan. Kişi adlarından sonra gelen ünvan sözlerine getirilen ekler kesme işaretiyle ayrılır: Ali Bey'e, Sevda Hanım'dan. Kısaltmalardan, sayılardan, bir ek ya da harften sonra gelen ekler kesme işaretiyle ayrılır: ODTÜ'de, 1955'te, 2'nci kat, A'dan Z'ye.
+
+Ancak özel adlara getirilen yapım ekleri, çokluk eki ve bunlardan sonra gelen diğer ekler kesmeyle ayrılmaz: Türklerin, Türkçenin, Hollandalıdan, Atatürkçülüğü. Kurum, kuruluş, kurul ve iş yeri adlarına gelen ekler de kesmeyle ayrılmaz: Türkiye Büyük Millet Meclisine, Bakanlar Kurulunun.
+
+---

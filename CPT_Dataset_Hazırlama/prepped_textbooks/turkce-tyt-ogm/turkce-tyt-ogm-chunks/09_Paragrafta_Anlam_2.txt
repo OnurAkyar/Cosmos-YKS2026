@@ -1,0 +1,37 @@
+# Paragrafta Anlam 2
+
+## Paragrafta Yardımcı Düşünce
+
+Parçadaki ana düşünceyi destekleyen, konunun daha iyi anlaşılmasını sağlayan düşüncelere yardımcı düşünce denir. Bir paragrafta ana düşüncenin yanı sıra birden fazla yardımcı düşünce bulunabilir.
+
+Örnek paragraf: "Her bilimsel araştırma öncekilerin bir eksiğini giderir. Bu nedenle hiçbir çalışma, belli bir konuda son sözü söylemiş sayılmaz. İşte bunun için benim dille ilgili bu çalışmamın da birçok eksiği var. Bu eksikleri gidermek de dilcilerin, bu alanda yetkili kimselerin işidir. Çünkü herkes bir dil konuşur ama hiçbir zaman konuştuğu o dilin uzmanı değildir. Uzmanlık, bir dili konuşmak anlamına gelmez; o konuda eğitim görmüş olmayı gerektirir." Bu paragrafın yardımcı düşünceleri şunlardır: Bilimsel konularda yapılan çalışmalar birbirini tamamlar; hiçbir araştırma ele aldığı konuda son sözü söylemez; bir dili konuşma o dilde uzmanlaşmanın göstergesi değildir; bir dilde uzmanlaşmak için bu amaca yönelik bir eğitimden geçmek gerekir. Bu düşünceler yardımcı niteliktedir çünkü ana düşünceyi — uzmanlaşmanın eğitim gerektirdiğini — farklı açılardan destekler ve somutlaştırır; her biri paragrafın konusuyla ilgilidir ancak tek başına paragrafın tamamını kapsayacak genişlikte değildir.
+
+## Anlatım Biçimleri
+
+Yazarlar düşüncelerini, duygularını ya da gözlemlerini aktarırken farklı anlatım biçimlerine başvurur. Dört temel anlatım biçimi vardır.
+
+Öyküleyici anlatım, olayların kişi, mekân ve zaman unsurlarına bağlanarak birbiri ardınca sıralandığı anlatım biçimidir. Olay anlatımına dayalı bütün metinlerde kullanılabilir: hikâye, roman, masal, gezi yazısı, anı bunların başında gelir. Açıklayıcı ve sanatsal öyküleme olmak üzere iki türü vardır. "Bu sabah cama vuran yağmur damlalarının sesiyle araladım gözlerimi. Gecenin sessizliğini fırsat bilerek sayfalarında kaybolduğum kitabım göğsümde yarı açık kalakalmıştı. Kitabımı kapatıp yatağımın başındaki komodine bırakarak pencereye doğru yöneldi adımlarım." bu anlatım biçimini örnekler. Bu öyküleyici anlatımdır çünkü bir sabahın başlangıcını anlatan olaylar — uyanmak, kitabı kapatmak, pencereye yürümek — kişi (anlatıcı), zaman (sabah) ve mekân (yatak odası) unsurlarına bağlanarak art arda sıralanmıştır; olaylar bir süreç ve sıra içinde aktarılmaktadır.
+
+Betimleyici anlatım, kaynağını gözlemden alan, bir varlığa ya da bir yere ait ayrıntıların okuyucunun zihninde canlandırılacak şekilde aktarılmasını amaçlayan anlatım biçimidir. Tüm metin türlerinde kullanılabilir. Açıklayıcı ve sanatsal (izlenimsel) betimleme olmak üzere iki türü vardır. Bir kişinin fiziksel ya da ruhsal özelliklerinin betimlenmesine portre denir.
+
+Açıklayıcı anlatım, bir konuyu öğretmeyi ya da bir konuyla ilgili bilgi vermeyi amaçlayan anlatım biçimidir. Genellikle öğretici metinlerde kullanılır: makale, deneme, haber yazısı bunların başında gelir. Anlatım açık, yalın ve yalın niteliktedir; kullanılan kelimeler genellikle gerçek anlamdadır. Örneklendirme, sayısal verilerden yararlanma ve tanık gösterme gibi düşünceyi geliştirme yollarından yararlanılır.
+
+Tartışmacı anlatım, herhangi bir konuyu savunmayı ve okuyucuyu o konuya inandırmayı amaçlayan anlatım biçimidir. Ortaya konan bir karşı görüşün yanlışlığını kanıtlama amacı güdülür. Okuyucunun kanısı değiştirilmeye çalışılır; bu yüzden okuyucuyu düşündürmeye yönelik sorular sorulabilir. Bu anlatım biçiminde de örneklendirme, sayısal verilerden yararlanma ve tanık gösterme gibi yollara başvurulur.
+
+## Düşünceyi Geliştirme Yolları
+
+Bir yazıda ana düşünceyi desteklemek, inandırıcı kılmak ya da somutlaştırmak amacıyla çeşitli yollara başvurulur.
+
+Tanımlama, "nedir?" ve "kimdir?" sorularına yanıt vererek bir varlığın ya da kavramın ne anlama geldiğini belirten düşünce geliştirme yoludur. "Şair; dil içinde dil yaratandır, insan içinde insan, toplum içinde toplum." cümlesi tanımlama örneğidir. Bu tanımlamadır çünkü "Şair nedir?" sorusuna yanıt verilmektedir; şairin özünü ortaya koyan belirleyici nitelikler sıralanmıştır. Tanımlamanın amacı bir kavramı ya da varlığı, onu diğerlerinden ayıran özellikleriyle ortaya koymaktır; bu cümle de şairi yaratıcılık ve toplumsal işlev açısından tanımlamaktadır.
+
+Karşılaştırma, metinde üzerinde durulan iki ya da daha fazla unsurun benzer ve farklı yönlerinin ortaya konduğu düşünceyi geliştirme yoludur. "Geçmiş döneme ait Batılı kahramanların bugün hem yayın hem de teknoloji dünyasında onlarca ürününe rastlarsınız. Ama bizim evrensel nitelikteki kahramanlarımızı kendi çocuklarımıza anlatma noktasında bile kafa yormadığımız aşikâr." karşılaştırma örneğidir. Bu karşılaştırmadır çünkü iki unsur — Batılı kahramanlar ve Türk kahramanlar — benzer ve farklı yönleriyle kıyaslanmaktadır. Batılı kahramanların günümüzdeki yaygınlığı ile Türk kahramanların ne yazık ki kendi toplumuna bile anlatılamaması arasındaki zıtlık vurgulanarak iki taraf arasındaki fark ortaya konmaktadır.
+
+Tanık gösterme, savunulan düşünceyi daha inandırıcı hâle getirmek için konunun uzmanı kişilerin sözlerinden alıntı yapılan düşünce geliştirme yoludur. "Ne zaman şiir üzerine konuşmak ya da yazmak durumunda kalsam Melih Cevdet'in şu sözü kulağımda çınlar durur: 'Şiir, üzerinde çok fazla konuşmayı kaldırmayan bir sanat dalıdır.'" tanık gösterme örneğidir. Bu tanık göstermedir çünkü şiir üzerine söylenen düşünce, bu alanda otorite sahibi bir isim olan Melih Cevdet'in sözüyle desteklenmiştir. Tanık göstermenin işlevi, savunulan ya da aktarılan düşünceye konunun uzmanının görüşünü ekleyerek inandırıcılığını artırmaktır.
+
+Örneklendirme, konuyu pekiştirmek ya da savunulan düşünceyi daha inandırıcı kılmak adına örneklerin verildiği düşünceyi geliştirme yoludur. "Japon edebiyatının uğur getiren canlısı boşuna dükkânların başköşesine konmaz; çünkü onlara göre kedinin hayatlarımızdan çıkması da bir uğursuzluk sebebidir." örneklendirme içerir. Bu örneklendirmedir çünkü genel bir düşünceyi — kültürel inançların gündelik yaşama yansımasını — somutlaştırmak amacıyla Japon kültüründen spesifik bir örnek verilmiştir. Örneklendirmenin işlevi soyut ya da genel bir yargıyı gözlemlenebilir, somut bir durumla pekiştirmektir.
+
+Sayısal verilerden yararlanma, düşüncelerin kanıtlanması ve daha inandırıcı olması adına istatistik ya da rakamsal verilerin kullanıldığı düşünceyi geliştirme yoludur. "Yetişkinler dakikada ortalama 10-15 kez göz kırpar. Bebekler ise dakikada ikiden daha az." sayısal veri örneğidir. Bu sayısal verilerden yararlanmadır çünkü göz kırpma davranışı, somut ve ölçülebilir rakamlarla aktarılmaktadır. Sayısal verilerin işlevi, düşünceyi yalnızca sözcüklerle anlatmak yerine ölçülebilir, doğrulanabilir rakamlarla destekleyerek daha inandırıcı kılmaktır.
+
+Benzetme, anlatımı güçlendirmek amacıyla iki varlıktan zayıf olanın güçlü olana benzetildiği düşünceyi geliştirme yoludur. "Bir kızıl goncaya benzer dudağın, açılan tek gülüsün sen bu bağın." benzetme örneğidir. Bu benzetme yoluyla düşünce geliştirmedir çünkü anlatılmak istenen güzellik ve tazelik kavramı, somut ve bilinen bir nesne olan "kızıl gonca"ya benzetilerek güçlendirilmiştir. Benzetmenin işlevi, anlatımı soyutluktan kurtararak okuyucunun zihninde canlı bir imge oluşturmaktır.
+
+---

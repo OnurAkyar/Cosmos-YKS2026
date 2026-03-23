@@ -1,0 +1,31 @@
+# Edat, Bağlaç, Ünlem
+
+## Edat
+
+Tek başına anlamı olmayan; başka sözcüklerle ilişkilendirildiğinde söz öbeği oluşturan sözcüklerdir. Başlıca edatlar şunlardır: ile, gibi, kadar, göre, üzere, diye, -e karşı, -e kadar, -e doğru, -den dolayı, -den ötürü.
+
+"Sabaha kadar ders çalıştım.", "Bana göre bu doğru değil.", "Eve doğru yürümeye başladım.", "Bu konuda senin gibi davrandım." gibi cümlelerde edatlar kullanılmıştır.
+
+Edatlar başka sözcüklerle kullanıldığında söz öbeği oluşturur: "Çocuğun aslan gibi yüreği vardı." İyelik eki aldığında isimler gibi kullanılır: "Onun gibisi hiçbir yerde yok." Bir edat bir isimle kullanıldığında sıfat ya da zarf olarak kullanılabilir: "Pamuk gibi saçları vardı." (sıfat), "Sen arkadaşım gibi konuşuyorsun." (zarf).
+
+"İle" yerine "ve" getirilebilirse bağlaç, getirilemezse edat sayılır: "Arkadaşları ile yemeğe gitti." (edat — kişiyle birlikte anlamı taşır), "Şiir ile hikâye okumayı seviyordu." (bağlaç — "ve" yerine geçebilir).
+
+Hâl ekleriyle kullanılan "doğru, karşı, beri" edatları tek başlarına kullanıldığında isim, sıfat ya da zarf olabilir: "Denize karşı oturduk, keyif yaptık." (edat), "Dün karşı köyden misafirlerimiz geldi." (sıfat), "Hayatın gerçekleri hakkında doğru söylüyorsun." (zarf), "Kendine doğru arkadaşlar bulmalısın." (sıfat), "Onun cevapları kesinlikle doğruydu." (isim).
+
+"mi" soru edatıdır ve kendinden önce gelen sözcükten daima ayrı yazılır: "Kitaplarını getirdin mi?"
+
+## Bağlaç
+
+Tek başına anlamı olmayan; eş görevli ya da anlamca ilgili söz ve söz öbeklerini, cümleleri birbirine bağlayan sözcüklerdir. Bağlaçlar cümleden çıkarıldığında cümlenin anlamında bozulma olmaz. Başlıca bağlaçlar şunlardır: ve, ile, çünkü, fakat, ama, da, ki, ya da, yalnız, mademki, yahut, hem…hem, ne…ne.
+
+"Onun en çok da bu hâli güzel.", "Söyledikleri ile yaptıkları birbirini tutmuyor.", "Hâlbuki bütün konuları öğrenmişti.", "Sinemaya git ama geç kalma." gibi cümlelerde bağlaçlar kullanılmıştır.
+
+"Nereden çıktı bu yalnız kadın karşıma?" — burada "yalnız" sıfatıdır; bir ismi (kadın) nitelemekte ve "nasıl kadın?" sorusuna "tek başına, kimsesiz" diye yanıt vermektedir. "Tutumları yüzünden yalnız kaldı." — burada "yalnız" zarftır; fiili (kaldı) "nasıl kaldı?" sorusuyla nitelemekte, tek başına kalma durumunu anlatmaktadır. "Seninle gelirim yalnız beklemen lazım." — burada "yalnız" bağlaçtır; iki yargıyı birbirine bağlamakta ve "ancak, fakat" anlamı taşımaktadır; cümleden çıkarıldığında anlam bozulmaz. "Dersim ancak 14.00'te bitebildi." — burada "ancak" zarftır; eylemin (bitti) gerçekleştiği zamanı sınırlandırmakta ve "en erken, zorla" anlamı katmaktadır. "Soruları çöz ancak kontrol etmeyi unutma." — burada "ancak" bağlaçtır; iki yargıyı "fakat, yalnız" anlamıyla birbirine bağlamaktadır.
+
+## Ünlem
+
+His ve heyecanları; sevinç, keder, nefret, coşkunluk gibi ruh hâllerini; tabiat seslerini, seslenmeleri; onay, ret gibi beyan şekillerini ifade eden sözcüklerdir. "Hey! Buraya bakar mısınız?", "Hayır, izin vermiyorum.", "Tüh! Geç kaldım.", "Ey sevgili! Uzatma dünya sürgünümü benim." gibi cümlelerde ünlemler kullanılmıştır.
+
+Kimi sözcükler, özel isimler ve cümleler de vurgu ve tonlamayla ünlem işlevi kazanabilir: "Çocuklar!", "Derhâl ablanı ara!" Ünlemler isim çekim eklerini alarak isimleşebilir: "Artık bu eyvahların bir anlamı kalmadı."
+
+---

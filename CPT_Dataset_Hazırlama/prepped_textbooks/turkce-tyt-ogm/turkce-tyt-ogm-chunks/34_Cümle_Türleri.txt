@@ -1,0 +1,25 @@
+# Cümle Türleri
+
+## Yüklemin Türüne Göre Cümleler
+
+"Hazırladığı kitaba son bir kez göz attı." — fiil cümlesidir çünkü yüklem "göz attı" çekimli bir fiildir; eylem bildirmektedir. "Okumam gereken bir sürü makale vardı." — isim cümlesidir çünkü yüklem "vardı" bir isim soylu sözcüğe (var) ek-fiil getirilmesiyle oluşmuştur; varlığı bildirir ve isim cümlesi niteliği taşır.
+
+## Öge Dizilişine Göre Cümleler
+
+"Öteki uçta zil uzun uzun çalıyor." — kurallı cümledir çünkü yüklem "çalıyor" cümlenin en sonunda yer almaktadır; Türkçenin doğal söz dizimi korunmuştur. "Sözcükler bir müzik parçası gibi akıyor sanki." — devrik cümledir çünkü yüklem "akıyor" sona gelmemiş, "sanki" zarfı yüklemden sonra kullanılmıştır; söz dizimi bozulmuştur. "Az veren candan, çok veren maldan…" — eksiltili cümledir çünkü yüklem hiç kullanılmamıştır; cümle yargısız bırakılmış, anlam okuyucu tarafından tamamlanmaktadır.
+
+## Anlamına Göre Cümleler
+
+Yargının gerçekleştiğini anlatan cümleler olumlu cümledir: "Dün evin anahtarlarını kaybettim." Yargının gerçekleşmediğini anlatan cümleler olumsuz cümledir: "Dün akşam sevdiğim programı izleyemedim." "Bu kitapları sevmiyor değilim." — biçimce olumsuz görünür çünkü "sevmiyor" olumsuz çekimlidir; ancak "değilim" olumsuzluğu ikinci kez olumsuzlamaktadır. İki olumsuz bir olumlu yaratır: "sevmiyorum değilim" = "seviyorum". "Ne sana küstüm ne de bir başkasına." — biçimce olumlu görünür çünkü "küstüm" fiili olumlu çekimlidir; ancak "ne…ne" bağlacı olumsuzluk anlamı taşır: ikisini de reddetmektedir. Anlam: kimseye küsmedim. Bir soruya cevap almak amacıyla kurulan cümleler soru cümlesidir: "Arkadaşına doğum günü hediyesi olarak ne aldın?" Sevinç, acı, korku, şaşırma gibi duyguları anlatan cümleler ünlem cümlesidir: "Ne kadar da güzel şehirler var!"
+
+## Yapısına Göre Cümleler
+
+Tek bir yargı bildiren cümleler basit cümledir: "Dördüncü kat merdivenlerinde ışıklar yanmıyor."
+
+"Gözlerini kapatıp öylece bekledi." — girişik birleşik cümledir çünkü yardımcı yargı zarf-fiil eki "-ip" ile kurulmuştur ("kapatıp"); yan cümle fiilimsi aracılığıyla temel cümleye bağlanmıştır. "Bu kadar merak ettiysen kapıyı çal." — şartlı birleşik cümledir çünkü yardımcı yargı "-sa/-se" şart kipiyle kurulmuştur ("ettiysen"); yan cümle temel cümlenin koşulunu bildirmektedir. "'Biz hayatta yaşayamadıklarımızı yaşatırız romanlarda.' demiş." — iç içe birleşik cümledir çünkü tırnak içindeki cümle alıntı olarak temel cümlenin içine yerleştirilmiştir; bir cümle diğerinin içinde yer almaktadır.
+
+"Soluğunu tutmuş, seslerin dinmesini bekliyor." — sıralı cümledir çünkü iki temel yargı virgülle bağlanmıştır; bağlaç kullanılmamıştır. "Çalışmaları yurt çapında tanınmış, beğenilmişti." — bağımlı sıralı cümledir çünkü her iki yargının öznesi aynıdır ("çalışmaları"); ortak öge paylaşılmaktadır. "Kapı açıldı, iri yarı bir adam içeriye girdi." — bağımsız sıralı cümledir çünkü iki yargı arasında ortak öge yoktur; özne, yüklem ve ögeler birbirinden tamamen bağımsızdır.
+
+En az iki temel yargının bağlaçla bağlandığı cümleler bağlı cümledir: "Dün uğrayamadım çünkü gece çalıştım."
+
+---

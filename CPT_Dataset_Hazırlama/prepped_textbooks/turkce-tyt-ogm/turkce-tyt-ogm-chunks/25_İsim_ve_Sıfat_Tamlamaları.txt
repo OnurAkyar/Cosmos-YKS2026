@@ -1,0 +1,21 @@
+# İsim ve Sıfat Tamlamaları
+
+## Belirtili İsim Tamlaması
+
+Aralarında aitlik ilgisi olan, tamlayanın ilgi hâli eki (-ın), tamlanananın iyelik eki aldığı tamlamalardır: "evin çatısı rüzgârdan uçmuş."
+
+Belirtili isim tamlamalarıyla ilgili birkaç önemli nokta vardır. Tamlayanla tamlanan arasına sıfat girebilir: "köyün bozuk yollarında ilerleyen at arabası." Tamlayanla tamlanan yer değiştirebilir: "Sözü henüz bitmiş sayılmaz yazarın." Birden fazla tamlayan tek tamlanana bağlanabilir: "Ankara'nın, Antalya'nın ve İzmir'in yolu bu noktada birbirlerine bağlanıyor." Tek tamlayan birden fazla tamlanana bağlanabilir: "Ağacın çiçekleri, yaprakları ve büyüklüğü göz alıcıydı." Tamlayan ya da tamlanan düşebilir: "Bu konuda gözü kimseyi görmüyor." (onun gözü). Tamlayan ya da tamlanan zamir olabilir: "Çocukların hepsi geziye katılacakmış.", "Bunların birkaçını eski evde bırakacağım." Tamlayan eki (-ın) yerine ayrılma hâli eki (-dan) kullanılabilir: "Öğrencilerden biri söz alarak konuştu."
+
+## Belirtisiz İsim Tamlaması
+
+Tamlayanın ilgi ekini almadığı, tamlanananın iyelik ekini aldığı tamlamalardır: "is kokusu, çam ağacı." Belirtisiz isim tamlamalarında tamlayanla tamlanan arasına sıfat girmez; sıfat tamlamanın başında kullanılır: "yoğun parfüm kokusu tüm odayı doldurdu."
+
+## Zincirli İsim Tamlaması
+
+En az üç isimden oluşan, tamlayanı, tamlananı ya da her ikisi de isim tamlaması olan tamlamalardır: "güneş gözlüğünün camını burada yaptırabiliriz." Bu örnekte "güneş gözlüğü" belirtisiz isim tamlaması, "güneş gözlüğünün camı" ise belirtili isim tamlamasıdır.
+
+## Sıfat Tamlaması
+
+Tamlayanı sıfat, tamlananı isim ya da zamir olan tamlamalardır. Sıfatın olduğu her yerde sıfat tamlaması da vardır. Birden fazla sıfat bir isme yönelik kullanılabilir: "Akıllı, terbiyeli ve çalışkan bir çocuktur." Bir sıfat birden fazla isme yönelik kullanılabilir: "Bu muhitte güzel evler, bahçeler var." Sıfat unsuru bir söz öbeği olabilir: "Gök mavisi gözleri ışıl ışıldı." Sıfat fiiller sıfat görevinde kullanılıp tamlama oluşturabilir: "Görecek günümüz varmış bu dünyada."
+
+---

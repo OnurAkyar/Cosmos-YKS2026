@@ -1,0 +1,21 @@
+# Protista Âlemi
+
+Protista âlemine giren canlılar altı grupta incelenir. Protistler ökaryot hücre yapısına sahip olan âlemler içerisinde en ilkel, tek ve çok hücreli organizmaların bulunduğu gruptur. Çoğunlukla sucul ortamlarda, nemli topraklarda, diğer hayvansal organizmaların vücutlarında yaşar. Protistler beslenme şekillerine göre ototrof, heterotrof ve hem ototrof hem heterotrof türleri vardır. Üretici protistler, taşıdıkları kloroplast sayesinde atmosferde ve denizlerde bulunan oksijenin büyük bir kısmını üretir.Tatlı sularda yaşayan türlerinde bulunan kontraktil kofullar, hücre içine giren suyun fazlasını dışarı atarak homeostaziyi sağlar.
+
+Kamçılılar hücre çeperine sahip değildir. Bir ya da iki kamçı bulundurur ve dış kısmında pelikula denilen koruyucu bir kılıf taşır. Kamçı yardımıyla aktif olarak hareket eder. Kamçılarının kök kısmında göz lekesi olarak bilinen ışığa duyarlı bir yapı bulunur. Kloroplast içerdikleri için kendi besinlerini üretebilir. Fotosentez yapmak için yeterli ışığın olmadığı durumlarda ise dışarıdan hazır besin alabilir.
+
+Kök ayaklılar yalancı ayaklar yardımıyla hareket eder. En iyi bilinen örneği amiptir. Amipte belirgin bir hücre şekli yoktur ve sürekli şekil değiştirir. Amipler hareket edebilmek için hücre yüzeyinden geçici sitoplazmik uzantılar çıkarır. Bu şekilde hareket ederken aynı zamanda besinlerini de yakalar. Amiplerin bazı türleri, insanın ve birçok hayvanın sindirim sisteminde parazit yaşar. Örneğin; Entamoeba histolytica (Entamoeba histolitika), insan kalın bağırsağında parazit olarak yaşayan ve amipli dizanteriye sebep olan kök ayaklı bir canlıdır.
+
+Hücre yüzeyini çevreleyen sil adı verilen yapılar; hareketi, dış çevreden gelen uyarılara uygun tepkilerin verilmesini ve beslenmeyi sağlar. Sillilerin en bilinen örneği, şeklinden dolayı terliksi hayvan olarak bilinen Paramecium caudatum'dur.
+
+Sillilerin hücrelerinde biri büyük diğeri küçük olmak üzere iki çekirdek bulunur. Büyük çekirdek, hücre metabolizması ve eşeysiz üremeyi düzenlerken küçük çekirdek, gen aktarımından (konjugasyon) sorumludur. Tatlı sularda yaşayan türlerinde hücre içine giren fazla su, kontraktil kofulların enerji (ATP) harcayarak kasılıp gevşemesi sonucu hücre dışına atılır. Böylece bu kofullar hücre içindeki osmotik dengeyi sağlamış olur.
+
+Sporlular grubu içindeki en bilinen örnek, sıtma hastalığının etkeni olan Plasmodium malariae (Pılazmodiyum malarya)'dır. Anofel cinsi dişi sivrisinekle taşınır.
+
+Sporluların hareket organelleri olmadığı için pasif olarak hareket eder. Sporlular hücre içi paraziti olarak yaşar ve besin ihtiyacını üzerinde yaşadığı canlıdan karşılar. Üremeleri sporla gerçekleşir.
+
+Algler fotosentez yapar ve hücre çeperine sahiptir. Hem karasal hem de sucul ortamlarda yaşayan türleri vardır. Dünyada üretilen serbest oksijenin çok büyük bir kısmı algler tarafından üretilir. Bir hücreli olabildikleri gibi çok hücreli olanları da vardır. Plastitlerinde değişik renklerde pigment maddeleri bulunur. Algler; taşıdıkları pigmentlere göre yeşil, kahverengi (esmer), altın sarısı ve kırmızı olmak üzere farklı renklerde olabilir.
+
+Cıvık mantarlar, ipliksi yapıda ve belirgin bir hücre şeklinden yoksun olan canlı grubudur. Cıvık mantarlar, sitoplazmasında genellikle çok sayıda çekirdeğe sahip olması, amipsi hareket etmesi ve hücre çeperinin olmaması nedeniyle gerçek mantarlardan ayrılır. Cıvık mantarlar nemli bölgelerde yaşar, eşeyli veya eşeysiz olarak çoğalabilir. Ayrıştırıcı olarak beslendikleri için madde döngüsüne katkı sağlar.
+
+Denizlerde ve tatlı sularda yaşayan bazı protistlerin hücre duvarlarında silisyum bulunur. Protistler, öldükten sonra zemine çökerek organik tortul kayaçları oluşturur. Bu tortul, diş macunlarına parlatıcı olarak katılmakta ve binalarda yalıtım malzemesi olarak kullanılmaktadır. Algler protein, vitamin ve mineral içeriği yönünden zengin olmaları nedeniyle besin olarak tüketilir. Ayrıca endüstriyel, evsel ve canlı atıkların temizlenmesinde, antibiyotik üretiminde, kozmetik ve tıbbi ürünlerin yapımında, plastik ve boya üretiminde kullanılır. Algler, fotosentez yapabildiğinden deniz ve okyanuslarda yaşayan diğer canlıların besin ve oksijen kaynağıdır. Ayrıştırıcı protistler organik atıkları inorganik bileşenlerine ayrıştırdığı için madde döngüsünde etkilidir.

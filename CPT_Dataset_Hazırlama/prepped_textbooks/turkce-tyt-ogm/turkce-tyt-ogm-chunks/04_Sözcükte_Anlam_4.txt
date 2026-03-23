@@ -1,0 +1,67 @@
+# Sözcükte Anlam 4
+
+## Mecazımürsel (Ad Aktarması)
+
+Benzetme amacı güdülmeden bir sözün başka bir söz yerine kullanılmasıdır. Mecazımürselde iki kavram arasında çeşitli ilişkiler kurulur ve bu ilişki aracılığıyla biri diğerinin yerine geçer.
+
+İç-dış ilişkisine dayanan ad aktarmasında bir kabın içindeki şey yerine kabın adı kullanılır: "Tabağını bitirmeden masadan kalkma." cümlesinde "tabak" sözcüğü, tabağın içindeki yiyecek yerine geçmiştir. Bu mecazımürseldır çünkü gerçekte tüketilen şey tabağın kendisi değil içindeki yiyecektir; ancak dış — yani kap olan tabak — iç olanın — yani yiyeceğin — yerine kullanılmıştır. Benzetme yoktur, yalnızca iç-dış konumuna dayalı doğrudan bir yer değiştirme söz konusudur.
+
+Parça-bütün ilişkisinde bir bütünün parçası o bütünün yerine ya da bütün parçanın yerine kullanılır: "Mersin'e bir yük gemisi yanaştı." cümlesinde gemi tek bir araç olmasına karşın "bir yük gemisi" ifadesiyle belirli bir yük anlatılmış olabilir. Bu mecazımürseldır çünkü taşıma aracı olan gemi (parça ya da araç), taşınan yükün (bütün içerik) yerine geçmiştir; ya da tek bir geminin bütün bir yükü temsil etmesi bütün-parça ilişkisi kurulmaktadır.
+
+Yer-insan ilişkisinde bir yerde yaşayan insanlar o yerin adıyla anılır: "Haberi duyunca tüm kasaba üzüldü." cümlesinde kasabada yaşayan insanlar "kasaba" sözcüğüyle karşılanmıştır. Bu mecazımürseldır çünkü üzülen kasabanın kendisi değil, orada yaşayan insanlardır; yer adı o yerdeki topluluğun yerine geçmiştir. Benzetme içermez; yalnızca yer ile o yerde yaşayan insanlar arasındaki doğrudan ilişkiye dayanır.
+
+Sanatçı-eser ilişkisinde bir sanatçının adı onun eseri yerine kullanılır: "Mehmet Akif'i her okuyuşumda ayrı zevk alırım." cümlesinde Mehmet Akif'in şiirleri "Mehmet Akif" adıyla karşılanmıştır. Bu mecazımürseldır çünkü okunan şey Mehmet Akif'in kendisi değil, yazdığı şiirlerdir; sanatçının adı, eserinin yerine geçmiştir. Benzetme yoktur; sanatçı ile eseri arasındaki üretim ilişkisi bu yer değiştirmeye zemin hazırlar.
+
+Neden-sonuç ilişkisinde bir sonuç, onu doğuran neden adıyla anılır ya da tam tersi geçerlidir: "Bu hafta her gün bereket yağdı." cümlesinde yağmurun yağması yerine yağmurun sonucu olan "bereket" kullanılmıştır. Bu mecazımürseldır çünkü yağan şey gerçekte yağmurdur (neden); "bereket" ise yağmurun tarım için getirdiği bolluktur (sonuç). Sonucun nedenin yerine kullanılması bu yer değiştirmeyi oluşturmaktadır.
+
+Yön-ülke ilişkisinde bir yön adı o yönde yer alan ülkeleri ya da toplulukları karşılar: "Batı, bizi bu konuda destekledi." cümlesinde "Batı" sözcüğü Batılı ülkeleri anlatmaktadır. Bu mecazımürseldır çünkü "Batı" bir coğrafi yön adıdır; ancak burada Avrupa ve Kuzey Amerika'daki ülkeleri ve toplumları temsil etmektedir. Yön adının siyasi-kültürel bir topluluğun yerine geçmesi, bu ilişki türünün belirleyici özelliğidir.
+
+## Deyim Aktarmaları
+
+Deyim aktarması, bir kavramın niteliklerinin başka bir kavrama aktarılmasıdır. Bu aktarma farklı varlık alanları arasında kurulabilir.
+
+Duyular arası aktarmada bir duyuya ait nitelik başka bir duyuyla ilgili bir kavrama aktarılır: "Yumuşak sesiyle herkesi etkiledi." cümlesinde "yumuşak" sözcüğü dokunma duyusuna aittir ancak burada işitme duyusuna ilişkin olan "ses"i nitelemektedir. Bu deyim aktarmasıdır çünkü "yumuşak" normalde dokunma yoluyla algılanan bir yüzey özelliğidir; ancak bu nitelik işitme duyusuna ait bir kavrama — sese — taşınmıştır. Bir duyuya ait niteliğin başka bir duyuya ait kavramı nitelemesi bu aktarmanın belirleyici özelliğidir.
+
+İnsandan doğaya aktarmada insan özellik ve davranışları doğadaki varlıklara aktarılır: "Kaptan tayfalara esip gürledi." cümlesinde insana özgü bir davranış olan "esip gürlemek" kaptana aktarılmış, doğadaki bir fırtınaya benzetilmiştir. Bu deyim aktarmasıdır çünkü "esip gürlemek" doğada fırtına ve rüzgara özgü bir olgudur; kaptanın öfkeli ve gürültülü davranışı bu doğa olayının nitelikleriyle anlatılmıştır. Başlık "insandan doğaya" olsa da bu örnekte aktarma yönü doğadan insanadır — doğaya ait bir özellik insana yüklenmiştir.
+
+Doğadan insana aktarmada doğaya ait özellikler insanlara aktarılır: "Ağaçların kuşlarla dostluğu hiç bitmez." cümlesinde ağaçlara insani bir duygu olan dostluk yüklenmiştir. Bu deyim aktarmasıdır çünkü "dostluk" yalnızca insanlara özgü bir duygudur; ağaçlar duygu yaşayamaz. İnsana ait bu niteliğin doğadaki bir varlığa — ağaca — yüklenmesi bu aktarmanın belirleyici özelliğidir.
+
+Doğadan doğaya aktarmada doğanın bir öğesinin nitelikleri başka bir öğeye aktarılır: "Yıllar durmadan akıyor." cümlesinde "akmak" eylemi suya aittir ancak burada soyut bir kavram olan zamana aktarılmıştır. Bu deyim aktarmasıdır çünkü "akmak" fiziksel olarak yalnızca sıvılar için geçerlidir; suyun somut hareketi soyut bir doğa unsuru olan zamana aktarılmıştır. Her iki kavram da doğa alanına giriyor olsa da bu aktarma somuttan soyuta doğrudur.
+
+## Dolaylama
+
+Bir sözcükle anlatılabilecek kavramın birden çok sözcükle anlatılmasıdır. Tek bir sözcük yerine bu sözcüğün anlamını çağrıştıran daha uzun bir ifade kullanılır. Örneğin "kaleci" yerine "file bekçisi" demek bir dolaylamadır. Bu dolaylamadır çünkü "kaleci" tek bir sözcükle anlatılabilecek bir kavramken "file bekçisi" iki sözcükten oluşan bir ifadedir; ağı — fileyi — koruyan kişi anlamına gelerek kaynağını görevden alır. Mecaz anlam ya da anlam değişikliği içermez; yalnızca bir kavramı tek sözcük yerine daha uzun bir ifadeyle betimleme tercihidir.
+
+## Güzel Adlandırma
+
+İnsanlarda korku uyandıran veya uğursuzluk olduğuna inanılan durum ve varlıkları daha güzel çağrışımlar uyandıracak başka sözcüklerle adlandırmaktır. "Felç" yerine "inme" demek güzel adlandırmadır çünkü "felç" sert ve doğrudan bir çağrışım taşırken "inme" aynı hastalığı daha örtük ve yumuşak bir ifadeyle aktarır; kavramın nesnel içeriği değişmez, yalnızca ona yüklenen duygusal ağırlık hafifler. "Ölüm" yerine "vefat etmek" demek güzel adlandırmadır çünkü "ölüm" ölümü doğrudan ve sertçe adlandırırken "vefat etmek" aynı olguyu daha saygılı ve yumuşak bir anlatımla karşılar. "Verem" yerine "ince hastalık" demek güzel adlandırmadır çünkü "verem" hastalığın adını doğrudan verirken "ince hastalık" hastalığı dolaylı bir nitelemeyle — incelten hastalık çağrışımıyla — adlandırır ve böylece doğrudan adlandırmanın yarattığı korku ve damgalamayı hafifletmeye çalışır.
+
+## Kinaye
+
+Bir sözün mecaz anlamını kastederek hem gerçek hem mecaz anlamda kullanılmasıdır. "Eli açık insanların gönlünün iyilikle dolu olduğuna inanırım." cümlesinde "eli açık" ifadesi hem gerçek anlamıyla (eli açık tutmak) hem de mecaz anlamıyla (cömert olmak) yorumlanabilir. Bu kinayedir çünkü "eli açık" okunduğunda zihin hem fiziksel bir eli hem de cömertliği eş zamanlı olarak düşünebilir; yazar bu çift anlamı kasıtlı olarak seçmiştir. Kinayeyi düz mecaz anlamdan ayıran özellik şudur: mecaz anlamda gerçek anlam tamamen arka plana çekilirken kinayede her iki anlam da birlikte geçerlidir.
+
+## Tariz
+
+Bir sözün tersini kastedecek biçimde kullanılmasıdır, yani söylenen ile kastedilen birbirinin zıddıdır. "Aferin, sınava çok çalıştığınız notlarınızdan belli." cümlesinde aslında sınava hiç çalışılmadığı ima edilmektedir; sözün görünürdeki anlamı kasıtlı olarak tersine çevrilmiştir. Bu tarizdir çünkü "aferin" ve "çok çalıştığınız" övgü içeriyormuş gibi görünse de "notlarınızdan belli" kötü sonuçlara işaret eder; konuşmacı aslında yetersiz çalışmayı kast etmektedir. Söylenen ile kastedilen birbirinin tam tersidir — bu tarizin belirleyici özelliğidir. Kinayeden farkı şudur: kinayede iki anlam birlikte geçerliyken tarizde yalnızca ters anlam kastedilir.
+
+## Benzetme
+
+Aralarında türlü yönlerden ilgi bulunan iki şeyden benzerlik bakımından güçsüz olanın güçlü olana benzetilerek anlatılmasıdır. "Gözüne mil çekilmiş bir âmâ gibi evler." cümlesinde evler, görme yetisini yitirmiş birine benzetilmektedir. Bu benzetmedir çünkü evler (güçsüz — benzetilen) ile görme yetisini yitirmiş biri (güçlü — kendine benzetilen) arasında bir ortak özellik kurulmuştur: evlerin karanlık, kapalı ve içe dönük görünümü ile göremeyen birinin hâli arasındaki benzerlik benzetmeye temel oluşturur. "Gibi" edatı benzetmenin açık göstergesidir.
+
+## Somutlama
+
+Soyut bir kavramın benzetme, kişileştirme yoluyla veya deyimler aracılığıyla somut sözcüklerle ifade edilmesidir. "Umut yediğim ekmek, içtiğim sudur." cümlesinde "umut" gibi soyut bir kavram, somut olan ekmek ve su ile anlatılmaktadır. Bu somutlamadır çünkü "umut" zihinsel ve soyut bir kavramdır; ne görülür ne elle tutulur. "Ekmek" ve "su" ise gözle görülüp elle tutulabilen, beş duyu organıyla algılanabilen somut varlıklardır. Soyut olan "umut"un bu somut varlıklar aracılığıyla anlatılması — soyutun somutun diline çevrilmesi — somutlamanın belirleyici özelliğidir.
+
+## Anlam Değişmeleri
+
+Sözcüklerin tarihsel süreç içinde anlam bakımından çeşitli değişimlere uğraması söz konusudur. Bu değişmeler dört başlık altında incelenir.
+
+Anlam iyileşmesinde bir sözcük zamanla daha olumlu bir anlam kazanır. "Emek" sözcüğü eskiden eziyet ve acı anlamı taşırken günümüzde özenle ve sabırla yapılan iş anlamına gelmektedir. Bu anlam iyileşmesidir çünkü "eziyet ve acı" olumsuz bir çağrışım taşırken "özenle yapılan iş" değer verilen, saygın bir eylemi ifade eder; sözcük tarih içinde olumsuzdan olumluya doğru değişmiştir.
+
+Anlam kötüleşmesinde bir sözcük zamanla daha olumsuz bir anlam kazanır. "Bayağı" sözcüğü eskiden sıradan ya da olağan anlamında kullanılırken bugün kalitesiz ve adi anlamını taşımaktadır. Bu anlam kötüleşmesidir çünkü "sıradan ya da olağan" nötr bir nitelendirmeyken "kalitesiz ve adi" açıkça olumsuz bir değer yargısı içerir; sözcük nötürden olumsuza kaymıştır.
+
+Anlam genişlemesinde bir sözcük başlangıçta dar bir kavramı karşılarken zamanla daha geniş bir anlam alanına yayılır. "Ödül" sözcüğü ilk başta yalnızca güreş sonrasında verilen mükâfatı karşılarken bugün her türlü başarı karşılığında verilen ödülü anlatmaktadır. Bu anlam genişlemesidir çünkü "güreş ödülü" çok özel ve dar bir bağlamla sınırlıyken günümüzde spor, sanat, bilim gibi geniş bir yelpazede her türlü başarıya verilen ödülü kapsayacak biçimde yayılmıştır.
+
+Anlam daralmasında ise bir sözcük başlangıçta geniş bir anlam taşırken zamanla yalnızca belirli bir varlığı karşılar hâle gelir. "Erik" sözcüğü önceleri çekirdekli küçük meyvelere verilen genel ad iken günümüzde yalnızca belirli bir meyvenin adı olmuştur. Bu anlam daralmasıdır çünkü "çekirdekli küçük meyveler" kiraz, vişne, şeftali gibi pek çok türü kapsayan geniş bir kategoriyi ifade ederken, bugün "erik" yalnızca tek bir meyve türüne işaret etmektedir; sözcüğün kapsadığı alan zamanla daralmıştır.
+
+---

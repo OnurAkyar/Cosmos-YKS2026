@@ -1,0 +1,49 @@
+# İnorganik Bileşiklerin Genel Özellikleri ve Canlılar İçin Önemi
+
+Canlıların yapısını oluşturan temel bileşikler moleküllerden, moleküller ise aynı ya da farklı element atomlarından meydana gelir. Farklı türdeki canlıların vücudundaki element çeşitleri ve miktarları da farklılık gösterebilir. Canlılardaki temel bileşikler inorganik ve organik olmak üzere iki çeşittir.
+
+Canlılar tarafından üretilemeyen, doğadan hazır olarak alınan, yapısında karbon ve hidrojen elementlerini birlikte bulundurmayan bileşiklere inorganik bileşik denir. Örn: $HNO_3$ , $H_2SO_4$ , HCl, $CO_2$ , CO vb.
+
+İnorganik bileşikler, küçük yapılı olduklarından sindirilmeden kana geçer ve hücre içine alınır. Solunum tepkimelerinde inorganik bileşikler enerji ham maddesi olarak kullanılmaz. Yapıcı, onarıcı ve düzenleyici olarak görev yapar. İnorganik bileşikler; su, asitler, bazlar, tuzlar ve minerallerdir.
+
+Tüm organizmalarda en çok bulunan bileşen sudur. Organizmaların toplam kütlesinin %70'inden fazlası sudan oluşur. Su, biyolojik yapıların oluşturulması ve yaşamsal faaliyetlerinin gerçekleştirilebilmesi için gerekli inorganik maddelerin en önemlisidir. İnsanların çeşitli doku ve organlarındaki su miktarı birbirinden farklı olduğu için metabolizma hızları da farklılık gösterir. Su molekülü, bir oksijen atomuna kovalent bağlar ile bağlanan iki hidrojen atomundan oluşur.
+
+Su molekülleri birbirlerine hidrojen bağı ile bağlanır. Su molekülleri arasında kurulan hidrojen bağının çekim kuvvetine kohezyon (su moleküllerinin birbirini çekme kuvveti), suyun diğer moleküllere tutunmasını sağlayan kuvvete ise adhezyon denir.
+
+Su iyi bir çözücü olduğundan sindirim tepkimelerinde kullanılır. Hücrelerin ihtiyaç duyduğu maddelerin taşınmasını ve metabolik atıkların uzaklaştırılmasını sağlar. Ayrıca yüksek özgül ısıya sahip olması ve ısıyı depolama özelliği sayesinde, deniz ve okyanuslardaki su yavaş yavaş ısınıp soğur ve böylece canlıların olumsuz etkilenmesi önlenmiş olur. Suyun donmasıyla oluşan buz, yoğunluğu daha az olduğundan su yüzeyinde kalarak daha alt tabakalardaki suyun soğuk hava ile temasını önler, suda yaşayan canlıların donmadan yaşamlarına devam etmelerine olanak sağlar. Yapraklarda terleme sonucunda oluşan emme kuvveti ve kohezyon-adhezyon kuvvetleri sayesinde su, bitkilerin köklerinden yapraklarına kadar kesintisiz bir sütun şeklinde yer çekimine zıt yönde taşınır. Suyun kohezyon kuvvetine bağlı olarak oluşan yüzey gerilimi, bazı canlıların su yüzeyinde durabilmesine ve yürüyebilmesine olanak sağlar. Su, buharlaşma ısısının yüksek olması sebebiyle etkili bir soğutma sağlar. Karada yaşayan bazı canlılar, artan vücut sıcaklığını terleme yoluyla düşürür.
+
+Suda çözündüğünde hidrojen iyonu ($H^+$) veren bileşiklere asit denir. Genellikle tatları ekşidir. Mavi turnusol kâğıdını kırmızıya dönüştürür.
+
+Suda çözündüğünde hidroksit iyonu ($OH^-$) veren bileşiklere baz denir. Genellikle tatları acıdır ve ele kayganlık hissi verir. Kırmızı turnusol kâğıdını maviye dönüştürür.
+
+Bir çözeltinin ne kadar asidik ya da bazik olduğunu içeriğindeki serbest $H^+$ iyon derişimi belirler. Oluşan hidrojen ($H^+$) iyonlarının konsantrasyonuna bakılarak çözeltinin pH değeri belirlenir. Bu pH değerini belirlemek için pH metre adı verilen cihaz kullanılır. Buna göre bir çözeltinin pH değeri 7'nin altındaysa asit, 7'nin üzerindeyse baz, 7 ise nötrdür. Bir çözeltinin pH değeri 7'den 0'a doğru gittikçe asitlik derecesi, 7'den 14'e doğru gittikçe baziklik derecesi artar.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Vücudun farklı bölgeleri farklı pH değerine sahiptir. Bu değerlerdeki küçük değişimler ölümcül bile olabilir. İnsan kanının normal pH değeri 7,4'tür. Bu değerin 7'ye düşmesi ya da 7,8'e yükselmesi iç dengeyi bozacağından birkaç dakika içinde insanın ölmesine sebep olur. Tuzlar, asitlerin ve bazların nötrleşme tepkimesiyle birleşmesi sonucunda oluşur.
+
+Örn: Hidroklorik asit (HCl) ve sodyum hidroksitin (NaOH) birleşmesi sonucu sofra tuzu olarak bilinen sodyum klorür (NaCl) ve su ($H_2O$) meydana gelir.
+
+Tuzun canlı vücuduna az ya da çok alınması sağlık sorunlarına neden olabilir. Tuzun gereğinden az alınması yorgunluk ve kan şekerinin yükselmesi, fazla alınması durumunda ise yüksek tansiyon, kalp-damar hastalıkları, böbrek rahatsızlıkları ve bağırsak iltihaplanmaları gibi sağlık sorunlarına yol açabilir.
+
+Canlılarda organik moleküllerin yapısına katılan ve bazı bileşik enzimleri aktive eden inorganik maddelerdir. Canlılar yaşadığı ortamdan su ve besinler aracılığıyla mineralleri hazır olarak alır. Her mineralin kendine özgü görevi vardır. Bu sebeple vücuttaki bir mineralin eksikliği başka bir mineral ile giderilemez. Mineraller idrar, ter ve dışkı ile vücut dışına atıldığından mineral içeren besinler düzenli olarak vücuda alınmalıdır. Mineraller, hücre içinde ve hücreler arası boşluklarda tuz hâlinde de bulunabilir.
+
+Klor minerali hücre içi ve hücreler arası sıvıda su dengesinin ve suyun pH değerinin ayarlanmasında görev alır. Mide hücrelerinden salgılanarak, midede görev alan sindirim enzimlerini $H^+$ ile birleştirerek aktifleştirir. Ayrıca yetersiz alınması, sindirim sistemi ve büyüme bozukluklarına neden olur. Kaynak besinler: Sofra tuzu, et, süt, süt ürünleri, taze sebzelerdir.
+
+Kükürt minerali amino asitlerin yapısına katılır; saç, tırnak ve cilt sağlığı için gereklidir. Eksikliğinde büyüme bozuklukları, saçta dökülme ve deri renginde solma görülür. Kaynak besinler: Süt, et, balık, yumurta, fasulye, fındık, fıstık, bademdir.
+
+İyot minerali tiroit bezinden salgılanan tiroksin hormonunun yapısında bulunur. Büyüme çağında yeterince alınmazsa tiroksin eksikliği sonucu cücelik, çarpık bacaklılık ve zekâ geriliği gibi hastalıklar görülebilir; iyot eksikliği tiroit bezinin büyüyüp guatr hastalığına neden olmasına da yol açabilir. Kaynak besinler deniz ürünleri ve iyotlu tuzdur.
+
+Magnezyum minerali kemik ve dişlerin yapısına katılır; kasların çalışmasında, ATP üretiminde, karbonhidrat ve protein metabolizmasında görev alır. Yetersiz alınması kaslarda kramplara, büyümenin yavaşlamasına, saç dökülmesine ve yorgunluk hissine neden olur. Bitkilerde klorofil pigmentinin yapısında da bulunur. Kaynak besinler: Kuru yemişler, baklagiller, soya fasulyesi, kabuklu deniz ürünleri, kakao, peynirdir.
+
+Sodyum minerali kasların uyarılması, sinirsel iletim, pH ve su dengesinin sağlanmasında görev alır. Yetersiz alınması kaslarda kramplara ve sinirsel iletimin aksamasına neden olabilirken ihtiyaçtan fazla alınması yüksek tansiyon, ishal, titreme ve kusmaya yol açabilir. Kaynak besinler: Sofra tuzu, et, süt, süt ürünleri ve taze sebzelerdir.
+
+Demir minerali solunum gazlarını taşımada görevli hemoglobin molekülünün yapısına katılır; oksijenli solunumda ve fotosentezde görev alan bazı enzimlerin yapısına ve karaciğerdeki katalaz enziminin yapısına kofaktör olarak katılır. Besinlerle alınan demir minerali C vitamini varlığında emilerek kana karışır. Eksikliğinde yeteri kadar hemoglobin üretilemeyeceği için anemi olarak bilinen kansızlığa neden olur. Kansızlıkta birim zamanda hücrelere taşınan oksijen miktarı, buna bağlı olarak da enerji (ATP) üretimi azalır, metabolizma yavaşlar. Kaynak besinler: Deniz ürünleri, karaciğer, yumurta sarısı, baklagiller, yeşil yapraklı sebzeler, kuruyemişlerdir.
+
+Potasyum minerali hücre içi ve hücreler arası ortamda su ve asit-baz dengesini ayarlar; iskeletin ve kalp kaslarının çalışmasını ile sinir hücrelerinde uyarı iletimini sağlar. Eksikliği kalp ve iskelet kaslarının çalışma ritminin bozulmasına ve sinirsel iletimin aksamasına neden olurken ihtiyaçtan fazla alınması böbrek yetmezliğine yol açabilir. Kaynak besinler: Baklagiller, turunçgiller, muz, avokado, brokoli, ıspanak, patates, kuruyemişlerdir.
+
+Kalsiyum minerali kemik ve dişlerin yapısının korunmasında, kas dokunun kasılıp gevşemesinde, sinir hücrelerinde uyartının iletilmesinde ve kanın pıhtılaşmasında görev alır. Besinlerle alınan kalsiyum, D vitamini varlığında emilerek kana karışır. Ayrıca çocuklarda kalsiyum eksikliği kemiklerde yumuşama ve eğrilme şeklinde görülen raşitizm hastalığına neden olur. Yetişkin bireylerde ihtiyaçtan az alınması kemik erimesine (osteoporoz), normalden fazla alınması da eklemlerde kireçlenmeye sebep olabilir. Kaynak besinler: Süt ve süt ürünleri, yumurta sarısı, kuruyemişler, tahıllar, baklagiller, yeşil yapraklı sebzelerdir.
+
+Flor minerali diş ve kemik sağlığı için gereklidir. Yetersiz alınması dişlerin çürümesine, fazla alınması ise dişlerde kararmaya ve beneklenmeye yol açar. Kaynak besinler: Ham çay yaprağı, kabuklu deniz ürünleri, somon balığıdır.
+
+Çinko minerali bazı enzimlerin ve insülin hormonunun yapısına katılır; yaraların iyileşmesinde etkilidir. Eksikliğinde vücut direnci azalır ve dikkat eksikliği görülür. Kaynak besinler: Deniz ürünleri, et, yumurta, tahıllar, kuru baklagillerdir.
+
+Fosfor minerali kemiklerin, dişlerin, DNA, RNA ve ATP'nin yapısına katılır; pH'ın dengelenmesinde görev alır. Eksikliğinde kemikler zayıflar ve enerji metabolizmasında bozulmalar görülür. Kaynak besinler: Süt ürünleri, yumurta, et, tahıl ve baklagillerdir.

@@ -1,0 +1,41 @@
+# Mayozun Genel Özellikleri ve Evreleri
+
+Eşeyli üreyen canlılarda gametlerin (erkek veya dişi üreme hücresi) oluşumunu sağlayan bölünme şekline mayoz denir. Eşeyli üremenin ve genetik çeşitliliğin temelini, mayoz bölünme ve döllenme oluşturur.
+
+Mayoz: 2n (diploit) üreme ana hücrelerinde görülür. Bölünmeler tamamlandığında kromozom sayısı yarıya iner. Ayrıca tür içi kromozom sayısının sabit kalmasını sağlar. Canlı çeşitliliğini sağlamada rol oynar. Mayoz I ve mayoz II olarak iki aşamada gerçekleşir. Tetrat, sinapsis ve krosing over olayları görülür. Bir takım kromozom taşıyan hücrelere haploit hücre denir. Haploit hücre n ile gösterilir.
+
+Eşeyli üreyen canlıların vücut hücreleri, biri anneden diğeri babadan gelen toplam iki takım kromozoma sahipse 2n ile gösterilir. 2n kromozomlu bu hücrelere diploit hücre denir. Biri anneden diğeri babadan gelen, şekil ve yapı bakımından birbirine benzeyen kromozomlara denir. Homolog kromozomların yan yana gelerek dört kromatitten oluşturduğu yapıya tetrat adı verilir. Homolog kromozomların yan yana gelip fiziksel olarak birbirlerine geçici bağlanması olayına sinapsis denir.
+
+Sinapsis sırasında homolog kromozomların kardeş olmayan kromatitleri, çapraz olarak üst üste gelir. Bu şekilde temas ettikleri bölgelere kiyazma denir. Tetratlarda kardeş olmayan kromatitlerin, gen alışverişi yapmalarına krossing over (parça değişimi) denir. Hücrenin mayoza başlamadan önce geçirdiği hazırlık evresidir.
+
+İnterfazda büyüme, solunum ve metabolizma hızı artar. ATP sentezi, protein sentezi ve enzim sentezi gerçekleşir. Ayrıca DNA kendini eşler. Organel sayısı artırılır. Hayvan hücrelerinde sentrozom sayısı 2 katına çıkar. DNA miktarı iki katına çıkar. Mitozda görülen interfazla aynıdır.
+
+Mayoz, birbirini takip eden mayoz I ve mayoz II aşamalarından oluşur. DNA'nın bir kez eşlenmesinden sonra arka arkaya iki çekirdek ve iki sitoplazma bölünmesi gerçekleşir. Mayoz ile kromozom sayısı yarıya inmiş ve kalıtsal özellikleri birbirinden farklı üreme hücreleri oluşur.
+
+Mayozun en uzun ve en karmaşık evresidir. Kromatin iplikler, kıvrılıp katlanır ve birbirinin kopyası iki kardeş kromatitten oluşan kromozomları oluşturur. Ayrıca çekirdek zarı parçalanır, çekirdekçik kaybolur. Hayvan hücrelerinde eşlenen sentrozomlar ve bunların uzantısı mikrotübüllerden iğ iplikleri oluşur. Kromozomlar kinetokorlarından iğ ipliklerine tutunarak ekvatoral düzleme göç etmeye başlar. Bu evrede mitozdan farklı olarak homolog kromozomlar yan yana gelerek dört kromatitli tetrat yapısını oluşturur. Homolog kromozomların yan yana gelip fiziksel olarak birbirlerine geçici bağlanmasıyla sinapsis olayı gerçekleşir. Homolog kromozomların kardeş olmayan kromatitleri, çapraz olarak üst üste gelerek temasla kiyazma bölgesini oluşturur. Homolog kromozomların kardeş olmayan kromatitlerin oluşturduğu kiyazma bölgelerinde krossing over (parça değişimi) gerçekleşir.
+
+Krossing over sayesinde oluşan yeni gen kombinasyonları, birbirinden farklı gametlerin oluşmasını sağlar. Her mayozda tetrat ve sinapsis oluşumu gözlenir ancak krossing over her zaman gerçekleşmeyebilir. Ayrıca bir kromozom üzerinde bulunan genler arasındaki uzaklık arttıkça krossing over olma olasılığı da artar. Krossing over sayesinde kromozomlar yeni bir genetik dizilime sahip olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Tetrat sayısı o hücrenin haploit kromozom sayısına eşittir. Kromatit sayısı kromozom sayısının 2 katıdır.
+
+Tetrat hâlindeki homolog kromozomlar, kinetokorlarından kinetokor mikrotübüllerine tutunur. Hücrenin ekvatoral bölgesinde birisi bir kutba, diğeri diğer kutba dönerek rastgele karşılıklı konumlanır. Bu konumlanma kalıtsal çeşitliliğe neden olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Metafaz I'de kromozomların kinetokorlarına iğ ipliklerinin bağlanıp bağlanmadığı kontrol edilir. Tüm kromozomların kinetokorlarına iğ iplikleri bağlanmışsa anafaz I'e geçilir.
+
+Homolog kromozom çiftleri (tetrat) birbirinden ayrılır. Homolog kromozomların kardeş kromatitleri birbirine bağlı kalarak zıt kutuplara doğru iğ iplikleri sayesinde hareket eder. Ayrıca homolog kromozom çiftlerinin ayrılması, oluşan hücrelerin kromozom sayısının ana hücreninkinin yarısı kadar olmasına neden olur. Anafaz I' de kromozomların kutuplara rastgele çekilmesi başka bir deyişle bağımsız açılımın gerçekleşmesi kalıtsal çeşitliliğin temel nedenlerindendir. Profaz I' de krossing over olmasa da bu olay sayesinde genetik çeşitlilik sağlanır.
+
+Telofaz I'de zıt kutuplara çekilmiş kromozomlarda sentromer ayrılması gerçekleşmediğinden eşlenmiş kromatitler bir arada bulunur. Iğ iplikleri kaybolur; çekirdek zarı ve çekirdekçik, türe özgü olarak yeniden oluşabilir. Ayrıca bu evrede her bir kutupta haploit kromozom takımı bulunur. Genellikle telofaz ile başlayan sitoplazma bölünmesi hayvan hücrelerinde anafazda başlayabilir.
+
+Hayvan hücrelerinde boğumlanma, bitki hücrelerinde ara lamel oluşumu ile gerçekleşir. Sitokinez olayı sonucunda genetik yapısı birbirinden farklı, haploit (n) kromozomlu 2 tane hücre meydana gelir. Mayoz I ile mayoz II arasında interfaz safhası meydana gelmez ve DNA kendisini eşlemez.
+
+Mayoz I'de oluşan n sayıda kromozoma sahip iki hücre, ayrı ayrı mayoz II adı verilen bölünme sürecine girer. Mayoz II; profaz II, metafaz II, anafaz II, telofaz II evrelerinden oluşur. Ayrıca mayoz II, kardeş kromatitlerin ayrılmasından dolayı mitoza benzer. Mayoz I'den daha kısa sürer. Mayoz II'den önce DNA eşlenmez, varsa sentriol eşlenir. Mayoz II sonucunda oluşan hücrelerin hem kromozom sayıları hem de DNA miktarları ana hücrenin yarısı kadardır.
+
+Mayoz I sonunda çekirdek zarı ve çekirdekçik oluşmuşsa bunlar profaz II' de parçalanarak kaybolur, iğ iplikleri oluşur. Kromozomlar belirginleşir. Bu evre profaz I'e göre kısa sürer.
+
+Metafaz II'de kinetokorlarından mikrotübüllere bağlanmış kromozomlar kardeş kromatitli hâlde hücrenin ekvator düzlemine tek sıra hâlinde dizilir. Mayoz I'de krossing over olduğundan her kromozomun kardeş iki kromatiti genetik olarak birbirinin aynı değildir.
+
+Kardeş kromatitleri sentromerde bir arada tutan proteinlerin yıkılması sonucu kromatitler birbirinden ayrılır. Kardeş kromatitler iğ iplikleri ile zıt kutuplara çekilir. Ayrıca kromatitler, bu aşamadan sonra kromozom adını alır ve hücre bölününceye kadar kromozom sayısı iki kat görünür. Telofaz II'de çekirdekler oluşur. Çekirdek zarı, çekirdekçik ve endoplazmik retikulum yeniden oluşur; sitoplazma bölünmesi de bu evreyle başlar.
+
+Hayvan hücrelerinde boğumlanma, bitki hücrelerinde ise ara lamel oluşumu ile bölünme gerçekleşir. Sitokinez II sonucu haploit kromozom takımına sahip, birbirinden ve atasal hücreden genetik olarak farklı dört kardeş hücre oluşur.
+
+Mitoz ve mayoz bölünme birçok temel özellik bakımından birbirinden ayrılır. Mitozda bir hücrenin bölünmesi sonucu iki yeni hücre oluşurken mayozda bir üreme ana hücresinden dört yeni hücre oluşur. Mitozda yavru hücrelerin kromozom sayısı ana hücreyle (n veya 2n) aynı kalırken mayozda bu sayı ana hücrenin yarısına iner. Mitoz zigot döneminde başlayarak yaşam boyu sürerken mayoz yalnızca bireyin eşeysel olgunluk döneminde gerçekleşir. Mitozda anafazda kardeş kromatit ayrılması görülürken mayozda anafaz I'de homolog kromozomlar, anafaz II'de ise kardeş kromatitler ayrılır. Profaz I'e özgü olan krossing over yalnızca mayozda gerçekleşir; mitozda bu olay görülmez. Son olarak, mitoz sonucu oluşan hücrelerdeki DNA miktarı bölünen hücreyle aynıyken mayoz sonucu oluşan hücrelerdeki DNA miktarı ana hücrenin yarısı kadardır.

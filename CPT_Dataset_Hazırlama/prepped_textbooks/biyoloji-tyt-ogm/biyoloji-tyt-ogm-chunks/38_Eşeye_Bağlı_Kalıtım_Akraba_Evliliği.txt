@@ -1,0 +1,39 @@
+# Eşeye Bağlı Kalıtım, Akraba Evliliği
+
+Canlıların birçoğu ayrı eşeylidir. Erkek ve dişilerde gözlenen çok sayıda anatomik ve fizyolojik farklılığın kromozomal bir temeli vardır.
+
+Eşeyi (cinsiyeti) belirleyen genleri taşıyan kromozomlara eşey kromozomları (gonozom) adı verilir. Eşey kromozomları eşeyin belirlenmesinden sorumlu genlerin yanı sıra vücut karakterlerine ve metabolizmasına ait genler de taşımaktadır. Ayrıca insanlarda eşey kromozomları, X ve Y olarak belirlenmiştir. Kromozomlar üzerinde taşınan karakterlerin kalıtımına eşeye bağlı kalıtım denir. Insanlarda XX kromozomlarına sahip bireyler dişi, XY kromozomlarına sahip bireyler ise erkek olarak gelişir. Cinsiyeti, babadan gelen eşey kromozomu belirler. Babadan Y kromozomu alan bireylerin cinsiyeti erkek olur. Babadan X kromozomu alan bireylerin cinsiyeti kız olur. Kız ve erkek çocuğun dünyaya gelme ihtimali eşittir.
+
+İnsan vücut hücrelerinde $2n = 46$ kromozom bulunur. X ve Y kromozomların homolog Bölgesinde Taşınan Özelliklerin Kalıtımı: X ve Y kromozomlarının şekil ve büyüklükleri birbirinden farklıdır. Bu kromozomlar üzerinde homolog (eş) olan ve homolog olmayan bölgeler bulunur. Homolog olan bölgede aynı karakterlerle etki eden aleller bulunur. Ayrıca X ve Y kromozomlarının homolog bölgesinde taşınan özellikler, hem anneden hem babadan gelen iki alelle belirlenir. Tam renk körlüğü bu duruma örnektir.
+
+X kromozomu, hem dişi hem erkekte bulunur. X kromozomu üzerinde bulunan genlerin kalıtımına X kromozomuna bağlı kalıtım denir. x kromozomunun Y ile homolog olmayan bölgesinde taşınan özellikler (X'e bağlı kalıtım) her iki cinsiyette de ortaya çıkabilir. Ayrıca bu özellikler anneden hem erkek hem de kız çocuklarına aktarılır. Ancak dişilerde iki X kromozomu bulunduğundan iki alelle, erkeklerde bir X kromozomu bulunduğundan bir alelle belirlenir. · X kromozomuna bağlı kalıtımda en çok bilinen hastalıklar kısmi renk körlüğü, kas distrofisi ve hemofilidir.
+
+Kırmızı ve yeşil renkleri ayırt edememe hastalığıdır. Bu hastalığı taşıyan kişilerin görme merkezinde özel bir pigment molekülü bulunmaz veya gerektiğinden az bulunur.
+
+Kısmi renk körlüğü, X kromozomunun Y kromozomu ile homolog olmayan kısmında bulunan çekinik genle taşınır. Kadınlarda iki tane X kromozomu bulunduğundan kısmi renk körlüğünün ortaya çıkabilmesi için çekinik genin her iki kromozom üzerinde de bulunması gerekir. Ayrıca erkeklerde bir tane X kromozomu bulunduğundan tek başına çekinik alel, hastalığın ortaya çıkması için yeterlidir ve bu yüzden renk körlüğünün erkeklerde görülme ihtimali kadınlardan daha fazladır. Kısmi renk körlüğü, X kromozomu üzerinde taşındığından erkek çocuk çekinik geni sadece anneden alır. Kız çocuk ise çekinik geni hem anneden hem babadan alır. Anne kısmi renk körü ise erkek çocukların hepsi kısmi renk körüdür. Kız çocuk kısmi renk körü ise baba da kısmi renk körüdür. X^R Sağlıklı gen.
+
+Kısmi renk körü kalıtımında kadınların üç olası genotipi bulunmaktadır. X^R X^R genotipi sağlıklı, X^R X^r genotipi sağlıklı ve taşıyıcı, X^r X^r genotipi ise kısmi renk körü fenotipini verir. Erkeklerde ise yalnızca iki durum söz konusudur: X^R Y genotipi sağlıklı, X^r Y genotipi kısmi renk körü fenotipiyle sonuçlanır. Erkeklerde taşıyıcılık görülmez; çünkü Y kromozomunda bu gen bulunmamaktadır.
+
+Kısmi renk körü bir baba ile taşıyıcı annenin evliliğinden doğacak çocuklarda hastalık oluşma olasılıkları $\frac{1}{4}$ taşıyıcı, $\frac{1}{4}$ sağlıklı, $\frac{2}{4}$ kısmi renk körü şeklindedir.
+
+Kanın pıhtılaşması için gerekli bir ya da daha fazla proteinin eksikliğinde görülen ve X kromozomu üzerinde çekinik genle taşınan kalıtsal hastalıktır.
+
+Hemofili hastaları yaralandığı zaman kan pıhtılaşmaz ya da dayanıklı pıhtı oluşumu gecikir. Kan pıhtılaşmadığından uzun süren kanamaları olur. Ayrıca hemofili hastalarında diz, ayak bileği ya da eklemlerde meydana gelen kanamalar; ağrı, şişlik, morluk oluşturur. Bu kanama, organ ya da dokulara zarar verebilir. Hemofili hastalığında kanama durumunda uygun tedavi uygulanmazsa ölüm riski yüksek olur.
+
+Günümüzde hemofili hastaları, kanama durumunda kendisinde eksik olan proteinler (kanamayı yavaşlatıcı ya da durdurucu) enjekte edilerek tedavi edilmektedir. Uygulanan tedavi yöntemi ile bu hastaların daha uzun yaşaması sağlanabilmektedir.
+
+Hemofili kalıtımında kadınların üç olası genotipi vardır. X^H X^H genotipi sağlıklı, X^H X^h genotipi sağlıklı ve taşıyıcı, X^h X^h genotipi ise hemofili fenotipini verir. Erkeklerde ise X^H Y genotipi sağlıklı, X^h Y genotipi hemofili fenotipiyle sonuçlanır. Kısmi renk körüne benzer şekilde erkeklerde taşıyıcılık görülmez.
+
+Sadece Y kromozomu üzerinde bulunan genlerin kalıtımına ise Y kromozomuna bağlı kalıtım adı verilir. y kromozomunun X kromozomu ile homolog olmayan bölgesinde taşınan özellikler, babadan gelen tek bir genle belirlenir (Tek alelle kontrol edilir.). Ayrıca y kromozomuna bağlı özellikler dişilerde Y kromozomu olmadığından babadan sadece erkek çocuklarına aktarılır.
+
+Y kromozomunun homolog olmayan bölgesinde taşınan bir genin X kromozomu üzerinde aleli olmadığı için aleller baskın veya çekinik olsa da fenotipte daima etkisini gösterir.
+
+Y kromozomu üzerinde bulunan SRY geni erkek cinsiyet gelişiminde rol oynayan en önemli gendir. SRY geni, erkeklerin embriyonik dönemdeki cinsiyete bağlı özelliklerin gelişiminde ve testis oluşumunda etkilidir.
+
+Aralarında kan bağı olan kişiler arasında yapılan evliliklere akraba evliliği denir. Bu tür evliliklerde hastalık alellerinin bir araya gelme olasılığı arttığı için aileden gelen kalıtsal hastalıklar varsa bu hastalıkların ortaya çıkma olasılığı da artar.
+
+Kalıtsal hastalıkların çoğu çekinik alellerle taşınır. Çekinik gen sadece homozigot hâlde etkisini gösterir. Ayrıca hastalıkların ortaya çıkması için çekinik alelin hem anneden hem de babadan bireye aktarılması gerekir. Çekinik alellerle kalıtılan bir özellik bakımından taşıyıcı olan anne babanın, çekinik alelleri kız ve erkek çocuklarına aktardıklarında hem sağlıklı hem de taşıyıcı ve hasta çocukları olabilir.
+
+Akraba evliliğinde en büyük sorun, sağlıklı bireylerin DNA'larındaki hastalık genlerini çocuklarına aktarmasıdır. Akraba evliliği ile doğan çocuklarda renk körlüğü, orak hücreli anemi, Akdeniz anemisi, sağırlık, fenilketonüri, kistik fibroz hastalıklarının yanı sıra şizofreni gibi ruhsal hastalıklar da sık görülmektedir.
+
+Akraba evliliklerine bağlı kalıtsal hastalıkların görülme sıklığını azaltmanın yolu, toplumu bilinçlendirmekten ve eğitim düzeyini yükseltmekten geçmektedir.

@@ -1,0 +1,23 @@
+# Lipitler
+
+Suda çözünmeyen hidrokarbonlardır ancak alkol, eter, kloroform, aseton gibi organik çözücülerde çözünür. Bileşiminde karbon (C), hidrojen (H) ve oksijen (O) elementleri bulunur, bazı çeşitlerinin yapısına fosfor (P) ve azot (N) elementleri de katılabilir. Ayrıca canlıların yapısındaki en önemli lipitler; nötral yağlar (trigliseritler), fosfolipitler ve steroitlerdir.
+
+Nötral yağlar (trigliseritler) bitki ve hayvan hücrelerinde lipitlerin depo şeklidir. Üç molekül yağ asidi ile bir molekül gliserol esterleşme tepkimesi ile birleşir. Bu bir dehidrasyon olayıdır. Tepkime sırasında gliserol ile yağ asitleri arasında üç adet ester bağı kurulur ve üç molekül su açığa çıkar.
+
+Doymuş yağ asitlerinde karbon atomları arasındaki tüm bağlar tektir; oda sıcaklığında katı hâlde bulunur ve genellikle hayvansal kaynaklıdır. Doymuş yağ asidi içeren yağlara doymuş yağlar denir. Örneğin; tereyağı, kuyruk yağı, iç yağı.
+
+Doymamış yağ asitlerinde karbon atomları arasında çift bağlar bulunur; bu durum yağ asidine esneklik kazandırır. Oda sıcaklığında sıvı hâlde olup genellikle bitkisel kaynaklıdır. Doymamış yağ asidi içeren yağlara doymamış yağlar denir. Örneğin; ayçiçek yağı, mısır yağı, zeytinyağı.
+
+Doymamış yağ asitleri hidrojen atomları ile doyurularak trans yağlar elde edilir. Margarinler, trans yağa örnektir. Trans yağların kalp-damar sağlığı üzerine olumsuz etkileri vardır.
+
+Fosfolipitler hücre zarının yapısına katılır. Gliserole bağlı iki yağ asidi ve bir fosfat grubundan oluşan bu lipit çeşidinde moleküllerin dış ortama ve hücrenin içine bakan baş kısımları hidrofilik (suyu seven), zarın iç kısmındaki kuyruk bölgeleri ise hidrofobik (suyu sevmeyen) yapıdadır.
+
+Steroitler yapısında dört karbon halkası ve çeşitli işlevsel yan gruplar bulunan lipit çeşididir. Östrojen ve testosteron gibi erkek ve dişi eşey hormonlarının yapısına katıldığından düzenleyici görevleri vardır. Ayrıca safra salgısı ile A ve D vitaminlerinin yapısına da katılır. Ayrıca kolesterol hayvansal kaynaklı bir steroit örneğidir. Hücre zarının bir bileşenidir. Zarın akışkanlığını artırır, esnekliğini ve dayanıklılığını sağlar. Sinir hücrelerinde yalıtım görevi yapar. Kolesterol, omurgalılarda karaciğerde sentezlenir ayrıca besinlerle de alınır. Bitkilerde kauçuk, eterik yağ, reçine ve haşhaş sütü gibi dış salgılar steroitlere örnektir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Tavuk derisi, yumurta sarısı, sakatat, ıstakoz ve karidesi fazla tüketmek, kanda kolesterol düzeyini yükseltebilir. Bunun sonucunda damar sertliği, damar tıkanıklığı görülebilir. Kalbi besleyen damarların tıkanması kalp krizine, beyni besleyen damarların tıkanması bilinç kaybına ve felce neden olabilir.
+
+Yağlar glikolipitler olarak hücre zarının yapısına katılır. Bazı vitaminlerin ve hormonların yapısına katılarak düzenleyici görev üstlenir. Sinir hücrelerinin etrafını sararak elektriksel yalıtımı gerçekleştirir. Ayrıca deri altında depo edildiğinden soğuk iklimde yaşayan hayvanlarda vücut ısısının korunmasını sağlar. Vücudun basınçtan ve darbelerden zarar görmesini engeller. Organların etrafında depo edilir, böbrek gibi bazı iç organlara desteklik sağlar. Yağda eriyen A, D, E ve K vitaminlerinin vücuda alınmasında etkilidir.
+
+Kış uykusuna yatan memeliler uyku sırasında, göçmen kuşlar uzun göç yolculuğunda, develer çöl gibi zorlu şartlarda vücutlarında depoladıkları yağları kullanır. Ayı ve sincap kış uykusu için vücutlarında yağ depolar.
+
+Yağların hidrojenleri fazla olduğundan enerji elde edilmesi için oksijenli solunumla yıkıldığında karbonhidratlara ve proteinlere göre iki kat fazla enerji verir. Sonuçta bol miktarda metabolik su açığa çıkar. Bu nedenle hayvanlar, enerji ve su ihtiyacını karşılamak için vücutlarında yağ depolar. Yağlar hafif olduğu için yüzmede ve uçmada kolaylık sağlar. Bu durum, göçmen kuşlar için avantajdır. Ayrıca aynı miktarları parçalandığında karbonhidratlardan daha fazla enerji vermelerine rağmen parçalanmaları için daha fazla oksijene ihtiyaç olduğundan enerji eldesinde karbonhidratlardan sonra ikinci sırada kullanılır. Üreme hormonlarının yapısına katıldıklarından üreme sisteminin gelişiminde önemlidir.

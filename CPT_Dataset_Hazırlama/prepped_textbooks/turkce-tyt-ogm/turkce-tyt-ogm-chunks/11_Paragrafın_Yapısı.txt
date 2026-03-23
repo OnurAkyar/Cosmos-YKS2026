@@ -1,0 +1,47 @@
+# Paragrafın Yapısı
+
+Paragraf, sadece bir konu etrafında bir araya gelmiş cümleler topluluğudur. Her paragrafta sadece bir konu işlenir; bu yüzden yeni bir konuya ya da konunun farklı bir yönüne geçildiğinde yeni bir paragraf oluşturulmalıdır. Paragraflar küçük bir kompozisyon gibidir ve giriş, gelişme, sonuç bölümlerinden oluşur.
+
+Giriş bölümü paragrafın ilk ve genellikle tek cümleden oluşan bölümüdür. Konunun ortaya konduğu, gelişme bölümüne hazırlık yapan bu bölüm, kendisinden önceki bir yargıyla bağlantı kurduracak "ama, fakat, lakin, ne var ki, ancak, yalnız, çünkü, oysa, hâlbuki, bu nedenle, bu yüzden" gibi bağlayıcı ifadeler içermez. Açıklanmaya ve geliştirilmeye olanak tanıyan genel bir yargı niteliğindedir.
+
+Gelişme bölümü giriş bölümündeki konunun genişletildiği bölümdür. Ana düşüncenin belirginleşmesini sağlayan yardımcı düşünceler burada yer alır. Örnekleme, tanımlama, sayısal verilerden yararlanma gibi düşünceyi geliştirme yöntemleri kullanılır. Cümleler dil ve anlam bakımından önceki ve sonraki cümlelerle sıkı sıkıya ilişkilidir; birtakım bağlayıcı ifadelerle birbirine bağlanır.
+
+Sonuç bölümü paragrafın bitiş bölümüdür ve genellikle tek cümleden oluşur. Paragrafta anlatılanları özetleyen ya da sona erdiren bir nitelik taşır. Kendisinden sonra başka yargıların varlığını çağrıştıracak ifadeler bulunmaz. "Sonuç olarak, böylece, kısacası, demek ki" gibi ifadeler içerebilir.
+
+## Paragraf Oluşturma
+
+Dağınık olarak verilen cümlelerden anlamlı bir paragraf oluştururken her bir cümlenin ortaya koyduğu düşünce, olay ve durum belirlenmelidir. Bir düşünceyi aktaran paragraflarda giriş cümlesi ve cümleler arasındaki bağlayıcı ifadeler tespit edilmelidir. Olaya dayalı paragraflarda ise olayların kronolojik gerçekleşme sırası göz önünde tutulmalıdır.
+
+Örnek: Aşağıdaki cümleler anlamlı bir bütün oluşturacak biçimde sıralanacaktır.
+
+I. Evet, İzmit ve Bursa gibi büyük sanayi şehirlerini ve körfezdeki dev fabrikaları hatırlatan bir görüntü bu.
+II. Sabaha karşı şehre girerken yolun solunda sis, duman ve alevler içindeki Karabük Demir Çelik Fabrikası'nın silo şeklindeki dev bacaları hafızalarımızı yokluyor.
+III. Gece yollara düşüyoruz, sabahın erken saatlerinde Safranbolu'dayız.
+IV. Yolda birkaç dakika seyrettiğimiz bu devasa fabrikayı geçtikten sonra Karabük şehir merkezine giriyoruz.
+V. Yalnız Safranbolu'dan önce Karabük'ten kısaca bahsetmek istiyorum.
+
+Bu cümlelerin doğru sıralaması III - V - II - I - IV şeklindedir.
+
+## Paragraf Düzenleme
+
+Bir paragraftaki cümlelerden en az birinin bulunduğu yerin yanlış olması durumunda düzeltme yapılırken paragrafı oluşturan her cümlenin önceki ve sonraki cümlelerle ilişkisi doğru tespit edilmeli, geçiş ve bağlantı ifadeleri göz önünde bulundurulmalı, öncelikle giriş cümlesi saptanmalı ve konu bütünlüğüne dikkat edilerek art arda gelen cümleler belirlenmelidir.
+
+Örnek paragraf: I. Kehribar, bir ağacın milyonlarca yılda oluşan reçinesidir. II. Sadece iki ülkede olduğunu bildiğimiz ve ileriki yıllarda artık kalmayacağını düşündüğümüz bu malzemenin yurt dışına çıkarılması yasak. III. Bu pahalı reçinenin; sarılık, guatr ve stres başta olmak üzere çoğu hastalığa ciddi faydası vardır. IV. Bu nedenle doktorların guatr hastalarına kehribar kolye tavsiye ettiği bilinir. V. Bu kadar uzun sürede oluştuğu için fiyatı oldukça yüksektir. Bu paragrafta II. ve V. cümlelerin yer değiştirmesi anlamlı bir bütün oluşturur; çünkü V. cümle doğal olarak I. cümlenin devamı niteliğindedir.
+
+## Paragrafta Akışı Bozan Cümle
+
+Paragraflar bir konuyu sadece bir yönüyle ele alan cümleler topluluğu olduğu için konu dışına çıkan, konuyu başka bir yöne götüren her cümle paragrafın anlam akışını bozar. Akışı bozan cümleyi tespit etmek için önce paragrafın konusu tespit edilmeli, ardından konudan sapan cümle aranmalıdır.
+
+Örnek paragraf: (I) XIX. yüzyılda dışarıdan gelebilecek herhangi bir salgın hastalık tehlikesine karşı karantina idaresi kurulmuş. (II) Karantina, İtalyancadan alınmış ve "kırk, kırklık, kırktan ibaret" anlamına gelen bir sözcük. (III) Salgın hastalık tehlikesine karşı İstanbul'dan sonra ikinci karantina idaresi 1840'ta İzmir'de kurulmuş. (IV) Önce gemiler İzmir Karantina İdaresinin bulunduğu sahilde kırk gün bekler ve yolcular barakalarda kalırmış. (V) 1846'da Mithat Paşa Meslek Lisesinin yanındaki yerde bir karantina binası inşa edilmiş ve o günden sonra semtin adı Karantina olarak kayıtlara geçmiş. (VI) 1863'te Karantina İdaresi Urla'ya taşınsa da semt sakinleri arasında bu ismin kullanımı günümüze kadar devam etmiş. Bu parçada II. cümle paragrafın anlam akışını bozmaktadır; çünkü diğer cümleler karantina idaresinin tarihini anlatırken II. cümle sözcüğün etimolojisine girmektedir.
+
+## Paragrafı İkiye Bölme
+
+Bir paragrafta iki farklı konu işleniyorsa paragrafın iki parçaya bölünmesi gerekir. Bölme yapılırken cümlelerin konularına göre gruplandırılması ve yeni konunun hangi cümleyle başladığının belirlenmesi gerekir.
+
+Örnek: (I) Hikâye etme ve masal anlatma, Doğu kültüründe önemli bir yere sahiptir. (II) Yakın Doğu ve Orta Doğu ülkelerinin halk edebiyatları; efsane, hikâye ve masallarının çokluğuyla bunu ispatlar. (III) Bunların derlenmesiyle oluşturulmuş kitaplar da birçok ailenin kütüphanesinde bulunur. (IV) Olağanüstü ögelerin hikâyelerde önemli bir yer tuttuğu inkâr edilemez. (V) Ama Türkler, Orta Asya bozkırlarında yaşadıklarını hikâye, masal ve efsane olarak İslam dünyasına taşımıştır. (VI) İşte bu nedenle Türk edebiyatında hikâyenin başlangıçtan itibaren daha "gerçekçi" bir söyleyiş kazandığı görülür. Bu paragraf ikiye bölünmek istenirse ikinci paragraf IV. cümle ile başlamalıdır. Bu doğrudur çünkü I., II. ve III. cümleler Doğu kültüründe hikâye anlatımının genel önemini ve yaygınlığını işlemektedir. IV. cümle ise "olağanüstü ögelerin hikâyelerde önemli bir yeri" ile konuyu farklı bir alt boyuta taşımakta; V. ve VI. cümleler bu eksenin devamı olarak Türk edebiyatının gerçekçi söyleyişini ele almaktadır. IV. cümleden itibaren konu "genel Doğu hikâye geleneği"nden "Türk hikâye geleneğinin özgünlüğü"ne kaymaktadır.
+
+## Paragrafa Cümle Ekleme
+
+Bazı paragraf sorularında verilen bir cümlenin paragrafa eklenmesi istenir. Bu durumda paragrafın konusu ve yerleştirilmek istenen cümlenin neyden söz ettiği saptanmalıdır. Paragraftaki cümleler ile eklenecek cümle arasında dilsel ve anlamsal bir bütünlük olması gerekir; bağlayıcı ifadeler ve anahtar kavramlar bu ilişkiyi kurmakta yardımcı olur.
+
+---

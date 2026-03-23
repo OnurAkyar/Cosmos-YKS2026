@@ -1,0 +1,17 @@
+# Ek-Fiil (Ek Eylem)
+
+Türkçede ek fiil "i-(mek)" fiilidir ve iki temel görevi vardır: isim ya da isim soylu sözcükleri yüklem yapmak ve basit zamanlı fiilleri birleşik zamanlı yapmak.
+
+## İsimlere Gelen Ek-Fiil
+
+İsimlere gelen ek fiilin dört kipi vardır. Bilinen geçmiş zaman kipi "-idi"dir: "Bu sınıf diğerine göre daha karanlıktı." — "karanlıktı" = "karanlık idi"; konuşan sınıfın karanlık olduğunu bizzat gözlemlemiş ya da yaşamıştır; bilinengeçmiş eki "-di" kullanılmıştır. Duyulan geçmiş zaman kipi "-imiş"tir: "Bu hastanede doktormuş." — "doktormuş" = "doktor imiş"; konuşan bunu başkasından duymuş ya da sonradan öğrenmiştir; duyulan geçmiş eki "-miş" kullanılmıştır. Şart kipi "-ise"dir: "Sorular zorsa sana yardım edebilirim." — "zorsa" = "zor ise"; yardım etme eylemi soruların zor olması koşuluna bağlanmıştır; şart eki "-se" kullanılmıştır. Geniş zaman kipi "-idir"dir: "Arkadaşım her zaman güçlüdür." — "güçlüdür" = "güçlü idir"; geniş zaman eki "-dir" arkadaşın genel ve kalıcı bir niteliğini bildirmektedir.
+
+İsimlere gelen ek fiilin olumsuzu "değil" sözcüğüyle yapılır: "Bana gönderdiği mektup değildi."
+
+Ek fiilin geniş zamanı kişi ekleriyle çekimlenebildiği için iyelik ekiyle karıştırılmamalıdır: "Ben öğretmenim." (ek fiil geniş zaman), "Öğretmenim bugün gelmedi." (iyelik eki). Ek fiilin geniş zaman eki bazen kullanılmayabilir: "O tatlı bir çocuk." ile "O tatlı bir çocuktur." her ikisi de doğrudur.
+
+## Fiillere Gelen Ek-Fiil
+
+Ek fiil basit zamanlı fiilleri birleşik zamanlı yapar. Üç farklı kip birleşik zaman oluşturur. Hikâye birleşik zamanı "-idi" ekiyle kurulur: "okuyordu" (okuyor idi) — şimdiki zaman ekine "-idi" getirilmiş; geçmişte devam eden bir eylemi anlatmaktadır; konuşan bunu bizzat görmüştür ya da doğrudan bilmektedir. Rivayet birleşik zamanı "-imiş" ekiyle kurulur: "okuyormuş" (okuyor imiş) — şimdiki zaman ekine "-imiş" getirilmiş; başkasından duyulan ya da sonradan öğrenilen bir eylemi anlatmaktadır. Şart birleşik zamanı "-ise" ekiyle kurulur: "okuyorsa" (okuyor ise) — şimdiki zaman ekine "-ise" getirilmiş; eylemin devam etmesinin bir koşula bağlandığını anlatmaktadır.
+
+---

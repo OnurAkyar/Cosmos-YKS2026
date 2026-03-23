@@ -1,0 +1,23 @@
+# İsim (Ad)
+
+Canlı ve cansız varlıkları, durumları ve düşünceleri bildiren sözcüklere isim (ad) denir.
+
+## İsimlerin Sınıflandırılması
+
+Varlıklara veriliş biçimlerine göre isimler cins isim ve özel isim olarak ikiye ayrılır. Cins isimler aynı türden varlıkların ortak adıdır: okul, çiçek, defter. Özel isimler ise tek bir varlığa verilen addır: Mustafa Kemal Atatürk, Ankara, İslamiyet.
+
+Varlıkların oluşlarına göre isimler somut isim ve soyut isim olarak ikiye ayrılır. Duyularla algılanabilen varlıkların adı somut isimdir: rüzgâr, kar, kapı. Yalnızca zihinsel olarak algılanabilen varlıkların adı ise soyut isimdir: mutluluk, öfke, hüzün, umut.
+
+Varlıkların sayılarına göre isimler tekil isim, çoğul isim ve topluluk ismi olarak üçe ayrılır.
+
+Cins isimler özel ya da genel anlamlı olarak kullanılabilir. "Saksıdaki çiçek sulanmadığı için kurudu." cümlesinde "çiçek" özel anlamlıdır; "saksıdaki" belirteci sayesinde sözcük belirli, tek bir çiçeği kasteder ve bu bağlamda özel anlamlı işlev görür. "Özel günlerde sevdiklerime çiçek hediye etmeyi severim." cümlesinde ise "çiçek" genel anlamlıdır; belirli bir çiçek türü ya da tek bir çiçek değil, herhangi bir çiçek kastedilmektedir — sözcük geniş kapsamıyla kullanılmıştır. Bazı isimler cins isim olarak da özel isim olarak da kullanılabilir: "Bu bahar birlikte kamp yapalım." — "bahar" burada cins isimdir çünkü bir mevsimi genel olarak adlandırmaktadır; büyük harfle başlamaz ve aynı türdeki tüm ilkbahar mevsimlerini kapsar. "Kızına Bahar adını vermeyi çok istiyordu." — "Bahar" burada özel isimdir çünkü tek bir kişiye, belirli bir bireye verilen addır; büyük harfle yazılır. Bir isim ad aktarması yoluyla topluluk anlamı da kazanabilir: "Kasabanın ışıkları erkenden sönmüştü." — burada "kasaba" gerçek anlamıyla, fiziksel bir yerleşim yeri olarak kullanılmıştır; tekil isimdir. "Bu habere bütün kasaba çok üzüldü." — burada "kasaba" yer adı değil, o yerde yaşayan tüm insanları temsil etmektedir; ad aktarması yoluyla topluluk anlamı kazanmıştır.
+
+## İsimlerde Küçültme
+
+"-cık, -çe, -cak, -cağız, -(i)msi, -(ı)mtırak" ekleriyle yapılır. Bu ekler isme küçültme anlamının yanı sıra acıma ve sevgi gibi anlamlar da katabilir; bazen eklendiği ismi kalıcı isim hâline de getirir. "Mınnacık elleriyle yazıyordu." — "minnacık" küçültme ekiyle oluşmuştur ve ellerin fiziksel olarak küçük olduğunu anlatır; ek burada boyutu küçülten gerçek küçültme işlevi taşır. "Bademcik ameliyatı olmuştu." — "bademcik" küçültme ekini almış ancak bademcik bağımsız bir organ adı olarak kalıcı isim hâline gelmiştir; artık küçültme anlamı taşımaz, yalnızca o organın anatomik adıdır. "Yavrucak soğuktan titriyordu." — "-cak" eki burada boyutu küçültmez; konuşanın yavruya duyduğu acıma ve şefkati yansıtır. "Babacığım, diyerek seslendi." — "-cığım" eki burada küçültme değil sevgi ve yakınlık anlamı katmaktadır; "baba" büyüklüğünden hiçbir şey eksilmez, ek duygusal sıcaklığı ifade eder.
+
+## İsimlerde Yapı
+
+İsimler yapıları bakımından basit, türemiş ve birleşik olmak üzere üçe ayrılır. Basit isimler yapım eki almayan isimlerdir. Türemiş isimler yapım eki alan isimlerdir. Birleşik isimler ise en az iki sözcüğün birleşmesiyle oluşan isimlerdir: uğurböceği, hanımeli.
+
+---

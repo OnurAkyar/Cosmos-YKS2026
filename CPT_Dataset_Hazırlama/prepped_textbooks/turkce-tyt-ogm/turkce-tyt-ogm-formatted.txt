@@ -1,0 +1,1211 @@
+# Sözcükte Anlam 1
+
+## Gerçek Anlam
+
+Bir sözcüğün akla gelen ilk anlamıdır. Temel anlam olarak da adlandırılabilir. Örneğin "ayak" sözcüğünün gerçek anlamı insan ya da hayvanların yürümesini sağlayan uzuv, "kırılmak" sözcüğünün gerçek anlamı ise bir nesnenin parçalanmasıdır.
+
+Gerçek anlam örnekleri: "Merdivenlerden inerken ayağını burkmuş." cümlesinde "ayak" sözcüğü gerçek anlamıyla kullanılmıştır: kişinin fiziksel olarak yürümesini sağlayan uzvu kasteder, benzetme ya da aktarma içermez. "Yere düşen duvar saatinin camı kırılmıştı." cümlesinde "kırılmak" sözcüğü gerçek anlamıyla kullanılmıştır: camın fiziksel olarak parçalara ayrılmasını anlatır, sözcük temel sözlük anlamından saptırılmamıştır. Her iki cümlede de sözcükler temel anlamlarıyla kullanılmıştır.
+
+## Yan Anlam
+
+Bir sözcüğün temel anlama bağlı olarak kazandığı yeni anlamdır. Yakıştırmaca şeklinde de adlandırılabilir. Temel anlam ile yan anlam arasında mutlaka bir anlam ilişkisi bulunur; bu iki anlam birbirinden tamamen kopuk değildir.
+
+Yan anlam örnekleri: "Şehrin meydanında bir ayağı kırık sandalye heykeli vardı." cümlesinde "ayak" sözcüğü sandalyenin dayandığı kısım anlamında kullanılmıştır. Bu yan anlam taşır çünkü sandalye ayağının işlevi — bir nesneyi destekleyip yerden yükseltmek — insan ayağının işleviyle benzerlik kurularak geliştirilmiştir; iki anlam arasındaki bu somut işlev ilişkisi kopmamıştır, ancak sandalye ayağı gerçek bir uzuv değildir. "Bahçedeki hortum kırıldığı için su az akıyordu." cümlesinde ise "kırılmak" sözcüğü işlevini yitirme anlamında kullanılmıştır. Bu yan anlam taşır çünkü işlev yitimi ile fiziksel kırılma arasında bir bağlantı vardır — her ikisinde de bir bütünlük ya da işlerlik bozulmaktadır — ama hortum parçalanmamıştır. Bu "bağ kopmamış ama tam örtüşme yok" ilişkisi yan anlamın belirleyici özelliğidir.
+
+## Mecaz Anlam
+
+Bir sözcüğün bir ilgi veya benzetme sonucu temel anlamından tamamen uzaklaşarak kazandığı yeni anlamdır. Yan anlamdan farklı olarak mecaz anlam ile gerçek anlam arasındaki bağ çok daha zayıftır; sözcük asıl anlamından tümüyle sıyrılmış gibi görünür.
+
+Mecaz anlam örnekleri: "Geçirdiği kazadan sonra cesareti kırılmış, tırmanmaya ara vermişti." cümlesinde "kırılmak" sözcüğü psikolojik bir çöküşü anlatmaktadır. Bu mecaz anlam taşır çünkü burada ne fiziksel bir nesne parçalanmıştır (gerçek anlam) ne de bir şeyin işlevi bozulmuştur (yan anlam); sözcük tamamen soyut ve psikolojik bir alana taşınmıştır. Fiziksel parçalanma ile duygusal çöküş arasındaki bağ yalnızca uzak bir benzetmeye dayanır — bu da mecaz anlamın yan anlamdan farkıdır. "Yaşam felsefesinin en önemli ayağını adalet oluşturuyordu." cümlesinde ise "ayak" sözcüğü bir düşünce sisteminin temel unsuru anlamını taşımaktadır. Bu mecaz anlam taşır çünkü "adalet" fiziksel bir nesneyi yerden destekleyen somut bir kısım değildir; sözcük gerçek anlamından tümüyle sıyrılarak soyut bir yapının dayandığı temel unsuru ifade etmektedir.
+
+## Terim Anlam
+
+Bir bilim, sanat, meslek dalıyla veya belirli bir konuyla ilgili özel ve belirli bir kavramı karşılayan sözcüklerdir. Terimler, kullanıldıkları alanlarda tek ve kesin bir anlam taşırlar; bu da onları günlük dilden ayırır.
+
+Terim anlam örnekleri: "Sol anahtarı müzikte kullanılan üç anahtardan biridir." cümlesinde "anahtar" sözcüğü müzik terimi olarak kullanılmıştır. Bu terim anlam taşır çünkü müzik alanında "anahtar", notaların hangi perdede okunacağını belirleyen özel bir işarettir; bu anlam yalnızca müzik bağlamında geçerlidir ve günlük dildeki "kapıyı açan nesne" anlamından tamamen bağımsızdır — tek ve kesin bir alan anlamı taşıması onu terim yapar. "Şampiyonu penaltı atışları belirleyecek." cümlesinde ise "penaltı" futbol terimidir. Bu terim anlam taşır çünkü "penaltı" futbol kuralları çerçevesinde yalnızca belirli bir ihlal sonucunda verilen özel bir cezayı ve buna bağlı atışı ifade eder; futbol dışında kullanılmaz.
+
+## Sözcüğün Birden Fazla Anlamda Kullanımı
+
+Bir sözcük cümle içinde farklı anlamlara gelecek şekilde kullanılabilir. "Tutmak" sözcüğü bunu açıkça örnekler: "Kucağında küçük bir çocuk tutuyordu." cümlesinde gerçek anlamıyla (elde tutma) kullanılmıştır; fiziksel olarak elle kavramayı anlatır, benzetme ya da aktarma içermez. "Tuttuğumuz balıkları afiyetle yedik." cümlesinde yan anlamıyla (avlamak) kullanılmıştır; yakalamak ile tutmak arasında somut bir işlev ilişkisi vardır, ancak balık avlamak elde tutmakla tam örtüşmez. "Bu sahil kasabasında bir ev tuttuk." cümlesinde mecaz anlamıyla (kiralamak) kullanılmıştır; bir evi kiralamak ile elde tutmak arasındaki bağ çok uzaklaşmıştır, sözcük temel anlamından büyük ölçüde sıyrılmıştır. "Eve gelen misafirlere şeker tutuyordu." cümlesinde yine mecaz anlamıyla (ikram etmek) kullanılmıştır; "şeker tutmak" fiziksel tutmayı değil tamamen başka bir eylemi — sunmayı — anlatmaktadır. "Hepiniz aklınızdan bir sayı tutun." cümlesinde ise zihinde saklama anlamında kullanılmıştır; zihin fiziksel olarak bir şey tutamaz, bu da sözcüğün mecaz alanda soyut kullanımıdır.
+
+---
+
+# Sözcükte Anlam 2
+
+## Eş Anlamlı (Anlamdaş) Sözcükler
+
+Yazılışları farklı, anlamları aynı olan sözcüklerdir. Örneğin "al" ve "kırmızı" eş anlamlıdır çünkü her ikisi de aynı rengi karşılar; "Al gül." yerine "Kırmızı gül." demek anlamı değiştirmez. "Kara" ve "siyah" eş anlamlıdır çünkü her ikisi de aynı rengi ifade eder; birinin yerine diğeri kullanıldığında cümlenin anlamında hiçbir farklılık oluşmaz. "Soru" ve "sual" eş anlamlıdır çünkü her ikisi de cevap beklenen ifadeyi karşılar; Türkçe kökenli "soru" ile Arapça kökenli "sual" aynı kavramı anlatır. "Yanıt" ve "cevap" eş anlamlıdır çünkü her ikisi de soruya verilen karşılığı ifade eder; bu sözcükler cümlede birbirinin yerine kullanılabilir, anlam değişmez.
+
+## Yakın Anlamlı Sözcükler
+
+Birbirinin yerini tam olarak tutmamakla birlikte cümle içinde birbirinin yerine kullanılabilen sözcüklerdir. Yakın anlamlı sözcükler arasında ince anlam farkları bulunur. "Çimlere basmayın, diyerek gençleri uyardı." cümlesinde "basmayın" ve "ezmeyin" sözcükleri yakın anlamlıdır. Her ikisi de ayakla üzerine kuvvet uygulamayı anlatır; ancak "ezmek" daha güçlü bir baskı ve zarar verme çağrışımı taşıdığından biri tam olarak diğerinin yerine geçemez — bu ince fark onları eş anlamlı değil, yakın anlamlı yapar. "Çocuklar bu akşam erkenden uyudu." cümlesinde ise "uyudu" ve "yattı" sözcükleri yakın anlamlıdır. "Yatmak" vücudun yatay konuma geçmesini, "uyumak" ise bilinç kaybını içerir; bu ince anlam farkı her ikisini de birbirinin tam yerine geçemeyen, yalnızca yakın anlamlı sözcükler yapar.
+
+## Zıt (Karşıt) Anlamlı Sözcükler
+
+Anlamca birbirinin tam tersini ifade eden sözcüklerdir. "Uzun-kısa" zıt anlamlıdır çünkü ikisi de boyutu ölçen aynı skalanın tam karşı uçlarını ifade eder. "Güzel-çirkin" zıt anlamlıdır çünkü estetik değerlendirmede olumlu ve olumsuz kutupları temsil eder. "Sıcak-soğuk" zıt anlamlıdır çünkü ısı skalasının birbirinin tam tersi iki ucunu karşılar. "Zengin-fakir" zıt anlamlıdır çünkü maddi durumu ekonomik olarak birbirinin zıddı şekilde niteler.
+
+## Sesteş (Eş Sesli) Sözcükler
+
+Yazılışları aynı fakat anlamları farklı olan sözcüklerdir. "çay" (bitki) ve "çay" (akarsu) sesteştir çünkü yazılışları ve okunuşları tamamen aynı olmasına rağmen aralarında hiçbir anlam ya da köken ilişkisi yoktur; bu çakışma yalnızca sessel bir rastlantıdır. "yüz" sözcüğü üç ayrı sesteş anlam taşır: sayı anlamındaki "yüz" (100), surat anlamındaki "yüz" (yüz ifadesi) ve "yüzmek" fiilinin kök biçimi olan "yüz-" bunların hiçbirinin diğeriyle anlam bağı yoktur; yalnızca aynı sesi paylaşırlar. Sesteş sözcükler eş anlamlıdan farklıdır: eş anlamlı sözcükler farklı seslerle aynı anlama gelirken sesteş sözcükler aynı sesle tamamen farklı anlamlara gelir.
+
+## Somut ve Soyut Anlamlı Sözcükler
+
+Beş duyu organından herhangi biriyle algılanabilen sözcükler somut, yalnızca zihin ve his yoluyla algılanabilen sözcükler ise soyut anlamlıdır. "Araba" somuttur çünkü gözle görülür ve elle dokunulabilir. "Su" somuttur çünkü hem gözle görülür hem de dokunma ve tatma duyularıyla algılanır. "Soğuk" somuttur çünkü dokunma duyusuyla doğrudan hissedilir. "Ses" somuttur çünkü işitme duyusuyla algılanır. "Işık" somuttur çünkü görme duyusuyla algılanır. "Akıl" soyuttur çünkü hiçbir duyu organıyla doğrudan algılanamaz; yalnızca zihinsel bir yeti olarak kavranır. "Sevgi" soyuttur çünkü görülemez, duyulamaz, dokunulamaz; yalnızca hissedilerek içten kavranır. "Nefret" soyuttur çünkü fiziksel bir varlığı yoktur, duyu organlarına hitap etmez. "Rüya" soyuttur çünkü yalnızca zihinsel bir deneyimdir; dış dünyada fiziksel karşılığı olmaz. "Zaman" soyuttur çünkü elle tutulamaz, gözle görülemez; yalnızca soyut olarak kavranır.
+
+## Nitel ve Nicel Anlamlı Sözcükler
+
+Varlıkları renk, durum, biçim bakımından belirten sözcükler nitel anlamlı; sayılabilen, ölçülebilen, derecelendirilebilen veya azalıp çoğalabilen yanlarıyla anlatan sözcükler ise nicel anlamlıdır.
+
+"Sınavdaki soruların kolay olması hepimizi şaşırtmıştı." cümlesinde "kolay" sözcüğü nitel anlamlıdır; soruların niteliğini, yani nasıl olduğunu belirtir. "Kolay" niteldir çünkü kolaylık standart bir ölçüm birimiyle sayısal olarak ifade edilemez; "Ne kadar kolay?" sorusuna rakamsal bir değer verilemez, yalnızca "nasıl?" sorusuna cevap verilir. Nitel sözcükler varlıkları renk, durum veya biçim bakımından niteler. "Bahçenin ortasındaki derin kuyuya bir teneke sallandırdı." cümlesinde "derin" sözcüğü nicel anlamlıdır; kuyunun ölçülebilir bir özelliğini, yani derinliğini belirtir. "Derin" nicelidir çünkü derinlik metre ya da santimetre gibi birimlerle somut olarak ölçülüp sayısal değer alabilir; "Ne kadar derin?" sorusuna rakamsal yanıt vermek mümkündür. Nicel sözcükler sayılabilen, ölçülebilen veya derecelendirilebilen nitelikleri ifade eder. "Kuşun ayaklarına dolaşan uzun ipi makasla kesip çıkardı." cümlesinde "uzun" sözcüğü nicel anlamlıdır; ipin ölçülebilir bir özelliğini, yani boyunu belirtir. "Uzun" nicelidir çünkü boy da metre ya da santimetre ile ölçülebilir; "Ne kadar uzun?" sorusuna kesin bir sayısal yanıt verilebilir. "Etrafımızda mutlu insanların olması bizi olumlu şekilde etkiler." cümlesinde "mutlu" sözcüğü nitel anlamlıdır; insanların duygusal durumunu, yani nasıl olduklarını belirtir. "Mutlu" niteldir çünkü mutluluk düzeyi standart birimlerle ölçülemez; "Ne kadar mutlu?" sorusuna nesnel, sayısal bir yanıt verilemez. Ölçülemeyen, yalnızca nitelik bildiren sözcükler niteldir.
+
+---
+
+# Sözcükte Anlam 3
+
+## Genel ve Özel Anlamlı Sözcükler
+
+Aynı türden varlıkları topluca ifade eden sözcükler genel, tek tek ifade eden sözcükler özel anlamlıdır. "Ağaç" genel anlamlı bir sözcükken "çam" özel anlamlıdır; çünkü ağaç türlerinden yalnızca birini karşılar. "Kuş" genel anlamlıdır çünkü serçe, kartal, güvercin, papağan gibi tüm kuş türlerini kapsar; hiçbirini dışarıda bırakmaz. "Bülbül" özel anlamlıdır çünkü kuş türleri arasından yalnızca belirli bir ötücü kuşu adlandırır. "Çiçek" genel anlamlıdır çünkü gül, lale, papatya, menekşe gibi tüm çiçek türlerini kapsar. "Gül" özel anlamlıdır çünkü çiçek türleri arasından yalnızca dikenli sapı ve katmanlı taçyaprağıyla tanınan belirli bir türü ifade eder. Genel anlamlı sözcükler daha geniş bir kapsamı, özel anlamlı sözcükler ise bu kapsamın içindeki belirli bir varlığı karşılar.
+
+## Yansıma Sözcükler
+
+Doğadaki seslerin taklit edilmesiyle oluşan sözcüklerdir. Bu sözcükler, insanın ya da doğanın çıkardığı sesleri dile yansıtır. "Arıların vızıltıları bahçenin her yerinden duyuluyordu." cümlesinde "vızıltı" yansıma sözcüktür çünkü arıların çıkardığı o tiz, titrek sesi taklit edecek biçimde oluşturulmuştur; sözcüğü söylerken ağızdan çıkan ses gerçek arı sesine yaklaşır. "Dün akşamki maçta iki tane top patlatmışlar." cümlesinde "patlatmak" yansıma kökenlidir çünkü ani ve sert bir patlama sesini taklit eden "pat" kökünden türemiştir. "Arkadaşının kulağına bir şeyler fısıldadı." cümlesinde "fısıldamak" yansıma sözcüktür çünkü kısık ve hışırtılı konuşmayı ses bakımından yansıtan "fısıl" köküne dayanır. Yansıma sözcük kökleri isim köküdür; "şırıltı" suyun akış sesini, "gürültü" ise yüksek ve karmaşık sesi taklit eden yansıma köklerden türemiştir.
+
+---
+
+# Sözcükte Anlam 4
+
+## Mecazımürsel (Ad Aktarması)
+
+Benzetme amacı güdülmeden bir sözün başka bir söz yerine kullanılmasıdır. Mecazımürselde iki kavram arasında çeşitli ilişkiler kurulur ve bu ilişki aracılığıyla biri diğerinin yerine geçer.
+
+İç-dış ilişkisine dayanan ad aktarmasında bir kabın içindeki şey yerine kabın adı kullanılır: "Tabağını bitirmeden masadan kalkma." cümlesinde "tabak" sözcüğü, tabağın içindeki yiyecek yerine geçmiştir. Bu mecazımürseldır çünkü gerçekte tüketilen şey tabağın kendisi değil içindeki yiyecektir; ancak dış — yani kap olan tabak — iç olanın — yani yiyeceğin — yerine kullanılmıştır. Benzetme yoktur, yalnızca iç-dış konumuna dayalı doğrudan bir yer değiştirme söz konusudur.
+
+Parça-bütün ilişkisinde bir bütünün parçası o bütünün yerine ya da bütün parçanın yerine kullanılır: "Mersin'e bir yük gemisi yanaştı." cümlesinde gemi tek bir araç olmasına karşın "bir yük gemisi" ifadesiyle belirli bir yük anlatılmış olabilir. Bu mecazımürseldır çünkü taşıma aracı olan gemi (parça ya da araç), taşınan yükün (bütün içerik) yerine geçmiştir; ya da tek bir geminin bütün bir yükü temsil etmesi bütün-parça ilişkisi kurulmaktadır.
+
+Yer-insan ilişkisinde bir yerde yaşayan insanlar o yerin adıyla anılır: "Haberi duyunca tüm kasaba üzüldü." cümlesinde kasabada yaşayan insanlar "kasaba" sözcüğüyle karşılanmıştır. Bu mecazımürseldır çünkü üzülen kasabanın kendisi değil, orada yaşayan insanlardır; yer adı o yerdeki topluluğun yerine geçmiştir. Benzetme içermez; yalnızca yer ile o yerde yaşayan insanlar arasındaki doğrudan ilişkiye dayanır.
+
+Sanatçı-eser ilişkisinde bir sanatçının adı onun eseri yerine kullanılır: "Mehmet Akif'i her okuyuşumda ayrı zevk alırım." cümlesinde Mehmet Akif'in şiirleri "Mehmet Akif" adıyla karşılanmıştır. Bu mecazımürseldır çünkü okunan şey Mehmet Akif'in kendisi değil, yazdığı şiirlerdir; sanatçının adı, eserinin yerine geçmiştir. Benzetme yoktur; sanatçı ile eseri arasındaki üretim ilişkisi bu yer değiştirmeye zemin hazırlar.
+
+Neden-sonuç ilişkisinde bir sonuç, onu doğuran neden adıyla anılır ya da tam tersi geçerlidir: "Bu hafta her gün bereket yağdı." cümlesinde yağmurun yağması yerine yağmurun sonucu olan "bereket" kullanılmıştır. Bu mecazımürseldır çünkü yağan şey gerçekte yağmurdur (neden); "bereket" ise yağmurun tarım için getirdiği bolluktur (sonuç). Sonucun nedenin yerine kullanılması bu yer değiştirmeyi oluşturmaktadır.
+
+Yön-ülke ilişkisinde bir yön adı o yönde yer alan ülkeleri ya da toplulukları karşılar: "Batı, bizi bu konuda destekledi." cümlesinde "Batı" sözcüğü Batılı ülkeleri anlatmaktadır. Bu mecazımürseldır çünkü "Batı" bir coğrafi yön adıdır; ancak burada Avrupa ve Kuzey Amerika'daki ülkeleri ve toplumları temsil etmektedir. Yön adının siyasi-kültürel bir topluluğun yerine geçmesi, bu ilişki türünün belirleyici özelliğidir.
+
+## Deyim Aktarmaları
+
+Deyim aktarması, bir kavramın niteliklerinin başka bir kavrama aktarılmasıdır. Bu aktarma farklı varlık alanları arasında kurulabilir.
+
+Duyular arası aktarmada bir duyuya ait nitelik başka bir duyuyla ilgili bir kavrama aktarılır: "Yumuşak sesiyle herkesi etkiledi." cümlesinde "yumuşak" sözcüğü dokunma duyusuna aittir ancak burada işitme duyusuna ilişkin olan "ses"i nitelemektedir. Bu deyim aktarmasıdır çünkü "yumuşak" normalde dokunma yoluyla algılanan bir yüzey özelliğidir; ancak bu nitelik işitme duyusuna ait bir kavrama — sese — taşınmıştır. Bir duyuya ait niteliğin başka bir duyuya ait kavramı nitelemesi bu aktarmanın belirleyici özelliğidir.
+
+İnsandan doğaya aktarmada insan özellik ve davranışları doğadaki varlıklara aktarılır: "Kaptan tayfalara esip gürledi." cümlesinde insana özgü bir davranış olan "esip gürlemek" kaptana aktarılmış, doğadaki bir fırtınaya benzetilmiştir. Bu deyim aktarmasıdır çünkü "esip gürlemek" doğada fırtına ve rüzgara özgü bir olgudur; kaptanın öfkeli ve gürültülü davranışı bu doğa olayının nitelikleriyle anlatılmıştır. Başlık "insandan doğaya" olsa da bu örnekte aktarma yönü doğadan insanadır — doğaya ait bir özellik insana yüklenmiştir.
+
+Doğadan insana aktarmada doğaya ait özellikler insanlara aktarılır: "Ağaçların kuşlarla dostluğu hiç bitmez." cümlesinde ağaçlara insani bir duygu olan dostluk yüklenmiştir. Bu deyim aktarmasıdır çünkü "dostluk" yalnızca insanlara özgü bir duygudur; ağaçlar duygu yaşayamaz. İnsana ait bu niteliğin doğadaki bir varlığa — ağaca — yüklenmesi bu aktarmanın belirleyici özelliğidir.
+
+Doğadan doğaya aktarmada doğanın bir öğesinin nitelikleri başka bir öğeye aktarılır: "Yıllar durmadan akıyor." cümlesinde "akmak" eylemi suya aittir ancak burada soyut bir kavram olan zamana aktarılmıştır. Bu deyim aktarmasıdır çünkü "akmak" fiziksel olarak yalnızca sıvılar için geçerlidir; suyun somut hareketi soyut bir doğa unsuru olan zamana aktarılmıştır. Her iki kavram da doğa alanına giriyor olsa da bu aktarma somuttan soyuta doğrudur.
+
+## Dolaylama
+
+Bir sözcükle anlatılabilecek kavramın birden çok sözcükle anlatılmasıdır. Tek bir sözcük yerine bu sözcüğün anlamını çağrıştıran daha uzun bir ifade kullanılır. Örneğin "kaleci" yerine "file bekçisi" demek bir dolaylamadır. Bu dolaylamadır çünkü "kaleci" tek bir sözcükle anlatılabilecek bir kavramken "file bekçisi" iki sözcükten oluşan bir ifadedir; ağı — fileyi — koruyan kişi anlamına gelerek kaynağını görevden alır. Mecaz anlam ya da anlam değişikliği içermez; yalnızca bir kavramı tek sözcük yerine daha uzun bir ifadeyle betimleme tercihidir.
+
+## Güzel Adlandırma
+
+İnsanlarda korku uyandıran veya uğursuzluk olduğuna inanılan durum ve varlıkları daha güzel çağrışımlar uyandıracak başka sözcüklerle adlandırmaktır. "Felç" yerine "inme" demek güzel adlandırmadır çünkü "felç" sert ve doğrudan bir çağrışım taşırken "inme" aynı hastalığı daha örtük ve yumuşak bir ifadeyle aktarır; kavramın nesnel içeriği değişmez, yalnızca ona yüklenen duygusal ağırlık hafifler. "Ölüm" yerine "vefat etmek" demek güzel adlandırmadır çünkü "ölüm" ölümü doğrudan ve sertçe adlandırırken "vefat etmek" aynı olguyu daha saygılı ve yumuşak bir anlatımla karşılar. "Verem" yerine "ince hastalık" demek güzel adlandırmadır çünkü "verem" hastalığın adını doğrudan verirken "ince hastalık" hastalığı dolaylı bir nitelemeyle — incelten hastalık çağrışımıyla — adlandırır ve böylece doğrudan adlandırmanın yarattığı korku ve damgalamayı hafifletmeye çalışır.
+
+## Kinaye
+
+Bir sözün mecaz anlamını kastederek hem gerçek hem mecaz anlamda kullanılmasıdır. "Eli açık insanların gönlünün iyilikle dolu olduğuna inanırım." cümlesinde "eli açık" ifadesi hem gerçek anlamıyla (eli açık tutmak) hem de mecaz anlamıyla (cömert olmak) yorumlanabilir. Bu kinayedir çünkü "eli açık" okunduğunda zihin hem fiziksel bir eli hem de cömertliği eş zamanlı olarak düşünebilir; yazar bu çift anlamı kasıtlı olarak seçmiştir. Kinayeyi düz mecaz anlamdan ayıran özellik şudur: mecaz anlamda gerçek anlam tamamen arka plana çekilirken kinayede her iki anlam da birlikte geçerlidir.
+
+## Tariz
+
+Bir sözün tersini kastedecek biçimde kullanılmasıdır, yani söylenen ile kastedilen birbirinin zıddıdır. "Aferin, sınava çok çalıştığınız notlarınızdan belli." cümlesinde aslında sınava hiç çalışılmadığı ima edilmektedir; sözün görünürdeki anlamı kasıtlı olarak tersine çevrilmiştir. Bu tarizdir çünkü "aferin" ve "çok çalıştığınız" övgü içeriyormuş gibi görünse de "notlarınızdan belli" kötü sonuçlara işaret eder; konuşmacı aslında yetersiz çalışmayı kast etmektedir. Söylenen ile kastedilen birbirinin tam tersidir — bu tarizin belirleyici özelliğidir. Kinayeden farkı şudur: kinayede iki anlam birlikte geçerliyken tarizde yalnızca ters anlam kastedilir.
+
+## Benzetme
+
+Aralarında türlü yönlerden ilgi bulunan iki şeyden benzerlik bakımından güçsüz olanın güçlü olana benzetilerek anlatılmasıdır. "Gözüne mil çekilmiş bir âmâ gibi evler." cümlesinde evler, görme yetisini yitirmiş birine benzetilmektedir. Bu benzetmedir çünkü evler (güçsüz — benzetilen) ile görme yetisini yitirmiş biri (güçlü — kendine benzetilen) arasında bir ortak özellik kurulmuştur: evlerin karanlık, kapalı ve içe dönük görünümü ile göremeyen birinin hâli arasındaki benzerlik benzetmeye temel oluşturur. "Gibi" edatı benzetmenin açık göstergesidir.
+
+## Somutlama
+
+Soyut bir kavramın benzetme, kişileştirme yoluyla veya deyimler aracılığıyla somut sözcüklerle ifade edilmesidir. "Umut yediğim ekmek, içtiğim sudur." cümlesinde "umut" gibi soyut bir kavram, somut olan ekmek ve su ile anlatılmaktadır. Bu somutlamadır çünkü "umut" zihinsel ve soyut bir kavramdır; ne görülür ne elle tutulur. "Ekmek" ve "su" ise gözle görülüp elle tutulabilen, beş duyu organıyla algılanabilen somut varlıklardır. Soyut olan "umut"un bu somut varlıklar aracılığıyla anlatılması — soyutun somutun diline çevrilmesi — somutlamanın belirleyici özelliğidir.
+
+## Anlam Değişmeleri
+
+Sözcüklerin tarihsel süreç içinde anlam bakımından çeşitli değişimlere uğraması söz konusudur. Bu değişmeler dört başlık altında incelenir.
+
+Anlam iyileşmesinde bir sözcük zamanla daha olumlu bir anlam kazanır. "Emek" sözcüğü eskiden eziyet ve acı anlamı taşırken günümüzde özenle ve sabırla yapılan iş anlamına gelmektedir. Bu anlam iyileşmesidir çünkü "eziyet ve acı" olumsuz bir çağrışım taşırken "özenle yapılan iş" değer verilen, saygın bir eylemi ifade eder; sözcük tarih içinde olumsuzdan olumluya doğru değişmiştir.
+
+Anlam kötüleşmesinde bir sözcük zamanla daha olumsuz bir anlam kazanır. "Bayağı" sözcüğü eskiden sıradan ya da olağan anlamında kullanılırken bugün kalitesiz ve adi anlamını taşımaktadır. Bu anlam kötüleşmesidir çünkü "sıradan ya da olağan" nötr bir nitelendirmeyken "kalitesiz ve adi" açıkça olumsuz bir değer yargısı içerir; sözcük nötürden olumsuza kaymıştır.
+
+Anlam genişlemesinde bir sözcük başlangıçta dar bir kavramı karşılarken zamanla daha geniş bir anlam alanına yayılır. "Ödül" sözcüğü ilk başta yalnızca güreş sonrasında verilen mükâfatı karşılarken bugün her türlü başarı karşılığında verilen ödülü anlatmaktadır. Bu anlam genişlemesidir çünkü "güreş ödülü" çok özel ve dar bir bağlamla sınırlıyken günümüzde spor, sanat, bilim gibi geniş bir yelpazede her türlü başarıya verilen ödülü kapsayacak biçimde yayılmıştır.
+
+Anlam daralmasında ise bir sözcük başlangıçta geniş bir anlam taşırken zamanla yalnızca belirli bir varlığı karşılar hâle gelir. "Erik" sözcüğü önceleri çekirdekli küçük meyvelere verilen genel ad iken günümüzde yalnızca belirli bir meyvenin adı olmuştur. Bu anlam daralmasıdır çünkü "çekirdekli küçük meyveler" kiraz, vişne, şeftali gibi pek çok türü kapsayan geniş bir kategoriyi ifade ederken, bugün "erik" yalnızca tek bir meyve türüne işaret etmektedir; sözcüğün kapsadığı alan zamanla daralmıştır.
+
+---
+
+# Cümlede Anlam 1
+
+## Atasözleri
+
+Uzun deneyim ve gözlemlere dayanılarak söylenmiş, halka mal olmuş ve öğüt verici nitelikte olan sözlerdir. Atasözleri anonimdir; yani belirli bir kişiye değil topluma aittir. Kısa ve özlü bir yapıya sahiptirler. Toplumun değer yargılarını yansıtır ve öğüt verirler. Anlamları gerçek, mecaz ya da hem gerçek hem mecaz olabilir. Atasözlerindeki sözcüklerin yerine eş anlamlıları kullanılamaz; çünkü kalıplaşmış bir yapıya sahiptirler.
+
+"Dost ile ye, iç, alışveriş etme." atasözü gerçek anlamlıdır; sözcükler olduğu gibi anlaşılır. Bu atasözü gerçek anlamlıdır çünkü "yemek", "içmek", "alışveriş etmemek" eylemleri kendi doğrudan anlamlarıyla kullanılmıştır; herhangi bir benzetme, aktarma ya da mecaz söz konusu değildir. "Acele işe şeytan karışır." atasözü mecaz anlamlıdır; şeytan burada gerçek bir varlığı değil, aceleciliğin yol açtığı kaosu simgeler. Bu atasözü mecaz anlamlıdır çünkü "şeytan" gerçek anlamda bir varlık olarak düşünülmez — aceleciliğin getirdiği aksaklıkları ve hataları temsil eden soyut bir imgedir; sözcük temel anlamından uzaklaşmıştır. "Ağır kazan geç kaynar." atasözü ise hem gerçek hem mecaz anlamlıdır; hem fiziksel bir olgu hem de ağır davranan insanlar için söylenebilir. Bu atasözü iki katmanlıdır: ağır bir kazanın geç kaynaması fiziksel olarak doğrudur (gerçek anlam), aynı zamanda temkinli ya da yavaş hareket eden insanların bir işe geç başlayacağını da anlatır (mecaz anlam).
+
+## Deyimler
+
+Genellikle gerçek anlamından az çok ayrı, ilgi çekici bir anlamı olan kalıplaşmış söz öbekleridir. İki ya da daha fazla sözcüğün bir araya gelerek oluşturduğu bu kalıplar, toplumda yaygın biçimde kullanılır. Deyimler de atasözleri gibi anonimdir. Öğüt vermezler; atasözlerinden bu temel özelliğiyle ayrılırlar. Mecaz anlamlıdır, ancak gerçek anlamını koruyan deyimler de vardır. Deyimlerdeki sözcüklerin yerine eş anlamlıları kullanılamaz.
+
+Deyimler mastar hâlinde kullanılabileceği gibi çekimlenmiş cümle biçiminde de kullanılabilir. "Yaptıklarıyla gözümden düştü." cümlesinde "gözden düşmek" mastar hâlinde kullanılmış ve mecaz anlamlı bir deyimdir. Bu deyimdir çünkü "gözden düşmek" fiziksel olarak bir gözden düşmeyi değil, birinin nazarında değer yitirmeyi anlatır; sözcükler gerçek anlamlarından uzaklaşarak kalıplaşmış bir bütün oluşturmuştur. "Dünden beri ağzını bıçak açmıyor." cümlesi ise başlı başına bir cümle biçimindeki deyimdir. Bu deyimdir çünkü "ağzını bıçak açmıyor" gerçek bir kesici alet ile ağız açmayı değil, birinin hiç konuşmadığını anlatır; sözcükler gerçek anlamlarından kopmup mecaz bir anlam kazanmıştır.
+
+## İkilemeler
+
+Aralarında çeşitli ilgiler bulunan iki sözcüğün yan yana kullanılması sonucu oluşan kalıplaşmış söz öbekleridir. İkilemeler ayrı yazılır.
+
+Aynı sözcüğün tekrarlanmasıyla oluşan ikilemeler: "Ağır ağır peşinden gidiyordum." (Bu ikilemdir çünkü "ağır" sözcüğü değiştirilmeden yinelenerek anlam yoğunlaştırması — yavaşlık ve süreklilik — sağlanmıştır; sözcük ayrı yazılmıştır.) Yansıma sözcüklerin tekrarıyla oluşan ikilemeler: "Şıpır şıpır ter akıyordu." (Bu ikilemdir çünkü sesi taklit eden yansıma sözcük olan "şıpır" kendi kendini yineleyerek hem yansıma özelliğini korur hem de ikilem işlevi taşır.) Yakın anlamlı sözcüklerle oluşturulan ikilemeler: "Dayalı döşeli bir ev aldı kendine." (Bu ikilemdir çünkü "dayalı" — mobilyası olan — ve "döşeli" — hazırlanmış — her ikisi de tek başına anlamlıdır ve anlam bakımından birbirine yakındır; yan yana gelerek kalıplaşmış bir bütün oluşturmuştur.) Biri anlamlı diğeri anlamsız sözcüklerle oluşturulan ikilemeler: "Tek tük ihtiyacım kalmıştı." (Bu ikilemdir çünkü "tek" anlamlı, "tük" ise tek başına anlamsız bir sözcüktür; "tük" yalnızca ikilemi tamamlamak için vardır ve birlikte "az sayıda, seyrek" anlamı kazanmıştır.) İkisi de anlamsız sözcüklerden oluşan ikilemeler: "Sorduklarına kem küm cevap verdi." (Bu ikilemdir çünkü "kem" ve "küm" sözcüklerinin hiçbiri tek başına anlamlı değildir; yan yana geldiklerinde "net konuşamamak, gevelemek" anlamı oluştururlar.)
+
+---
+
+# Cümlede Anlam 2
+
+## Yakın Anlamlı Cümleler
+
+Aynı düşünce etrafında gelişen cümlelerdir. Bu cümlelerde belirli bir konu benzer bakış açılarıyla değerlendirilir. "Kendisiyle barışık olamayanlar, sürekli birlikte olduğu insanlara bile küskündür." cümlesi, iç huzursuzluğun dış ilişkilere yansımasını küskünlük kavramı üzerinden anlatır. "Kendini sevmeyen ve kendine saygı duymayan insan, başkalarıyla iyi geçinemez." cümlesi ise aynı temel fikri — kendisiyle barışık olmayan birinin başkalarıyla da sağlıklı ilişki kuramayacağını — öz sevgi ve saygı eksikliği üzerinden ifade eder. Bu iki cümle yakın anlamlıdır çünkü her ikisi de aynı nedeni (kendisiyle barışık olmama) ve aynı sonucu (başkalarıyla sorun yaşama) paylaşır; yalnızca ifade biçimi ve odaklandıkları kavramlar farklıdır.
+
+## Amaç-Sonuç Cümleleri
+
+Yargının amacıyla birlikte verildiği cümlelerdir. Bu cümlelerde gerçekleştirilen ya da gerçekleştirilmek istenen bir eylem, neden değil bunun amacı belirtilerek açıklanır. Amaç cümlelerinde amaçlanan şey henüz gerçekleşmemiştir. "Ne için?" ve "hangi amaçla?" sorularının cevabı bu cümlelerde bulunur.
+
+Amaç-sonuç ilişkisi genellikle "için", "üzere", "diye" edatlarıyla ve "-e" ekiyle sağlanır. "Seni göreyim diye buralara kadar geldim." cümlesi amaç-sonuç içerir çünkü "diye" edatı bir amacı bildirir; seni görmek amaçtır ve henüz gerçekleşip gerçekleşmediği belirsizdir — kişi bu amaçla gelmiştir. "Kitap okumak için sessiz bir ortam gerek." cümlesi amaç-sonuç içerir çünkü "için" edatı kitap okumanın amacını değil, sessiz ortamın ne için gerektiğini — yani kitap okumayı — ifade eder; amaçlanan eylem (kitap okuma) henüz gerçekleşmemiştir. "Okula gitmek üzere yola çıktım." cümlesi amaç-sonuç içerir çünkü "üzere" edatı henüz gerçekleşmemiş bir amacı — okula gitmeyi — bildirir; kişi yola çıkmıştır ama hedefe henüz ulaşmamıştır.
+
+## Neden-Sonuç Cümleleri
+
+Bir sonucun meydana gelmesine sebep olan durumla birlikte verildiği cümlelerdir. Neden-sonuç cümlelerinde neden zaten gerçekleşmiştir; bu, amaç-sonuç cümlelerinden temel farkıdır. "Neden?" ve "niçin?" sorularının cevabı bu cümlelerde yer alır.
+
+Neden-sonuç ilişkisi genellikle "için", "diye", "-den ötürü", "-den dolayı" edatlarıyla; "çünkü", "mademki", "zira" bağlaçlarıyla; "-den", "-dığından", "-ınca" ekleriyle kurulur. "Geç kaldığı için sınavını bitiremedi." cümlesi neden-sonuç içerir çünkü "geç kalmak" zaten gerçekleşmiş bir olgudur ve bu somut neden "sınavı bitirememe" sonucunu doğrudan tetiklemiştir; neden gerçekleşmiştir. "Hedeflerimin peşinden koşunca hayallerime kavuştum." cümlesi neden-sonuç içerir çünkü "-ınca" eki gerçekleşmiş bir eylemi — hedeflerin peşinden koşmayı — bildirir ve bu eylem hayallere kavuşma sonucunu doğurmuştur. "Hastalandığımdan okula gidemedim." cümlesi neden-sonuç içerir çünkü hastalık gerçekleşmiş bir durumdur ve bu neden gidememek sonucunu üretmiştir. Amaç-sonuç cümlelerinden farkı şudur: bu cümlelerde neden zaten olmuştur, amaç-sonuç cümlelerinde ise amaçlanan eylem henüz gerçekleşmemiştir.
+
+Neden-sonuç cümleleri ile amaç-sonuç cümlelerini birbirinden ayırt etmek önemlidir. Neden-sonuç cümlelerinde "neden" gerçekleşmiştir; ancak amaç-sonuç cümlelerinde "amaç" henüz gerçekleşmemiştir.
+
+## Koşul Cümleleri
+
+Yargının gerçekleşmesinin bir duruma ya da olguya bağlı olduğu cümlelerdir. "Hangi şartla?" sorusunun cevabı bu cümlelerde yer alır. Koşul anlamı genellikle "-sa/-se" kipiyle, "üzere", "yeter ki", "ama", "mi" edat ve bağlaçlarıyla; "-ınca", "-dıkça", "-madan" ekleriyle sağlanır. "Gençliğinde çalışırsan sonra rahat edersin." cümlesi koşul içerir çünkü "-sa/-se" kipi gerçekleşmesi belirsiz bir koşulu bildirir; "rahat etmek" yargısı ancak "çalışmak" koşulu yerine getirilirse geçerli olacaktır. "Kitap okudukça çok mutlu oluyorum." cümlesi koşul içerir çünkü "-dıkça" eki koşullu bir tekrarı bildirir; mutluluk yalnızca okuma eylemi gerçekleştikçe ortaya çıkar. "Buraya geldiğinde birlikte çalışırız." cümlesi koşul içerir çünkü "-diğinde" eki yargının gerçekleşmesini bir koşula — karşıdakinin gelmesine — bağlar; çalışmak ancak o koşul sağlandığında mümkün olacaktır.
+
+## Açıklama Cümleleri
+
+Önce sonucun, sonra nedenin söylendiği cümlelerdir. Bu yapıda okuyucu önce yargıyla karşılaşır, ardından bu yargının gerekçesi sunulur. Açıklama ilişkisi genellikle "çünkü", "demek ki", "öyleyse", "anlaşılıyor ki" gibi bağlaçlarla sağlanır. "Beni dinlemiyorlar; demek ki ben onlar için önemli değilim." cümlesi açıklama içerir çünkü önce yargı/sonuç verilmiş ("beni dinlemiyorlar"), ardından "demek ki" bağlacıyla bu gözlemin gerekçesi sunulmuştur ("önemli değilim"). Neden-sonuç cümlelerinde önce neden sonra sonuç gelirken açıklama cümlelerinde sıra tersine döner. "Soruyu anlamakta zorlandım çünkü o derse katılamamıştım." cümlesi açıklama içerir çünkü önce yaşanan zorluk belirtilmiş, ardından "çünkü" bağlacıyla bu zorluğun gerekçesi açıklanmıştır; yargı önce, açıklama sonra gelmektedir.
+
+## Karşılaştırma Cümleleri
+
+Varlık, kavram ve durumları benzerlik, farklılık, eşitlik ya da üstünlük gibi ilgiler kurarak kıyaslayan cümlelerdir. "Evimiz iç çitin içindeki en güzel evdi." cümlesi karşılaştırma içerir çünkü "en güzel" ifadesi bir üstünlük karşılaştırması kurar; ev, çitteki diğer tüm evlerle kıyaslanarak en üst konuma yerleştirilmiştir. "Bu filmden daha güzelini izlememiştim." cümlesi karşılaştırma içerir çünkü "daha güzelini" yapısı bu filmi daha önce izlenenlerle kıyaslar; film, geçmişte izlenen diğer tüm filmlerden üstün bulunmuştur. Her iki cümlede de en az iki unsur belirli bir ölçüte göre birbirine göre konumlandırılmaktadır.
+
+---
+
+# Cümlede Anlam 3
+
+## Öznel ve Nesnel Anlatım Cümleleri
+
+Kişisel duygu, düşünce ve yorumlar içeren, göreceli yargılar bildiren cümleler öznel anlatım cümlesidir. Bu tür cümlelerde anlatılan şey kişiden kişiye değişebilir; herkesçe kabul görmesi gerekmez. "Fikir adamı yazdıklarını canlı bir şekilde verebiliyorsa o zaman yaşar." cümlesi özneldir çünkü "yaşar" yargısı kişisel bir değerlendirmeye dayanır; "canlı verip verememek" ve "yaşamak" ölçütleri kişiden kişiye farklılık gösterir, herkes bu görüşe katılmayabilir. "Umut, insanı diri tutan en önemli güçtür." cümlesi özneldir çünkü "en önemli güç" ifadesi bir sıralama ve değer yargısı içerir; başka biri sevgiyi ya da sağlığı en önemli güç olarak görebilir. Bir cümlenin öznel olduğunun testi: yargıya itiraz edilebilmesidir.
+
+Genel kanı niteliği taşıyan, kişisel değerlendirme içermeyen cümleler ise nesnel anlatım cümlesidir. Bu cümleler herkes tarafından doğrulanabilir ya da gözlemlenebilir gerçekleri aktarır. "Evin bahçe kapısı ormana açılıyordu." cümlesi nesneldir çünkü kapının nereye açıldığı herkes tarafından fiziksel olarak gözlemlenip doğrulanabilir; kişisel yorum içermez. "Romanın bazı bölümlerinde olaylar tek bir kahramanın ağzından anlatılıyor." cümlesi nesneldir çünkü romanın anlatı tekniğine ilişkin bu bilgi, eseri okuyan herkes tarafından doğrulanabilir; değer yargısı ya da kişisel görüş içermez.
+
+## Doğrudan ve Dolaylı Anlatım Cümleleri
+
+Başkasına ait bir sözün ağızdan çıktığı gibi, olduğu gibi aktarılmasına doğrudan anlatım denir. "Yahya Kemal ana dilimiz olan Türkçeye olan sevgisini 'Bu dil ağzımda annemin ak sütüdür.' sözüyle ifade eder." cümlesinde doğrudan aktarım yapılmıştır. Bu doğrudan anlatımdır çünkü Yahya Kemal'in söylediği söz tırnak içine alınarak değiştirilmeden, olduğu gibi verilmiştir; tırnak işareti sözün aynen aktarıldığının açık göstergesidir.
+
+Başkasına ait bir sözün yeni bir cümleye dahil edilerek birtakım değişikliklerle aktarılmasına dolaylı anlatım denir. "Başarısında en büyük payın annesine ait olduğunu söyledi." cümlesinde dolaylı aktarım kullanılmıştır çünkü aktarılan söz tırnak içinde değildir; "-dığını söyledi" yapısıyla yeni bir cümleye entegre edilmiş ve kişi ile zaman gibi dil bilgisel unsurlar yeniden düzenlenmiştir. "Polis, suçluların en kısa sürede yakalanacağını söyledi." cümlesinde de dolaylı aktarım kullanılmıştır çünkü polisin söylediği söz olduğu gibi verilmemiş, "-acağını söyledi" yapısıyla dönüştürülmüş ve ana cümleye bağlanmıştır.
+
+## İçerik ve Üslup Cümleleri
+
+Bir eserde ne anlatıldığıyla ilgili yargılar içeren cümleler içerik cümlesidir. "Ateşten Gömlek, Türk Kurtuluş Savaşı sırasındaki anlardan oluşmaktadır." cümlesi içerik bildirir çünkü eserin ne anlattığına — konu ve zaman dilimine — ilişkin bilgi vermektedir; bu, eserin içeriğiyle ilgili nesnel bir saptamadır. "Dizelerinde memleket özlemini dile getirmiş." cümlesi içerik bildirir çünkü şairin şiirlerinde ne işlediğini — tematik içeriği — anlatmaktadır. İçerik cümlelerini üslup cümlelerinden ayıran özellik şudur: içerik cümleleri ne anlatıldığıyla ilgilenirken üslup cümleleri nasıl anlatıldığıyla ilgilenir.
+
+Yazarın anlatım tarzıyla, yani dili kullanma şekliyle veya söyleyiş özelliğiyle ilgili cümleler ise üslup (biçem) cümlesidir. "Eserlerinde kullandığı devrik cümleler ile anlatımı sıkıcılıktan kurtarmış." cümlesi üslup bildirir çünkü yazarın dili yapısal olarak nasıl kullandığına — devrik cümle tercihine — odaklanmaktadır; bu anlatım biçimiyle ilgili bir değerlendirmedir, içerikle değil. "Şair, ses düzeni bakımından birbirine yakın kelimeleri aynı mısra içinde kullanmayı tercih etmiş." cümlesi üslup bildirir çünkü şairin söyleyiş biçimini — ses düzenini — ele almaktadır; bu da ne anlattığından bağımsız, nasıl yazdığına dair bir gözlemdir.
+
+## Tanım Cümleleri
+
+Bir kavramın veya varlığın niteliklerini tarif eden, belirten, açıklayan cümlelerdir. Tanım cümleleri "Bu nedir?" ve "Bu kimdir?" sorularına cevap verir. "Nomofobi; cep telefonuna erişememe, iletişim kuramama ve bu cihazlardan mahrum kalma korkusudur." cümlesi tanım niteliği taşır çünkü "Nomofobi nedir?" sorusuna yanıt verir; özne (Nomofobi) ile bu öznenin kapsamını kesin biçimde belirleyen yüklem (...korkusudur) arasındaki ilişki bir tanımın yapısını oluşturur. "Töre komedileri, toplumların bazı törelerini konu alan ve bunların gülünç yanlarını dikkatlere sunan oyunlardır." cümlesi tanım niteliği taşır çünkü "Töre komedisi nedir?" sorusuna yanıt verir; kavramın hem konusunu (toplumsal törenler) hem de işlevini (gülünç yanları göstermek) kapsayan belirleyici özellikleri bir arada verilmiştir.
+
+## Kınayıcı Anlatım Cümleleri
+
+Söylenen sözün, alay etme ya da iğneleme gibi amaçlarla tam tersini ifade edecek şekilde kullanılmasıdır. "O kadar çalışkan ki hiçbir işi zamanında bitiremiyor." cümlesinde söylenen ile kastedilen birbirinin tam tersidir. Bu kınayıcı anlatımdır çünkü "çalışkan" olumlu bir nitelemeyken "hiçbir işi zamanında bitirememe" tembelliğin kanıtıdır; bu çelişki cümlenin aslında tembeli kınadığını ortaya koyar. "Bu hızla yürürsek yarın sabaha eve varırız." cümlesi de kınayıcı bir anlatım içerir çünkü "yarın sabaha" ifadesi yürüyüşün son derece yavaş olduğunu ince bir iğnelemeyle anlatır; söylenen ile kastedilen ters yöndedir.
+
+## Aşamalı Durum Cümleleri
+
+Birdenbire değil, süreç içinde yavaş yavaş değişen durumu ifade eden cümlelerdir. "Küresel ısınmanın dünya üzerindeki olumsuz etkileri günden güne belirginleşiyor." cümlesi aşamalı durum içerir çünkü "günden güne belirginleşmek" değişimin süreç içinde ve kademeli olarak ilerlediğini gösterir; birdenbire olan bir değişimi değil, hâlihazırda devam eden ve giderek artan bir süreci anlatmaktadır. "İstanbul gün geçtikçe kalabalıklaşıyor." cümlesi aşamalı durum içerir çünkü "gün geçtikçe kalabalıklaşmak" da kademeli ve süregelen bir artışı ifade eder; değişim anlık ya da koşula bağlı değil, sürekli ve aşama aşamadır.
+
+## Olasılık ve Tahmin Cümleleri
+
+Bir olayın gerçekleşip gerçekleşmeyeceğinin kesin olarak belli olmadığı cümleler olasılık cümlesidir. "Beni bu şehirde bir daha görmeyebilirsiniz." cümlesi olasılık içerir çünkü "görmeyebilirsiniz" ifadesi kesin bir bilgiye değil yalnızca ihtimale dayalı belirsizliği işaret eder; gerçekleşmesi ya da gerçekleşmemesi eşit ölçüde mümkündür. "Sınavda bu konudan daha fazla soru gelebilir." cümlesi olasılık içerir çünkü "gelebilir" ifadesi de aynı şekilde kesinlik taşımaz; olayın gerçekleşip gerçekleşmeyeceği belirsizliğini korumaktadır.
+
+Bazı kanıtlara dayanılarak bir olayın ya da durumun nasıl gerçekleşeceğine dair fikir yürütüldüğü cümleler ise tahmin cümlesidir. "Bu yıl su sıkıntısı yaşayacağımızı düşünüyorum." cümlesi tahmin içerir çünkü "düşünüyorum" ifadesi bir değerlendirme ya da kanıta dayalı zihinsel yargıya işaret eder; konuşan bunu rastgele söylememekte, belirli bir gerekçeden yola çıkmaktadır. "Voleybol turnuvasını bizim okul kazanacak bence." cümlesi tahmin içerir çünkü "bence" ifadesi konuşanın kişisel değerlendirmesine dayalı olası bir sonucu bildirmektedir. Tahmin ile olasılık cümlesinin farkı şudur: olasılık cümlelerinde herhangi bir yargı yürütülmeden salt belirsizlik ifade edilirken tahmin cümlelerinde konuşan bir değerlendirme sonucuna ulaşmıştır.
+
+## Sitem, Yakınma, Hayıflanma ve Pişmanlık Cümleleri
+
+Bir kimseye, yaptığı bir hareketin ya da söylediği sözün üzüntü, alınganlık ya da kırgınlık uyandırdığının öfkelenmeden belirtildiği cümleler sitem cümlesidir. "Hani iyi günde, kötü günde hep beraber olacaktık?" cümlesi sitem içerir çünkü "hani" sözcüğü verilen sözü anımsatarak karşıdakinin o sözü tutmadığını, bunun da üzüntü ve kırgınlık yarattığını öfkesiz biçimde ima eder; üzüntü karşıdaki kişiye yöneliktir. "Beni araman için hasta olmam mı gerekiyordu?" cümlesi sitem içerir çünkü soru biçiminde kurulmuş olsa da gerçekte bir soru sormaktan çok, karşıdakinin ilgisizliğinden duyulan kırgınlığı dile getirir.
+
+Kişinin bir olaydan ya da durumdan sızlanarak şikâyet ettiği cümleler yakınma cümlesidir. "Bir de verdiği sözü tutmayı becerebilse." cümlesi yakınma bildirir çünkü kişi başkasının sözünü tutmamasından sızlanarak şikâyet etmektedir; bu şikâyet belli bir kişiye yönelik olmakla birlikte genel bir bezginlik ve memnuniyetsizlik içerir. "Ne yazık ki gençlerin kitap okuma oranı istediğimiz seviyede değil." cümlesi yakınma bildirir çünkü "ne yazık ki" ifadesi mevcut durumdan duyulan üzüntüyü ve hoşnutsuzluğu yansıtır; kişi bu durumu değiştiremediğinden sızlanmaktadır.
+
+Kişinin eline geçen bir fırsatı değerlendirememesi nedeniyle kendi kendine üzülmesini ifade eden cümleler hayıflanma cümlesidir. "Keşke öğretmenimi dinleyip derslerime düzenli çalışsaydım." hayıflanmayı dile getirir çünkü "keşke" sözcüğü geçmişte kaçırılmış bir fırsata ya da yapılmamış bir şeye duyulan özlem ve üzüntüyü ifade eder; kişi elindeki imkânı değerlendirememesinden ötürü içinden sızlanmaktadır. Pişmanlıktan farkı şudur: hayıflanmada odak yapılmayan, kaçırılan şeydeyken pişmanlıkta yapılan ve olumsuz sonuç doğuran eylem ön plandadır.
+
+Yapılan bir işin, davranışın olumsuz sonucunun görülerek üzüntü duyulduğunun ifade edildiği cümleler pişmanlık cümlesidir. "Maçta çok fazla koşmasaydım bu kadar yorulmazdım." cümlesi pişmanlık bildirir çünkü kişi zaten gerçekleştirdiği bir eylemin — fazla koşmanın — olumsuz sonucunu — yorgunluğu — yaşamış ve buna üzüntü duymuştur; eylem yapılmış ve geri alınamaz. "Keşke o ağır sözleri sana söylemeseydim." cümlesi pişmanlık bildirir çünkü "keşke" sözcüğü yapılan bir eylemin yarattığı olumsuz sonuç karşısında duyulan pişmanlığı ifade eder; sözler söylenmiştir ve bunun verdiği zarar fark edilmiştir.
+
+## Tasarı, Eşitlik, Öneri, Ön Yargı ve Öz Eleştiri Cümleleri
+
+Yapılması düşünülenleri ya da geleceğe dair planlamaları ifade eden cümleler tasarı cümlesidir. "Konu özetini bu akşam tamamlamayı düşünüyorum." cümlesi tasarı içerir çünkü "düşünüyorum" ifadesi henüz gerçekleşmemiş, yalnızca niyetlenilmiş bir eylemi bildirir; eylem planlanmış ama henüz başlanmamıştır. "Severerek okuduğum romanları sevdiklerime hediye etmeyi planlıyorum." cümlesi tasarı içerir çünkü "planlıyorum" ifadesi geleceğe yönelik bilinçli bir niyeti ortaya koyar; bu eylem henüz gerçekleşmemiş, yalnızca tasarlanmıştır.
+
+Karşılaştırılan iki ya da daha fazla unsur arasında eşitlik bulunduğunu anlatan cümleler eşitlik cümlesidir. "Elmayı ortadan ikiye bölerek kardeşler arasında paylaştırdı." cümlesi eşitlik içerir çünkü "ortadan ikiye bölmek" iki eşit parça oluşturduğunu açıkça ifade eder; karşılaştırılan iki unsur — kardeşler — arasında tam bir eşitlik kurulmuştur. "Paranın yarısını bankaya yatırdı, geri kalanıyla bir arsa aldı." cümlesi eşitlik içerir çünkü "yarısı" ve "geri kalanı" ifadeleri tutarın iki eşit bölüme ayrıldığını gösterir; toplam miktarın biri diğerine eşit iki parçaya bölünmesi eşitlik anlamını oluşturur.
+
+Herhangi bir konuda yol gösterip bilgi ve fikir verme ya da tavsiyede bulunma anlamı içeren cümleler öneri cümlesidir. "Araba kullanırken cep telefonu kullanılmaması kazaların önüne geçecektir." cümlesi öneri bildirir çünkü sürüş sırasında telefon kullanmama tavsiyesi, bu davranışın getireceği olumlu sonuçla birlikte verilmektedir; yargı kişiyi yönlendirmeye yöneliktir. "Sınav kitapçığındaki uyarıları okusanız iyi olur." cümlesi öneri bildirir çünkü "okusanız iyi olur" yapısı nazik ama açık bir tavsiyeyi ifade eder; dinleyeni belirli bir davranışa yönlendirme amacı taşır.
+
+Bir durum ya da olayla ilgili önceden edinilmiş olumlu ya da olumsuz yargı içeren cümleler ön yargı cümlesidir. "Yeni yazdığı roman ilki kadar ilgi görmeyecek." cümlesi ön yargı taşır çünkü roman henüz okunmamış ya da sonucu ortaya çıkmamışken "ilgi görmeyecek" yargısı önceden oluşturulmuş bir kanıya dayanmaktadır; bu yargı kanıtsız bir beklenti ya da önyargıdır. "Yaptıklarından sonra yine onu affedecek." cümlesi ön yargı taşır çünkü affetme eyleminin gerçekleşip gerçekleşmeyeceği henüz belli değilken "yine affedecek" yargısı geçmiş deneyime dayalı önceden oluşturulmuş bir beklentiyi yansıtmaktadır.
+
+Kişinin kendisini eleştirdiği cümleler öz eleştiri cümlesidir. "Şimdi düşündüğümde gençlik yıllarımda verdiğim tepkilerin aşırı olduğunu görüyorum." cümlesi öz eleştiri içerir çünkü hem eleştiren hem de eleştirilen aynı kişidir; kişi kendi geçmiş davranışlarını nesnel bir bakışla değerlendirerek olumsuz bir yargıya varmaktadır. "Şimdi düşündüğümde" ifadesi bu değerlendirmenin dışarıdan değil içeriden — kişinin kendisinden — geldiğini gösterir.
+
+## Varsayım, Saptama ve Dilek Cümleleri
+
+Gerçekte olmayan bir durumun varmış gibi ya da olan bir durumun yokmuş gibi kabul edilerek anlatıldığı cümleler varsayım cümlesidir. "Diyelim ki üniversiteyi kazandığını öğrendin, ilk kimi ararsın?" cümlesi varsayım içerir çünkü "diyelim ki" ifadesi gerçekte olmayan ya da henüz gerçekleşmemiş bir durumu sanki olmuş gibi kabul etmeyi sağlar; bu hipotetik çerçeve üzerinden bir soru sorulmaktadır. Saptama ya da dilek cümlelerinden farkı şudur: varsayımda bir durum gerçekmiş gibi farz edilirken saptamada durum zaten gerçektir, dilekte ise gerçekleşmesi arzulanır.
+
+Bir durumu şüphe götürmeyecek şekilde ortaya koyan cümleler saptama cümlesidir. "Ahmet Rasim eserlerinde İstanbul Türkçesini kullanır." kesin bir saptamadır çünkü bu bilgi eserlerin incelenmesiyle herkes tarafından doğrulanabilir; kuşkuya ya da kişisel yoruma yer yoktur. Saptama cümlelerini öznel cümlelerden ayıran temel özellik bu doğrulanabilirliktir.
+
+Bir dileği ya da isteği dile getiren cümleler dilek cümlesidir. "Yağmur yağsa, tabiat suya doysa..." cümlesi dilekte bulunmaktadır çünkü "-sa/-se" eki burada bir koşul değil, gerçekleşmesi arzu edilen bir isteği ifade etmektedir; üç nokta da cümlenin özlem dolu bir beklentiyle yarım bırakıldığını gösterir. Koşul cümlelerinde "-sa/-se" bir yargıyı koşula bağlarken dilek cümlelerinde aynı ek istek ve arzu anlamı taşır.
+
+## Kanıksama, Küçümseme ve Azımsama Cümleleri
+
+Kişinin tekrarlanan olumsuz durumlara alıştığını ifade eden cümleler kanıksama cümlesidir. "Okuyucu onun sıkı dilini artık umursamıyordu." cümlesi kanıksama bildirir çünkü "artık" sözcüğü bir durumun tekrar edene kadar sıradanlaştığını işaret eder; okuyucu başlangıçta dikkat çekici ya da zorlaştırıcı olan sıkı dile zamanla alışmış ve bunu umursamaz hâle gelmiştir.
+
+Hor görmeyi ya da küçük görmeyi ifade eden cümleler küçümseme cümlesidir. "Bu öyküyü ilkokul öğrencisi bile yazar." cümlesi küçümseme içerir çünkü "bile" sözcüğü beklentinin çok altında bir ölçütü — ilkokul öğrencisini — örnek göstererek eserin değerini en alt düzeye indirir; öykünün son derece basit ve yetersiz bulunduğunu ima eder.
+
+Bir şeyin beklenenden az bulunmasını ifade eden cümleler azımsama cümlesidir. "Onca emeğin maddi karşılığı senin gözünde bu kadar mı?" cümlesi azımsamayı dile getirir çünkü "bu kadar mı?" yapısı harcanan emeğin karşılığında elde edilenin beklenenin çok altında kaldığı kanaatini ifade eder; alınan karşılık yetersiz bulunmaktadır.
+
+Gerçekleşmemiş beklentiyi ifade eden cümleler ise beklentinin olumlu sonuçlanmadığını anlatır. "Bu kış yağış çok olur sanmıştım." cümlesi gerçekleşmemiş beklentiyi ifade eder çünkü "sanmıştım" geçmiş zamanda sahip olunan bir beklentiyi, "-dı" eki ise bu beklentinin artık geçmişte kaldığını — yani gerçekleşmediğini — göstermektedir; kişinin beklediği şey olmamıştır.
+
+---
+
+# Paragrafta Anlam 1
+
+## Paragrafta Konu
+
+Bir konuşmada, yazıda ya da eserde ele alınan düşünce, olay ya da duruma konu denir. Konu, genellikle paragrafın ilk cümlesinde verilir; sonraki cümlelerle geliştirilir. Konuyla ilgili sorular "Bu parçanın konusu aşağıdakilerin hangisinde verilmiştir?", "Bu parçada aşağıdakilerin hangisi üzerinde durulmaktadır?", "Bu parçada aşağıdakilerin hangisinden söz edilmektedir?" ya da "Bu parçada aşağıdakilerin hangisinden yakınılmaktadır?" biçiminde karşımıza çıkar.
+
+Örnek paragraf: "İslamiyet'in kabulünden önce Türklerin, başka hiçbir toplumun etkisinde kalmamış bir dilleri ve edebiyatları vardı. Her ilkel edebiyatta olduğu gibi bu edebiyatta da şiirle büyü birlikte yürümekte ve dinsel törenler önemli bir yer tutmaktaydı. Bunun yanı sıra ozan, baksı, şaman gibi adlarla anılan şairlerde olağanüstü güçler bulunduğuna inanılırdı. Çoğu ortak ve sözlü ürünlerden oluşan bu edebiyatın en önemli bölümünü destanlar oluşturmaktaydı." Bu paragrafın konusu "eski Türklerde edebiyat"tır. Bu konu olarak belirlenir çünkü paragraftaki her cümle İslamiyet öncesi Türk edebiyatının bir özelliğine değinmektedir: edebiyatın bağımsızlığı, şiir ile büyünün birlikteliği, şairlerin toplumsal rolü, sözlü ürünler ve destanlar. Konu, paragraftaki tüm cümleleri birbirine bağlayan ortak çatıdır; hiçbir cümle bu çatının dışına çıkmamaktadır.
+
+## Paragrafta Başlık
+
+Bir yazının, bir kitabın bölümlerinin başına konulan ve konuyu kısaca tanıtan ibareye başlık denir. Bir başlık doğrudan konuyla ilgilidir; konunun özeti niteliğindedir. Paragrafın konusunu yansıtan bir veya birkaç kelime paragrafın başlığını oluşturur.
+
+Örnek paragraf: "Sanatın amacı, kişinin düşüncesini, duyarlığını geliştirmek; ona dünyaya ve insanlara insanca bakma, sezme, kavrama gücü kazandırmaktır. Sanat ürünlerine ilgi duymayan, hayali işlemeyen, başkalarının acılarına, dertlerine ortak olmayan bir bilim adamı, bir yargıç, bir yönetici düşünelim; ne yararı olur bunların toplumlarına, insanlığa? İnsanın, insan sevgisiyle yoğrulmadığı toplumlarda bütün yönleriyle ilkellik egemen olmaz mı?" Bu paragrafın başlığı "Sanat ve İnsan" olabilir. Bu başlık uygundur çünkü paragraf boyunca sanatın insanı nasıl geliştirdiği, insani duyarlık kazandırdığı ve sanattan yoksun bir toplumun nasıl ilkelleşeceği işlenmektedir. "Sanat ve İnsan" başlığı hem konuyu (sanat) hem de sanatın etkilediği varlığı (insan) kapsayarak paragrafın tematik çatısını özetler; tek başına "Sanat" ya da "Sanatın Önemi" gibi seçeneklerden daha isabetlidir çünkü paragrafın odağı sanat-insan ilişkisidir.
+
+## Paragrafta Ana Düşünce
+
+Yazarın paragrafta okura iletmek istediği mesaja ana düşünce denir. Ana düşünce paragrafın tamamını kapsayan en geniş yargıdır. Konuyla ilgili sorular "Bu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?", "Bu parçada vurgulanmak istenen aşağıdakilerden hangisidir?", "Bu parçadan çıkarılabilecek en kapsamlı yargı aşağıdakilerden hangisidir?" biçiminde sorulur.
+
+Örnek paragraf: "Eğitim ve dil, birbiriyle yakından ilgili iki alan. Kuşkusuz dili kullanımının tek amacı eğitim değildir ama eğitimi dilsiz gerçekleştiremezsiniz. Bu yüzden eğitici yayınların dili, açık seçik, doğru ve seslendiği kitlenin düzeyine uygun olmalıdır. Bu koşullara sahip olmayan bir kitap, içindeki bilgiler ne kadar yararlı olursa olsun işlevini yerine getiremez. Aktarılamayan, anlaşılmayan bilgi de bir bakıma yok sayılır." Bu paragrafın ana düşüncesi şudur: Eğitime yönelik kitaplar, ancak okurlarının anlayabileceği bir dille hazırlanırsa amacına ulaşır. Bu ana düşüncedir çünkü paragraftaki tüm cümleler bu yargıyı desteklemektedir: eğitimde dilin önemi, eğitici yayınlarda dilin nitelikleri, bu niteliklere sahip olmayan kitabın işlevsiz kalacağı ve anlaşılmayan bilginin yok sayılacağı. Ana düşünce paragrafın tamamını kapsayan en geniş yargıdır; yardımcı düşünceler bu yargıyı farklı açılardan destekler.
+
+---
+
+# Paragrafta Anlam 2
+
+## Paragrafta Yardımcı Düşünce
+
+Parçadaki ana düşünceyi destekleyen, konunun daha iyi anlaşılmasını sağlayan düşüncelere yardımcı düşünce denir. Bir paragrafta ana düşüncenin yanı sıra birden fazla yardımcı düşünce bulunabilir.
+
+Örnek paragraf: "Her bilimsel araştırma öncekilerin bir eksiğini giderir. Bu nedenle hiçbir çalışma, belli bir konuda son sözü söylemiş sayılmaz. İşte bunun için benim dille ilgili bu çalışmamın da birçok eksiği var. Bu eksikleri gidermek de dilcilerin, bu alanda yetkili kimselerin işidir. Çünkü herkes bir dil konuşur ama hiçbir zaman konuştuğu o dilin uzmanı değildir. Uzmanlık, bir dili konuşmak anlamına gelmez; o konuda eğitim görmüş olmayı gerektirir." Bu paragrafın yardımcı düşünceleri şunlardır: Bilimsel konularda yapılan çalışmalar birbirini tamamlar; hiçbir araştırma ele aldığı konuda son sözü söylemez; bir dili konuşma o dilde uzmanlaşmanın göstergesi değildir; bir dilde uzmanlaşmak için bu amaca yönelik bir eğitimden geçmek gerekir. Bu düşünceler yardımcı niteliktedir çünkü ana düşünceyi — uzmanlaşmanın eğitim gerektirdiğini — farklı açılardan destekler ve somutlaştırır; her biri paragrafın konusuyla ilgilidir ancak tek başına paragrafın tamamını kapsayacak genişlikte değildir.
+
+## Anlatım Biçimleri
+
+Yazarlar düşüncelerini, duygularını ya da gözlemlerini aktarırken farklı anlatım biçimlerine başvurur. Dört temel anlatım biçimi vardır.
+
+Öyküleyici anlatım, olayların kişi, mekân ve zaman unsurlarına bağlanarak birbiri ardınca sıralandığı anlatım biçimidir. Olay anlatımına dayalı bütün metinlerde kullanılabilir: hikâye, roman, masal, gezi yazısı, anı bunların başında gelir. Açıklayıcı ve sanatsal öyküleme olmak üzere iki türü vardır. "Bu sabah cama vuran yağmur damlalarının sesiyle araladım gözlerimi. Gecenin sessizliğini fırsat bilerek sayfalarında kaybolduğum kitabım göğsümde yarı açık kalakalmıştı. Kitabımı kapatıp yatağımın başındaki komodine bırakarak pencereye doğru yöneldi adımlarım." bu anlatım biçimini örnekler. Bu öyküleyici anlatımdır çünkü bir sabahın başlangıcını anlatan olaylar — uyanmak, kitabı kapatmak, pencereye yürümek — kişi (anlatıcı), zaman (sabah) ve mekân (yatak odası) unsurlarına bağlanarak art arda sıralanmıştır; olaylar bir süreç ve sıra içinde aktarılmaktadır.
+
+Betimleyici anlatım, kaynağını gözlemden alan, bir varlığa ya da bir yere ait ayrıntıların okuyucunun zihninde canlandırılacak şekilde aktarılmasını amaçlayan anlatım biçimidir. Tüm metin türlerinde kullanılabilir. Açıklayıcı ve sanatsal (izlenimsel) betimleme olmak üzere iki türü vardır. Bir kişinin fiziksel ya da ruhsal özelliklerinin betimlenmesine portre denir.
+
+Açıklayıcı anlatım, bir konuyu öğretmeyi ya da bir konuyla ilgili bilgi vermeyi amaçlayan anlatım biçimidir. Genellikle öğretici metinlerde kullanılır: makale, deneme, haber yazısı bunların başında gelir. Anlatım açık, yalın ve yalın niteliktedir; kullanılan kelimeler genellikle gerçek anlamdadır. Örneklendirme, sayısal verilerden yararlanma ve tanık gösterme gibi düşünceyi geliştirme yollarından yararlanılır.
+
+Tartışmacı anlatım, herhangi bir konuyu savunmayı ve okuyucuyu o konuya inandırmayı amaçlayan anlatım biçimidir. Ortaya konan bir karşı görüşün yanlışlığını kanıtlama amacı güdülür. Okuyucunun kanısı değiştirilmeye çalışılır; bu yüzden okuyucuyu düşündürmeye yönelik sorular sorulabilir. Bu anlatım biçiminde de örneklendirme, sayısal verilerden yararlanma ve tanık gösterme gibi yollara başvurulur.
+
+## Düşünceyi Geliştirme Yolları
+
+Bir yazıda ana düşünceyi desteklemek, inandırıcı kılmak ya da somutlaştırmak amacıyla çeşitli yollara başvurulur.
+
+Tanımlama, "nedir?" ve "kimdir?" sorularına yanıt vererek bir varlığın ya da kavramın ne anlama geldiğini belirten düşünce geliştirme yoludur. "Şair; dil içinde dil yaratandır, insan içinde insan, toplum içinde toplum." cümlesi tanımlama örneğidir. Bu tanımlamadır çünkü "Şair nedir?" sorusuna yanıt verilmektedir; şairin özünü ortaya koyan belirleyici nitelikler sıralanmıştır. Tanımlamanın amacı bir kavramı ya da varlığı, onu diğerlerinden ayıran özellikleriyle ortaya koymaktır; bu cümle de şairi yaratıcılık ve toplumsal işlev açısından tanımlamaktadır.
+
+Karşılaştırma, metinde üzerinde durulan iki ya da daha fazla unsurun benzer ve farklı yönlerinin ortaya konduğu düşünceyi geliştirme yoludur. "Geçmiş döneme ait Batılı kahramanların bugün hem yayın hem de teknoloji dünyasında onlarca ürününe rastlarsınız. Ama bizim evrensel nitelikteki kahramanlarımızı kendi çocuklarımıza anlatma noktasında bile kafa yormadığımız aşikâr." karşılaştırma örneğidir. Bu karşılaştırmadır çünkü iki unsur — Batılı kahramanlar ve Türk kahramanlar — benzer ve farklı yönleriyle kıyaslanmaktadır. Batılı kahramanların günümüzdeki yaygınlığı ile Türk kahramanların ne yazık ki kendi toplumuna bile anlatılamaması arasındaki zıtlık vurgulanarak iki taraf arasındaki fark ortaya konmaktadır.
+
+Tanık gösterme, savunulan düşünceyi daha inandırıcı hâle getirmek için konunun uzmanı kişilerin sözlerinden alıntı yapılan düşünce geliştirme yoludur. "Ne zaman şiir üzerine konuşmak ya da yazmak durumunda kalsam Melih Cevdet'in şu sözü kulağımda çınlar durur: 'Şiir, üzerinde çok fazla konuşmayı kaldırmayan bir sanat dalıdır.'" tanık gösterme örneğidir. Bu tanık göstermedir çünkü şiir üzerine söylenen düşünce, bu alanda otorite sahibi bir isim olan Melih Cevdet'in sözüyle desteklenmiştir. Tanık göstermenin işlevi, savunulan ya da aktarılan düşünceye konunun uzmanının görüşünü ekleyerek inandırıcılığını artırmaktır.
+
+Örneklendirme, konuyu pekiştirmek ya da savunulan düşünceyi daha inandırıcı kılmak adına örneklerin verildiği düşünceyi geliştirme yoludur. "Japon edebiyatının uğur getiren canlısı boşuna dükkânların başköşesine konmaz; çünkü onlara göre kedinin hayatlarımızdan çıkması da bir uğursuzluk sebebidir." örneklendirme içerir. Bu örneklendirmedir çünkü genel bir düşünceyi — kültürel inançların gündelik yaşama yansımasını — somutlaştırmak amacıyla Japon kültüründen spesifik bir örnek verilmiştir. Örneklendirmenin işlevi soyut ya da genel bir yargıyı gözlemlenebilir, somut bir durumla pekiştirmektir.
+
+Sayısal verilerden yararlanma, düşüncelerin kanıtlanması ve daha inandırıcı olması adına istatistik ya da rakamsal verilerin kullanıldığı düşünceyi geliştirme yoludur. "Yetişkinler dakikada ortalama 10-15 kez göz kırpar. Bebekler ise dakikada ikiden daha az." sayısal veri örneğidir. Bu sayısal verilerden yararlanmadır çünkü göz kırpma davranışı, somut ve ölçülebilir rakamlarla aktarılmaktadır. Sayısal verilerin işlevi, düşünceyi yalnızca sözcüklerle anlatmak yerine ölçülebilir, doğrulanabilir rakamlarla destekleyerek daha inandırıcı kılmaktır.
+
+Benzetme, anlatımı güçlendirmek amacıyla iki varlıktan zayıf olanın güçlü olana benzetildiği düşünceyi geliştirme yoludur. "Bir kızıl goncaya benzer dudağın, açılan tek gülüsün sen bu bağın." benzetme örneğidir. Bu benzetme yoluyla düşünce geliştirmedir çünkü anlatılmak istenen güzellik ve tazelik kavramı, somut ve bilinen bir nesne olan "kızıl gonca"ya benzetilerek güçlendirilmiştir. Benzetmenin işlevi, anlatımı soyutluktan kurtararak okuyucunun zihninde canlı bir imge oluşturmaktır.
+
+---
+
+# Paragrafta Anlam 3
+
+## Anlatımın Özellikleri
+
+İyi bir anlatım çeşitli niteliklere sahip olmalıdır. Bu nitelikleri aşağıda ayrıntılı biçimde ele alacağız.
+
+Açıklık, anlatımın tek bir yargıyı ifade etmesi, bir yargıdan birden fazla anlam çıkartılmamasıdır. Gereğinden fazla uzatılmış cümleler, sık kullanılmayan söz ve söz öbekleri, anlatım bozuklukları açıklığı engeller. "Kitaplar okumayı arkadaşından çok seviyordu." cümlesi açık değildir; çünkü arkadaşın mı kitap okumayı değil de başka bir şeyi sevdiğini mi, yoksa öznenin arkadaşından daha çok mu sevdiğini anlamak mümkün değildir. Bu tür karışık anlatım açıklık ilkesini ihlal eder.
+
+Duruluk, aynı anlama gelen söz ya da söz öbeklerinin bir arada bulunmaması, gereksiz ek kullanılmamasıdır. "İskartaya çıkardığımız, değersiz bulduğumuz eserleri..." ifadesinde "iskartaya çıkarmak" ve "değersiz bulmak" aynı anlamı taşıdığından biri gereksizdir; duruluk ilkesine aykırıdır.
+
+Yalınlık, anlatımın süslü ve anlaşılması zor sözcüklerden uzak olmasıdır; söz sanatlarına yer verilmemesidir. "Türklerin halk edebiyatında birtakım hususi nazım şekillerinin mevcudiyeti eskiden beri malumdur." gibi bir anlatımda yaygın kullanılmayan sözcükler yer almaktadır; yalınlık ilkesine aykırıdır.
+
+Akıcılık, okunması zor sözlerin ya da seslerin olmaması, kelime tekrarlarına başvurulmamasıdır. "Kendisine ayrılan zamanın sınırlı olduğunu bilmek onu kaygılandırıyordu. Zamanın hızla tükeneceğinden kaygılanıyordu. Yaşadığı kaygının işini etkileyeceğinden korkup bu yüzden de kaygılanıyordu." anlatımında "kaygı" sözcüğü gereksiz yere tekrarlanmaktadır; akıcılık ilkesine aykırıdır.
+
+Sağlamlık, anlatımın dil bilgisi kurallarına uygun olmasıdır. Öge eksikliği, ek yanlışlığı gibi dil bilgisi hataları sağlamlığı bozar.
+
+Tutarlılık, anlatımın mantık kurallarına uygun olması ve düşünsel ya da duygusal çelişkiler taşımamasıdır. Bir paragrafta çelişen yargılar tutarlılığı ortadan kaldırır.
+
+Doğallık (samimiyet), anlatımın yapmacıklıktan uzak, içten ve gerçekçi olmasıdır.
+
+Özgünlük, anlatımın başka bir anlatıma benzememesi, taklitten uzak olmasıdır. Şairin çarpıcı ve yeni imgelerle dolu dizeler kurması özgünlüğün göstergesidir.
+
+Özlülük, az sözle çok şey anlatılması, anlatımın yoğun ve özlü olmasıdır. "Düşmanın en büyük hilesi dostluğudur.", "Biz evvela kelimeleri öğreniriz sonra yaşadıkça teker teker manalarını." gibi cümleler özlülüğün örnekleridir.
+
+---
+
+# Paragrafın Yapısı
+
+Paragraf, sadece bir konu etrafında bir araya gelmiş cümleler topluluğudur. Her paragrafta sadece bir konu işlenir; bu yüzden yeni bir konuya ya da konunun farklı bir yönüne geçildiğinde yeni bir paragraf oluşturulmalıdır. Paragraflar küçük bir kompozisyon gibidir ve giriş, gelişme, sonuç bölümlerinden oluşur.
+
+Giriş bölümü paragrafın ilk ve genellikle tek cümleden oluşan bölümüdür. Konunun ortaya konduğu, gelişme bölümüne hazırlık yapan bu bölüm, kendisinden önceki bir yargıyla bağlantı kurduracak "ama, fakat, lakin, ne var ki, ancak, yalnız, çünkü, oysa, hâlbuki, bu nedenle, bu yüzden" gibi bağlayıcı ifadeler içermez. Açıklanmaya ve geliştirilmeye olanak tanıyan genel bir yargı niteliğindedir.
+
+Gelişme bölümü giriş bölümündeki konunun genişletildiği bölümdür. Ana düşüncenin belirginleşmesini sağlayan yardımcı düşünceler burada yer alır. Örnekleme, tanımlama, sayısal verilerden yararlanma gibi düşünceyi geliştirme yöntemleri kullanılır. Cümleler dil ve anlam bakımından önceki ve sonraki cümlelerle sıkı sıkıya ilişkilidir; birtakım bağlayıcı ifadelerle birbirine bağlanır.
+
+Sonuç bölümü paragrafın bitiş bölümüdür ve genellikle tek cümleden oluşur. Paragrafta anlatılanları özetleyen ya da sona erdiren bir nitelik taşır. Kendisinden sonra başka yargıların varlığını çağrıştıracak ifadeler bulunmaz. "Sonuç olarak, böylece, kısacası, demek ki" gibi ifadeler içerebilir.
+
+## Paragraf Oluşturma
+
+Dağınık olarak verilen cümlelerden anlamlı bir paragraf oluştururken her bir cümlenin ortaya koyduğu düşünce, olay ve durum belirlenmelidir. Bir düşünceyi aktaran paragraflarda giriş cümlesi ve cümleler arasındaki bağlayıcı ifadeler tespit edilmelidir. Olaya dayalı paragraflarda ise olayların kronolojik gerçekleşme sırası göz önünde tutulmalıdır.
+
+Örnek: Aşağıdaki cümleler anlamlı bir bütün oluşturacak biçimde sıralanacaktır.
+
+I. Evet, İzmit ve Bursa gibi büyük sanayi şehirlerini ve körfezdeki dev fabrikaları hatırlatan bir görüntü bu.
+II. Sabaha karşı şehre girerken yolun solunda sis, duman ve alevler içindeki Karabük Demir Çelik Fabrikası'nın silo şeklindeki dev bacaları hafızalarımızı yokluyor.
+III. Gece yollara düşüyoruz, sabahın erken saatlerinde Safranbolu'dayız.
+IV. Yolda birkaç dakika seyrettiğimiz bu devasa fabrikayı geçtikten sonra Karabük şehir merkezine giriyoruz.
+V. Yalnız Safranbolu'dan önce Karabük'ten kısaca bahsetmek istiyorum.
+
+Bu cümlelerin doğru sıralaması III - V - II - I - IV şeklindedir.
+
+## Paragraf Düzenleme
+
+Bir paragraftaki cümlelerden en az birinin bulunduğu yerin yanlış olması durumunda düzeltme yapılırken paragrafı oluşturan her cümlenin önceki ve sonraki cümlelerle ilişkisi doğru tespit edilmeli, geçiş ve bağlantı ifadeleri göz önünde bulundurulmalı, öncelikle giriş cümlesi saptanmalı ve konu bütünlüğüne dikkat edilerek art arda gelen cümleler belirlenmelidir.
+
+Örnek paragraf: I. Kehribar, bir ağacın milyonlarca yılda oluşan reçinesidir. II. Sadece iki ülkede olduğunu bildiğimiz ve ileriki yıllarda artık kalmayacağını düşündüğümüz bu malzemenin yurt dışına çıkarılması yasak. III. Bu pahalı reçinenin; sarılık, guatr ve stres başta olmak üzere çoğu hastalığa ciddi faydası vardır. IV. Bu nedenle doktorların guatr hastalarına kehribar kolye tavsiye ettiği bilinir. V. Bu kadar uzun sürede oluştuğu için fiyatı oldukça yüksektir. Bu paragrafta II. ve V. cümlelerin yer değiştirmesi anlamlı bir bütün oluşturur; çünkü V. cümle doğal olarak I. cümlenin devamı niteliğindedir.
+
+## Paragrafta Akışı Bozan Cümle
+
+Paragraflar bir konuyu sadece bir yönüyle ele alan cümleler topluluğu olduğu için konu dışına çıkan, konuyu başka bir yöne götüren her cümle paragrafın anlam akışını bozar. Akışı bozan cümleyi tespit etmek için önce paragrafın konusu tespit edilmeli, ardından konudan sapan cümle aranmalıdır.
+
+Örnek paragraf: (I) XIX. yüzyılda dışarıdan gelebilecek herhangi bir salgın hastalık tehlikesine karşı karantina idaresi kurulmuş. (II) Karantina, İtalyancadan alınmış ve "kırk, kırklık, kırktan ibaret" anlamına gelen bir sözcük. (III) Salgın hastalık tehlikesine karşı İstanbul'dan sonra ikinci karantina idaresi 1840'ta İzmir'de kurulmuş. (IV) Önce gemiler İzmir Karantina İdaresinin bulunduğu sahilde kırk gün bekler ve yolcular barakalarda kalırmış. (V) 1846'da Mithat Paşa Meslek Lisesinin yanındaki yerde bir karantina binası inşa edilmiş ve o günden sonra semtin adı Karantina olarak kayıtlara geçmiş. (VI) 1863'te Karantina İdaresi Urla'ya taşınsa da semt sakinleri arasında bu ismin kullanımı günümüze kadar devam etmiş. Bu parçada II. cümle paragrafın anlam akışını bozmaktadır; çünkü diğer cümleler karantina idaresinin tarihini anlatırken II. cümle sözcüğün etimolojisine girmektedir.
+
+## Paragrafı İkiye Bölme
+
+Bir paragrafta iki farklı konu işleniyorsa paragrafın iki parçaya bölünmesi gerekir. Bölme yapılırken cümlelerin konularına göre gruplandırılması ve yeni konunun hangi cümleyle başladığının belirlenmesi gerekir.
+
+Örnek: (I) Hikâye etme ve masal anlatma, Doğu kültüründe önemli bir yere sahiptir. (II) Yakın Doğu ve Orta Doğu ülkelerinin halk edebiyatları; efsane, hikâye ve masallarının çokluğuyla bunu ispatlar. (III) Bunların derlenmesiyle oluşturulmuş kitaplar da birçok ailenin kütüphanesinde bulunur. (IV) Olağanüstü ögelerin hikâyelerde önemli bir yer tuttuğu inkâr edilemez. (V) Ama Türkler, Orta Asya bozkırlarında yaşadıklarını hikâye, masal ve efsane olarak İslam dünyasına taşımıştır. (VI) İşte bu nedenle Türk edebiyatında hikâyenin başlangıçtan itibaren daha "gerçekçi" bir söyleyiş kazandığı görülür. Bu paragraf ikiye bölünmek istenirse ikinci paragraf IV. cümle ile başlamalıdır. Bu doğrudur çünkü I., II. ve III. cümleler Doğu kültüründe hikâye anlatımının genel önemini ve yaygınlığını işlemektedir. IV. cümle ise "olağanüstü ögelerin hikâyelerde önemli bir yeri" ile konuyu farklı bir alt boyuta taşımakta; V. ve VI. cümleler bu eksenin devamı olarak Türk edebiyatının gerçekçi söyleyişini ele almaktadır. IV. cümleden itibaren konu "genel Doğu hikâye geleneği"nden "Türk hikâye geleneğinin özgünlüğü"ne kaymaktadır.
+
+## Paragrafa Cümle Ekleme
+
+Bazı paragraf sorularında verilen bir cümlenin paragrafa eklenmesi istenir. Bu durumda paragrafın konusu ve yerleştirilmek istenen cümlenin neyden söz ettiği saptanmalıdır. Paragraftaki cümleler ile eklenecek cümle arasında dilsel ve anlamsal bir bütünlük olması gerekir; bağlayıcı ifadeler ve anahtar kavramlar bu ilişkiyi kurmakta yardımcı olur.
+
+---
+
+# Ses Bilgisi 1
+
+## Ses ve Harf
+
+Kulağın duyabildiği titreşimlere ses denir. Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her birine harf denir. Ses ile harf birbirinden farklı kavramlardır; ses fiziksel bir titreşimken harf bu titreşimi temsil eden yazılı işarettir.
+
+## Ünlü Harfler
+
+Ses yolunda bir engelle karşılaşmadan oluşan seslere ünlü denir. Türkçedeki ünlü harfler şunlardır: a, e, ı, i, o, ö, u, ü. Bu sekiz ünlü harf kalınlık-incelik ve düzlük-yuvarlaklık özelliklerine göre sınıflandırılır.
+
+Kalınlık-incelik bakımından a, ı, o, u kalın; e, i, ö, ü ince ünlülerdir. Düzlük-yuvarlaklık bakımından a, e, ı, i düz; o, ö, u, ü ise yuvarlak ünlülerdir. Bu özellikleri bir arada değerlendirildiğinde şu tablo ortaya çıkar: a geniş-kalın-düz, e geniş-ince-düz, ı dar-kalın-düz, i dar-ince-düz, o geniş-kalın-yuvarlak, ö geniş-ince-yuvarlak, u dar-kalın-yuvarlak, ü dar-ince-yuvarlaklık özelliği taşır.
+
+## Büyük Ünlü Uyumu
+
+Bir kelimenin birinci hecesinde kalın bir ünlü (a, ı, o, u) bulunuyorsa diğer hecelerdeki ünlüler de kalın; ince bir ünlü (e, i, ö, ü) bulunuyorsa diğer hecelerdeki ünlüler de ince olur. "sevgiler" sözcüğü büyük ünlü uyumuna uygundur çünkü ilk hecedeki ince ünlü "e" (sev-) sonraki hecelerdeki ince ünlüleri zorunlu kılar ve tüm heceler "e-i-e" ile ince sırada devam eder. "karanlık" sözcüğü büyük ünlü uyumuna uygundur çünkü ilk hecedeki kalın ünlü "a" (kar-) sonraki hecelerin de kalın ünlü taşımasını gerektirir ve "a-a-ı" sıralamasıyla tüm ünlüler kalındır. "kardeş" sözcüğü büyük ünlü uyumuna uymaz çünkü ilk hecede kalın ünlü "a" (kar-) varken ikinci hecede ince ünlü "e" (-deş) bulunmaktadır; kalın-ince geçişi uyumu bozar. "şişman" sözcüğü büyük ünlü uyumuna uymaz çünkü ilk hecede ince ünlü "i" (şiş-) varken ikinci hecede kalın ünlü "a" (-man) bulunmaktadır; ince-kalın geçişi uyumu bozar.
+
+## Küçük Ünlü Uyumu
+
+Bir kelimede düz bir ünlüden (a, e, ı, i) sonra düz ünlü; yuvarlak bir ünlüden (o, ö, u, ü) sonra ya "a, e" ya da "u, ü" ünlüleri bulunabilir. "uçurtma" sözcüğü küçük ünlü uyumuna uygundur çünkü "u" yuvarlak ünlüsünden sonra "a" gelmektedir; yuvarlak ünlünün ardından "a/e" ya da "u/ü" gelmesi kurala uygundur. "gezinti" sözcüğü küçük ünlü uyumuna uygundur çünkü "e" düz ünlüsünden sonra "i" gelmektedir; düz ünlünün ardından düz ünlü gelmesi kurala uygundur. "çamur" sözcüğü küçük ünlü uyumuna uymaz çünkü "a" düz ünlüsünden sonra yuvarlak ünlü "u" gelmektedir; düz ünlünün ardından yuvarlak ünlü gelmesi kuralı ihlal eder. "onunki" sözcüğü küçük ünlü uyumuna uymaz çünkü "u" yuvarlak ünlüsünden sonra "u" gelmesi beklentisini karşılamakla birlikte "-ki" ekinin "i" sesi bu uyumu bozar; yuvarlak ünlüden sonra "i" gelmesi kurala aykırıdır.
+
+## Ünlü Düşmesi
+
+Bazı sözcükler çekim eki aldığında ünlü düşebilir: karın → karım: "karın" sözcüğünün ikinci hecesindeki "ı" ünlüsü, iyelik eki alan çekimli biçimde düşmüş ve "kar-n-ım" → "karım" oluşmuştur. ömür → ömrü: aynı şekilde "ömür" sözcüğünün ikinci hecesindeki "ü" ünlüsü eklenince düşmüş, "ömr-ü" biçimi oluşmuştur. Bazı sözcükler yapım eki aldığında da ünlü düşer: beniz → benze-: "beniz" sözcüğünün ikinci hecesindeki "i" ünlüsü yapım eki gelince düşmüş, "benz-e-" kökü oluşmuştur. koku → kokla-: "koku" sözcüğünün "u" ünlüsü "-la" yapım eki gelince düşmüş, "kok-la-" biçimi ortaya çıkmıştır. İki sözcüğün birleştiği bazı durumlarda da ünlü düşmesi görülür: kahır + olmak → kahrolmak: birincinin sondaki "ı" ünlüsü birleşme sırasında düşmüştür. cuma + ertesi → cumartesi: "cuma"nın sondaki "a" ünlüsü birleşme sırasında düşmüştür.
+
+## Ünlü Türemesi
+
+Bazı sözcüklere "-cık/-cik" küçültme eki gelince ünlü türer: dar → daracık: "dar" sözcüğüne "-cık" eki gelince "a" ünlüsü türemiş ve "dara-cık" biçimi oluşmuştur. bir → biricik: "bir" sözcüğüne "-cik" eki gelince "i" ünlüsü türemiş ve "biri-cik" biçimi oluşmuştur. genç → gencecik: "genç" sözcüğüne "-cik" eki gelince "e" ünlüsü türemiş ve "gence-cik" biçimi oluşmuştur. az → azıcık: "az" sözcüğüne "-cık" eki gelince "ı" ünlüsü türemiş ve "azı-cık" biçimi oluşmuştur. Bazı sözcükler "m, p, r, s" ünsüzleriyle pekiştirilince de ünlü türeyebilir: sağlam → sapasağlam: pekiştirme ünsüzü "p" ile oluşan ilk hece "sa-pa-" yapısında "a" ünlüsü türemiştir. gündüz → güpegündüz: "p" pekiştirme ünsüzüyle oluşan "gü-pe-" yapısında "e" ünlüsü türemiştir.
+
+## Ünlü Daralması
+
+"-yor" şimdiki zaman ekindeki "y" sesi, kendinden önceki "a" ve "e" düz geniş ünlülerini daraltıp "ı, i, u, ü" dar ünlülerine çevirir: söyle → söylüyor, bakma → bakmıyor. Tek heceli olan "de-" ve "ye-" fiillerinde ve "ne" sözcüğünde de "y" kaynaştırma harfi ünlü daralmasına sebep olur: de + y → diye, ye + y + ecek → yiyecek, ne + y → niye.
+
+## Ünlü Değişimi
+
+"Ben" ve "sen" sözcüklerine yönelme durum eki getirildiğinde kelimenin kökünde bulunan "e" ünlüsü "a" ünlüsüne döner: ben + e → bana, sen + e → sana.
+
+## Ulama
+
+Art arda gelen iki kelimeden birincisinin sonundaki ünsüzün, ikinci kelimenin başındaki ünlüyle ses bakımından bir hece oluşturacak biçimde bağlanarak söylenmesine ulama denir. "Artarak gönlümün aydınlığı her saniyede / Bir mehabeti sabah oldu Süleymaniye'de" dizelerinde ulama görülmektedir.
+
+---
+
+# Ses Bilgisi 2
+
+## Ünsüz Harfler
+
+Ses yolunda bir engele çarparak çıkan seslere ünsüz denir. Türkçede "b, c, d, g, ğ, j, l, m, n, r, v, y, z" ünsüzleri yumuşak; "ç, f, h, k, p, s, ş, t" ünsüzleri ise serttir.
+
+## Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)
+
+Türkçede "ç, f, h, k, p, s, ş, t" sert ünsüzleri ile biten sözcüklere "c, d, g" ünsüzleriyle başlayan bir ek getirilirse bu ünsüzler sertleşip "ç, t, k"ya dönüşür. Saf + ca → safça: "saf" sözcüğü "f" sert ünsüzüyle bittiğinden "c" sesi sertleşip "ç"ye dönüşmüştür. şaş + gın → şaşkın: "şaş" sözcüğü "ş" sert ünsüzüyle bittiğinden "g" sesi sertleşip "k"ya dönüşmüştür. seç + di → seçti: "seç" sözcüğü "ç" sert ünsüzüyle bittiğinden "d" sesi sertleşip "t"ye dönüşmüştür.
+
+## Ünsüz Yumuşaması (Ünsüz Değişimi)
+
+Türkçede "p, ç, t, k" sert ünsüzleri ile biten sözcüklere ünlü ile başlayan ekler geldiğinde bu ünsüzler yumuşayarak "b, c, d, g, ğ"ye dönüşür. Sarkaç + a → sarkaca: "sarkaç" sözcüğü "ç" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "ç" yumuşayıp "c"ye dönüşmüştür. çok + ul → çoğul: "çok" sözcüğü "k" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "k" yumuşayıp "ğ"ye dönüşmüştür. dert + i → derdi: "dert" sözcüğü "t" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "t" yumuşayıp "d"ye dönüşmüştür. kalp + im → kalbim: "kalp" sözcüğü "p" sert ünsüzüyle bittiğinden ünlüyle başlayan ek gelince "p" yumuşayıp "b"ye dönüşmüştür.
+
+## Ünsüz Türemesi
+
+Arapçadan dilimize giren tek heceli bazı sözcükler, ünlüyle başlayan ek aldıklarında veya yardımcı fiille birleştiğinde ünsüz türeyebilir. Sır → sırrımız: Arapça kökenli "sır" sözcüğü ünlüyle başlayan ek aldığında "r" ünsüzü ikizleşmiş ve "sırr-ımız" biçimi oluşmuştur. zan + etmek → zannetmek: Arapça kökenli "zan" sözcüğü yardımcı fiille birleştiğinde "n" ünsüzü ikizleşmiş ve "zann-etmek" biçimi oluşmuştur.
+
+## Ünsüz Düşmesi
+
+Bazı sözcükler ek aldığında ünsüz düşmesi görülebilir. Minik + cik → minicik: "minik" sözcüğünün son "k" ünsüzü "-cik" eki gelince düşmüş ve "mini-cik" biçimi oluşmuştur. sağlık + cak → sağlıcak: "sağlık" sözcüğünün son "k" ünsüzü "-cak" eki gelince düşmüş ve "sağlı-cak" biçimi oluşmuştur. alçak + lı → alçalmak: "alçak" sözcüğünün son "k" ünsüzü yapım eki gelince düşmüş ve "alça-l-mak" biçimi oluşmuştur. ad + daş → adaş: iki "d" ünsüzü yan yana gelince biri düşmüş ve "adaş" biçimi oluşmuştur.
+
+## Kaynaştırma Ünsüzleri
+
+Türkçe sözcüklerde iki ünlü yan yana bulunmaz. Ünlü ile biten bir sözcüğe ünlü ile başlayan ekler gelecek olursa araya "y, ş, s, n" kaynaştırma ünsüzlerinden biri girer.
+
+## "n-m" Değişimi
+
+Türkçede "b"den önce "n" bulunmaz; "b" sesi kendinden önce gelen "n"leri "m"ye çevirir. Tenbel → tembel: "ten-bel" sözcüğünde "b"den önce gelen "n" sesi "b"nin etkisiyle "m"ye dönüşmüş ve "tembel" biçimi oluşmuştur. saklanbaç → saklambaç: "saklan-baç" sözcüğünde "b"den önce gelen "n" sesi "m"ye dönüşmüş ve "saklambaç" biçimi oluşmuştur. Bu değişim Türkçede zorunlu bir ses uyumudur: "b"den önce asla "n" bulunmaz.
+
+---
+
+# Yazım Kuralları 1
+
+## Büyük Harflerin Kullanıldığı Yerler
+
+Türkçede büyük harf kullanımı belirli kurallara bağlıdır.
+
+Cümleler büyük harfle başlar. Cümle içinde tırnak veya yay ayraç içine alınan cümleler de büyük harfle başlar ve sonlarına uygun noktalama işareti konur. Örneğin "Söylediklerimi bir kenara not etmelisin." ve "Atatürk 'Ben sporcunun zeki, çevik ve aynı zamanda ahlâklısını severim.' demiştir." cümleleri bu kurala örnektir. Ancak iki çizgi arasındaki açıklama cümleleri büyük harfle başlamaz: "Bu projede çalıştıktan sonra -gecikmiş olsan da- hedefe ulaşırsın." İki noktadan sonra cümle ya da özel ad niteliğinde olmayan örnekler sıralandığında bunlar da büyük harfle başlamaz: "Bence bir insanda olması gereken özellikler: merhamet, merhamet, merhamet…"
+
+Dizeler büyük harfle başlar.
+
+Özel adlar büyük harfle başlar. Bu kural pek çok alt başlık içerir. Kişi adları ve soyadları büyük harfle başlar: Mustafa Kemal Atatürk, Kâzım Karabekir, Ahmet Haşim, Yunus Emre, Karacaoğlan. Takma adlar da büyük harfle başlar: Muhibbi (Kanuni Sultan Süleyman), Server Bedi (Peyami Safa). Kişi adlarından önce ve sonra gelen ünvanlar, saygı sözleri, rütbe adları ve lakaplar büyük harfle başlar: Kaymakam Erol Bey, Sayın Prof. Dr. Hasan Eren, Zeynep Hanım, Mareşal Fevzi Çakmak. Akrabalık adı olup lakap ya da ünvan olarak kullanılan kelimeler büyük harfle başlar: Baba Gündüz, Nene Hatun, Susuz Dede, Telli Baba. Ancak akrabalık bildiren kelimeler küçük harfle başlar: "Suna teyzemi çok özledim."
+
+Hayvan adları büyük harfle başlar: Boncuk, Fındık, Minnoş, Pamuk.
+
+Millet, boy, oymak adları büyük harfle başlar: Alman, Arap, Japon, Türk; Kazak, Kırgız, Oğuz, Tatar.
+
+Dil ve lehçe adları büyük harfle başlar: Türkçe, Arapça, Kazakça.
+
+Devlet adları büyük harfle başlar: Türkiye Cumhuriyeti, Azerbaycan.
+
+Din ve mezhep adları ile bunların mensuplarını bildiren sözler büyük harfle başlar: Müslümanlık, Müslüman; Hristiyanlık, Hristiyan; Hanefilik, Hanefî.
+
+Din ve mitoloji ile ilgili özel adlar büyük harfle başlar: Tanrı, Allah, İlah, Cebrail, Zeus, Osiris. Ancak bu sözler özel ad olarak kullanılmadıklarında küçük harfle başlar: "Mahallenin müdavimleri kendini ilah sanıyor."
+
+Gezegen ve yıldız adları büyük harfle başlar: Merkür, Neptün, Satürn, Halley. Ancak "dünya, güneş, ay" kelimeleri gezegen anlamı dışında kullanıldığında küçük harfle başlar: "Senin geldiğini görünce dünyam aydınlandı."
+
+Düşünce, hayat tarzı, politika gibi anlamlar bildirdiğinde "doğu" ve "batı" sözleri büyük harfle başlar: Batı medeniyeti, Doğu mistisizmi. Yön bildirdiğinde ise küçük yazılır: Bursa'nın doğusu, Ankara'nın batısı.
+
+Yer adları büyük harfle başlar: Asya, Güneydoğu Anadolu, Trabzon, Akseki, Bahçelievler. Yer adlarında tür bildiren ikinci isimler de büyük harfle başlar: Ağrı Dağı, Aral Gölü, Fırat Nehri, Çanakkale Boğazı. Ancak özel ada dahil olmayan "şehir, il, ilçe, belde, köy" gibi sözler küçük harfle başlar: Konya ili, Etimesgut ilçesi.
+
+Mahalle, meydan, bulvar, cadde, sokak gibi yer adlarında bu sözcükler büyük harfle başlar: Halit Rifat Paşa Mahallesi, Karaköy Meydanı, Nene Hatun Caddesi, Cemal Nadir Sokağı.
+
+Kurum, kuruluş ve kurul adlarının her kelimesi büyük harfle başlar: Türkiye Büyük Millet Meclisi, Türk Dil Kurumu, Çankaya Lisesi. Kanun, tüzük, yönetmelik adlarının da her kelimesi büyük harfle başlar: Medeni Kanun, Türk Bayrağı Tüzüğü.
+
+Kitap, dergi, gazete ve sanat eserleri adlarının her kelimesi büyük harfle başlar: Safahat, Türk Dili, Resmî Gazete, Kaplumbağa Terbiyecisi. Ancak kitap ve dergi adlarında geçen "ve, ile, ya, veya, yahut, ki, da, de" bağlaçları ile "mı, mi, mu, mü" soru eki küçük harfle yazılır: Mai ve Siyah, Diyorlar ki.
+
+Tarihi olay, çağ ve dönem adları büyük harfle başlar: Kurtuluş Savaşı, Cilalı Taş Devri, Buzul Dönemi, Millî Edebiyat Dönemi.
+
+Özel adlardan türetilen bütün kelimeler büyük harfle başlar: Türklük, Türkleşmek, Türkçe, Bursalı, Darvinci. Ancak özel ad kendi anlamı dışında yeni bir anlam kazanmışsa küçük harfle başlar: acem (müzikte bir perde), donkışotluk (gereği yokken kahramanlık).
+
+Yer bildiren özel isimlerde kısaltmalı söyleyiş söz konusu olduğunda yer adının ilk harfi büyük yazılır: Hisar'dan, Boğaz'dan, Köşk'e.
+
+Para birimleri büyük harfle başlamaz: avro, dolar, lira. Müzikte kullanılan makam ve tür adları da büyük harfle başlamaz: acemaşıran, türkü, varsağı.
+
+Belirli bir tarih bildiren ay ve gün adları büyük harfle başlar: 29 Mayıs 1453 Salı günü. Belirli bir tarihi belirtmeyen ay ve gün adları ise küçük harfle başlar: "Üniversite bu yıl eylülde açılacak."
+
+---
+
+# Yazım Kuralları 2
+
+## Sayıların Yazılışı
+
+Sayılar harflerle de yazılabilir: bin yıldan beri, on dört gün, haftanın beşinci günü, üç ayda bir, yüz soru. Saat, para tutarı, ölçü, istatistik verilerine ilişkin sayılarda rakam kullanılır: 17.30'da, 1.500.000 lira, 25 kilogram, 15 metre kumaş. Saatler ve dakikalar metin içinde yazıyla da yazılabilir: saat dokuzu beş geçe, saat yediye çeyrek kala.
+
+Dört veya daha çok basamaklı sayıların okunuşunu kolaylaştırmak için bin, milyon, milyar ve trilyon sözleri harfle yazılabilir: 1 milyar 500 milyon kişi, 3 bin 255 kalem.
+
+Dört ve daha çok basamaklı sayılar sondan sayılmak üzere üçlü gruplara ayrılarak yazılır ve aralarına nokta konur: 4.567, 326.197, 49.750.812.
+
+Yüzde ve binde işaretleri yazılırken sayılarla işaret arasında boşluk bırakılmaz: %25, %50.
+
+Sayılarda kesirler virgülle ayrılır: 15,2 (on beş tam onda iki), 5,26 (beş tam yüzde yirmi altı).
+
+Sıra sayıları rakamla gösterildiğinde ya rakamdan sonra nokta konur ya da kesme işareti konularak ek yazılır: 15. ya da 15'inci, XX. ya da XX'nci. Ancak iki yöntem aynı anda kullanılmaz; "8.'inci" yanlış, "8'inci" ya da "8." doğrudur.
+
+Üleştirme sayıları rakamla değil yazıyla belirtilir: ikişer (2'şer değil), dokuzar (9'ar değil), yüzer (100'er değil).
+
+## Kısaltmaların Yazımı
+
+Kuruluş, ülke, kitap, dergi ve yön adlarının kısaltmaları her kelimenin ilk harfinin büyük olarak yazılmasıyla oluşturulur: TDK (Türk Dil Kurumu), KB (Kutadgu Bilig), B (batı), D (doğu). Geleneksel olan T.C. ve T. (Türkçe) kısaltmalarının dışında büyük harflerle yapılan kısaltmalarda nokta kullanılmaz.
+
+Bazen kelimelerin birkaç harfi kısaltmaya alınarak telaffuzu kolaylaştırıcı bir sözcük elde edilmeye çalışılır: BOTAŞ, İLESAM, TÖMER gibi.
+
+Ölçü birimlerinin uluslararası kısaltmaları kullanılır ve bunlarda nokta kullanılmaz: cm, g, l, mg, m².
+
+Büyük harflerle yapılan kısaltmalara getirilen eklerde kısaltmanın son harfinin okunuşu esas alınır: TDK'den, THY'de, TRT'den. Ancak kelime gibi okunan kısaltmalara getirilen eklerde kısaltmanın okunuşu esas alınır: ASELSAN'da, BOTAŞ'ın, NATO'dan.
+
+Sert ünsüzle biten kısaltmalar ek aldıklarında okunuşta sert ses yumuşatılmaz: AGİK'in (AGİĞ'in değil), RTÜK'e (RTÜĞ'e değil).
+
+Küçük harflerle yapılan kısaltmalara getirilen eklerde kelimenin okunuşu esas alınır: cm'yi, kg'dan, mm'den.
+
+## Ek Fiilin Yazılışı
+
+Ek fiilin çekimli biçimleri olan "idi, imiş, ise" ayrı yazılabildiği gibi bitişik olarak da yazılabilir. Ünsüzle biten kelimelere bitişik yazıldığında baştaki "i" ünlüsü düşer ve büyük ünlü uyumuna uyar: yorgundu (yorgun idi): "yorgun" ünsüzle bittiği için "idi" bitişik yazılmış, baştaki "i" düşmüş ve büyük ünlü uyumuna uyarak "du" biçimini almıştır. güzelmiş (güzel imiş): "güzel" ünsüzle bittiği için "imiş" bitişik yazılmış, baştaki "i" düşmüş ve ünlü uyumuna uyarak "miş" biçimini almıştır. gelirse (gelir ise): "gelir" ünsüzle bittiği için "ise" bitişik yazılmış, baştaki "i" düşmüş ve "se" biçimini almıştır. Ünlüyle biten kelimelere bitişik yazıldığında araya "y" ünsüzü girer ve baştaki "i" ünlüsü düşer: sonuncuydu (sonuncu idi): "sonuncu" ünlüyle bittiğinden araya "y" girmiş, "idi"nin başındaki "i" düşmüş ve "du" kalmıştır. yabancıymış (yabancı imiş): "yabancı" ünlüyle bittiğinden araya "y" girmiş, "imiş"in başındaki "i" düşmüş ve "mış" kalmıştır. neyse (ne ise): "ne" ünlüyle bittiğinden araya "y" girmiş, "ise"nin başındaki "i" düşmüş ve "se" kalmıştır.
+
+Ek fiilin zarf fiil biçimi olan "iken" de ayrı yazılabildiği gibi eklenerek de yazılabilir. Eklenerek yazıldığında baştaki "i" düşer: başlayacakken, çalışıyorken, durgunken. Ünlüyle biten kelimelere bitişik yazıldığında araya "y" girer: evdeyken, okuldalyken.
+
+## Bağlaç Olan Ki'nin Yazılışı
+
+Bağlaç olan "ki" ayrı yazılır: "bilmem ki" — "ki" burada bir düşünceyi bağlamak amacıyla kullanılmış bağlaçtır ve kendinden önceki sözcükten ayrı yazılır. "demek ki" — aynı şekilde bir sonuç ya da çıkarım bildiren bağlaç işleviyle kullanılmıştır, ayrı yazılır. "kaldı ki" — yine bağlaç işleviyle kullanılmış olup ayrı yazılır. Ancak birkaç örnekte "ki" bağlacı kalıplaşmış olduğu için bitişik yazılır: "belki" — "bel" + "ki"den oluşmuş, zamanla kalıplaşıp tek sözcük hâline gelmiştir, bitişik yazılır. "çünkü" — "çün" + "ki"den oluşmuş, kalıplaşmıştır, bitişik yazılır. "hâlbuki, mademki, meğerki, oysaki, sanki" — bunların hepsi "ki" bağlacını içeren ve tarihsel süreçte kalıplaşmış bileşik sözcüklerdir; bitişik yazılır. Şüphe ve pekiştirme göreviyle kullanılan "ki" de ayrı yazılır: "Ders bitti, zil çaldı mı ki?" — burada "ki" şüphe ya da pekiştirme bildirmekte ve ayrı yazılmaktadır. "Seni öyle göreceğim geldi ki." — burada "ki" duyguyu pekiştiren bir işlev taşımakta ve ayrı yazılmaktadır.
+
+## İkilemelerin Yazılışı
+
+İkilemeler ayrı yazılır: "adım adım" — aynı sözcüğün tekrarıyla oluşmuş bir ikilemdir; iki sözcük arasına virgül ya da tire konmadan ayrı yazılır. "ağır ağır" — yine aynı sözcüğün tekrarıyla oluşmuştur; ayrı yazılır. "bata çıka" — iki farklı fiilimsi kökünden oluşan ikilemlere örnektir; ayrı yazılır. "eski püskü" — biri anlamlı ("eski"), diğeri ikilemin ses uyumunu sağlamak için türetilmiş sözcükten ("püskü") oluşan ikilemdir; ayrı yazılır. "M" ile yapılmış ikilemeler de ayrı yazılır: "at mat" — "at" sözcüğünün başına "m" getirilmesiyle oluşturulmuş "m'li ikilem"dir; iki parça ayrı yazılır. "çocuk mocuk, dolap molap, kitap mitap" — aynı kuralla, sözcüğün başına "m" eklenerek oluşturulmuş "m'li ikilemeler"dir; ayrı yazılır. İsim durum ekleri ve iyelik ekiyle yapılan ikilemeler de ayrı yazılır: "baş başa" — yönelme/kalma ekiyle oluşturulmuş ikilemdir; ayrı yazılır. "günden güne" — ayrılma hâli ekiyle oluşturulmuş ikilemdir; ayrı yazılır. "ardı ardına" — iyelik ve yönelme ekiyle oluşturulmuş ikilemdir; ayrı yazılır. "boşu boşuna" — iyelik ve yönelme ekiyle oluşturulmuştur; ayrı yazılır.
+
+## Pekiştirmeli Sözlerin Yazılışı
+
+Sıfat veya zarf görevindeki pekiştirmeli sözler bitişik yazılır: "apaçık" — "açık" sözcüğüne "ap-" pekiştirme hecesi getirilmiş, "a" ünlüsü türemiş ve tek sözcük hâlinde bitişik yazılmıştır. "çepeçevre" — "çevre" sözcüğüne "çep-" pekiştirme hecesi getirilmiş, "e" ünlüsü türemiş ve bitişik yazılmıştır. "dümdüz" — "düz" sözcüğüne "düm-" pekiştirme hecesi getirilmiş, bitişik yazılmıştır. "sapasağlam" — "sağlam" sözcüğüne "sap-" pekiştirme hecesi getirilmiş, "a" ünlüsü türemiş ve bitişik yazılmıştır. Bu sözcüklerin tamamında pekiştirme hecesi anlamı güçlendirir ("apaçık" = son derece açık) ve sözcük bitişik yazılır çünkü kalıplaşmış tek bir birimdir.
+
+## Soru Eki Mi/Mı/Mu/Mü'nün Yazılışı
+
+Soru eki geleneksel olarak ayrı yazılır ve ünlü uyumuna uyar: "Kaldı mı?" — "kaldı"nın son ünlüsü "ı" olduğu için soru eki "mı" biçimini almış ve ayrı yazılmıştır. "Sen de mi geldin?" — "de"nin son ünlüsü "e" olduğu için soru eki "mi" biçimini almış ve ayrı yazılmıştır. "Olur mu?" — "olur"un son ünlüsü "u" olduğu için soru eki "mu" biçimini almış ve ayrı yazılmıştır. Soru ekinden sonra gelen ekler bu eke bitişik olarak yazılır: "Okuyor muyuz?" — soru eki "mu" ayrı yazılmış, ardından gelen kişi eki "-yuz" buna bitişik yazılmıştır: "mu+yuz". "Çocuk muyum?" — soru eki "mu" ayrı, kişi eki "-yum" bitişik yazılmıştır. "Gelecek miydi?" — soru eki "mi" ayrı, ek-fiil "-ydi" bitişik yazılmıştır. Bu ek sorudan başka görevlerde kullanıldığında da ayrı yazılır: "Güzel mi güzel!" — burada "mi" soru bildirmez, pekiştirme anlamı taşır; yine de ayrı yazılır. "Yağmur yağdı mı dışarı çıkamayız." — burada "mı" koşul (-ınca) anlamı taşır ve ayrı yazılır.
+
+## Bağlaç Olan Da/De'nin Yazılışı
+
+Bağlaç olan "da/de" ayrı yazılır ve büyük ünlü uyumuna uyar: "Kızı da geldi gelini de." — "kızı"nın son ünlüsü "ı" (kalın) olduğu için bağlaç "da" biçimini almış ve ayrı yazılmıştır. "Durumu oğluna da bildirdi." — "oğluna"nın son ünlüsü "a" (kalın) olduğu için bağlaç "da" biçimini almış ve ayrı yazılmıştır. Bu bağlaç hiçbir zaman "ta/te" biçiminde yazılmaz: ünsüz sertleşmesi kuralı bu bağlaca uygulanmaz çünkü bağlaç, ek değil bağımsız bir sözcüktür. Bağlaç olan "da/de" önceki kelimeden kesme işaretiyle ayrılmaz: "Ayşe de geldi." doğrudur — "de" bağlaçtır, özel ada kesme işaretiyle bağlanmaz. "Ayşe'de geldi." yanlıştır — bu yazım "Ayşe"de bulunma anlamı verir; oysa kasıt "Ayşe de" bağlacıdır.
+
+---
+
+# Yazım Kuralları 3
+
+## Ayrı Yazılan Birleşik Kelimeler
+
+Etmek, edilmek, eylemek, olmak, olunmak yardımcı fiilleriyle kurulan birleşik fiiller, ilk kelimelerinde herhangi bir ses düşmesi ya da türemesi olmadığında ayrı yazılır: alt etmek, arz etmek, kabul etmek, not etmek, var olmak, söz etmek.
+
+Birleşme sırasında kelimelerinden hiçbiri ya da yalnızca ikinci kelimesi anlam değişikliğine uğramamışsa bu tür birleşik kelimeler ayrı yazılır. Bu kapsamda hayvan türlerinden birinin adıyla kurulan birleşik kelimeler ayrı yazılır: deve kuşu, dağ keçisi. Bitki türlerinden birinin adıyla kurulan birleşik kelimeler ayrı yazılır: ayrık otu, dağ elması, kuru fasulye, çam fıstığı. Nesne, eşya ve alet adlarından biriyle kurulan birleşik kelimeler ayrı yazılır: alçı taşı, dolma kalem, toplu iğne, duvar saati. Yol ve ulaşımla ilgili birleşik kelimeler ayrı yazılır: çevre yolu, deniz yolu, kara yolu. Durum, olgu ve olay bildiren sözlerle kurulan birleşik kelimeler ayrı yazılır: açık oturum, iş birliği, yer çekimi. Bilim ve bilgi sözleriyle kurulan birleşik kelimeler ayrı yazılır: anlam bilimi, dil bilimi, ses bilgisi, şekil bilgisi. Yiyecek ve içecek adlarıyla kurulan birleşik kelimeler ayrı yazılır: maden suyu, kuru yemiş, kestane şekeri. Organ adlarından biriyle kurulan birleşik kelimeler ayrı yazılır: patlak göz, azı dişi, serçe parmak. Zamanla ilgili birleşik kelimeler ayrı yazılır: gece yarısı, hafta sonu.
+
+"-r/-ar/-er, -maz/-mez, -an/-en" sıfat fiil ekleriyle kurulan sıfat tamlaması yapısındaki birleşik kelimeler ayrı yazılır: çalar saat, çıkar yol, güler yüz, çıkmaz sokak, tükenmez kalem, uçan daire.
+
+Renk sözü ya da renk adıyla kurulmuş isim tamlaması yapısındaki renk adları ayrı yazılır: bal rengi, duman rengi, gece mavisi, limon sarısı. Rengin tonunu belirtmek üzere renkten önce kullanılan sıfatlar da ayrı yazılır: açık mavi, koyu yeşil, kirli sarı.
+
+Yer adlarında "batı, doğu, güney, kuzey, güneydoğu, kuzeybatı, aşağı, yukarı, orta, iç, yakın, uzak" kelimeleri ayrı yazılır: Batı Trakya, Güney Kutbu, İç Anadolu, Yakın Doğu.
+
+Dış, iç, sıra sözleriyle oluşturulan birleşik kelimeler ayrı yazılır: yasa dışı, hafta içi, yanı sıra. Somut olarak yer belirten "alt" ve "üst" sözleriyle oluşturulanlar da ayrı yazılır: deri altı, yer altı, böbrek üstü bezi.
+
+## Bitişik Yazılan Birleşik Kelimeler
+
+Ses düşmesine uğrayan birleşik kelimeler bitişik yazılır: birbiri (biri biri'den), nasıl (ne asıl'dan), niçin (ne için'den), sütlaç (sütlü aş'tan).
+
+Özgün biçimleri tek heceli bazı Arapça kökenli kelimeler yardımcı fiillerle birleşirken ses düşmesi, ses değişmesi ya da ses türemesine uğradığında bitişik yazılır: emretmek, kaybolmak, cemetmek; affetmek, hissetmek, reddetmek.
+
+Anlam değişmesine uğrayan birleşik kelimeler bitişik yazılır. Bitki adı oluşturanlar: aslanağzı, civanperçemi, keçiboynuzu, kuşburnu. Hayvan adı oluşturanlar: danaburnu (böcek), akbaş (kuş). Hastalık adları: arpacık (idriseği), karabaş. Alet ve eşya adları: balıkgözü (halka), deveboynu (boru). Yiyecek adları: hanımgöbeği (tatlı), kadınbudu (köfte), kedidili (bisküvi). Renk adları: baklacığacı, camgöbeği, devetüyü, fildişi, gülkurusu.
+
+"-a/-e" zarf fiil ekleriyle bilmek, vermek, kalmak, durmak, gelmek ve yazmak fiilleriyle yapılan tasviri fiiller bitişik yazılır: düşünebilmek, gülüvermek, uyuyakalmak, gidedürmak, çıkagelmek, süregelmek.
+
+Emir kipiyle kurulan kalıplaşmış birleşik kelimeler bitişik yazılır: albeni, ateşkes, kapkaç, örtbas, tutkal, yapboz.
+
+"-dı/-di/-du/-dü/-tı/-ti/-tu/-tü" kalıplaşmış belirli geçmiş zaman ekleriyle kurulan birleşik kelimeler bitişik yazılır: albastı, gecekondu, imambayıldı, karyağdı, şıpsevdi, zıpçıktı.
+
+İki veya daha çok kelimenin birleşmesinden oluşmuş kişi adları, soyadları ve lakaplar bitişik yazılır: Alper, Gülnihal, Atatürk, Adıvar, Gökalp.
+
+İki ya da daha çok kelimeden oluşmuş il, ilçe, semt gibi yer adları bitişik yazılır: Çanakkale, Acıpayam, Beşiktaş, Kabataş.
+
+Ara yönleri belirten kelimeler bitişik yazılır: güneybatı, güneydoğu, kuzeybatı, kuzeydoğu.
+
+"Ev" kelimesiyle kurulan birleşik kelimeler bitişik yazılır: bakımevi, doğumevi, gözlemevi, yayınevi, polisevi.
+
+"-hane, -name, -zade, -zede" kelimeleriyle oluşturulan birleşik kelimeler bitişik yazılır: dershane, kahvehane, beyanname, seyahatname, amcazade, depremzede.
+
+Geleneksel olarak bitişik yazılan başka sözcükler de vardır. "Baş" sözüyle oluşturulan sıfat tamlamaları: başbakan, başhekim, başyazar. "Başı" sözüyle oluşturulan belirtisiz isim tamlamaları: aşçıbaşı, binbaşı, yüzbaşı. "Ağa, baba, bey, efendi, hanım" sözleriyle kurulan birleşik kelimeler: ağabey, beyefendi, hanımefendi. "Biraz, birçok, birkaç, birtakım, herhangi, hiçbir, hiçbiri" gibi belirsizlik sıfatı ve zamirleri de bitişik yazılır.
+
+---
+
+# Noktalama İşaretleri 1
+
+## Nokta (.)
+
+Nokta birçok farklı işlevle kullanılır. Bitmiş cümlelerin sonunda kullanılır: "Edebiyat, çağ açıp çağ kapatacak kadar güçlü bir sanattır." Bazı kısaltmalardan sonra kullanılır: Cad. (cadde), Fr. (Fransızca), s. (sayfa). Sıra sayılarını göstermek için kullanılır: "Toplantının 3, 4 ve 5. maddelerini yeniden konuşalım." Saat ve dakika gösteren sayıların arasına konur: 14.00. Tarih gösteren sayıları birbirinden ayırmak için kullanılır: 19.05.1919. Dört ve dörtten çok basamaklı sayıları üçerli gruplara ayırmak için kullanılır: 137.000.
+
+T.C. ve T. (Türkçe) kısaltmaları dışında büyük harfle yapılan kısaltmalarda nokta kullanılmaz. Ölçü birimlerinin kısaltmalarında da nokta kullanılmaz: m (metre), cm (santimetre).
+
+## Virgül (,)
+
+Virgülün birçok kullanım alanı vardır. Art arda sıralanan eş görevli sözcük ve söz gruplarının arasına konur. Sıralı cümleleri ayırmak için kullanılır: "Cebinden kör bir çakı çıkardı, ıslak toprağa anlamsız birkaç çizgi çekti." Uzun cümlelerde özneyi belirtmek için kullanılır. Ara söz veya ara cümlelerin başında ve sonunda kullanılır: "Annemi, elleri öpülesi mübarek kadını, bu güzel köye ebe olarak göndermiş devletimiz." Tırnak içine alınmayan alıntı cümlelerinden sonra kullanılır. Ret, onay ve teşvik bildiren kelimelerden sonra kullanılır: "Hayır, hayal ile yoktur alışverişim." Hitap ifadelerinden sonra kullanılır: "Değerli milletvekilleri," Anlam karışıklığını gidermek için kullanılır. Sayılarda kesirli ifadeleri göstermek için kullanılır: 9,5 | 3,14.
+
+Virgül konulmayacak yerler de önemlidir. Metin içinde zarf fiil eki almış kelimelerden sonra virgül konmaz. "Ve, veya, yahut" bağlaçlarından önce ve sonra virgül konmaz: "Üç veya dördüncü denemesinde topu ağlara göndermeyi başardı." Tekrarlı bağlaçlardan önce ve sonra virgül konmaz: "Hem ağlar hem giderim." Pekiştirme ve bağlama görevindeki "da/de" bağlacından sonra virgül konmaz. "-ınca/-ince" anlamında kullanılan "mı/mi" ekinden sonra virgül konmaz: "Şu dağı da aştık mı Dikeni köyünün tarlalarını göreceğiz." Tamlamalarda tamlayanla tamlanan arasına virgül konmaz. İkilemelerin arasına virgül konmaz.
+
+## Noktalı Virgül (;)
+
+Noktalı virgül üç durumda kullanılır. Virgüllerle ayrılmış tür ve takımları birbirinden ayırmak için kullanılır: "İzlediğim filmler, tiyatrolar, gösteriler; okuduğum romanlar, hikâyeler, denemeler derin izler bıraktı." Ögeleri arasında virgül bulunan sıralı cümleleri ayırmak için kullanılır: "Sevinçten, heyecandan içim içime sığmıyor; bağırmak, kahkahalar atmak, ağlamak istiyorum." İkiden fazla eş değer ögesi olan cümlelerde özneden sonra konabilir: "Yeni usul şiirimiz; zevksiz, köksüz, acemice görünüyordu."
+
+---
+
+# Noktalama İşaretleri 2
+
+## İki Nokta (:)
+
+İki nokta birkaç farklı amaçla kullanılır. Kendisiyle ilgili örnek verilecek ya da açıklama yapılacak cümlenin sonuna konur: "Bir öyküde bulunması gereken iki özellik vardır: iyi bir kurgu, güçlü bir düş." Karşılıklı konuşmalarda konuşan kişiyi belirten sözlerden sonra ve edebi metinlerde konuşma bölümlerinden önce kullanılır. Ses bilgisinde uzun ünlüyü göstermek için kullanılır: a:ile, ka:til. İki noktadan sonra gelen ifade cümle niteliğindeyse büyük, cümle niteliğinde değilse küçük harfle başlar.
+
+## Üç Nokta (...)
+
+Bitmemiş cümlelerin sonunda kullanılır: "Odanın kapısından dışarı taşan sesler, haykırmalar, homurdanmalar..." Ünlem ve seslenmelerde anlamı pekiştirmek için konur: "Mehmet Efendi... Mehmet Efendi... yangın!.." Kaba sayıldığı için yazılmak istenmeyen sözcüklerin yerine kullanılır: "Bu olayda E...'nin de parmağı olduğunu biliyor ama konuşmuyordu." Alıntı metinlerde alınmayan yerleri göstermek için kullanılır. Sözün bir yerden kesilerek okuyucunun zihninde tamamlaması için kullanılır.
+
+## Soru İşareti (?)
+
+Soru cümlelerinden sonra kullanılır: "Bugün kimlerin konuşma yapacağını biliyor musun?" Soru eki ya da sözcüğü taşımayan ama soru anlamı olan ifadelerden sonra kullanılır. Bilinmeyen ya da şüphe edilen durumları belirtmek için yay ayraç içinde kullanılır: "1496 (?) yılında doğan Fuzuli divan şiirimizin en güçlü kalemlerinden biridir."
+
+Soru işareti konulmayacak durumlar da vardır. "Mı/mi" ekini alan yan cümle temel cümlenin zarf tümleci olduğunda soru işareti konmaz: "Bahar geldi mi Büyük Göl'ün etrafı yeniden sürülerle dolar." Soru ifadesi taşıyan sıralı ve bağlı cümlelerde soru işareti en sona konur: "Çok yakından mı bu sesler, çok uzaklardan mı?" Sıralı cümlelerde son cümle soru anlamı taşımıyorsa soru işareti kullanılmaz: "Bundan sonra her şey eskisi gibi olabilir mi, bilmiyorum."
+
+## Ünlem İşareti (!)
+
+Acı, sevinç, heyecan gibi duyguları bildiren cümle ya da ibarelerden sonra kullanılır: "Ne mutlu sizin gibi düşünen gençlere!" Seslenme, hitap ve uyarı sözlerinden sonra kullanılır: "Ey Türk gençliği!" Alay, kinaye ya da küçümseme anlamı katmak için yay ayraç içinde kullanılır: "Çok ucuz(!) bir şehir burası."
+
+Ünlem işareti, seslenme ve hitap sözlerinden hemen sonra konulabileceği gibi cümlenin sonuna da konabilir: "Eyvah! Kitaplarımı unuttum." ya da "Eyvah, kitaplarımı unuttum!"
+
+## Uzun Çizgi (—)
+
+Satır başına alınan konuşmaları göstermek için kullanılır.
+
+## Kısa Çizgi (-)
+
+Kısa çizgi çeşitli amaçlarla kullanılır. Satıra sığmayan sözcükleri bölerken satır sonuna konur. Ekleri göstermek için eklerin başında kullanılır: -de, -da, -te, -ta. Fiil kök ya da gövdelerini göstermek için sözcüğün sonunda kullanılır: oku-, yat-. Anlam veya görev yönünden ilişkili sözcüklerin, sayıların arasında kullanılır: Türkiye - Mısır ilişkileri; 10.00 - 15.30 saatleri. Sözcükleri ekine ya da köküne ayırırken kullanılır: Türk-çe-miz-de. Ara söz ya da ara cümleleri göstermek için ifadelerin başında ve sonunda kullanılır. Matematikte çıkarma işlemini göstermek ve sıfırdan küçük değerleri göstermek için kullanılır: -7 derece.
+
+Cümle içinde sayı adlarının yinelenmesinde araya kısa çizgi konmaz: "On on beş yıl oldu.", "Üç beş kişi geldi."
+
+---
+
+# Noktalama İşaretleri 3
+
+## Eğik Çizgi (/)
+
+Dizeler yan yana yazıldığında aralarına konur: "Yaş otuz beş yolun yarısı eder/ Dante gibi ortasındayız ömrün." Adres yazarken apartman numarası ile daire numarası arasına ve semt ile şehir arasına konur: Yıldız Sokak No.: 15/3 Karatay/KONYA. Tarihlerin yazılışında gün, ay ve yılı gösteren sayıları birbirinden ayırmak için konur: 11/12/1975. Dil bilgisinde eklerin farklı biçimlerini göstermek için kullanılır: -arak/-erek. Matematikte bölme işareti olarak kullanılır: 60/3 = 20. Fizik ve matematik gibi alanlarda birimler arası orantıları göstermek için boşluksuz kullanılır: g/sn.
+
+## Tırnak İşareti ("")
+
+Başka bir kimseden ya da yazıdan olduğu gibi aktarılan sözler tırnak içine alınır: "Paul Valéry, 'İlk dize Tanrı vergisidir, ondan sonrası da çaba…' dermiş." Tırnak içindeki alıntının sonunda bulunan noktalama işareti tırnak içinde kalır. Özel olarak vurgulanmak istenen sözler tırnak içine alınır. Cümle içerisinde eserlerin ve yazıların adları ile bölüm başlıkları tırnak içine alınır: "Bugün derste 'Eskici' adlı hikâyeyi okuduk." Tırnak içine alınan sözlerden sonra gelen ekleri ayırmak için kesme işareti kullanılmaz.
+
+## Yay Ayraç [( )]
+
+Cümlenin dışında kalan ek bilgiler için kullanılır. Tiyatro eserlerinde konuşanın hareketlerini ya da durumunu açıklamak için kullanılır. Alıntılarda alınmayan bölümlerin yerine konulan üç nokta yay ayraç içine alınabilir: (…). Bir bilginin şüpheyle karşılandığını ya da kesin olmadığını göstermek için kullanılan soru işareti yay ayraç içine alınır: "1240 (?) yılında doğan Yunus Emre…" Alıntıların aktarıldığı eseri, yazarı ya da künye bilgilerini göstermek için kullanılır: (Moran 1987:41). Bir söze alay, kinaye ya da küçümseme anlamı kazandırmak için kullanılan ünlem işareti yay ayraç içine alınır: "Bütün gece ders çalıştığını(!) söylüyor."
+
+## Kesme İşareti (')
+
+Özel adlara getirilen iyelik, durum ve bildirme ekleri kesme işaretiyle ayrılır: Çanakkale Savaşı'nı, Türkiye'mizin, Atatürk'e. Yer bildiren özel isimlerde kısaltmalı söyleyiş söz konusu olduğunda kesme işareti kullanılır: Hisar'dan, Boğaz'dan. Kişi adlarından sonra gelen ünvan sözlerine getirilen ekler kesme işaretiyle ayrılır: Ali Bey'e, Sevda Hanım'dan. Kısaltmalardan, sayılardan, bir ek ya da harften sonra gelen ekler kesme işaretiyle ayrılır: ODTÜ'de, 1955'te, 2'nci kat, A'dan Z'ye.
+
+Ancak özel adlara getirilen yapım ekleri, çokluk eki ve bunlardan sonra gelen diğer ekler kesmeyle ayrılmaz: Türklerin, Türkçenin, Hollandalıdan, Atatürkçülüğü. Kurum, kuruluş, kurul ve iş yeri adlarına gelen ekler de kesmeyle ayrılmaz: Türkiye Büyük Millet Meclisine, Bakanlar Kurulunun.
+
+---
+
+# Biçim Bilgisi 1
+
+## Kök
+
+Bir sözcüğün aldığı tüm ekler çıkarıldıktan sonra geriye kalan anlamlı en küçük parçadır. Örneğin "dalgıçlardan" sözcüğünde dal-gıç-lar-dan bölümlemesi yapıldığında kök "dal"dır. "İzlemelisiniz" sözcüğünde iz-le-meli-siniz bölümlemesi yapıldığında kök "iz"dir.
+
+Kökler isim kökü ve fiil kökü olmak üzere ikiye ayrılır. İsim kökü, kavramların, varlıkların ve duyguların adı olan köklerdir: dağ, masa, bal, neşe, insan. Fiil kökü ise iş, oluş, hareket ve durum bildiren köklerdir: koş-, bak-, uyu-, sev-, iç-, sür-.
+
+## İkili Kök
+
+Bazı kökler hem ad kökü hem de eylem kökü olarak kullanılabilir. Bu tür köklere ikili kök denir ve iki gruba ayrılır.
+
+Kökteş kök (ortak kök), aralarında anlam ilgisi bulunan isim ve fiil kökü olarak kullanılan sözcük kökleridir: "boya/boya-" kökteştir çünkü "boya" ismi (renkli madde) ile "boya-" fiili (boyamak) arasında doğrudan anlam bağı vardır — boya maddesiyle boyama eylemi aynı kavram alanına aittir. "ekşi/ekşi-" kökteştir çünkü "ekşi" sıfatı (ekşi tat) ile "ekşi-" fiili (ekşimek, ekşi hâle gelmek) anlam bakımından ilişkilidir. "tat/tat-" kökteştir çünkü "tat" ismi (lezzet) ile "tat-" fiili (tatmak) arasında anlam bağı vardır. Sesteş kök ise aralarında anlam ilgisi bulunmayan isim ve fiil kökü olarak kullanılan sözcük kökleridir: "yaz/yaz-" sesteştir çünkü mevsim anlamındaki "yaz" ile "yazmak" eyleminin kökü "yaz-" arasında hiçbir anlam bağı yoktur; yalnızca ses bakımından aynıdırlar. "gül/gül-" sesteştir çünkü çiçek anlamındaki "gül" ile "gülmek" eyleminin kökü "gül-" arasında da anlam bağı yoktur; ses benzerliği bir rastlantıdır.
+
+Sorularda "sözcük kökünün türü" ifadesi kökün isim mi yoksa fiil mi olduğunu bulmayı gerektirir. Yansıma sözcük kökleri isim köküdür: şırıltı, gürültü.
+
+## Çekim Ekleri
+
+Sözcükleri cümle içinde çekerek sözcüklerin diğer sözcüklerle anlam ilgisi kurmasını sağlayan eklerdir. İsim çekim ekleri ve fiil çekim ekleri olmak üzere ikiye ayrılır.
+
+İsim çekim ekleri içinde hâl ekleri önemli bir yer tutar. Belirtme hâli eki "-ı, -i, -u, -ü"dür: "Arabayı temizledi." — "arabayı" belirtili nesne işlevindedir; "neyi temizledi?" sorusuna cevap verir. Yönelme hâli eki "-e, -a"dır: "Arabaya bindi." — "arabaya" yer tamlayıcısıdır; "nereye bindi?" sorusuna cevap verir. Bulunma hâli eki "-de, -da, -te, -ta"dır: "Arabada bıraktı." — "arabada" yer tamlayıcısıdır; "nerede bıraktı?" sorusuna cevap verir. Ayrılma hâli eki "-den, -dan, -ten, -tan"dır: "Arabadan indi." — "arabadan" yer tamlayıcısıdır; "nereden indi?" sorusuna cevap verir. Bir sözcük hâl eklerinden hiçbirini almamışsa yalın hâldedir: "Araba çok pahalıydı." cümlesinde "araba" herhangi bir hâl eki almamış, yalın hâldedir.
+
+Bağlaç olan "de, da" ile hâl eki olan "-de, -da" karıştırılmamalıdır. Bağlaç olan "de, da" her zaman ayrı yazılır ve ünsüz sertleşmesi kuralına uymaz: "Üzüldüğünü görünce onu da yanlarına aldılar." — burada "da" bağlaçtır; cümleye "de/da" ile sınama yapılır: "Üzüldüğünü görünce onu ve yanlarına aldılar" anlamlıdır, dolayısıyla "da" bağlaçtır ve ayrı yazılır. "Dün izlediğim filmde anlatılan hikâye gerçekmiş." — burada "-de" bulunma hâli ekidir; "nerede?" sorusuna cevap verir ve "filmde" olduğunu bildirir, sözcüğe bitişik yazılır. Ayrıca "-de, -da, -den, -dan" ekleri eklendiği sözcüğün anlamını değiştiriyorsa yapım eki olur: "Sınıfın gözde öğrencisi bugün derste yoktu." — "göz" ismine "-de" yapım eki gelmiş ve "gözde" (sevilen, değer verilen) anlamında yeni bir sözcük türetmiştir. "Onun kadar candan bir insan görmedim." — "can" ismine "-dan" yapım eki gelmiş ve "candan" (içten, samimi) sıfatını türetmiştir. Ayrıca "-de, -da, -den, -dan" ekleri eklendiği sözcüğün anlamını değiştiriyorsa yapım eki olur: "Sınıfın gözde öğrencisi bugün derste yoktu." ve "Onun kadar candan bir insan görmedim." cümlelerinde bu ekler yapım ekidir.
+
+Tamlayan (ilgi hâli) eki "-ın, -in, -un, -ün"dür: şiirin dizeleri, sanatçının yorumu. "-dan/-den" eki tamlayan eki yerine de kullanılabilir: "Öğrencilerden bazıları ödevlerini zamanında teslim etmedi." (Öğrencilerin bazıları).
+
+Tamlanan (iyelik/aitlik/sahiplik) eki "-ı, -i, -u, -ü"dür: ağacın dalı, yolun yarısı. Belirtme hâli eki ile iyelik ekini karıştırmamak gerekir. "Misafirler gelmeden evi güzelce temizledi." cümlesinde "evi" belirtme hâli ekidir; çünkü "neyi temizledi?" sorusuna "evi" yanıtı alınır — ev belirtili nesne konumundadır ve "-i" eki belirtme işlevi taşır. "Evi çok güzel bir bahçeye sahipti." cümlesinde ise "evi" iyelik ekidir; çünkü burada "ev" birinin mülküdür, "-i" eki sahiplik anlamı taşımaktadır (onun evi). Bu iki eki ayırt etmenin yolu "neyin evi?" sorusunu sormaktır: eğer sahiplik ilişkisi kurulabiliyorsa iyelik ekidir, belirtili nesne sorusu ("-i" alan nesne aranıyorsa) belirtme hâli ekidir.
+
+Çoğul eki "-lar/-ler"dir. Bu ek cümleye çoğul anlamının yanı sıra farklı anlamlar da katabilir: aile anlamı: "Dayımları yemeğe davet ettik." — "dayımları" tekil bir kişiyi (dayıyı) değil, dayı ve ailesini (dayımın ailesi) anlatır; "-lar" eki burada aile anlamı kazandırmıştır. abartma anlamı: "Hasta ateşler içinde yanıyordu." — hasta gerçekte birden fazla ateşe maruz kalmamıştır; "-ler" eki ateşin şiddetini abartmak için kullanılmıştır. benzerlik anlamı: "Bu ülke nice Fatihler yetiştirir." — burada birden fazla Fatih Sultan Mehmet kastedilmemektedir; "-ler" eki Fatih gibi büyük fatihlere benzer kişileri ifade etmektedir. saygı anlamı: "Arif Beyler toplantıyı başlattı." — toplantıyı tek kişi başlatmış olsa da "-ler" eki saygı bildirmek amacıyla kullanılmıştır. iğneleme anlamı: "Emel Hanımlar derse yine geç geldi." — "-lar" eki burada alaycı ya da iğneleyici bir ton katmak için kullanılmıştır.
+
+İlgi zamiri "-ki" de isim çekim ekidir: "Arda'nın defteri seninkinden daha temiz ve düzenli."
+
+## Fiil Çekim Ekleri
+
+Fiilleri kip ve kişi bakımından çekimleyen eklerdir. Kip ekleri haber (bildirme) kipleri ve dilek (tasarlama) kipleri olarak ikiye ayrılır.
+
+Haber kipleri beş tanedir. Görülen (bilinen) geçmiş zaman eki "-dı/-di/-du/-dü/-tı/-ti/-tu/-tü"dür: bil-di-m. Duyulan (öğrenilen) geçmiş zaman eki "-mış/-miş/-muş/-müş"tür: yaz-mış-ım. Şimdiki zaman eki "-(i)yor"dur. Gelecek zaman eki "-acak/-ecek"tir: bil-eceğ-im. Geniş zaman eki ise "-r/-ar/-er"dir: bak-ar-ım, oku-r-um. Geniş zamanın olumsuzunda "-maz/-mez" eki kullanılır.
+
+"-mez, -ar, -ecek, -miş" kip ekleriyle aynı yazılışa sahip olan sıfat fiil ekleri karıştırılmamalıdır: "Dönülmez akşamın ufkundayız." (sıfat fiil eki), "Koşar adımlarla uzaklaştı." (sıfat fiil eki), "Ütülenecek çamaşırları getir." (sıfat fiil eki), "Depoda unutulmuş eşyalar var." (sıfat fiil eki).
+
+Dilek (tasarlama) kipleri de dört tanedir. Gereklilik kipi eki "-meli/-malı"dır. İstek kipi eki "-e/-a"dır. Dilek-şart kipi eki "-se/-sa"dır. Emir kipinin eki yoktur.
+
+Kişi (şahıs) ekleri eylemin kim tarafından yapıldığını gösterir: okudu-m, okudu-n, okudu, okudu-k, okudu-nuz, okudu-lar.
+
+## Yapım Ekleri
+
+Eklendiği sözcüğün anlamını, yapısını ve türünü değiştiren eklerdir. Dört türü vardır.
+
+İsimden isim yapım ekleri eklendiği isimden yeni bir isim yapar: "-lık" (kitaplık), "-li" (akıllı), "-sız" (suçsuz), "-ci" (saatçi), "-ıncı" (birinci).
+
+İsimden fiil yapım ekleri eklendiği isimden fiil yapar: "-ar/-er" (sarar-, yaşar-), "-ımsa/-imse" (benimse-, özümse-), "-laş/-leş" (dertleş-, kucaklaş-), "-la/-le" (gözle-, başla-).
+
+Fiilden fiil yapım ekleri eklendiği fiilden yeni bir fiil yapar: "-dır/-dir" (yazdır-, gezdir-), "-ıl/-il" (atıl-, sevil-), "-ın/-in" (gezin-, bakın-), "-ır/-ir" (kaçır-, içir-).
+
+Fiilden isim yapım ekleri eklendiği fiilden isim yapar: "-men/-man" (öğretmen, okutman), "-ık/-ik" (yanık, çizik), "-ak/-ek" (kaçak, binek), "-gı/-gi" (sevgi, tutku), "-ıcı/-ici" (geçici, itici). Tüm fiilimsi ekleri de fiilden isim yapım ekidir.
+
+Bir sözcüğün yapım eki almış hâline gövde denir. Kök + Yapım Eki = Gövde formülüyle özetlenebilir. Örneğin "dağcı" sözcüğünde dag-cı bölümlemesi yapıldığında kök "dağ", yapım eki "-cı", gövde ise "dağcı"dır. Sorularda "gövdeden türemiş sözcük" ifadesiyle karşılaşıldığında en az iki yapım eki aranmalıdır: saygılı (say-gı-lı), birincilik (bir-inci-lik), atılgan (at-ıl-gan).
+
+Türkçede kök üzerine gelen ekler belirli bir sıraya göre dizilir. Kök + Çekim Eki: "Öğrenciler sırayla geldiler." Kök + Yapım Eki: "Annesinden yeni kalemlik istedi." Kök + Yapım Eki + Çekim Eki: "Yolun başındaki arabacıya seslendi." Ancak çekim ekinin yapım ekinden önce geldiği örnekler de vardır: "Yoldaki taşları kaldırdılar.", "Annemsiz bir yere gitmem.", "Gelirken beni arayın."
+
+## Sözcüğün Yapısı
+
+Sözcükler yapıları bakımından üçe ayrılır. Basit sözcükler yapım eki almamış sözcüklerdir: kitap, ev, yol. Türemiş sözcükler en az bir yapım eki almış sözcüklerdir: güldür- (gül-dür), sula- (su-la), yalnızlık (yalnız-lık). Türemiş sözcükler yapım ekinin yanı sıra çekim eki de alabilir: sessizlikten (ses-siz-lik-ten). Birleşik sözcükler ise en az iki sözcüğün bir araya gelmesiyle oluşan yeni sözcüklerdir: hanımeli (hanım+eli), Karadeniz (kara+deniz), başhekim (baş+hekim), ateşkes (ateş+kes).
+
+---
+
+# Biçim Bilgisi 2
+
+## Birleşik Fiiller
+
+Birleşik fiiller en az iki sözcüğün anlam ve biçim bakımından birleşmesiyle oluşur. Üç türü vardır.
+
+Anlamca kaynaşmış birleşik fiiller, genellikle bir isimle bir fiilin bir araya gelerek kalıplaşması sonucunda oluşur. Mastar hâlindeki deyimler bu grupta değerlendirilir: gözden düşmek, küplere binmek, bağrına basmak. Bunların yanı sıra vazgeç-, varsay-, öngör-, başvur-, elver- fiilleri de anlamca kaynaşmış birleşik fiillerdir.
+
+Yardımcı eylemle kurulan birleşik fiiller, isimlerin "et-, ol-, eyle-, kıl-" yardımcı eylemleriyle oluşturduğu birleşik fiillerdir: park et-, memnun ol-, seyreyle-, mecbur kıl-. Bu birleşik fiiller, birleşme sırasında ses olayı olursa bitişik, olmadığı takdirde ayrı yazılır: affet- ve zannet- (bitişik), ziyaret et- ve fark et- (ayrı). "Et-, ol-" yardımcı eylemleri bazen tek başlarına asıl eylem olarak da kullanılabilir: "Günlük masrafımız tam iki yüz lira ediyordu.", "Buraya geleli neredeyse üç yıl oldu."
+
+Kurallı birleşik fiiller belirli bir kural çerçevesinde oluşturulan birleşik fiillerdir. Yeterlik fiili "-e bil(mek)" yapısıyla kurulur: çözebilmek, görebilmek. Yeterlik fiilinin olumsuzunda "bil-" düşer, yalnızca "-a/-e" zarf fiil eki kalır: yazabiliyorsun → yazamıyorsun, gezebildim → gezemedim. Tezlik fiili "-i ver(mek)" yapısıyla kurulur: gidivermek, söyleyivermek. Sürerlik fiili "-a kal(mak), -e gel(mek), -e dur(mak)" yapılarıyla kurulur: süregelmek, şaşakalmak, gidedürmak. Yaklaşma fiili ise "-e yaz(mak)" yapısıyla kurulur: öleyazmak, düşeyazmak.
+
+---
+
+# İsim (Ad)
+
+Canlı ve cansız varlıkları, durumları ve düşünceleri bildiren sözcüklere isim (ad) denir.
+
+## İsimlerin Sınıflandırılması
+
+Varlıklara veriliş biçimlerine göre isimler cins isim ve özel isim olarak ikiye ayrılır. Cins isimler aynı türden varlıkların ortak adıdır: okul, çiçek, defter. Özel isimler ise tek bir varlığa verilen addır: Mustafa Kemal Atatürk, Ankara, İslamiyet.
+
+Varlıkların oluşlarına göre isimler somut isim ve soyut isim olarak ikiye ayrılır. Duyularla algılanabilen varlıkların adı somut isimdir: rüzgâr, kar, kapı. Yalnızca zihinsel olarak algılanabilen varlıkların adı ise soyut isimdir: mutluluk, öfke, hüzün, umut.
+
+Varlıkların sayılarına göre isimler tekil isim, çoğul isim ve topluluk ismi olarak üçe ayrılır.
+
+Cins isimler özel ya da genel anlamlı olarak kullanılabilir. "Saksıdaki çiçek sulanmadığı için kurudu." cümlesinde "çiçek" özel anlamlıdır; "saksıdaki" belirteci sayesinde sözcük belirli, tek bir çiçeği kasteder ve bu bağlamda özel anlamlı işlev görür. "Özel günlerde sevdiklerime çiçek hediye etmeyi severim." cümlesinde ise "çiçek" genel anlamlıdır; belirli bir çiçek türü ya da tek bir çiçek değil, herhangi bir çiçek kastedilmektedir — sözcük geniş kapsamıyla kullanılmıştır. Bazı isimler cins isim olarak da özel isim olarak da kullanılabilir: "Bu bahar birlikte kamp yapalım." — "bahar" burada cins isimdir çünkü bir mevsimi genel olarak adlandırmaktadır; büyük harfle başlamaz ve aynı türdeki tüm ilkbahar mevsimlerini kapsar. "Kızına Bahar adını vermeyi çok istiyordu." — "Bahar" burada özel isimdir çünkü tek bir kişiye, belirli bir bireye verilen addır; büyük harfle yazılır. Bir isim ad aktarması yoluyla topluluk anlamı da kazanabilir: "Kasabanın ışıkları erkenden sönmüştü." — burada "kasaba" gerçek anlamıyla, fiziksel bir yerleşim yeri olarak kullanılmıştır; tekil isimdir. "Bu habere bütün kasaba çok üzüldü." — burada "kasaba" yer adı değil, o yerde yaşayan tüm insanları temsil etmektedir; ad aktarması yoluyla topluluk anlamı kazanmıştır.
+
+## İsimlerde Küçültme
+
+"-cık, -çe, -cak, -cağız, -(i)msi, -(ı)mtırak" ekleriyle yapılır. Bu ekler isme küçültme anlamının yanı sıra acıma ve sevgi gibi anlamlar da katabilir; bazen eklendiği ismi kalıcı isim hâline de getirir. "Mınnacık elleriyle yazıyordu." — "minnacık" küçültme ekiyle oluşmuştur ve ellerin fiziksel olarak küçük olduğunu anlatır; ek burada boyutu küçülten gerçek küçültme işlevi taşır. "Bademcik ameliyatı olmuştu." — "bademcik" küçültme ekini almış ancak bademcik bağımsız bir organ adı olarak kalıcı isim hâline gelmiştir; artık küçültme anlamı taşımaz, yalnızca o organın anatomik adıdır. "Yavrucak soğuktan titriyordu." — "-cak" eki burada boyutu küçültmez; konuşanın yavruya duyduğu acıma ve şefkati yansıtır. "Babacığım, diyerek seslendi." — "-cığım" eki burada küçültme değil sevgi ve yakınlık anlamı katmaktadır; "baba" büyüklüğünden hiçbir şey eksilmez, ek duygusal sıcaklığı ifade eder.
+
+## İsimlerde Yapı
+
+İsimler yapıları bakımından basit, türemiş ve birleşik olmak üzere üçe ayrılır. Basit isimler yapım eki almayan isimlerdir. Türemiş isimler yapım eki alan isimlerdir. Birleşik isimler ise en az iki sözcüğün birleşmesiyle oluşan isimlerdir: uğurböceği, hanımeli.
+
+---
+
+# Sıfat (Ön Ad)
+
+İsimleri renk, durum, biçim yönünden niteleyen ya da soru, sayı, belgisizlik ve işaret yönünden belirten sözcüklerdir.
+
+## Sıfatların Temel Özellikleri
+
+Türkçede bir sözcüğün sıfat olabilmesi için mutlaka bir isimle kullanılması gerekir. Sıfatın olduğu her yerde sıfat tamlaması vardır: sıfat + isim = sıfat tamlaması. Sıfatlar çekim eki almaz; alırsa adlaşır: "Gençlere her zaman destek olmalıyız." cümlesinde "gençlere" adlaşmış sıfat olarak kullanılmıştır.
+
+## Sıfat Türleri
+
+Niteleme sıfatları isimleri renk, durum ya da biçim yönünden niteler ve "nasıl?" sorusuna cevap verir: "Durgun sularda yapayalnızdık." — "durgun" sözcüğü "nasıl sular?" sorusuna yanıt verir ve suların durumunu (hareketsiz, sakin) niteler; niteleme sıfatıdır. "Köşeli masayı seçtim." — "köşeli" sözcüğü "nasıl masa?" sorusuna yanıt verir ve masanın biçimini niteler; niteleme sıfatıdır.
+
+İşaret sıfatları isimleri işaret yoluyla belirtir ve "hangi?" sorusuna cevap verir: "Bu kelimeyi hep sevmişimdir." — "bu" sözcüğü konuşana yakın olan belirli bir kelimeyi işaret eder; "hangi kelimeyi?" sorusuna cevap verir ve bir isimle (kelimeyi) birlikte kullanıldığı için işaret sıfatıdır. "Şu saatler bir geçse…" — "şu" sözcüğü konuşandan biraz uzaktaki saatleri işaret eder; isimle (saatler) birlikte kullanılmıştır, işaret sıfatıdır. "O yol her zaman tehlikelidir." — "o" sözcüğü konuşandan uzaktaki belirli bir yolu işaret eder; isimle (yol) birlikte kullanılmıştır, işaret sıfatıdır.
+
+Soru sıfatları isimleri soru yoluyla belirtir: "Nice insanlar geçti buradan?" — "nice" bir ismi (insanlar) soru yoluyla belirtmektedir; kaç tane ya da nasıl türden insanlar olduğu sorgulanmaktadır. Soru sıfatıdır çünkü bir isimle birlikte kullanılmıştır. "Kaçıncı ayrılık?" — "kaçıncı" bir ismi (ayrılık) soru yoluyla sıra bakımından belirtmektedir; soru sıfatıdır. "Hangi yöne bakacağım?" — "hangi" bir ismi (yöne) soru yoluyla belirtmektedir; soru sıfatıdır.
+
+Belgisiz sıfatlar isimleri kesinlik olmadan belirtir. "birkaç, bütün, bir, birçok, bazı, her, hiçbir" sözcükleri belgisiz sıfat olarak kullanılır: "Birkaç gün sonra döneceğim." — "birkaç" bir ismi (gün) kesinlik bildirmeksizin, belirsiz bir sayıyla belirtmektedir; kaç gün olduğu tam olarak belli değildir. Bir isimle (gün) birlikte kullanıldığı için belgisiz sıfatır.
+
+Sayı sıfatları birkaç türe ayrılır. Asıl sayı sıfatları varlıkların sayısını belirtir: "İki çocuk bahçede oynuyordu." — "iki" kaç çocuk olduğunu tam sayıyla belirtmektedir; "kaç çocuk?" sorusuna cevap verir. Sıra sayı sıfatları varlıkların sırasını belirtir: "Üçüncü kattaki daire satılık." — "üçüncü" katın sırasını belirtmektedir; "kaçıncı kat?" sorusuna cevap verir. Üleştirme sayı sıfatları varlıkların paylaşımını belirtir: "Öğrencilere ikişer kalem verildi." — "ikişer" her öğrenciye kaçar kalem düştüğünü anlatmaktadır; paylaştırma bildirmektedir. Kesir sayı sıfatları kesir miktarları bildirir: "Yarım ekmek kaldı." — "yarım" ekmeğin bir bütünün yarısı olduğunu bildiren kesir değerini ifade etmektedir. Topluluk sayı sıfatları varlıkların bir topluluk oluşturduğunu belirtir: "İkiz kardeşler." — "ikiz" iki çocuğun bir bütün topluluk oluşturduğunu belirtmektedir.
+
+"O kitabı çok sevdim." — "o" burada işaret sıfatıdır çünkü bir isimle (kitabı) birlikte kullanılmış ve o belirli kitabı işaret etmektedir; isim tamlamasında belirteç görevindedir. "Onu çok sevdim." — "onu" burada işaret zamiridir çünkü bir ismin yerine geçmektedir; yanında bir isim yoktur, bağlamdan anlaşılan bir nesneyi temsil eder. "O işini bilir." — "o" burada kişi zamiridir çünkü belirli bir kişinin adının yerine geçmektedir; bir insan özneyi temsil eder ve yanında isim yoktur.
+
+"İkisi bir yaşatılamış." — burada "bir" niteleme sıfatıdır; iki kişinin "aynı, birbirinin eşi" niteliğinde olduğunu anlatır; "nasıl?" sorusuna cevap verir. "Bir gün bakarsın, gelir." — burada "bir" belgisiz sıfatıdır; "hangi gün?" belirsizdir, belirsiz bir gelecek zamanı anlatmaktadır; kesin bir sayı bildirmez. "Bir elma daha koyalım." — burada "bir" sayı sıfatıdır; "kaç elma?" sorusuna "1" sayısıyla kesin yanıt verir.
+
+Ünvan sıfatları kişilerin cinsiyetlerini, makamlarını, mesleklerini ya da takma adlarını belirtir ve isimlerden önce ya da sonra gelebilir: Doktor Olcay, Nazım Bey, İsmet Paşa.
+
+## Sıfatlarda Küçültme ve Pekiştirme
+
+Sıfatlarda küçültme "-cik, -ce, -(i)msi, -(i)mtırak" ekleriyle yapılır: "Minicik bir kapıdan içeri girdik.", "Sarımsı bir halı yerde seriliydi."
+
+Sıfatların anlamını güçlendirmek için çeşitli pekiştirme yolları kullanılır. "m, p, r, s" ünsüzleriyle pekiştirme yapılabilir: "Simsiyah bir gecenin ortasındayım." İkilemelerle pekiştirme yapılabilir: "Tatlı tatlı sözlere beni oyalamaya çalışıyordu." "mi" soru ekiyle de pekiştirme yapılabilir: "Şirin mi şirin bir evi vardı."
+
+Pekiştirilen sözcük ismi nitelerse sıfat, fiili nitelerse zarf, çekim eki alırsa isim olur: "Yapayalnız bir insandı her limanda." (sıfat), "Gittiği yerde hep yapayalnızdı." (isim), "Herkes gidince yapayalnız kalmıştı." (zarf).
+
+## Sıfatlarda Yapı
+
+Sıfatlar yapıları bakımından basit, türemiş ve birleşik olarak üçe ayrılır. Basit sıfatlar yapım eki almayan sıfatlardır: "Biz ilk durakta inelim." Türemiş sıfatlar yapım eki almış sıfatlardır: "Kiralık ev arıyoruz." Birleşik sıfatlar iki sözcüğün birleşmesiyle oluşur ve anlamca kaynaşmış ile kurallı olmak üzere iki alt türe ayrılır. Anlamca kaynaşmış birleşik sıfatlar: "Canciğer dost olmuşlar.", "Biraz zaman gerekiyor." Kurallı birleşik sıfatlar ise sıfat tamlamasına "-lı/-lık/-sız" eki getirilerek, isim tamlaması sıfat yapılarak ya da sıfat tamlaması ters çevrilip isme iyelik eki getirilerek oluşturulur: "O mavi gözlü bir devdi.", "Üç kuruşluk iş için değmez.", "Salonu büyük bir ev aldılar."
+
+---
+
+# Zamir (Adıl)
+
+İsmin yerini tutan sözcüklerdir. İsme gelen çekim eklerini alır; tamlayan ya da tamlanan olarak kullanılabilir; hem tamlayan hem tamlanan olarak da kullanılabilir.
+
+## Zamir Türleri
+
+Kişi (şahıs) zamirleri kişi isimlerinin yerini tutar: "Ben de seni arıyordum." cümlesinde "ben" kişi zamiridir çünkü konuşan kişinin adının (örneğin "Ahmet de seni arıyordu") yerine geçmektedir; 1. tekil kişiyi temsil eden ismin yerini tutmaktadır.
+
+Dönüşlülük zamiri "kendi" sözcüğüdür. Kişi zamiriyle kullanıldığında yüklemi kişi yönünden pekiştirir: "Kendine güzel bir kahve yaptı." cümlesinde "kendine" dönüşlülük zamiridir çünkü yapılan işin (kahve yapma) hem faili hem de yararlanıcısı aynı kişidir; eylemin dönüşlü olarak kişinin kendisine yöneldiğini vurgular.
+
+İşaret zamirleri isimlerin yerini işaret yoluyla tutar: "Bu, hepimizin sorumluluğudur." cümlesinde "bu" işaret zamiridir çünkü yanında bir isim yoktur; bağlamdan anlaşılan belirli bir şeyin yerine geçmekte ve onu işaret etmektedir. Eğer yanında bir isim olsaydı (örneğin "bu iş") işaret sıfatı olurdu.
+
+Belgisiz zamirler isimlerin yerini belgisizlik yoluyla tutar: "Birçoğunu okumak için yanına aldı." cümlesinde "birçoğunu" belgisiz zamirdir çünkü kaç tane ya da hangi nesnelerin alındığı tam olarak belli değildir; belirsiz bir çoğunluğu temsil etmekte ve yanında isim olmadan ismin yerini tutmaktadır.
+
+Soru zamirleri isimlerin yerini soru yoluyla tutar: "Tatilde nereye gideceksiniz?" cümlesinde "nereye" soru zamiridir çünkü bir yer isminin yerine geçerek o yeri soru yoluyla sorgulamaktadır; yanında ayrıca bir isim yoktur.
+
+Ek hâlindeki zamirler de vardır. İyelik ekleri aynı zamanda iyelik zamirleridir: okulum, okulum, okulu, okulumuz, okulunuz, okulları. İlgi zamiri "-ki"dir; isim tamlamalarında tamlayan ekinden sonra gelerek tamlananın yerini tutar: "Senin sorun kolay, kardeşininki çok zor olmuş."
+
+## Zamirlerde Dikkat Edilmesi Gereken Noktalar
+
+"Bütün söylediklerinde hep o haklıydı." — burada "o" kişi zamiridir; belirli bir insanın adının yerine geçmekte ve özne işlevi taşımaktadır; bağlamdan bu kişinin belirli bir insan olduğu anlaşılmaktadır. "O, karşımda durmuş bana bakan bir kediydi." — burada "o" işaret zamiridir; belirli bir hayvanı (kediyi) işaret etmekte ve canlı olmakla birlikte kişi olmayan bir varlığın yerini tutmaktadır.
+
+"Bunu yeni aldım." — burada "bunu" işaret zamiridir çünkü yanında bir isim yoktur; bağlamdan anlaşılan bir nesnenin (örneğin kalemin) yerine geçmektedir. "Bu kalemi yeni aldım." — burada "bu" işaret sıfatıdır çünkü yanında bir isim (kalemi) vardır ve o ismi işaret yoluyla belirtmektedir. Ayırt etmenin temel kuralı: yanında isim varsa sıfat, ismin yerini tutuyorsa zamirdir.
+
+"Bu sorularda karşımıza çıkan bir konu." — burada "bu" işaret sıfatıdır çünkü virgül yoktur ve "bu" yanındaki isimle (sorularda) birlikte okunarak o soruları belirten bir sıfat işlevi görmektedir. "Bu, sorularda karşımıza çıkan bir konu." — burada "bu" işaret zamiridir çünkü virgül "bu"yu isimden ayırmakta ve "bu"nun bağımsız bir özne (zamir) olarak okunmasını sağlamaktadır; özne ile yüklem (bir konu) arasındaki ilişki virgülle netleşmektedir.
+
+"Kimi gayet güzel kitap okuyor." — burada "kimi" belgisiz zamirdir çünkü yanında bir isim yoktur; belirsiz bazı kişilerin yerini tutmaktadır ("kimi kişiler" anlamında). "Kimi insan gayet güzel kitap okuyor." — burada "kimi" belgisiz sıfatıdır çünkü yanında bir isim (insan) vardır ve o ismi belirsizlik bildirerek nitelendirmektedir.
+
+"Dışarıda ne duruyorsun?" — burada "ne" soru zarfıdır; fiili (duruyorsun) nitelendiren "niçin/nasıl?" anlamı taşıyan bir soru ifadesidir; fiili soru yoluyla belirtir. "Bütün bu söylediklerimden ne anladın?" — burada "ne" soru zamiridir; yanında isim yoktur ve "neyi anladın?" sorusundaki nesnenin yerini tutmaktadır. "Siz ne işler çeviriyorsunuz?" — burada "ne" soru sıfatıdır; yanında bir isim (işler) vardır ve o ismi soru yoluyla belirtmektedir.
+
+"-ki" cümlede üç farklı görevde kullanılabilir: "Büronun denizi Akdeniz'inkinden daha güzel." — burada "-ki" ilgi zamiridir; "Akdeniz'in denizi" yerine geçerek tamlananın (denizin) yerini tutmaktadır. "Dolaptaki çikolataların hepsini yedim." — burada "-ki" sıfat türeten yapım ekidir; "dolap"a eklenerek "dolaptaki" sıfatını oluşturmuş ve çikolatayı nitelemiştir. "Öyle bir baktı ki hepimiz korktuk." — burada "ki" bağlaçtır; iki yargıyı birbirine bağlamakta ve sonuç anlamı katmaktadır; ayrı yazılmaktadır.
+
+Türemiş zamir yoktur; zamirler yapım eki aldığında türünü kaybedip isim, sıfat ya da zarf olur: "Oraya sensiz gitmem." (zarf), "Sokaktayım, kimsesiz bir sokak ortasında;" (sıfat), "Bu araştırmamız insan benliği üzerine olacak." (isim).
+
+---
+
+# İsim ve Sıfat Tamlamaları
+
+## Belirtili İsim Tamlaması
+
+Aralarında aitlik ilgisi olan, tamlayanın ilgi hâli eki (-ın), tamlanananın iyelik eki aldığı tamlamalardır: "evin çatısı rüzgârdan uçmuş."
+
+Belirtili isim tamlamalarıyla ilgili birkaç önemli nokta vardır. Tamlayanla tamlanan arasına sıfat girebilir: "köyün bozuk yollarında ilerleyen at arabası." Tamlayanla tamlanan yer değiştirebilir: "Sözü henüz bitmiş sayılmaz yazarın." Birden fazla tamlayan tek tamlanana bağlanabilir: "Ankara'nın, Antalya'nın ve İzmir'in yolu bu noktada birbirlerine bağlanıyor." Tek tamlayan birden fazla tamlanana bağlanabilir: "Ağacın çiçekleri, yaprakları ve büyüklüğü göz alıcıydı." Tamlayan ya da tamlanan düşebilir: "Bu konuda gözü kimseyi görmüyor." (onun gözü). Tamlayan ya da tamlanan zamir olabilir: "Çocukların hepsi geziye katılacakmış.", "Bunların birkaçını eski evde bırakacağım." Tamlayan eki (-ın) yerine ayrılma hâli eki (-dan) kullanılabilir: "Öğrencilerden biri söz alarak konuştu."
+
+## Belirtisiz İsim Tamlaması
+
+Tamlayanın ilgi ekini almadığı, tamlanananın iyelik ekini aldığı tamlamalardır: "is kokusu, çam ağacı." Belirtisiz isim tamlamalarında tamlayanla tamlanan arasına sıfat girmez; sıfat tamlamanın başında kullanılır: "yoğun parfüm kokusu tüm odayı doldurdu."
+
+## Zincirli İsim Tamlaması
+
+En az üç isimden oluşan, tamlayanı, tamlananı ya da her ikisi de isim tamlaması olan tamlamalardır: "güneş gözlüğünün camını burada yaptırabiliriz." Bu örnekte "güneş gözlüğü" belirtisiz isim tamlaması, "güneş gözlüğünün camı" ise belirtili isim tamlamasıdır.
+
+## Sıfat Tamlaması
+
+Tamlayanı sıfat, tamlananı isim ya da zamir olan tamlamalardır. Sıfatın olduğu her yerde sıfat tamlaması da vardır. Birden fazla sıfat bir isme yönelik kullanılabilir: "Akıllı, terbiyeli ve çalışkan bir çocuktur." Bir sıfat birden fazla isme yönelik kullanılabilir: "Bu muhitte güzel evler, bahçeler var." Sıfat unsuru bir söz öbeği olabilir: "Gök mavisi gözleri ışıl ışıldı." Sıfat fiiller sıfat görevinde kullanılıp tamlama oluşturabilir: "Görecek günümüz varmış bu dünyada."
+
+---
+
+# Zarf (Belirteç)
+
+Fiil, fiilimsi, sıfat ve kendi türünden sözcükleri zaman, durum, yer-yön, ölçü ve soru yönünden belirten ve sınırlayan sözcüklerdir.
+
+Zarflar her zaman yalnızca fiilleri değil; fiilimsileri, sıfatları ya da başka zarfları da etkileyebilir: "Bugün çok yoruldu." (fiili), "Bu işe bilinçli hazırlanmak zorundayız." (fiilimsiy), "En taze yeşillik burada satılır." (sıfatı), "Sınavlarına daha iyi çalıştı." (zarfı).
+
+## Zarf Türleri
+
+Durum zarfları, bir fiilin ya da fiilimsinin anlamını durum bakımından belirtir ve "nasıl?" sorusuna cevap verir: "Yeni gelenlerle güzel konuşmak istiyordu.", "Çocuk okula yürüyerek geliyordu.", "Dünkü soruları heyecandan yapamadım."
+
+"Nasıl?" sorusunun isme yöneltildiğinde alınan cevap sıfat; fiile yöneltildiğinde alınan cevap zarf olur: "Güzel bir haber aldım." (sıfat), "Toplantıda güzel konuştu." (zarf).
+
+Zaman zarfları fiilleri zaman yönünden belirtir ve "ne zaman?" sorusuna cevap verir: "Annemle her sabah yürüyüşe gideriz." Zaman anlamı taşıyan sözcükler isim de olabilir: "Akşamın insanı hüzünlendiren bir yanı olmuştur hep." (isim), "Akşam bize uğradı, havadan sudan konuştuk." (zarf).
+
+Yer-yön zarfları fiilleri ve fiilimsileri yer-yön bakımından belirtir ve "ne yöne?" sorusuna cevap verir. Yer-yön bildiren sözcükler cümlede zarf, isim ya da sıfat olabilir: "Aşağı yolda trafik yoğun." (sıfat), "Olan biteni öğrenmek için aşağı indi." (zarf), "Aşağıda çok fazla gürültü vardı." (isim).
+
+Miktar (azlık-çokluk) zarfları fiillerin, fiilimsilerin, sıfatların ya da başka zarfların anlamlarını ölçü bakımından belirtir ve "ne kadar?" sorusuna cevap verir: "Bugün çok çalıştım." (fiili belirten miktar zarfı), "Her gün daha hızlı okudum." (zarfı belirten miktar zarfı), "En doğru yol bu sanırım." (sıfatı belirten miktar zarfı).
+
+Soru zarfları fiil ya da fiilimsileri soru yoluyla belirtir: "Düşündüklerini neden söylemedin?", "Arkadaşlarına ne zaman buluşacaksın?"
+
+Soru anlamlı bazı sözcükler bir isme yönelik kullanıldığında soru sıfatı olur: "Kütüphanedeki nasıl bir soru?" (soru sıfatı), "Okula nasıl gidiyorsunuz?" (soru zarfı).
+
+"Ne" sözcüğü soru zamiri, soru sıfatı ve soru zarfı olarak kullanılabilir: "Dışarıda ne duruyorsun?" (soru zarfı), "Bütün bu söylediklerimden ne anladın?" (soru zamiri), "Siz ne işler çeviriyorsunuz?" (soru sıfatı).
+
+## Zarflarda Pekiştirme
+
+Pekiştirme ünsüzleri ve ikilemeler kullanılarak yapılır: "Elleri soğuktan mosmor olmuştu.", "Dışarıda şakır şakır yağmur yağıyordu." Pekiştirilen sözcük ismi etkilerse sıfat, fiil ya da fiilimsiy etkilerse zarf olur.
+
+---
+
+# Edat, Bağlaç, Ünlem
+
+## Edat
+
+Tek başına anlamı olmayan; başka sözcüklerle ilişkilendirildiğinde söz öbeği oluşturan sözcüklerdir. Başlıca edatlar şunlardır: ile, gibi, kadar, göre, üzere, diye, -e karşı, -e kadar, -e doğru, -den dolayı, -den ötürü.
+
+"Sabaha kadar ders çalıştım.", "Bana göre bu doğru değil.", "Eve doğru yürümeye başladım.", "Bu konuda senin gibi davrandım." gibi cümlelerde edatlar kullanılmıştır.
+
+Edatlar başka sözcüklerle kullanıldığında söz öbeği oluşturur: "Çocuğun aslan gibi yüreği vardı." İyelik eki aldığında isimler gibi kullanılır: "Onun gibisi hiçbir yerde yok." Bir edat bir isimle kullanıldığında sıfat ya da zarf olarak kullanılabilir: "Pamuk gibi saçları vardı." (sıfat), "Sen arkadaşım gibi konuşuyorsun." (zarf).
+
+"İle" yerine "ve" getirilebilirse bağlaç, getirilemezse edat sayılır: "Arkadaşları ile yemeğe gitti." (edat — kişiyle birlikte anlamı taşır), "Şiir ile hikâye okumayı seviyordu." (bağlaç — "ve" yerine geçebilir).
+
+Hâl ekleriyle kullanılan "doğru, karşı, beri" edatları tek başlarına kullanıldığında isim, sıfat ya da zarf olabilir: "Denize karşı oturduk, keyif yaptık." (edat), "Dün karşı köyden misafirlerimiz geldi." (sıfat), "Hayatın gerçekleri hakkında doğru söylüyorsun." (zarf), "Kendine doğru arkadaşlar bulmalısın." (sıfat), "Onun cevapları kesinlikle doğruydu." (isim).
+
+"mi" soru edatıdır ve kendinden önce gelen sözcükten daima ayrı yazılır: "Kitaplarını getirdin mi?"
+
+## Bağlaç
+
+Tek başına anlamı olmayan; eş görevli ya da anlamca ilgili söz ve söz öbeklerini, cümleleri birbirine bağlayan sözcüklerdir. Bağlaçlar cümleden çıkarıldığında cümlenin anlamında bozulma olmaz. Başlıca bağlaçlar şunlardır: ve, ile, çünkü, fakat, ama, da, ki, ya da, yalnız, mademki, yahut, hem…hem, ne…ne.
+
+"Onun en çok da bu hâli güzel.", "Söyledikleri ile yaptıkları birbirini tutmuyor.", "Hâlbuki bütün konuları öğrenmişti.", "Sinemaya git ama geç kalma." gibi cümlelerde bağlaçlar kullanılmıştır.
+
+"Nereden çıktı bu yalnız kadın karşıma?" — burada "yalnız" sıfatıdır; bir ismi (kadın) nitelemekte ve "nasıl kadın?" sorusuna "tek başına, kimsesiz" diye yanıt vermektedir. "Tutumları yüzünden yalnız kaldı." — burada "yalnız" zarftır; fiili (kaldı) "nasıl kaldı?" sorusuyla nitelemekte, tek başına kalma durumunu anlatmaktadır. "Seninle gelirim yalnız beklemen lazım." — burada "yalnız" bağlaçtır; iki yargıyı birbirine bağlamakta ve "ancak, fakat" anlamı taşımaktadır; cümleden çıkarıldığında anlam bozulmaz. "Dersim ancak 14.00'te bitebildi." — burada "ancak" zarftır; eylemin (bitti) gerçekleştiği zamanı sınırlandırmakta ve "en erken, zorla" anlamı katmaktadır. "Soruları çöz ancak kontrol etmeyi unutma." — burada "ancak" bağlaçtır; iki yargıyı "fakat, yalnız" anlamıyla birbirine bağlamaktadır.
+
+## Ünlem
+
+His ve heyecanları; sevinç, keder, nefret, coşkunluk gibi ruh hâllerini; tabiat seslerini, seslenmeleri; onay, ret gibi beyan şekillerini ifade eden sözcüklerdir. "Hey! Buraya bakar mısınız?", "Hayır, izin vermiyorum.", "Tüh! Geç kaldım.", "Ey sevgili! Uzatma dünya sürgünümü benim." gibi cümlelerde ünlemler kullanılmıştır.
+
+Kimi sözcükler, özel isimler ve cümleler de vurgu ve tonlamayla ünlem işlevi kazanabilir: "Çocuklar!", "Derhâl ablanı ara!" Ünlemler isim çekim eklerini alarak isimleşebilir: "Artık bu eyvahların bir anlamı kalmadı."
+
+---
+
+# Fiilde Kip
+
+## Fiil (Eylem)
+
+İş, oluş, kılış, hareket bildiren sözcüklerdir. İş (kılış) fiilleri nesne alabilen fiillerdir ve "neyi?, kimi?" sorularına cevap verir: anla-, tanı-, oku-. Durum fiilleri ise nesne alamayan fiillerdir: uyu-, dinlen-, otur-. Oluş fiilleri kendiliğinden gerçekleşme anlamı taşıyan fiillerdir: sarar-, büyü-, olgunlaş-.
+
+Çekimli fiil, iş, oluş, kılış ve hareketi kip ve kişiye bağlayarak anlatan sözcüklerdir: oku-yor-um, gel-meli-sin. Bir fiil bir kip eki almışsa basit çekimli, birden çok kip eki almışsa birleşik çekimlidir: gel-ecek-ler (basit çekim), gel-ecek-ler-miş (birleşik çekim).
+
+## Haber (Bildirme) Kipleri
+
+Görülen (bilinen) geçmiş zaman eki "-dı/-di/-du/-dü/-tı/-ti/-tu/-tü"dür. Olumsuzu "bil-me-di-ler" gibi olumsuzluk ekiyle yapılır. Soru eki ayrı yazılır.
+
+Duyulan (öğrenilen) geçmiş zaman eki "-mış/-miş/-muş/-müş"tür.
+
+Şimdiki zaman eki "-(i)yor"dur.
+
+Gelecek zaman eki "-acak/-ecek"tir.
+
+Geniş zaman eki "-r/-ar/-er"dir; olumsuzunda "-maz/-mez" kullanılır.
+
+## Dilek (Tasarlama) Kipleri
+
+Gereklilik kipi eki "-malı/-meli"dir: gör-meli-y-im.
+
+İstek kipi eki "-a/-e"dir: görün-e-y-im.
+
+Dilek-şart kipi eki "-sa/-se"dir: bak-sa-m.
+
+Emir kipinin kip eki yoktur: yaz, yaz-sın, yaz-ın/yaz-ınız, yaz-sınlar. Birinci tekil ve çoğul kişi emir kipinde kullanılmaz.
+
+## Fiillerde Kip Kayması
+
+Fiilde kullanılan kip ile kastedilen kipin farklı olması durumudur. "Gelecek yıl Antalya'ya tatile gidiyoruz." cümlesinde şimdiki zaman kipiyle gelecek zaman anlamı verilmiştir. Bu kip kaymasıdır çünkü "-iyor" eki şimdiki zamana aittir; ancak "gelecek yıl" zaman zarfı eylemin henüz gerçekleşmediğini, yalnızca planlandığını gösterir. Kip ile zaman anlamı uyuşmamaktadır. "Geceleri yatmadan iki saat kitap okuyorum." cümlesinde şimdiki zaman kipiyle geniş zaman anlamı verilmiştir. Bu kip kaymasıdır çünkü "-iyor" eki şimdiki zamanı ifade etse de "geceleri" zarf ifadesi bu eylemin her gece tekrarlanan bir alışkanlığı — yani geniş zamanı — anlattığını gösterir; kip ile kastedilen zaman dilimi ayrışmaktadır.
+
+---
+
+# Ek-Fiil (Ek Eylem)
+
+Türkçede ek fiil "i-(mek)" fiilidir ve iki temel görevi vardır: isim ya da isim soylu sözcükleri yüklem yapmak ve basit zamanlı fiilleri birleşik zamanlı yapmak.
+
+## İsimlere Gelen Ek-Fiil
+
+İsimlere gelen ek fiilin dört kipi vardır. Bilinen geçmiş zaman kipi "-idi"dir: "Bu sınıf diğerine göre daha karanlıktı." — "karanlıktı" = "karanlık idi"; konuşan sınıfın karanlık olduğunu bizzat gözlemlemiş ya da yaşamıştır; bilinengeçmiş eki "-di" kullanılmıştır. Duyulan geçmiş zaman kipi "-imiş"tir: "Bu hastanede doktormuş." — "doktormuş" = "doktor imiş"; konuşan bunu başkasından duymuş ya da sonradan öğrenmiştir; duyulan geçmiş eki "-miş" kullanılmıştır. Şart kipi "-ise"dir: "Sorular zorsa sana yardım edebilirim." — "zorsa" = "zor ise"; yardım etme eylemi soruların zor olması koşuluna bağlanmıştır; şart eki "-se" kullanılmıştır. Geniş zaman kipi "-idir"dir: "Arkadaşım her zaman güçlüdür." — "güçlüdür" = "güçlü idir"; geniş zaman eki "-dir" arkadaşın genel ve kalıcı bir niteliğini bildirmektedir.
+
+İsimlere gelen ek fiilin olumsuzu "değil" sözcüğüyle yapılır: "Bana gönderdiği mektup değildi."
+
+Ek fiilin geniş zamanı kişi ekleriyle çekimlenebildiği için iyelik ekiyle karıştırılmamalıdır: "Ben öğretmenim." (ek fiil geniş zaman), "Öğretmenim bugün gelmedi." (iyelik eki). Ek fiilin geniş zaman eki bazen kullanılmayabilir: "O tatlı bir çocuk." ile "O tatlı bir çocuktur." her ikisi de doğrudur.
+
+## Fiillere Gelen Ek-Fiil
+
+Ek fiil basit zamanlı fiilleri birleşik zamanlı yapar. Üç farklı kip birleşik zaman oluşturur. Hikâye birleşik zamanı "-idi" ekiyle kurulur: "okuyordu" (okuyor idi) — şimdiki zaman ekine "-idi" getirilmiş; geçmişte devam eden bir eylemi anlatmaktadır; konuşan bunu bizzat görmüştür ya da doğrudan bilmektedir. Rivayet birleşik zamanı "-imiş" ekiyle kurulur: "okuyormuş" (okuyor imiş) — şimdiki zaman ekine "-imiş" getirilmiş; başkasından duyulan ya da sonradan öğrenilen bir eylemi anlatmaktadır. Şart birleşik zamanı "-ise" ekiyle kurulur: "okuyorsa" (okuyor ise) — şimdiki zaman ekine "-ise" getirilmiş; eylemin devam etmesinin bir koşula bağlandığını anlatmaktadır.
+
+---
+
+# Fiilde Yapı
+
+Fiiller yapıları bakımından basit, türemiş ve birleşik olmak üzere üçe ayrılır.
+
+Basit fiiller kök hâlinde olup çekim eki alabilir ancak yapım eki almaz: "Çocukluğumu yeniden yaşamak isterdim."
+
+Türemiş fiiller yapım eki almış fiillerdir; isim ya da fiil kökünden türeyebilir: "Koşudan sonra çok susadım." (isim kökünden: su-sa-), "Bahçeye gelen kedileri kovaladı." (fiil kökünden: kov-ala-).
+
+Birleşik fiiller en az iki sözcüğün anlam ve biçim bakımından kaynaşmasıyla oluşur ve üç türü vardır.
+
+Kurallı birleşik fiiller belirli bir kural çerçevesinde oluşturulur. Yeterlik fiili "-e bil(mek)" yapısıyla: düşünebilmek, gülüvermek. Tezlik fiili "-i ver(mek)" yapısıyla: gidivermek, söyleyivermek. Sürerlik fiili "-a kal(mak), -e gel(mek), -e dur(mak)" yapısıyla: süregelmek, şaşakalmak. Yaklaşma fiili "-e yaz(mak)" yapısıyla: öleyazmak.
+
+Yardımcı eylemle kurulan birleşik fiiller isim + et-, ol-, kıl-, eyle- yapısıyla oluşturulur: yardım ettim, güçlü kıldı, uzakları yakın eylerim.
+
+Anlamca kaynaşmış birleşik fiiller mastar hâlindeki deyimler ve tek sözcükle fiilin kaynaştığı kalıplaşmış fiillerdir: gözüme kestirdi, başvurdum.
+
+---
+
+# Fiilimsiler (Eylemsiler)
+
+Kökü fiil olan fakat çeşitli ekler aldığından cümlede isim, sıfat ya da zarf olarak kullanılan sözcüklerdir. Fiilimsi ekleri yapım ekidir; dolayısıyla fiilimsiler türemiş yapıdadır. İsim çekim eklerini alabilirler. Fiil gibi çekimlenemezler; kip ve kişi eki almazlar. Ancak fiil özelliğini tamamen kaybetmezler; olumsuzluk eki alabilirler, yan cümle oluştururlar ve ek eylem alarak yüklem olabilirler.
+
+## İsim-Fiil (Ad Eylem)
+
+Fiillerin "-mek, -mak, -me, -ma, -ış, -iş, -uş, -üş" eklerinden birini almasıyla oluşur: "Yüzmek en faydalı sporlardandır." — "yüz-" fiiline "-mek" eki getirilmiş; eylem isimleşerek cümlede özne görevini üstlenmiştir. "Yine o ağaçtan düşmesi olasıdır." — "düş-" fiiline "-mesi" (düşmek + iyelik) eki getirilmiş; eylem isimleşerek cümlede özne görevini üstlenmiştir. "Annelerin gülüşüne bir ömür verilir." — "gül-" fiiline "-üş" eki getirilmiş; eylem isimleşerek yer tamlayıcısı görevini üstlenmiştir.
+
+Bazı isim fiiller fiilimsi özelliğini kaybedip kalıcı isim oluşturabilir: "Akşam yemeğinde dolma var." — "dolma" sözcüğü "doldur-" fiilinden türemiş bir isim-fiil kökenlidir; ancak artık fiilimsi değil, belirli bir yemeği adlandıran kalıcı bir isimdir; olumsuz hâle getirilemez. "Son denemenin sonucu henüz gelmedi." — "sonuç" sözcüğü de fiil kökenli bir isim-fiilden kalıcı isim hâline geçmiştir; artık "son-" fiiline değil, bağımsız bir isim olarak bir durumun çıktısına işaret eder. Kalıcı ad olmuş fiilimsiler olumsuz hâle getirilemez: "Eşyaları danışmamaya bıraktım." yanlıştır; çünkü "danışma" burada kalıcı bir isimdir. Olumsuzluk eki "-ma/-me" ile isim fiil eki "-ma/-me"yi karıştırmamak gerekir: "Ağlama dedim kaç kere." — burada "-ma" olumsuzluk ekidir; fiili olumsuz emir kipine sokmaktadır (ağlama = ağlayısma); kalıcı isim türetmemektedir. "Eğik tuttuğu bardağı dökmemesi mucizeydi." — burada "dök-" fiiline önce "-me" olumsuzluk eki, ardından "-si" isim-fiil ekiyle iyelik eki getirilmiştir; "dökmemesi" = "dökme + si" = dökme eyleminin gerçekleşmemesi; ilk "-me" olumsuzluk, ikinci "-si" ile bütün yapı isim-fiil oluşturmaktadır.
+
+## Sıfat-Fiil (Ortaç)
+
+Fiillerin sıfat-fiil ekleri almasıyla oluşur: "Bilinen en eski yerleşim burasıdır." — "bil-" fiiline "-inen" (-ıl + -an) eki getirilmiş; ortaç "yerleşim"i nitelemektedir. "Adın anılası işler yap dilerim." — "anıl-" fiiline "-ası" eki getirilmiş; "anılmayı hak eden" anlamı taşıyan bu ortaç "işler"i nitelemektedir. "Hiç bitmez bir enerjisi var." — "bit-" fiiline "-mez" eki getirilmiş; bu ortaç "enerji"yi nitelemektedir ve süreklilik anlamı taşır. "Koşar adımlarla durağa doğru gidiyordu." — "koş-" fiiline "-ar" eki getirilmiş; bu ortaç "adımlar"ı nitelemektedir. "Çarşıda, pazarda tanıdık bildik kimse yoktu." — "tanı-" fiiline "-dık" eki getirilmiş; "tanıdık" isimleşerek bilinen kişileri anlatmaktadır. "O kadar soruyu çözecek vakit yok ki." — "çöz-" fiiline "-ecek" eki getirilmiş; bu ortaç "vakit"i nitelemektedir. "Eskimiş eşyaları sandığın içine koydular." — "eski-" fiiline "-miş" eki getirilmiş; bu ortaç "eşyalar"ı nitelemektedir.
+
+Sıfat fiiller başına geldiği isim düştüğünde adlaşmış sıfat fiil oluşur: "Kardeşinden aldıklarını göstermesini istedi." — "aldık" sıfat-fiiline iyelik ve hâl eki gelmiş; "aldığı eşyalar" ifadesindeki "eşyalar" ismi düşmüş ve "aldıkları" isimleşmiştir; adlaşmış sıfat-fiildir. "-mez, -ar, -ecek, -miş" kip ekleriyle aynı yazılışa sahip olan sıfat fiil ekleri karıştırılmamalıdır: "Yarın gün ışımadan yola çıkacaktı." — burada "-acak" gelecek zaman kipi ekidir; "yola çıkma" eylemi gelecek zamana ait bir planı anlatmaktadır. "Bu işleri yapacak gücüm kalmadı." — burada "-acak" sıfat-fiil ekidir; "yapacak" sözcüğü "gücüm"ü nitelemektedir ("işleri yapabilecek güç").
+
+## Zarf-Fiil (Bağ-Fiil / Ulaç)
+
+Fiillerin "-ip, -ince, -erek, -ken, -meden, -meksizin, -dıkça, -eli, -(e)r…-mez, -e…-e, -casına, -dığında, -esiye" eklerinden birini almasıyla oluşur.
+
+Zarf-fiil örnekleri: "Güle güle bir hâl oldum." — "gül-" fiiline "-e…-e" eki getirilmiş; zarf-fiil tekrarlı ve süregelen biçimde gülmeyi anlatmaktadır. "Trene binerken son kez sarılıp kucaklaştık." — "bin-" fiiline "-erken" eki getirilmiş; zarf-fiil eş zamanlılık (binerken = binme sırasında) anlamı katmaktadır. "Ocağın altını kapatmadan evden çıkmış." — "kapat-" fiiline "-madan" eki getirilmiş; zarf-fiil bir eylemin yapılmaksızın gerçekleştiğini anlatmaktadır. "Her soruyu çözebilince kendime bir güven geldi." — "çözebil-" fiiline "-ince" eki getirilmiş; zarf-fiil zamansallık (çözünce = çözdükten sonra) anlamı katmaktadır. "Eve gider gitmez beni ara." — "git-" fiiline "-(e)r…-mez" eki getirilmiş; zarf-fiil hemen ardından anlamı taşımaktadır. "Tüm gün durmaksızın oradan oraya koşturdu." — "dur-" fiiline "-maksızın" eki getirilmiş; zarf-fiil süreklilik (hiç durmadan) anlamı katmaktadır. "Hızlandıkça sağ tekerden rahatsız edici bir ses geliyordu." — "hızlan-" fiiline "-dıkça" eki getirilmiş; zarf-fiil artan bir süreci (hızlandıkça = hızlandığı ölçüde) anlatmaktadır. "Her konuyu bilircesine yaptığı yorumlar çoğu zaman yersizdi." — "bil-" fiiline "-ircesine" eki getirilmiş; zarf-fiil benzetme (biliyormuş gibi) anlamı katmaktadır.
+
+---
+
+# Fiilde Çatı
+
+Yüklem görevindeki fiilin nesne ve özne ile kurduğu ilişkidir. Çatıyı bulmadan önce cümlenin yüklemi saptanmalı, yüklemin isim cümlesi mi fiil cümlesi mi oluşturduğu belirlenmelidir. İsim cümlelerinde çatı özelliği aranmaz.
+
+## Özne-Yüklem İlişkisine Göre Çatı
+
+Etken fiil, fiilin bildirdiği işi öznenin yaptığı fiildir. Gerçek özne vardır; açık ya da gizli olabilir. Oluş bildiren fiiller de etkendir. "Bahçedeki ağaçların tamamını biz budadık." — etken fiildir çünkü fiili gerçekleştiren özne "biz" açıkça belirtilmiştir; fiil işi yapanı doğrudan gösterir. "Uyku saatlerinden başladı yaşamını düzenlemeye." — etken fiildir çünkü eylemi yapan özne gizlidir ("o") ama gerçek bir özne mevcuttur; bağlamdan kim olduğu anlaşılmaktadır. "Sepetteki meyveler çürümüştü." — etken fiildir çünkü "çürümek" bir oluş bildirmektedir; öznenin (meyvelerin) kendi kendine gerçekleştirdiği bir değişimdir ve dışarıdan yapılan bir işlem yoktur. Oluş fiilleri etken sayılır.
+
+Edilgen fiil, fiilin bildirdiği işin kim tarafından yapıldığının belli olmadığı ve nesnenin sözde özne konumuna geçtiği fiildir. "-l" ya da "-n" ekini alır ve geçişsizdir. "Dernek tüm üyeleri iftara davet etti." — etken fiildir; davet eden özne "dernek" açıkça bellidir ve eylemi dernek yapmaktadır. "Tüm üyeler iftara davet edildi." — edilgen fiildir; "-il" eki getirilmiş, eylemi kimin yaptığı belli değildir ve nesne olan "tüm üyeler" sözde özne konumuna geçmiştir. "Sahil şeridi görevlilerce yıkandı." — edilgen fiildir; "-an" (-ıl + -an) eki var; "görevlilerce" örtülü öznedir ve "-ce" ekiyle belirtilerek zarf görevinde kullanılmıştır. "İkramlar annem tarafından hazırlandı." — edilgen fiildir; "annem tarafından" örtülü öznedir ve "tarafından" edatıyla belirtilerek zarf görevinde kullanılmıştır.
+
+Dönüşlü fiil, öznenin hem işi yapan hem de işten etkilenen konumunda olduğu fiildir; kendi kendine yapılma anlamı taşır. "-l" ya da "-n" ekini alır ve nesne almadığı için geçişsizdir. "Ahmet çabucak yıkandı." — dönüşlü fiildir çünkü özne (Ahmet) hem eylemi yapan hem de eylemden etkilenendir; Ahmet kendini yıkamaktadır. Dönüşlülüğün belirleyici özelliği, öznenin eylemi kendi üzerinde gerçekleştirmesidir. "Araba çabucak yıkandı." — edilgen fiildir çünkü araba cansız bir varlıktır ve kendini yıkayamaz; eylemi belli olmayan bir kişi yapmıştır. Araba sözde öznedir. Aynı yapı ("-n" eki) bir insan özneyle kullanılırsa dönüşlü, cansız bir varlıkla kullanılırsa edilgen anlamı taşır.
+
+İşteş fiil, fiilin bildirdiği işin birden fazla özne tarafından yapıldığını gösteren fiildir. "-ş/-leş" eklerinden birini alır. Birden fazla özne gerektirdiğinden özne şekil olarak tekil olsa bile anlam bakımından birden fazla kişi bildirir. "Dosyalardaki kararları görüştük." — işteş fiildir; "görüş-" eki karşılıklı yapılmayı anlatmaktadır: birden fazla kişi birbirinin karşısında tartışmış ya da fikir alışverişi yapmıştır. "Toplantıdan çıkışıya kadar bekleştik." — işteş fiildir; "bekleş-" eki birlikte yapılmayı anlatmaktadır: birden fazla kişi aynı anda ve birlikte beklemiştir. "Duyduğu haberden sonra sevinçten ağlaştılar." — işteş fiildir; "ağlaş-" eki birlikte yapılmayı anlatmaktadır: birden fazla kişi aynı anda ağlamıştır. "Komşular en sonunda barıştı." — işteş fiildir; "barış-" sözcüğünde "-ş" eki görünmemektedir (kök "barış" ismiyle aynıdır); ancak barışmak en az iki taraf gerektirir, dolayısıyla işteşlik anlamı taşır.
+
+"-ş/-leş" eki her zaman işteşlik anlamı vermez: "Akşam trafiğinde eve ulaşmak çok zorlaştı." — burada "-laş" eki bir oluş bildirmektedir (zor → zorlaşmak = zor hâle gelmek); karşılıklılık ya da birlikte yapılma anlamı yoktur. Dolayısıyla bu cümle etken çatılıdır, işteş değildir.
+
+## Nesne-Yüklem İlişkisine Göre Çatı
+
+Geçişli fiil nesne alabilen fiildir. "Ne, neyi, kimi" sorularına yanıt alınabiliyorsa fiil geçişlidir. Fiilin başına "onu" getirildiğinde anlamlı bir cümle oluşuyorsa fiil geçişlidir: "(onu) bil-" — "onu bilmek" anlamlıdır; bilmek fiili bir nesne alabilir, geçişlidir. "(onu) gör-" — "onu görmek" anlamlıdır; görmek fiili bir nesne alabilir, geçişlidir. "(onu) al-" — "onu almak" anlamlıdır; almak fiili bir nesne alabilir, geçişlidir. Bir cümlenin geçişli olması için cümlede nesnenin kullanılması şart değildir; fiil nesne alabiliyorsa geçişlidir.
+
+Geçişsiz fiil nesne alamayan fiildir. Oluş ve durum fiilleri nesne almadığı için geçişsizdir: "Bahar gelince ağaçlar çiçeğe durur.", "Denize bakıyorum hayranlıkla." Cümleyi "onu" sözcüğüyle birlikte okuduğumuzda anlamsız bir sonuç çıkıyorsa fiil geçişsizdir. "Sabahları sahilde uzun uzun gezerim." — burada "gezmek" geçişsizdir; "ne gezersin?" sorusuna anlamlı yanıt alınamaz, belirli bir nesne yoktur. "Geçen hafta İhlara Vadisi'ni gezdik." — burada "gezmek" geçişlidir; "neyi gezdik?" sorusuna "İhlara Vadisi'ni" yanıtı alınır; nesne almaktadır. Aynı fiilin farklı anlamlarda hem geçişli hem geçişsiz kullanılabildiği görülmektedir.
+
+Oldurgan fiil, geçişsiz fiillere "-r/-t/-tır" eki getirilerek geçişli yapılmasından oluşur: "bit- → bitir-" — "bitmek" geçişsizdir (biten şeyin kendisi öznedir); "-ir" eki getirilince "bitirmek" oluşur ve bu geçişlidir ("onu bitirmek" anlamlıdır). "ağla- → ağlat-" — "ağlamak" geçişsizdir; "-t" eki getirilince "ağlatmak" oluşur ve bu geçişlidir ("onu ağlatmak" anlamlıdır). "gül- → güldür-" — "gülmek" geçişsizdir; "-dür" eki getirilince "güldürmek" oluşur ve geçişlidir.
+
+Ettirgen fiil, geçişli fiillere "-r/-t/-tır" eki getirilerek öznenin işi başkasına yaptırmasını anlatır: "iç- → içir-" — "içmek" zaten geçişlidir; "-ir" eki getirilince "içirmek" oluşur: özne içmiyor, başkasına içiriyor. "oku- → okut-" — "okumak" geçişlidir; "-t" eki getirilince "okutmak" oluşur: özne okumaz, başkasına okutmaktadır. "al- → aldır-" — "almak" geçişlidir; "-dır" eki getirilince "aldırmak" oluşur: özne almıyor, başkasına aldırtmaktadır. Geçişli bir fiilin birden fazla çatı eki almasıyla katmerli ettirgen fiil oluşur: "sev- → sevdir- → sevdirt-" — önce bir kişiye "sevdirme" işlemi yaptırılır, sonra ona bu işlemi başkasına yaptırması için ettirgen ek eklenir; katmerli ettirgenlik oluşur.
+
+---
+
+# Cümlenin Ögeleri
+
+Bir fikri, duyguyu, düşünceyi, oluşu ya da kılışı bir yargı hâlinde anlatmak için çekimli fiille kullanılan kelimeler dizisine ya da tek başına kullanılan çekimli fiile cümle denir. Cümlenin ögeleri temel ögeler ve yardımcı ögeler olmak üzere ikiye ayrılır.
+
+## Temel Ögeler
+
+Yüklem, cümlede iş, oluş ve yargıyı bildiren çekime girmiş kelimenin söz dizimindeki adıdır. Fiillerden, isimlerden, isim tamlamalarından, sıfat tamlamalarından, deyimlerden, birleşik fiillerden, adlaşmış sıfatlardan, fiilimsilerden ve zamirlerden oluşabilir. Yüklem cümlenin başında, ortasında ya da sonunda bulunabilir: "Unuttum artık eski günleri.", "Yine geldi akşam vakti.", "Çocuklar neşe içinde oynadılar." Bir cümlede ortak kullanılan birden fazla yüklem bulunabilir: "Her canlı doğar, yaşar, ölür." Diğer ögeleri bulurken tüm sorular yükleme yöneltilir.
+
+Özne, cümlede yüklemin belirttiği işi yapan ya da bir oluşa konu olan ögedir. "Kim, ne" ya da "olan ne, olan kim" soruları fiile yöneltilerek bulunur.
+
+Gerçek özne, etken çatılı fiillerin yüklem olduğu cümlelerde ya da isim cümlelerinde işi yapan ya da üstlenen ögedir. Açık ya da gizli olabilir: "Bahçedeki ağaçların tamamını biz budadık." (açık özne), "Uyku saatlerinden başladı yaşamını düzenlemeye." (gizli özne: o). Gizli özne öge sıralamasına ve sayısına dahil edilmez.
+
+Sözde özne, edilgen çatılı fiillerin yüklem olduğu cümlelerde yapılan işten etkilenen ögedir: "Hafta sonu yapılacak maç için saha temizlendi." (sözde özne: saha).
+
+Örtülü özne, edilgen çatılı fiillerin yüklem olduğu cümlelerde yükleme yöneltilen "kim tarafından, kimce" sorularıyla bulunan ögedir. Öge incelemesinde zarf tümleci olarak değerlendirilir: "Valilik tarafından okullar üç gün tatil edildi."
+
+## Yardımcı Ögeler
+
+Nesne (düz tümleç), geçişli fiili tümleyen, yalın ya da belirtme durumunda bulunan tümleçtir. Belirtili nesne belirtme durumu eki (-ı/-i/-u/-ü) almıştır ve "neyi, kimi, nereyi" sorularına cevap verir: "En sevdiğim arkadaşımı daha önce hiç böyle görmemiştim." Belirtisiz nesne belirtme durumu ekini almamıştır ve "ne" sorusuna cevap verir: "Ömer tatilde okumak için yanına birkaç roman almış."
+
+Yer tamlayıcısı (dolaylı tümleç), yönelme (-e/-a), kalma (-de/-da) ya da çıkma (-den/-dan) durumlarından birinde bulunan tümleçtir. "Neye, kime, nereye / neyde, kimde, nerede / neyden, kimden, nereden" sorularıyla bulunur: "Yaptığımız açıklamalara hepiniz önem vermelisiniz." "-e, -de, -den" eklerini alan sözcükler cümleye zaman ya da neden anlamı katıyorsa zarf tümleci olur.
+
+Zarf tümleci (zarf tamlayıcısı), yüklemin anlamını zaman, durum, sebep, ölçü, araç, şart, yer, yön gibi bakımlardan belirleyen tümleçtir. "Neden, niçin, ne zaman, nasıl, ne kadar" gibi sorularla bulunur: "Halime Hanım bu koca yalıda tek başına yaşıyordu." Yer yön zarfı olan sözcükler isim çekim eki aldıklarında dolaylı tümleç ya da belirtili nesne olur: "Yağmur dinince yürüyüş yapmak için dışarıya çıktık." (belirtili nesne), "Cam kirli olduğu için geriyi göremiyordum." (belirtili nesne).
+
+## Cümlede Vurgu
+
+Fiil cümlelerinde yüklemden önce gelen öge vurgulanan ögedir: "Köpek kendisine yardım eden adamın arkasında usul usul yürüyordu." cümlesinde vurgulanan öge "usul usul"dur. İsim cümlelerinde vurgu yüklemin üzerindedir. Yüklem cümlenin başındaysa vurgu yüklemin üzerindedir: "Fark etmedim senin orada olduğunu." Soru cümlelerinde vurgu soru anlamı katan sözcükler üzerindedir: "Bu oyun ne zaman sahnelenecek?"
+
+## Cümle Dışı Unsurlar
+
+Ünlemler ve ünlem niteliği taşıyan seslenmeler cümle dışı unsur sayılır: "Eyvah, dedesinin rahatsızlığını ona nasıl söyleyeceğiz?" Bağlaçlar da cümle dışı unsurdur: "Diğerlerini bilmem ama ben bu işte sonuna kadar seninleyim." Ara sözler de cümle dışındadır: "Yusuf Mete'yi, onu canımdan çok severim, çok özlemiştim." Ara sözler bir ögenin açıklayıcısı olarak kullanılabilir: "Onu dikkatle dinleyenlerden biri, Ahmet Bey, usulca oturduğu yerden kalktı."
+
+---
+
+# Cümle Türleri
+
+## Yüklemin Türüne Göre Cümleler
+
+"Hazırladığı kitaba son bir kez göz attı." — fiil cümlesidir çünkü yüklem "göz attı" çekimli bir fiildir; eylem bildirmektedir. "Okumam gereken bir sürü makale vardı." — isim cümlesidir çünkü yüklem "vardı" bir isim soylu sözcüğe (var) ek-fiil getirilmesiyle oluşmuştur; varlığı bildirir ve isim cümlesi niteliği taşır.
+
+## Öge Dizilişine Göre Cümleler
+
+"Öteki uçta zil uzun uzun çalıyor." — kurallı cümledir çünkü yüklem "çalıyor" cümlenin en sonunda yer almaktadır; Türkçenin doğal söz dizimi korunmuştur. "Sözcükler bir müzik parçası gibi akıyor sanki." — devrik cümledir çünkü yüklem "akıyor" sona gelmemiş, "sanki" zarfı yüklemden sonra kullanılmıştır; söz dizimi bozulmuştur. "Az veren candan, çok veren maldan…" — eksiltili cümledir çünkü yüklem hiç kullanılmamıştır; cümle yargısız bırakılmış, anlam okuyucu tarafından tamamlanmaktadır.
+
+## Anlamına Göre Cümleler
+
+Yargının gerçekleştiğini anlatan cümleler olumlu cümledir: "Dün evin anahtarlarını kaybettim." Yargının gerçekleşmediğini anlatan cümleler olumsuz cümledir: "Dün akşam sevdiğim programı izleyemedim." "Bu kitapları sevmiyor değilim." — biçimce olumsuz görünür çünkü "sevmiyor" olumsuz çekimlidir; ancak "değilim" olumsuzluğu ikinci kez olumsuzlamaktadır. İki olumsuz bir olumlu yaratır: "sevmiyorum değilim" = "seviyorum". "Ne sana küstüm ne de bir başkasına." — biçimce olumlu görünür çünkü "küstüm" fiili olumlu çekimlidir; ancak "ne…ne" bağlacı olumsuzluk anlamı taşır: ikisini de reddetmektedir. Anlam: kimseye küsmedim. Bir soruya cevap almak amacıyla kurulan cümleler soru cümlesidir: "Arkadaşına doğum günü hediyesi olarak ne aldın?" Sevinç, acı, korku, şaşırma gibi duyguları anlatan cümleler ünlem cümlesidir: "Ne kadar da güzel şehirler var!"
+
+## Yapısına Göre Cümleler
+
+Tek bir yargı bildiren cümleler basit cümledir: "Dördüncü kat merdivenlerinde ışıklar yanmıyor."
+
+"Gözlerini kapatıp öylece bekledi." — girişik birleşik cümledir çünkü yardımcı yargı zarf-fiil eki "-ip" ile kurulmuştur ("kapatıp"); yan cümle fiilimsi aracılığıyla temel cümleye bağlanmıştır. "Bu kadar merak ettiysen kapıyı çal." — şartlı birleşik cümledir çünkü yardımcı yargı "-sa/-se" şart kipiyle kurulmuştur ("ettiysen"); yan cümle temel cümlenin koşulunu bildirmektedir. "'Biz hayatta yaşayamadıklarımızı yaşatırız romanlarda.' demiş." — iç içe birleşik cümledir çünkü tırnak içindeki cümle alıntı olarak temel cümlenin içine yerleştirilmiştir; bir cümle diğerinin içinde yer almaktadır.
+
+"Soluğunu tutmuş, seslerin dinmesini bekliyor." — sıralı cümledir çünkü iki temel yargı virgülle bağlanmıştır; bağlaç kullanılmamıştır. "Çalışmaları yurt çapında tanınmış, beğenilmişti." — bağımlı sıralı cümledir çünkü her iki yargının öznesi aynıdır ("çalışmaları"); ortak öge paylaşılmaktadır. "Kapı açıldı, iri yarı bir adam içeriye girdi." — bağımsız sıralı cümledir çünkü iki yargı arasında ortak öge yoktur; özne, yüklem ve ögeler birbirinden tamamen bağımsızdır.
+
+En az iki temel yargının bağlaçla bağlandığı cümleler bağlı cümledir: "Dün uğrayamadım çünkü gece çalıştım."
+
+---
+
+# Anlatım Bozuklukları 1
+
+## Anlama Dayalı Anlatım Bozuklukları
+
+Gereksiz sözcük kullanımı, aynı anlamı karşılayan birden çok sözcüğün bir cümlede bir arada kullanılmasından kaynaklanır. "Bu konudaki bütün kaygı ve endişeleri onunla konuştuktan sonra ortadan kalktı." cümlesinde "kaygı" ve "endişe" eş anlamlıdır; her ikisi de belirsiz bir tehlike ya da olumsuz duruma karşı duyulan sıkıntı anlamını taşıdığından biri gereksizdir — anlamı zaten tek sözcük karşılamaktadır. "Duyduğuma göre istifa etmesinin sebebi bir haysiyet ve onur meselesiymiş." cümlesinde "haysiyet" ve "onur" eş anlamlıdır; her ikisi de kişinin kendine saygısını ve şerefini ifade ettiğinden bir arada kullanılmaları gereksiz sözcük tekrarıdır.
+
+Bir sözcüğün anlamı cümledeki başka bir ek ya da sözcükte bulunabilir ve bu gereksizliğe yol açar: "İngilizce ve Fransızca dilleri ana dili gibi konuştuğu dillerden sadece ikisiydi." cümlesinde "dilleri" sözcüğü gereksizdir; çünkü "İngilizce" ve "Fransızca" zaten birer dil adıdır — "dil" anlamı sözcüklerin içinde mevcuttur. "Dilleri" sözcüğünü eklemek, anlamı zaten içerilen bir bilgiyi tekrarlamak demektir.
+
+Doğrudan fiil olarak çekimlenebilecek bir sözcüğün yardımcı eylem alarak kullanılması da gereksiz sözcük kullanımına yol açar: "Çiftlik hayvanlarının bakımı konusunda ondan bir kez bile şüphe etmedim." yanlıştır; çünkü "şüphe etmek" yapısında "şüphe" ismi yardımcı eylem "etmek" ile kullanılmıştır; oysa "şüphelenmek" zaten bu anlamı tek başına karşılayan bir fiildir. Doğrudan fiil olarak çekimlenebilecek bir sözcüğün yardımcı eylem alarak kullanılması gereksiz sözcük bozukluğuna yol açar. Doğrusu: "ondan bir kez bile şüphelenmedim"dir.
+
+Bir deyim ile o deyimin anlamı aynı cümlede kullanılmamalıdır: "Varlıklı bir ailede el bebek gül bebek, şımarık bir biçimde yetiştirilmişti." yanlıştır; çünkü "el bebek gül bebek" deyimi zaten şımartılarak, özenle büyütülmek anlamını taşıdığından "şımarık bir biçimde" ifadesi deyimin anlamını tekrar etmektedir. Bir deyim ile o deyimin açıklaması aynı cümlede kullanılamaz. Doğrusu: "Varlıklı bir ailede el bebek gül bebek yetiştirilmişti."
+
+Sözcüğün yanlış anlamda kullanımı da anlatım bozukluğuna yol açar. Sözcükler cümle içinde anlamlarına uygun kullanılmalıdır: "Mezuniyet programının sonucunda konuşma yaptı." yanlıştır çünkü "sonuç" sözcüğü bir değerlendirme ya da çıkarım bildirirken ("sınavın sonucuna göre") burada sıralama kastedilmektedir (programın bitiminde). Bu sözcüğün yanlış anlamda kullanımıdır. Doğrusu: "Mezuniyet programının sonunda konuşma yaptı." "Sanatçıların bu çalışmaları ülkemizin dünyanın birçok yerinde tanınmasına yol açtı." cümlesinde "yol açmak" olumsuz bir sonucu (örneğin bir kazaya ya da soruna yol açmak) çağrıştırır; oysa tanınmak olumlu bir durumdur. Olumlu durumların olumsuz çağrışımlı ifadelerle anlatılması sözcüğün yanlış anlamda kullanımıdır. Doğrusu: "tanınmasını sağladı."
+
+Anlamca çelişen sözler bir arada kullanılmamalıdır. Kesinlik anlamı taşıyan sözlerle ihtimal anlamı taşıyan sözleri bir arada kullanmak çelişki yaratır: "Kuşkusuz, iki aile arasında baş gösteren bu çatışma onu üzmüş olsa gerek." cümlesinde "kuşkusuz" ve "olsa gerek" birbiriyle çelişmektedir çünkü "kuşkusuz" kesinlik anlamı taşırken "olsa gerek" ihtimal ve belirsizlik bildirir. Aynı cümlede hem kesinlik hem de belirsizlik ifade edilmesi mantıksal çelişkidir.
+
+Bir sözün cümlede kullanılması gereken yerden başka bir yerde kullanılması anlam bozukluğuna yol açar: "Vakit buldukça huzurevinde kalan yaşlıları ziyaret ediyor, onlarla ilgileniyordu." cümlesinde "vakit buldukça" yanlış yerde kullanılmıştır. Doğrusu: "Huzurevinde kalan yaşlıları vakit buldukça ziyaret ediyor."
+
+Mantık hatası ve sıralama yanlışları da anlatım bozukluğu yaratır. Durumlar önem, ciddiyet ya da aşama bakımından doğru sıralanmalıdır: "Kuraklık yüzünden bu yılki mahsul bırakın bir evi köyü bile doyurmaz." cümlesinde sıralama yanlıştır çünkü "bırakın" edatıyla kurulan yapılarda sıralama büyükten küçüğe gitmelidir: önce daha zor olanı (köyü doyurmak), ardından daha kolayı (bir evi doyurmak) söylenir. Köy bir evden daha büyük kapsamlıdır; önce köyden küçük olana inilmelidir. Doğrusu: "bırakın köyü bir evi bile doyurmaz."
+
+Anlam belirsizliği, bir cümlede anlatılmak istenenin birden fazla şekilde anlaşılabilmesi durumudur: "Hasta yatağındaki yaralı kadına zorlukla bir şeyler anlatmaya çalışıyordu." cümlesinde anlam belirsizliği vardır; cümle iki türlü okunabilir: hasta yatağındaki yaralı mı kadına anlatmaya çalışıyor, yoksa biri hasta yatağındaki yaralı kadına mı anlatmaya çalışıyor? Virgül eklenmesi bu belirsizliği giderir: "Hasta yatağındaki yaralı, kadına zorlukla bir şeyler anlatmaya çalışıyordu."
+
+Deyim ve atasözleri kalıplaşmış sözler olduğu için değiştirilemez; aksi hâlde anlatım bozukluğu oluşur. Ayrıca bir deyimi cümle içinde anlamına uygun kullanmak da gereklidir: "Bütün mahalleli, evi yanan aile yardım etmek için elinden geleni ardına koymamıştı." yanlıştır çünkü "ardına koymamak" deyimi yoktur; doğru deyim "elinden geleni yapmak"tır. Deyimler kalıplaşmış yapılar olduğundan değiştirilemez; içindeki bir sözcüğün değiştirilmesi deyimi bozar ve anlatım bozukluğuna yol açar.
+
+Bağlaç yanlışlığı, bir bağlacın cümle içinde anlamına uygun kullanılmamasından kaynaklanır: "Birçok ülkede mimarinin en güzel örneklerini gördüm ama hepsi beni derinden etkiledi." cümlesinde bağlaç yanlışlığı vardır; "ama" zıtlık bildirir ve okuyucu "güzel örnekler gördüm ama etkilenmedim" gibi bir zıtlık bekler; oysa ikinci cümle birincinin olumlu devamıdır. Bu bağlam zıtlık değil sıralama gerektirdiğinden "ve" bağlacı kullanılmalıdır. Doğrusu: "gördüm ve hepsi beni derinden etkiledi."
+
+---
+
+# Anlatım Bozuklukları 2
+
+## Yapıya Dayalı Anlatım Bozuklukları
+
+Öge eksikliği, cümlelerde gerekli olan bazı ögelerin kullanılmamasından kaynaklanır. Yüklem eksikliği: "İş gezisi için geçen hafta Güney Kore'ye, bu hafta Singapur'a gideceğiz." cümlesinde geçen haftaki eylem için yüklem yoktur. Doğrusu: "geçen hafta Güney Kore'ye gittik, bu hafta Singapur'a gideceğiz." Özne eksikliği: "Son sınıf öğrencilerinin dersi bitti, birazdan evlerine dağılacaklar." cümlesinde ikinci yargının öznesi belirsizdir. Doğrusu: "öğrenciler birazdan evlerine dağılacaklar." Nesne eksikliği: "Hasankeyf'e birçok defa gittim ve her gittiğimde daha çok beğendim." cümlesinde "beğendim" yükleminin nesnesi yoktur. Doğrusu: "Hasankeyf'e birçok defa gittim ve her seferinde orayı daha çok beğendim." Dolaylı tümleç eksikliği: "Yazarın son romanı geçen ay yayımlandı, okuyucular büyük ilgi gösterdi." cümlesinde neye ilgi gösterildiği belirsizdir. Doğrusu: "okuyucular romana büyük ilgi gösterdi."
+
+Özne-yüklem teklik-çoğulluk uyumsuzluğu da anlatım bozukluğu yaratır. Cansız varlıklar özne olduğunda yüklem çoğul eki alamaz: "Milyonlarca insanın yaşadığı bu şehirde günler büyük bir hızla geçiyorlardı." yanlıştır; doğrusu "geçiyordu"dur. Topluluk isimleri tekil kabul edilir: "Takım, maç başlamadan önce sahaya çıkıp ısınmaya başladılar." yanlıştır; doğrusu "başladı"dır. Belgisiz zamirler tekil yüklem gerektirir: "Bütün bu süre boyunca kimse olup biteni anlamadılar." yanlıştır; doğrusu "anlamadı"dır. İnsan ismi olan çoğul öznelerle yüklemin tekil kullanımı da Türkçede kurallıdır: "İşçiler, büyük bir yorgunluk içinde paydos zilinin çalmasını beklediler." de "bekledi." de doğrudur.
+
+Özne-yüklem kişi uyumsuzluğu da bozukluk yaratır. "Burak, Melis ve ben bu proje kapsamında geçen ay görevlendirildim." cümlesinde birden fazla kişi içinde "ben" olduğundan yüklem 1. çoğul kişiyle çekimlenmelidir: "görevlendirildik." "Ne sen ne Aylin uzun bir süredir bana mektup yazdı." cümlesinde "sen" (2. kişi) bulunduğundan yüklem 2. çoğul kişiyle çekimlenmelidir: "yazdınız."
+
+Ek fiil eksikliği, birden çok yargılı cümlelerde birinci yükleme ek fiil kullanılmamasından kaynaklanır: "Yazarın seçtiği konu oldukça ilginç ama kullandığı dil sade değildi." yanlıştır; "ilginç" sözcüğüne ek fiil getirilmelidir. Doğrusu: "Yazarın seçtiği konu oldukça ilginçti ama…"
+
+Ek yanlışları, bir sözcükte kullanılması gereken ekin kullanılmaması ya da yanlış ek kullanılmasından kaynaklanır. "Özgünlüğü hedefleyen yazarlar, kalıpların dışına çıkması gerekir." cümlesinde "yazarlar" sözcüğünün tamlayan eki alması gerekir: "yazarların." "Bütün filmlerinde insanları güldürmesini başarmış bir oyuncuydu." cümlesinde "-me" eki "-meyi" olmalıdır: "güldürmeyi başarmış." "Amcam yıllarca bu mahallede manavcılık yaparak ailesini geçindirdi." cümlesinde "manavcılık" yanlıştır; doğrusu "manavlık"tır. "Ormandaki çıkan yangın, büyük uğraşlar sonunda söndürüldü." cümlesinde "-daki" eki yanlıştır; doğrusu "Ormanda çıkan yangın"dır.
+
+Tamlama yanlışları çeşitli biçimlerde ortaya çıkar. Ortak bir tamlanana bağlanamayacak tamlayanlarla tamlama kurmak: "Akşam yemeğindeki makarna ve domates çorbası çok lezzetliydi." cümlesinde makarna çorba değildir; ortak tamlanana bağlanamaz. Doğrusu: "domates çorbası ve makarna çok lezzetliydi." "Devletler, kültürel ve sanat etkinliklerini desteklemek için bütçe ayırır." cümlesinde "kültürel" sıfatı "etkinlikler" ismiyle tamlama kurabilir ama "sanat" ismi ayrıca "etkinlikleri" ismini tamlamaktadır; dolayısıyla iki tamlayan ortak bir tamlanana bağlanmıştır. Doğrusu: "kültürel etkinlikleri ve sanat etkinliklerini desteklemek." Tamlayanın gerekli olduğu yerde kullanılmaması da bozukluktur: "Roma'ya hiç gitmedim, mimari özellikleri hakkında hiçbir bilgim yok." cümlesinde "Roma'nın" tamlayan eksiktir. Doğrusu: "Roma'nın mimari özellikleri hakkında."
+
+Fiilimsi eksikliği, birleşik cümlelerde yan cümleciği oluşturan fiilimsilerden birinin kullanılmamasından kaynaklanır: "Geçmişin kültür hazinelerine ilgi ve önem vermek zorundayız." cümlesinde "ilgi" sözcüğünün de fiilimsi alması gerekir. Doğrusu: "Geçmişin kültür hazinelerine ilgi göstermek ve önem vermek zorundayız."
+
+Fiilimsi uyuşmazlığı, fiilimsilerin cümlenin anlamına uygun ekleri almadığı durumda ortaya çıkar: "Öğrencilerin rahat ve sıcak bir ortamda ders çalışacağını sağlayacaklar." cümlesinde "çalışacağını" yerine "çalışmasını" kullanılmalıdır. Doğrusu: "Öğrencilerin rahat ve sıcak bir ortamda ders çalışmasını sağlayacaklar."
+
+Çatı uyumsuzluğu, birleşik bir cümlede iki fiilin ya da yüklem ile fiilimsinin etken-edilgenlik yönünden uyumsuz olması durumudur: "Olgunlaşan elmaları tek tek toplayıp tahta kasalara yerleştirildi." cümlesinde özne elmaları toplayan kişidir (etken) ancak yerleştirme işlemi edilgen olarak kurulmuştur; çelişki vardır. Doğrusu: "Olgunlaşan elmaları tek tek toplayıp tahta kasalara yerleştirdi."

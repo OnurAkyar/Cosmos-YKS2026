@@ -1,0 +1,29 @@
+# Virüsler
+
+Virüsler, biyolojik varlıklar olarak kabul edilseler de hiçbir canlı âlemi altında sınıflandırılamayan özel bir gruptur.
+
+Virüsler; protein kılıf ile sarılmış, DNA veya RNA'ya sahip cansız ile canlılar arasındaki geçiş formudur. Elektron mikroskopları ile görülebilen çubuk, küre, elips veya spiral şekilli nükleoprotein taneciğidir. Kendilerine ait sitoplazmaları ve enzim sistemleri bulunmadığından metabolik aktivite gerçekleştiremezler.
+
+Virüsler sadece hücre içerisinde canlılık özelliği gösterebilen zorunlu hücre içi parazitlerdir. Canlı dışındaki ortamlarda kristalleşirler. Virüsler belirli bir canlıyı, o canlının belirli bir dokusunu ve o dokudaki belirli bir hücreyi enfekte edebilir. Örneğin; hepatit virüsü karaciğeri, kuduz ve çocuk felci virüsü sinir hücrelerini, suçiçeği ve uçuk virüsü deri hücrelerini ve HIV ise akyuvar hücrelerini enfekte eder. Virüsler; pH, radyasyon, sıcaklık değişimlerinden ve kimyasal maddelerden çabuk etkilenir.
+
+Virüsler, enzim sistemlerine sahip olmadığı için antibiyotiklerden etkilenmez. Hava, su, doğrudan temas, vücut sıvıları ve diğer canlılar yoluyla bulaşıp hastalıklara yol açar. Viral hastalıklara karşı bağışıklığı sağlamak amacıyla aşı, koruyucu ve tedavi edici olarak da serumlar kullanılır.
+
+Virüsler, mutasyona kolay uğradığından hızlı bir şekilde form ve konak değiştirebilir. Virüsle enfekte olan insan hücreleri, virüse karşı savunma sağlayan interferon denilen bir protein salgılar.
+
+Virüsler kullanılarak çok sayıda deneysel çalışma yapılmıştır. Virüsler sayesinde DNA eşlenmesinin mekanizması ve birçok hastalığın oluşumu aydınlatılmıştır. Genetik mühendisleri virüsleri kullanarak bir organizmadan diğerine gen aktarımı yapabilmişlerdir. Bu sayede biyoteknoloji ve tıp alanında önemli gelişmeler kaydedilmektedir. Örneğin; virüsler, kanser ve bazı kalıtsal hastalıkların gen terapisi ile tedavi edilmesinde yeni imkânlar sunmaktadır.
+
+Virüsler, konak hücrenin enzim ve enerji sistemleri ile ham madde kaynaklarını kullanarak kendilerini hızlı bir şekilde çoğaltır. Bakteriyofajlar da bakteri hücrelerinde çoğalır.
+
+Grip virüsleri; genetik materyali RNA olan, üst solunum yollarına etki eden, hava yoluyla bulaşabilen virüslerdir. Grip, virüs enfeksiyonu olduğu için antibiyotik ile tedavi edilemez. Ayrıca doktor kontrolü altında 3-5 gün istirahat edilmesi gerekir.
+
+Uçuk, Herpes simplex (Herpes simpleks) adı verilen virüsün neden olduğu bulaşıcı bir cilt hastalığıdır. Uçuk hastalığında ağız kenarlarında, dudaklarda ve genital bölgede içi sıvı dolu küçük kabarcıklar oluşur. Ayrıca bu dönemde virüs oldukça bulaşıcıdır. Hastalığın bulaşmaması için hasta kişinin özel eşyaları kullanılmamalı ve hasta ile doğrudan temas edilmemelidir. Kabarcıkların patlaması virüsün yayılmasına neden olur. Virüsle enfekte olmuş bölgede karıncalanma, kaşınma, yanma gibi belirtiler görülür. Bu belirtiler hissedildiğinde enfekte bölgeye tıbbi uçuk kremi sürülmeli ve soğuk kompres uygulanmalıdır.
+
+Genellikle kedi, köpek, tilki, sincap, yarasa gibi memeli canlılar arasında yaygındır. Seyrek olarak insana geçer. Kuduz virüsü konak canlının sinir hücrelerini enfekte eder. Bütün memeli canlılar kuduz hastalığına yakalanabilmelerine karşın bazı türleri hastalığı bulaştırır. Ayrıca kuduz hastalığından korunmanın en etkili yolu aşı olmaktır.
+
+Hepatit B, sarılık hastalığının bir çeşididir. Hepatite sebep olan virüslerin A, B, C, D ve E şeklinde çeşitleri vardır. Bu virüsler karaciğer hücrelerini enfekte ederek kanser, siroz gibi ciddi hastalıklara yol açar. Hepatit B virüsü; kan, vücut sıvıları ve doğrudan temas sonucu bulaşabilir. Özellikle insanların toplu olarak bulunduğu, beslendiği yerlerde bu hastalığın bulaşma riski artmaktadır. Ayrıca hepatit B virüsü vücuda girdikten sonra 40 ila 80 gün arasında değişen uzun bir kuluçka dönemi geçirir. Baş ağrısı, ateş, yorgunluk, hâlsizlik, kırıklık, iştahsızlık, bulantı, kusma, karın ağrısı, üşüme gibi enfeksiyon belirtileri görülür. Virüs, karaciğer hücrelerini tahrip ederek fonksiyonlarını bozar. Bu hastalıktan korunmak için hijyen kurallarına uyulmalı ve aşı olunmalıdır.
+
+AIDS, Edinilmiş Bağışıklık Yetmezliği Sendromu anlamına gelen İngilizce kelimelerinin baş harflerinden oluşan, insan bağışıklık yetmezliği virüsünün (HIV) sebep olduğu çok tehlikeli bir hastalıktır. Virüs, hasta kişinin bağışıklık sisteminin tamamen çökmesine ve diğer basit hastalıklardan bile ölmesine yol açmaktadır. Ayrıca güvenli olmayan cinsel ilişki, hijyenik olmayan cerrahi müdahaleler, kanında HIV bulunan kişinin kanının sağlıklı kişiye transferi gibi yollarla bulaşan bir hastalıktır.
+
+Gece terlemeleri, yüksek ateş, hızlı kilo kaybı, hâlsizlik, devamlı öksürük, özellikle ağızda mantar enfeksiyonu, deri döküntüleri, sindirim sistemi bozuklukları, menenjit gibi hastalıkların görülmesi AIDS hastalığının belirtileridir.
+
+Viral hastalıklardan korunmak için yapılması gerekenler şunlardır: Yemekten önce ve sonra, tuvaletten önce ve sonra eller sabun ve bol su ile iyice yıkanmalıdır. Kişisel temizliğe ve hijyene özen gösterilmeli, hastalık durumunda insanlarla doğrudan temastan kaçınılmalı. Ayrıca toplu yaşanılan yerlerde öksürürken, aksırırken ağız bir mendille kapatılmalı. Sokaklara tükürülmemeli. Islak veya kâğıt mendil ya da havlu kullanmalı. Içme ve kullanma suyu ihtiyacı güvenli kaynaklardan karşılanmalı, şüpheli durumlarda içme suları kaynatılmalı veya klorlanmalı. Çiğ tüketilen meyve ve sebzeler, bol su ile yıkandıktan sonra tüketilmeli. Gıdalar, olabildiğince taze tüketilmeli ve buzdolabında saklanmalı, açıkta satılan ve son kullanma tarihi geçmiş ürünlerden kaçınmalı. Pastörize edilmiş ya da UHT (çok yüksek sıcaklık) yöntemi ile paketlenmiş sütler tüketilmeli, açıkta satılan sütlerden alınmamalı. Ayrıca hayvansal gıdalar iyice pişirilmeli, soğuk hava odalarında saklanmalı. Ayrıca hastalıklara karşı aşı yaptırılmalıdır.

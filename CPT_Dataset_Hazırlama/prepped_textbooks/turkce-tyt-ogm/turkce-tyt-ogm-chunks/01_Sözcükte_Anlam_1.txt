@@ -1,0 +1,31 @@
+# Sözcükte Anlam 1
+
+## Gerçek Anlam
+
+Bir sözcüğün akla gelen ilk anlamıdır. Temel anlam olarak da adlandırılabilir. Örneğin "ayak" sözcüğünün gerçek anlamı insan ya da hayvanların yürümesini sağlayan uzuv, "kırılmak" sözcüğünün gerçek anlamı ise bir nesnenin parçalanmasıdır.
+
+Gerçek anlam örnekleri: "Merdivenlerden inerken ayağını burkmuş." cümlesinde "ayak" sözcüğü gerçek anlamıyla kullanılmıştır: kişinin fiziksel olarak yürümesini sağlayan uzvu kasteder, benzetme ya da aktarma içermez. "Yere düşen duvar saatinin camı kırılmıştı." cümlesinde "kırılmak" sözcüğü gerçek anlamıyla kullanılmıştır: camın fiziksel olarak parçalara ayrılmasını anlatır, sözcük temel sözlük anlamından saptırılmamıştır. Her iki cümlede de sözcükler temel anlamlarıyla kullanılmıştır.
+
+## Yan Anlam
+
+Bir sözcüğün temel anlama bağlı olarak kazandığı yeni anlamdır. Yakıştırmaca şeklinde de adlandırılabilir. Temel anlam ile yan anlam arasında mutlaka bir anlam ilişkisi bulunur; bu iki anlam birbirinden tamamen kopuk değildir.
+
+Yan anlam örnekleri: "Şehrin meydanında bir ayağı kırık sandalye heykeli vardı." cümlesinde "ayak" sözcüğü sandalyenin dayandığı kısım anlamında kullanılmıştır. Bu yan anlam taşır çünkü sandalye ayağının işlevi — bir nesneyi destekleyip yerden yükseltmek — insan ayağının işleviyle benzerlik kurularak geliştirilmiştir; iki anlam arasındaki bu somut işlev ilişkisi kopmamıştır, ancak sandalye ayağı gerçek bir uzuv değildir. "Bahçedeki hortum kırıldığı için su az akıyordu." cümlesinde ise "kırılmak" sözcüğü işlevini yitirme anlamında kullanılmıştır. Bu yan anlam taşır çünkü işlev yitimi ile fiziksel kırılma arasında bir bağlantı vardır — her ikisinde de bir bütünlük ya da işlerlik bozulmaktadır — ama hortum parçalanmamıştır. Bu "bağ kopmamış ama tam örtüşme yok" ilişkisi yan anlamın belirleyici özelliğidir.
+
+## Mecaz Anlam
+
+Bir sözcüğün bir ilgi veya benzetme sonucu temel anlamından tamamen uzaklaşarak kazandığı yeni anlamdır. Yan anlamdan farklı olarak mecaz anlam ile gerçek anlam arasındaki bağ çok daha zayıftır; sözcük asıl anlamından tümüyle sıyrılmış gibi görünür.
+
+Mecaz anlam örnekleri: "Geçirdiği kazadan sonra cesareti kırılmış, tırmanmaya ara vermişti." cümlesinde "kırılmak" sözcüğü psikolojik bir çöküşü anlatmaktadır. Bu mecaz anlam taşır çünkü burada ne fiziksel bir nesne parçalanmıştır (gerçek anlam) ne de bir şeyin işlevi bozulmuştur (yan anlam); sözcük tamamen soyut ve psikolojik bir alana taşınmıştır. Fiziksel parçalanma ile duygusal çöküş arasındaki bağ yalnızca uzak bir benzetmeye dayanır — bu da mecaz anlamın yan anlamdan farkıdır. "Yaşam felsefesinin en önemli ayağını adalet oluşturuyordu." cümlesinde ise "ayak" sözcüğü bir düşünce sisteminin temel unsuru anlamını taşımaktadır. Bu mecaz anlam taşır çünkü "adalet" fiziksel bir nesneyi yerden destekleyen somut bir kısım değildir; sözcük gerçek anlamından tümüyle sıyrılarak soyut bir yapının dayandığı temel unsuru ifade etmektedir.
+
+## Terim Anlam
+
+Bir bilim, sanat, meslek dalıyla veya belirli bir konuyla ilgili özel ve belirli bir kavramı karşılayan sözcüklerdir. Terimler, kullanıldıkları alanlarda tek ve kesin bir anlam taşırlar; bu da onları günlük dilden ayırır.
+
+Terim anlam örnekleri: "Sol anahtarı müzikte kullanılan üç anahtardan biridir." cümlesinde "anahtar" sözcüğü müzik terimi olarak kullanılmıştır. Bu terim anlam taşır çünkü müzik alanında "anahtar", notaların hangi perdede okunacağını belirleyen özel bir işarettir; bu anlam yalnızca müzik bağlamında geçerlidir ve günlük dildeki "kapıyı açan nesne" anlamından tamamen bağımsızdır — tek ve kesin bir alan anlamı taşıması onu terim yapar. "Şampiyonu penaltı atışları belirleyecek." cümlesinde ise "penaltı" futbol terimidir. Bu terim anlam taşır çünkü "penaltı" futbol kuralları çerçevesinde yalnızca belirli bir ihlal sonucunda verilen özel bir cezayı ve buna bağlı atışı ifade eder; futbol dışında kullanılmaz.
+
+## Sözcüğün Birden Fazla Anlamda Kullanımı
+
+Bir sözcük cümle içinde farklı anlamlara gelecek şekilde kullanılabilir. "Tutmak" sözcüğü bunu açıkça örnekler: "Kucağında küçük bir çocuk tutuyordu." cümlesinde gerçek anlamıyla (elde tutma) kullanılmıştır; fiziksel olarak elle kavramayı anlatır, benzetme ya da aktarma içermez. "Tuttuğumuz balıkları afiyetle yedik." cümlesinde yan anlamıyla (avlamak) kullanılmıştır; yakalamak ile tutmak arasında somut bir işlev ilişkisi vardır, ancak balık avlamak elde tutmakla tam örtüşmez. "Bu sahil kasabasında bir ev tuttuk." cümlesinde mecaz anlamıyla (kiralamak) kullanılmıştır; bir evi kiralamak ile elde tutmak arasındaki bağ çok uzaklaşmıştır, sözcük temel anlamından büyük ölçüde sıyrılmıştır. "Eve gelen misafirlere şeker tutuyordu." cümlesinde yine mecaz anlamıyla (ikram etmek) kullanılmıştır; "şeker tutmak" fiziksel tutmayı değil tamamen başka bir eylemi — sunmayı — anlatmaktadır. "Hepiniz aklınızdan bir sayı tutun." cümlesinde ise zihinde saklama anlamında kullanılmıştır; zihin fiziksel olarak bir şey tutamaz, bu da sözcüğün mecaz alanda soyut kullanımıdır.
+
+---

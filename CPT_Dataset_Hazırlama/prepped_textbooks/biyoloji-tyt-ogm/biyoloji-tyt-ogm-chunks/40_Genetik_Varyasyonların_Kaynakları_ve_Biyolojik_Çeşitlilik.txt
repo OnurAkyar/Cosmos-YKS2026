@@ -1,0 +1,15 @@
+# Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik
+
+Aynı türe ait bireylerin karakteristik özelliklerini belirleyen türe özgü gen dizilimleri vardır. Tür içindeki gen dizilimlerinin çeşitliliği genetik varyasyon olarak adlandırılır. Görseldeki midyelerin ve patateslerin farklı renklerinin bulunması genetik varyasyon örneğidir.
+
+Tür içindeki genetik varyasyonun başlıca nedenleri şunlardır: yumurtayı hangi spermin döllediğinin şansa bağlı olması, mayoz sırasında gerçekleşen krossing over ve homolog kromozomların bağımsız dağılımı ile mutasyon gibi olaylar. Bir ya da birden fazla genin nükleotit diziliminde meydana gelen kalıcı değişimler mutasyon olarak adlandırılır.
+
+Mutasyonlar sonucunda genetik varyasyonlar ortaya çıkar. Mutasyonlar rastlantı sonucu oluşur ve mutasyonların çoğu zararlıdır. Ayrıca Vücut hücrelerinde meydana gelen mutasyonlar sadece - mutasyonun gerçekleştiği canlıyı etkiler, - kalıtsal değildir, - yavrularına aktarılmaz. Üreme ve üreme ana hücrelerinde meydana gelen mutasyonlar ise gelecek kuşaklara aktarılabilir. Tür içinde gözlenen genetik varyasyonlar, türe ait bireylerin değişen ortam koşullarına uyum yapma yeteneğini artırır. Böylece türün değişen ortama adapte olması kolaylaşır. Bazı faktörler, mutasyonun meydana gelme olasılığını artırır. Mutasyona sebep olan faktörlere mutajen adı verilir. - Radyasyon, ultraviyole ışınları, X ışınları, radyoaktif maddeler, nitrik asit, hardal gazı, formaldehit, uyuşturucu maddeler ve bazı ilaçlar mutasyona sebep olmaktadır.
+
+Aynı genetik yapıya sahip bireylerin fazla olduğu popülasyonlarda çevre koşulları değiştiğinde bireylerin yeni koşullara uyum olasılığı düşüktür. Bu durum, popülasyonun yok olmasına neden olabilir. Doğada dar bir alana sıkışmış ve kendi türünden başka popülasyondaki bireylerle çiftleşmesi engellenmiş popülasyonlar bulunabilir. Bu tür popülasyonlarda soy içi üreme olasılığı fazladır. Soy içi üreme, genellikle genetik varyasyonları ve bireylerin değişen çevresel koşullara uyum yeteneklerini azaltır. Bu bölgelerde var olan biyolojik çeşitlilik bu durumdan olumsuz etkilenir.
+
+Aynı türe ait genotip yapısı farklı bireylerin çevrenin etkisiyle fenotipleri de değişkenlik gösterir. Ortaya çıkan bu genetik zenginlik, bireylerin çevreye uyum yeteneğini dolayısıyla popülasyonların devamlılığını artırır.
+
+Bir ekosistemde yaşayan canlı çeşitliliği ve sayısı biyolojik çeşitlilik olarak adlandırılır. Genetik olarak tür içinde ya da türler arasında ortaya çıkan farklılıklar, genetik çeşitliliğe yol açar.
+
+Ekosistemlerdeki hayvan, bitki ve mikroorganizmaların ortaya çıkardığı biyolojik çeşitlilik yaşamın sürdürülebilmesi için büyük bir öneme sahiptir. Artan insan nüfusunun ihtiyaçlarının karşılanabilmesi için biyolojik çeşitliliğin korunması zorunludur.

@@ -1,0 +1,55 @@
+# Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri
+
+Eşeysiz üreme, döllenme olmadan tek bir atadan çeşitli yollarla kendisiyle aynı genetik yapıya sahip yeni bireylerin meydana gelmesidir. Eşeysiz üremenin temelini birçok canlıda mitoz oluşturur. Tek hücreli ve çok hücreli canlıların bazıları eşeysiz olarak çoğalabilir.
+
+Eşeysiz üreme ile kısa zamanda çok sayıda yeni bireyler meydana gelir. Genellikle yavrular, ata bireyle ve birbiriyle kalıtsal olarak aynı özelliğe sahiptir. Eşeysiz üreyen canlılar, kendileri için uygun olan çevre koşullarında meydana gelen olumsuz değişiklikler nedeniyle çevreye adapte olmakta zorlanır. Çevre koşullarında bir olumsuzluk olursa yok olma tehlikesiyle karşı karşıya kalır. Ancak eşeysiz üreme, bireylerin uyum sağladıkları çevresel koşullarda hızlı çoğalmasına ve yayılmasına olanak sağlar.
+
+Eşeysiz üreyen canlılarda mutasyon sonucu tür içi kalıtsal çeşitlilik ortaya çıkabilir (Mutasyon; radyasyon, ultraviyole, X, beta ve gama ışınları gibi yüksek enerjili ışınlar ve bazı kimyasal maddelerin etkisiyle genlerde meydana gelen kalıcı değişimlerdir.). Eşeysiz üreme çeşitleri; bölünerek üreme, tomurcuklanma, rejenerasyon, sporla üreme, partenogenez ve vejetatif üremedir.
+
+Belli bir büyüklüğe ulaşan tek hücreli canlının ikiye bölünmesiyle gerçekleşen eşeysiz üreme şeklidir. Prokaryot canlılardan bakterilerde ve arkelerde; ökaryot canlılardan amip, öglena, paramesyum gibi protista üyelerinde görülür. Bölünme sonucu oluşan hücreler, genetik açıdan ata hücreyle ve birbirleriyle aynıdır. Ancak hücrelerin sitoplazma miktarı ve organel sayısı farklı olabilir.
+
+Prokaryot canlıların (bakteriler ve arkeler) üremesi, hücrenin uzayıp boğumlanmasıyla ikiye bölünme şeklinde gerçekleşir. Zarla çevrili çekirdek taşımadıkları ve iğ ipliklerini oluşturacak proteinlere sahip olmadıkları için ikiye bölünmeleri sırasında mitoza ait evreler gerçekleşmez. Örneğin; bakterilerde büyüyen hücre, DNA'sını eşler. Bu sırada hücrenin boyu uzar ve DNA'lar birbirinden uzaklaşır. Daha sonra hücre zarı içe doğru çökme yaparak büyür, çökme bölgesinde yeni çeper oluşturulur. Böylece iki yeni bakteri hücresi meydana gelir.
+
+Bölünme, hücrenin şekline ve simetrisine göre farklı bölgelerden gerçekleşebilir. Örneğin; tek hücrelilerden amip, her yönden bölünebilirken paramesyum enine, öglena boyuna bölünür. Bölünerek üreme sonucu oluşan yavru hücrelerde; sitoplazma miktarı, organel sayısı ve metabolizma hızı gibi bazı özellikler farklılık gösterebilir.
+
+Tomurcuklanarak üremede ana canlı üzerinde mitoz ile tomurcuk şeklinde bir çıkıntı oluşur. Ana canlı üzerinde oluşan bu çıkıntı, gelişerek yeni canlılar meydana getirir. Gelişen bu yapılar, ana bireyin genetik kopyasıdır. Tomurcuklar, ana canlıdan ayrılıp bağımsız yaşayabildiği gibi ana canlıya bağlı kalarak koloni de oluşturabilir. Tek hücrelilerden bir mantar çeşidi olan bira mayasında, çok hücrelilerden hidra ve mercan gibi omurgasız hayvanlarda tomurcuklanma görülür.
+
+Hidranın tomurcuklanması ile oluşan yeni canlı, ana bireye bağlı kalabileceği gibi ayrılıp bir zemine tutunarak da yaşayabilir. Bir zemine tutunarak yaşayan canlıya polip denir. Poliplerden eşeysiz olarak çoğalan, bağımsız yüzen bireylere medüz  (denizanası) denir. Medüzlerde tomurcuklanma görülmez.
+
+Rejenerasyon (yenilenme), çok hücreli canlılarda dokuların ve organların onarımını sağlar. Bazı canlılarda ise kopan parçalardan yeni canlı oluşumu ile eşeysiz üremeyi sağlar. Rejenerasyon sırasında mitoz, büyüme ve farklılaşma olayları görülürken genetik çeşitlilik oluşmaz. Canlıların gelişmişlik düzeyi arttıkça rejenerasyon yeteneği azalmaktadır. Rejenerasyon ile üreme, bir cins yassı solucan olan planaryada gözlenebilir.
+
+Çoğu denizyıldızında beş kol ve kolların birleştiği yerde merkezî disk bulunur. Denizyıldızlarında kollardan biri ya da birkaçı koparsa denizyıldızları kopan kollarını yenileme özelliğine sahiptir. Hatta bir cinsin üyelerinde kopan tek bir kol, bağlı olduğu merkezî diskten pay almak koşuluyla yeni bir denizyıldızı oluşturabilmektedir. Kopan kol merkezî diskten pay almamışsa yenilenme organ düzeyindedir. Planarya ve denizyıldızı gibi canlılarda rejenerasyonla tüm vücut yenilenebilir. Bu canlılarda rejenerasyon, vücut düzeyinde gerçekleştiği ve yeni bir canlı oluşumunu sağladığı için eşeysiz üreme kabul edilir.
+
+Sporlar, ana canlıdan mitoz veya mayoz ile oluşturulur. Sporlar; etrafı sert bir çeperle kaplanmış, olumsuz çevre koşullarına dayanıklı, n kromozomlu özelleşmiş üreme hücrelerdir. Sporlar, ortam şartları uygun olduğunda döllenme olayı gözlenmeden mitoz ile gelişerek yeni bireyler oluşturur.
+
+Sporla üreme; bir hücreli canlılardan sıtma hastalığına neden olan plazmodiumda (plazmodyum), su yosunu gibi alglerde, mantarlarda, tohumsuz bitkilerden eğrelti otu ve karayosunlarında gerçekleşir.
+
+Mayoz ile oluşan yumurta hücresinin döllenmeden mitozla gelişerek yeni bir birey oluşturmasına partenogenez denir. Omurgasızlardan arılar, karıncalar, yaprak bitleri, su pireleri, bazı çekirge ve kelebek türlerinde; omurgalılardan balık, kurbağa, sürüngen ve kuşların bazı türlerinde görülebilmektedir. Partenogenezle çoğalan türlerin çoğunda aynı zamanda eşeyli üreme de gerçekleşmektedir.
+
+Partenogenez, bazı türlerde cinsiyetin belirlenmesini denetlemede kullanılır. Örneğin, bal arılarında erkek bireyler partenogenezle oluşmuştur ve haploit kromozomludur. Dişi olan kraliçe arı ve işçi arılar döllenmiş yumurtalardan gelişmiştir ve diploit kromozomludur. Kraliçe arı üremeden sorumlu iken işçi arılar kısırdır. Kraliçe arı, mayoz ile çok sayıda yumurta üretir ve bunları bir kesede depolar. Haploit olan erkek arı ise mitozla spermler üretir. Kraliçe arı yılda bir kez çiftleşme uçuşu gerçekleştirir. Erkek arıdan alınan spermler, kraliçe arının vücudunda başka bir kesede depolanır. Kraliçe arının yumurtaları spermle döllenirse kraliçe ya da işçi arı, yumurta döllenmeden gelişirse erkek arı meydana gelir.
+
+Döllenmeyle meydana gelen embriyoların polenle beslenmeleri sonucunda işçi arılar, arı sütü ile beslenmeleri sonucunda kraliçe arılar oluşur. Bunun nedeni beslenme farklılığına bağlı olarak ortaya çıkan ve kalıtsal olmayan değişikliklerdir.
+
+Yüksek yapılı (gelişmiş) bitkilerin kök, gövde, dal ve yaprak gibi kısımlarından kopan bir parçanın ana bitkiyle aynı genetik yapıya sahip yeni bir bitki oluşturmasına vejetatif üreme denir. Temeli mitoza ve yenilenmeye dayanır.
+
+Vejetatif Üreme Çeşitleri ve Tarım Sektöründe Kullanım Alanları: Vejetatif üretim yöntemleri ile bitkilerin sürünücü gövde, yumru gövde, rizom gövde, doku kültürü tekniği ve çelik ile eşeysiz olarak üretimi yapılabilmektedir.
+
+Bazı bitkilerin toprak yüzeyinde uzanan gövde uzantıları, toprağa kök salar ve bu bölgelerden yeni bitkiler gelişir. Sürünücü gövde büyüyerek çilek ve kuş otu gibi bitkilerin geniş bir alana yayılmasını sağlar. Örneğin; çilek bitkisinde toprak yüzeyinde büyüyen sürünücü gövde üzerindeki göz adı verilen yapılar, köklenerek yeni çilek bitkilerini meydana getirir.
+
+Bazı bitkilerin toprak altında bulunan ve besin depolayan toprak altı gövdelerine yumru denir. Patates, yer elması gibi bitkilerin yumru gövdeleri üzerinde bulunan ve nodyum denilen gözlerden gelişen sürgünler, yavru bitkileri oluşturur.
+
+Rizomlar yedek besin maddesi depo eden, toprak altında yatay olarak uzanan, silindir şeklindeki toprak altı gövdeleridir. Rizomlar, toprak altı gövdelerinde olduğu gibi tepe ve yan tomurcuklara sahiptir. Ayrık otu, zencefil, süsen gibi bitkilerin üzerinde bulunan tomurcuklar gelişerek toprak altı veya toprak üstü sürgünlerini oluşturur. Rizomlu bitkiler, toprak altındaki rizomları sayesinde çok yıllık bitki özelliği gösterir.
+
+Begonya, sardunya ve menekşe gibi saksı bitkilerinde ve meyve ağaçlarında ana bitkinin kök, gövde, dal ya da yapraklarından alınan ve çelik adı verilen parçaların kullanılmasıyla yeni bitkilerin elde edilmesidir. Afrika menekşesi, aşkın gözyaşları bitkisi gibi bazı bitkilerde tek yapraktan tüm bir bitki gelişir.
+
+Çelikle üretimde başarılı olmak için alınan parçalar, genç organlardan seçilir. Bunun nedeni, bitkinin genç organlarında mitozun daha hızlı olmasıdır. Kavak, söğüt, asma ve incir gibi bitkilerden istenilen miktarda çelik alınıp kullanılabilir.
+
+Bahçecilik ve tarım sektöründe lale, zambak, nergis ve süsen gibi bitkiler; görünümleri, güzel çiçekleri ve hoş kokularından dolayı önemli bir yere sahiptir. Süs bitkisi olarak üretilen ve ticareti yapılan bu bitkiler, soğan adı verilen toprak altı yapıların dikimi ile üretilir. Soğanlı bitkilerden lale, zambak, nergis gibi çiçek türleri en çok üretilenler arasında yer almaktadır. Bitkilerin soğanlarında bulunan tomurcuklar, uygun ortam koşullarında gelişerek genç bitkiyi oluşturur.
+
+Sonbaharda dikilen soğanlar, ilkbaharda çiçek açar. Olgunlaşma dönemleri sonunda oluşturdukları yavru soğanlar, sonraki yıl üretimde kullanılır. Bu tür bitkiler, tohumla da üretilebilir. Ancak tohumla üretimde tohumun ekilmesinden çiçek açımına kadar geçen süre çok uzundur.
+
+Doku kültürü ile üretim, laboratuvar ortamında steril şartlarda gerçekleştirilir. Ekonomik değeri yüksek, üretimi zor bitkilerin ve soyu tükenmekte olan türlerin korunmasına yönelik çalışmalar için bu yöntem kullanılır. Bitkilerin kök ve gövde uçlarında meristem adı verilen bölünme yeteneğine sahip ve henüz farklılaşmamış hücre grupları bulunur.
+
+Çoğaltılmak istenilen bitkinin kök ve gövde ucundan meristem özellik gösteren hücre ya da küçük doku parçaları alınıp sterilize edilerek yapay besi ortamına konur. Doku parçaları, besi ortamında mitoz ile kallus adı verilen düzensiz hücre topluluğunu oluşturur. Oluşan kallus hücreleri, buradan alınarak bitki büyümesinde ve farklılaşmasında görevli hormonları içeren ortama konur. Bu ortamda hücreler, farklılaşarak kök ve gövde gibi yapılara sahip küçük, yeni bitkiler oluşturur.
+
+Vejetatif üreme, tarımda verimliliği artıran bir yöntemdir. Kısa sürede fazla ve kaliteli üretim yapılmasını sağlar. Tohumla üremeye göre daha kısa sürede gerçekleşir. Tohumla üreyen bitkilerin genetik yapılarında farklılıklar oluşur. Vejetatif üremeyle oluşan bitkiler ise genetik açıdan birbirinin kopyasıdır. Vejetatif üreme ile bitkilerin sahip olduğu iyi özellikler korunmuş olur. Tohum yapma yeteneğini kaybetmiş olan muz, çekirdeksiz üzüm gibi bitkiler bu şekilde üretilir.
