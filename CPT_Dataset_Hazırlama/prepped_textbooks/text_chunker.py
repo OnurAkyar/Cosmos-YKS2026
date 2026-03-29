@@ -35,8 +35,8 @@ def write_chunks_to_folder(chunks, output_folder):
 
 
 if __name__ == "__main__":
-    filepath = r"tyt-biyoloji-pretrain.md"
-    output_folder = "biyoloji_tyt_chunks"
+    filepath = r"ayt-matematik-formatted.md"
+    output_folder = "ayt-matematik-chunks"
 
     chunks = chunk_by_main_header(filepath)
     write_chunks_to_folder(chunks, output_folder)
