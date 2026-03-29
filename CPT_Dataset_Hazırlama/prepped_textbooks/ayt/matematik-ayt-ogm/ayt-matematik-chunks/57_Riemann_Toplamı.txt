@@ -1,0 +1,3 @@
+# Riemann Toplamı
+
+$[a,b]$ aralığının $P = \{x_0, x_1, \dots, x_n\}$ bölüntüsü (genellikle eşit aralıklı $\Delta x = \frac{b-a}{n}$) ve her alt aralıktan seçilen $c_i \in [x_{i-1}, x_i]$ için $\sum_{i=1}^n f(c_i) \Delta x$ toplamına Riemann toplamı denir. Eğer $c_i$ alt aralıktaki en küçük değer ise Riemann alt toplamı, en büyük değer ise Riemann üst toplamı olur. $n \to \infty$ iken Riemann toplamı, eğrinin altındaki alana yaklaşır ve bu limit değeri belirli integral olarak tanımlanır: $\lim_{n\to\infty} \sum_{i=1}^n f(c_i) \Delta x = \int_a^b f(x) dx$. Riemann toplamı, integralin tanımını oluşturur ve sayısal integral hesaplamalarının temelidir.

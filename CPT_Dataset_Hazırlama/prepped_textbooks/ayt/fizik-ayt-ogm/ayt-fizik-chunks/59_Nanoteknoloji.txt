@@ -1,0 +1,3 @@
+# Nanoteknoloji
+
+Nanobilim 1‑100 nm boyutundaki yapıları inceler. Nanoteknoloji bu boyutta malzeme üretimi ve kullanımını sağlar. Nanoparçacıklar, nano teller, kuantum noktaları, fullerenler, karbon nanotüpler önemli nanomalzemelerdir. Uygulamalar arasında kendini temizleyen camlar, leke tutmayan kumaşlar, ilaç taşıma sistemleri, biyomedikal görüntüleme sayılabilir.

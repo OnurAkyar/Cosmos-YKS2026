@@ -1,0 +1,27 @@
+# BAĞIŞIKLIK SISTEMININ GENEL ÖZELLIKLERI, DOĞAL BAĞIŞIKLIK
+
+Bağışıklık Sisteminin Genel Yapısı: Virüs ve bakteri gibi hastalıklara neden olan etkenlere patojen denir. İnsan vücudu patojenlere karşı çeşitli savunma sistemlerine sahiptir. Hücre, doku ve organlardan oluşan bu savunma sistemine bağışıklık sistemi denir. Bağışıklık sistemi sayesinde bakteri, mantar, virüs, parazit omurgasızlar gibi patojen etkenlere karşı koruma sağlanır.
+Vücuda girdiğinde kendisine karşı bir bağışıklık yanıtı oluşmasına yol açan maddelere antijen denir.
+Bağışıklık, doğal bağışıklık (özgül olmayan bağışıklık) ve kazanılmış (özgül) bağışıklık olmak üzere iki çeşittir.
+
+Doğal Bağışıklığın Genel Özellikleri: Doğal bağışıklık kişinin doğumdan itibaren sahip olduğu savunma hattıdır.
+Doğal bağışıklıkta patojenler, birinci savunma hattı (dış savunma hattı) ve ikinci savunma hattı (iç savunma hattı)  olmak üzere iki savunma hattı ile karşılaşır. Birinci savunma hattı patojenlerin vücuda girmesini engellerken ikinci savunma hattı ise dış savunmayı geçen patojenler ile mücadele eder.
+
+Birinci savunma hattında, vücut yüzeyinde mikropların vücuda girişini önleyen engeller vardır.
+Deri, bakteri ve virüslerin aşamayacakları bir tabaka olup birçok mikroorganizmanın tutunmasına ve yaşamasına izin vermeyen yağlar ve asitler salgılar.
+Burun kılları, kulak salgısı, solunum yolundaki hareketli siller ve dış ortama doğrudan açık birçok organda bulunan mukus salgıları dış savunma hattının elemanlarıdır.
+Mikroplara karşı kimyasal engeller de bulunur. Örneğin; tükürük, gözyaşı ve mukus salgılarındaki lizozim, mikropların hücre duvarını parçalar. Mide yutulan bakterilerin çoğunluğunu asit salgısıyla öldürür.
+
+İkinci Savunma Hattı (İç Savunma Hattı): Savunmanın ikinci hattında ise yangısal tepki (iltihaplanma), interferon yöntemlerinin yanı sıra fagositoz yapan hücrelerin ve doğal katil hücrelerin savaşması ile korunma sağlanır. İnsan vücuduna giren patojenler, fagositoz yapan hücrelerle (monositler ve nötrofillerle) karşılaşır. Fagositoz yapan hücreler, patojenleri içindeki kofula alır. Sonra bu koful, lizozom ile kaynaşır ve bu patojenleri parçalar. (Bu durum hücre içi sindirime örnek olarak gösterilebilir.) Monositler, fagositoz yaptıktan sonra makrofajlara dönüşür.
+Özgül olmayan bağışıklıkta doğal katil hücreler de görev alır. Doğal katil hücreler (doğal öldürücü lenfositler); yabancı hücreler, tümör hücresi ve bazı enfekte olmuş hücreleri tanıyıp öldürür. Bu hücreler vücutta dolaşarak virüsle enfekte olmuş ya da kanserleşmiş hücreleri bulurlar ve bu hücreleri öldürecek kimyasallar salgılayarak bunların yayılmasını önler. Böylece doğal bağışıklıkta hem fagositik hücreler patojenleri ve ölü hücreleri fagositoz yoluyla yok ederken hem de doğal katil hücreler virüsle enfekte olmuş veya kanserleşmiş hücreleri salgıladıkları kimyasallarla yok eder.
+
+Doğal bağışıklığı sağlayan diğer etken, interferon salgılarıdır. Virüsten etkilenmiş vücut hücreleri, protein yapılı interferon salgılar. İnterferon salgıları; enfekte olmamış komşu hücrelerin korunması için patojenleri tanıyan, saldırıp üremelerini durduran ya da patojenlerin hücre zarlarının yapısını bozan çeşitli maddelerin sentezlemesini sağlar. Bu sayede virüslerin vücuda yayılması önlenir.
+Bir dokunun fiziksel ya da kimyasal sebeple yaralanması durumunda vücut birbiriyle uyumlu bir dizi savunma sergiler. Bu savunmaya yangısal tepki (iltihaplanma) denir.
+
+Yangısal tepkide: Dokunun hasar görmesi sonucu mast hücrelerinden histamin salgılanır.
+Histamin, bölgedeki kan damarlarının genişlemesini sağlar.
+Kan damarlarından sızıntı artar ve bölgeye fagositik hücreler göç eder.
+Akyuvar hücrelerinden salgılanan özel kimyasallar sayesinde bölgeye kan akışı hızlanır.
+Fagositik hücreler bakterileri ve doku artıklarını sindirir. Doku iyileşir.
+
+İlaç firmaları, Hepatit C gibi hastalıklara neden olan virüslerin tedavisi için rekombinant DNA teknolojisini kullanarak interferonların seri üretimini gerçekleştirmeyi başarmıştır.

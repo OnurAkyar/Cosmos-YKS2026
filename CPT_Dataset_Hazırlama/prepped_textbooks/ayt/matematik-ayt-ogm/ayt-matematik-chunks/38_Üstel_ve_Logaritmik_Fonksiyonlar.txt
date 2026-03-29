@@ -1,0 +1,10 @@
+# Üstel ve Logaritmik Fonksiyonlar
+
+Üstel fonksiyon: $a \in \mathbb{R}^+ \setminus \{1\}$ olmak üzere $f: \mathbb{R} \to \mathbb{R}^+$, $f(x) = a^x$ şeklinde tanımlanır. Taban pozitif ve 1'den farklı olmalıdır. Tabanın 1 olması durumunda sabit fonksiyon elde edilir, tersi tanımlanamaz. $a>1$ ise $f$ artan, $0<a<1$ ise azalandır. Her zaman $f(0)=1$ olduğundan grafik $y$ eksenini $(0,1)$'de keser. Üstel fonksiyon birebir ve örten olduğu için tersi vardır; bu ters logaritma fonksiyonudur. Logaritma fonksiyonu: $f(x) = a^x$'in tersi $f^{-1}(x) = \log_a x$ olarak tanımlanır. $y = a^x \iff x = \log_a y$. Tanım kümesi $\mathbb{R}^+$, görüntü kümesi $\mathbb{R}$'dir. $a>1$ iken $\log_a x$ artan, $0<a<1$ iken azalandır. $\log_a 1 = 0$, $\log_a a = 1$. Logaritmanın özellikleri, üstel fonksiyonların özelliklerinden türetilir ($a^{x+y}=a^x a^y$ vb.):
+1. $\log_a(xy) = \log_a x + \log_a y$
+2. $\log_a\left(\frac{x}{y}\right) = \log_a x - \log_a y$
+3. $\log_a(x^n) = n \log_a x$
+4. Taban değiştirme: $\log_a b = \frac{\log_c b}{\log_c a}$ (özellikle $\log_a b = \frac{1}{\log_b a}$)
+5. $a^{\log_b c} = c^{\log_b a}$
+
+Doğal logaritma: Tabanı $e \approx 2.71828$ olan logaritmaya denir ve $\ln x$ ile gösterilir. $e$, Euler sayısı olarak bilinir ve $e = \sum_{n=0}^{\infty} \frac{1}{n!}$ şeklinde tanımlanır. Doğal logaritma, matematiksel analizde en yaygın kullanılan logaritmadır çünkü türevi $\frac{d}{dx} \ln x = \frac{1}{x}$ basittir. Üstel ve logaritmik denklemler: Üstel denklemlerde genellikle her iki tarafın aynı tabanda logaritması alınır. Logaritmik denklemlerde tanım koşullarına ($\log_a f(x)$ için $f(x)>0$, $a>0$, $a\neq1$) dikkat edilir. Üstel ve logaritmik eşitsizlikler: $a>1$ için $a^{f(x)} \ge a^{g(x)} \iff f(x) \ge g(x)$; $0<a<1$ için yön değiştirir. Logaritmik eşitsizliklerde de benzer şekilde tabanın 1'den büyük veya küçük olmasına göre yön değişir. Ayrıca logaritmanın tanımından $f(x)>0$ ve $g(x)>0$ olmalıdır.

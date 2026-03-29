@@ -1,0 +1,29 @@
+# DİŞİ ÜREME SİSTEMİ
+
+Dişi Üreme Sisteminin Yapısı ve Organları: Dişi üreme sistemi; yumurtalıklar (ovaryumlar), yumurta kanalları (fallop tüpleri, oviduktlar), rahim (döl yatağı, uterus), rahim ağzı (serviks) ve vajinadan oluşur.
+
+Dişi üreme sistemi; yumurta hücresinin oluşmasını, döllenme sonrası embriyo gelişimi için uygun ortam hazırlanmasını ve eşey hormonlarının üretilmesini sağlar.
+
+Yumurtalıklar (ovaryumlar); vücudun ön tarafında karın boşluğunun altında, rahmin her iki yanında bulunan bir çift organdır.
+
+Yumurtalıklarda yumurta hücresinin üretimi ile östrojen ve progesteron hormonlarının üretimi gerçekleşir. Folikül adı verilen yapılarda yumurta hücresine dönüşecek bir hücre ve onu çevreleyen destek hücreleri bulunur. Destek hücreleri yumurtayı besleyip korurken folikül hücreleri östrojen hormonu salgılar.
+
+Yumurta kanalları (fallop tüpleri, oviduktlar), yumurtalıklar ile rahim arasında bulunan tüp şeklindeki yapılardır. Rahim tarafında saç teli kadar dar olan bu tüp, yumurtalıklara doğru genişler. Yumurtalık yakınındaki ucu huniye benzer ve karın boşluğuna açılır. Yumurtalıklardan bırakılan yumurta, yumurta kanalına geçer.
+
+Yumurta kanalının iç yüzeyi silli epitel hücrelerden ve bunlar arasına yerleşmiş salgı yapan hücrelerden oluşur. Yumurta kanalına geçen yumurta silli epitel hücrelerin ve düz kasların hareketi ile rahme doğru taşınır. Yumurtanın spermle döllenmesi ve zigot oluşumu ile zigotun ilk hücre bölünmeleri yumurta kanalında gerçekleşir.
+
+Rahim (döl yatağı, uterus); karın boşluğunun alt kısmında, idrar kesesinin arkasında yer alan esnek, kalın ve kaslı, içi boşluklu bir organdır. Döllenme gerçekleşirse embriyo rahim içinde gelişir.
+
+Rahmin iç tabakası olan endometriyum, epitel hücrelerden oluşur ve zengin kan damarı ağına sahiptir. Rahmin aşağıda daralarak vajinaya açıldığı boyun kısmına rahim ağzı (serviks) denir.
+
+Vajina; dışarı ile bağlantıyı sağlayan, kaslı esnek bir yapıdır. Döllenmemiş yumurtanın ve doku fazlalıklarının dışarı atıldığı, çiftleşme sırasında spermlerin bırakıldığı kısımdır. Eğer gebelik gerçekleşmiş ise bebeğin doğum kanalı olarak da görev yapar.
+
+Vajina üretra ile bağlantılı değildir. Bu nedenle dişilerde döllenmemiş ikincil oosit ile idrarın vücut dışına atıldığı açıklıklar farklıdır.
+
+Oogenez ve Yumurtanın Yapısı: Dişi bireylerde yumurta hücresinin gelişimi, embriyonik gelişim döneminde anne rahmindeyken başlar.
+Embriyonik gelişimin birinci ayında yumurtalık taslağına göç eden hücrelerin farklılaşmasıyla oluşan oogonyumlar mitozla milyonlarca hücre oluşturur. Gebeliğin üçüncü ayından itibaren oogonyumlar mayozun profaz I evresine girmeye başlar ve mayoz bu aşamada durdurulur. Ergenlik dönemine kadar mayozun diğer safhalarına geçilmez. Profaz I evresinde bekleyen bu hücrelere birincil oosit adı verilir. Bu hücrelerin etrafı desteklik sağlayan folikül hücreleri ile çevrilidir.
+Yumurtalıkta bulunan yumurta ana hücrelerinden (oogonium, 2n kromozomlu), dişi üreme hücresi olan yumurtanın (ovum, n kromozomlu) mayoz bölünme ile oluşmasına oogenez denir. Oogenez, yumurta ana hücresinden (2n) birincil oositin (2n) üretimi ile başlar. Ergenlikte folikül uyarıcı hormonun (FSH) etkisiyle her ay, bir folikülde bulunan birincil oosit, mayoz geçirmeye devam eder.
+Ergenlik dönemine kadar faaliyet göstermeyen yumurtalıklar, ergenlik dönemiyle birlikte hipotalamusun ürettiği gonadotropin (GnRH) etkisiyle hipofiz bezi ön lobundan FSH salgılanır. FSH yumurtalıklardaki foliküllerin büyümesini uyarır. Folikül içindeki birincil oosit hücresi de büyür ve gelişir. Büyüyen folikül içindeki 2n kromozomlu birincil oosit mayoz I'i tamamlayarak ikiye bölünür.
+Sitokinez sonucunda oluşan n kromozomlu bu hücrelerin sitoplazma miktarları eşit değildir. Sitoplazmanın büyük çoğunluğunu alan hücre ikincil oosit adını alır. Çok küçük sitoplazmalı ve işlevsiz olan diğer hücreye birinci kutup hücresi denir. Bu hücre zamanla kaybolur.
+İkincil oosit, mayoz II evresine başlar ancak metafaz II evresinde bölünme durdurulur. İkincil oosit bu evrede folikül duvarının yırtılması ile yumurta kanalına bırakılır. Yumurta kanalına geçen ikincil oosit mayoz II'yi ancak içine bir sperm hücresi girerse tamamlar ve ikiye bölünür. Sonuçta yine bol sitoplazmalı yumurta hücresi ve az sitoplazmalı ikinci kutup hücresi oluşur. İşlevsiz olan kutup hücresi kaybolur ve spermle döllenen yumurta hücresi zigotu oluşturur.
+Erkeklerde görülen spermatogenezden farklı olarak dişilerde görülen oogenez ayda bir kez gerçekleşir. Ergenlik dönemiyle başlayan yumurta üretimi genellikle 46-54 yaşlarında menopoz adı verilen dönemle sonlanır.

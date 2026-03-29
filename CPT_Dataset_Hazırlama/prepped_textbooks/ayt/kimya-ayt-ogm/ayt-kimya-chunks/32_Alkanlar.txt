@@ -1,0 +1,27 @@
+# Alkanlar
+
+Alkanların yapılarında sadece tekli bağlar (sigma bağı) vardır; "parafin" de denir. Düz zincirli, dallanmış ve halkalı yapıda olabilir. Tüm karbonlar sp\(^3\) hibritleşmesi yapmıştır. Alkanların genel formülü C\(_n\)H\(_{2n+2}\), halkalı alkanların genel formülü C\(_n\)H\(_{2n}\)'dir. Bağ açıları 109,5°, geometrileri düzgün dörtyüzlü, VSEPR gösterimi AX\(_4\).
+
+Apolar yapıdadır; molekülleri arasında London kuvvetleri etkilidir. Karbon sayısı arttıkça kaynama noktası yükselir, dallanma arttıkça kaynama noktası düşer. İlk 4 üye standart şartlarda gaz, C\(_5\)-C\(_{17}\) sıvı, karbon sayısı 17'den fazla olanlar katıdır. Suda çözünmez; karbon tetraklorür ve benzen gibi apolar çözücülerde çözünür. Karbon sayısı ardışık alkanlar arasında CH\(_2\) kadar fark olduğundan homolog sıra oluşturur. Yapılarında yalnız σ bağı olduğundan kararlıdır, az sayıda tepkime verir. Kaynakları petrol ve doğal gazdır. Polimerleşmez.
+
+Molekül formülü bir moleküldeki tüm atomların sayısını gösterir. Yapı formülü (açık formül) tüm bağların açık şekilde yazıldığı formüldür. Yarı açık formülde karbon ve hidrojen atomları arasındaki bağlar gösterilmez. Sıkıştırılmış yapı formülünde bağlar gösterilmez.
+
+Alkanların adlandırılmasında en uzun karbon zinciri seçilir. Dallanma hangi uca daha yakınsa o uçtan itibaren küçük numaralar verilir. Bağlı gruplar iki uca da aynı uzaklıkta ise alfabetik önceliğe göre numaralandırılır ve isimleri okunur. Sayılar arasına virgül, sayı ile harf arasına tire (-) konulur. Di, tri, sekonder ekleri alfabetik sırada dikkate alınmaz; izo ve neo ekleri alfabetik olarak dikkate alınır. En son olarak en uzun zincire karşılık gelen alkanın adı yazılır. Alkanlardan bir hidrojen çıkarılması ile oluşan radikal gruba alkil denir (R– ile gösterilir); alkanın adının sonundaki -an eki yerine -il getirilir (metil, etil, propil, bütil). Ana zincirde dallanma yoksa n-alkan şeklinde adlandırılır. Ana zincirin 2. karbonuna bir tane metil bağlı ise izo-alkan, iki tane metil bağlı ise neo-alkan denir.
+
+Alkanlara halojen (F, Cl, Br, I) bağlanması ile oluşan bileşiklere haloalkan denir.
+
+Karbon atomuna sadece başka bir karbon atomu bağlı ise primer karbon, 2 karbon atomu bağlı ise sekonder karbon, 3 karbon atomu bağlı ise tersiyer karbon denir.
+
+Halkalı alkanlar (sikloalkan): Karbon atomlarının halka oluşturacak şekilde dizilmesiyle oluşur; genel formül C\(_n\)H\(_{2n}\). Karbonların halka oluşturabilmesi için sayılarının en az 3 olması gerekir.
+
+Yapısal izomerlik: Kapalı formülleri aynı, açık formülleri farklı bileşiklerdir; atom cinsi ve sayısı, mol kütleleri, atomların kütlece % bileşimleri aynı, fiziksel ve kimyasal özellikleri farklıdır. Türleri: Zincir-dallanma izomerliği (aynı karbon sayılı hidrokarbonların düz zincirli ve dallanmış yazılması), zincir-halka izomerliği (kapalı formülleri aynı organik bileşiklerin halkalı ya da düz zincirli yazılması, örn. alken ve sikloalkan), konum izomerliği (aynı fonksiyonel grubun farklı karbon atomuna bağlanması), fonksiyonel grup izomerliği (kapalı formülleri aynı, fonksiyonel grupları farklı, örn. alkol ve eter).
+
+Stereoizomerlik: Atomların bağlanma şekilleri aynı, uzayda yöneliş şekilleri farklı. Geometrik izomeri (cis-trans) ve optik izomeri.
+
+Daha çok yakıt olarak kullanılır. Suda çözünmediklerinden meyve yüzeylerinde koruyucu etki (C\(_{29}\)H\(_{60}\)). Siklopropan cerrahide anestezik. Ham petrolün damıtılmasıyla elde edilen alkanlar: C\(_3\)'e kadar doğal gaz, çakmak gazı; C\(_5\)-C\(_6\) petrol eteri, çözücüler; C\(_6\)-C\(_7\) ligroin; C\(_5\)-C\(_{10}\) benzin; C\(_{12}\)-C\(_{18}\) kerosen – jet yakıtı; C\(_{12}\)'den fazlası gaz yağı, mazot; C\(_{20}\)'den fazlası yağlama yağı, mum, asfalt. Alkanlar (özellikle hekzan) çözücü olarak yaygın kullanılır. CH\(_3\)Cl (metil klorür) zehirli gaz, silikon polimer üretimi. CH\(_2\)Cl\(_2\) (dikloro metan) toksik, metal ve tekstil sanayisinde, kauçuk, fotoğraf filmi, sentetik lifler, mürekkep üretimi. CHCl\(_3\) (kloroform) anestezik. CCl\(_4\) (karbon tetraklorür) kuru temizleme; zehirli olduğundan yangın söndürmede kullanılamaz.
+
+1) Yanma: \(C_nH_{2n+2} + \left(\frac{3n+1}{2}\right)O_2 \rightarrow nCO_2 + (n+1)H_2O + \text{ısı}\). Karbon sayısı arttıkça açığa çıkan ısı artar.
+
+2) Yer değiştirme (sübstitüsyon): Halojen atomunun alkandaki hidrojen atomlarından biri ile yer değiştirmesi. Örneğin CH\(_4\) + Cl\(_2\) → CH\(_3\)Cl + HCl (monokloro metan); CH\(_3\)Cl + Cl\(_2\) → CH\(_2\)Cl\(_2\) + HCl (dikloro metan); CH\(_2\)Cl\(_2\) + Cl\(_2\) → CHCl\(_3\) + HCl (trikloro metan, kloroform); CHCl\(_3\) + Cl\(_2\) → CCl\(_4\) + HCl (tetrakloro metan, karbon tetraklorür).
+
+3) Kraking: Alkanların parçalanması. Katalizörlü ise katalitik kraking, katalizörsüz ise termal kraking. Örnek: C\(_8\)H\(_{18}\) → C\(_4\)H\(_{10}\) + C\(_4\)H\(_8\).

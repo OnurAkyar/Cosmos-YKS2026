@@ -1,0 +1,7 @@
+# Ortalama Değişim Hızı
+
+Ortalama değişim hızı, bir fonksiyonun belirli bir aralıktaki ortalama eğimini ölçer. Bir $f$ fonksiyonunun $[a, b]$ aralığındaki ortalama değişim hızı, fonksiyonun grafiğini $(a, f(a))$ ve $(b, f(b))$ noktalarında kesen doğrunun eğimidir. Bu eğim, $x$ değiştiğinde $f(x)$'in ortalama olarak ne kadar hızlı değiştiğini gösterir. $y = f(x)$ fonksiyonunun bu aralıktaki ortalama değişim hızı şu formülle hesaplanır:
+\[
+\text{Ortalama değişim hızı} = \frac{f(b) - f(a)}{b - a}.
+\]
+Bu ifade, $x$ ekseni ile pozitif yönde $\alpha$ açısı yapan kesen doğrunun eğimi $\tan \alpha$'ya eşittir. Doğrusal bir $f(x) = ax + b$ fonksiyonunun eğimi sabit olduğu için ($a$), herhangi bir aralıktaki ortalama değişim hızı da $a$ olur. Bu, doğrusal fonksiyonlarda değişim hızının sabit olduğu anlamına gelir. Artan fonksiyonların ortalama değişim hızı pozitif, azalan fonksiyonlarınki ise negatiftir. Bu işaret, fonksiyonun artan mı yoksa azalan mı olduğu hakkında bilgi verir. Ortalama değişim hızı, daha sonra anlık değişim hızı olan türev kavramına giden yolda önemli bir adımdır.

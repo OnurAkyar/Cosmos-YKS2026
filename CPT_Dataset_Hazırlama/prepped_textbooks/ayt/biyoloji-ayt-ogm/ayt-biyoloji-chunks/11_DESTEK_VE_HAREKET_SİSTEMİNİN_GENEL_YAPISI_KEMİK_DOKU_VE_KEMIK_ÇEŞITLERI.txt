@@ -1,0 +1,71 @@
+# DESTEK VE HAREKET SİSTEMİNİN GENEL YAPISI, KEMİK DOKU VE KEMIK ÇEŞITLERI
+
+Destek ve hareket sistemi; kemik, kıkırdak, kas ve bağ dokularından oluşur.
+Embriyo döneminde kıkırdak özelliğinde olan iskelet; kalsiyum karbonat, kalsiyum fosfat gibi mineral tuzların birikmesiyle kemikleşir.
+Kulak, burun, eklem gibi kısımlarda kıkırdak özelliği korunur.
+Kemikler birbirlerine eklemlerle bağlıdır ve kaslarla sarılmıştır.
+Destek ve hareket sistemi hareketi sağlama, vücuda destek olma, organları koruma, kaslara ve iç organlara bağlanma yüzeyi sağlama, bazı mineralleri depolama, kan hücrelerini üretme gibi görevleri yerine getirir.
+Yürümek, koşmak, konuşmak gibi eylemler destek ve hareket sistemini oluşturan yapılar sayesinde gerçekleştirilir.
+
+Kemik Dokusunun Yapısı, Çeşitleri ve Görevleri: Kemik dokunun hücrelerine osteosit, ara maddesine osein adı verilir. Osteosit hücreleri kemik dokuda bulunan lakün adı verilen boşluklarda bulunur. Lakünlere yerleşmiş osteositler ince uzantılarla birbirleriyle bağlantılıdır.
+Ara madde oseinin yapısında kolajen lifler, kalsiyum bileşikleri, potasyum, fosfor, magnezyum, florür, sodyum, demir gibi elementler bulunur.
+Kemik doku sert ve esnek bir yapıdadır. Kemik dokuya sertlik kazandıran yapılar kalsiyum fosfat ve kalsiyum karbonat tuzlarıdır, esneklik veren ise kolajen liflerdir.
+Kemik doku içerisinde sinir hücreleri ve kan damarları bulunur.
+Kemiklerin dış kısmını saran zara periost adı verilir. Periost, içerdiği bol miktarda kan damarı ve sinir sayesinde kemiğin enine büyümesini ve kırıkların onarılmasını sağlar.
+
+Kemikler doku yapılarına göre sıkı kemik doku ve süngerimsi kemik doku olarak ikiye ayrılır.
+
+Sıkı Kemik Doku: Düzenli bir yapıya sahiptir.
+Ara maddesinde yoğun bir şekilde kalsiyum fosfat ve kalsiyum karbonat tuzlarını bulundurduğundan sert ve sıkıdır.
+Sıkı kemik dokunun yapısı osteon adı verilen yapıların bir araya gelmesi sonucu oluşur. Osteonlar, Havers (Heyvırs) kanalları etrafında dairesel olarak yerleşmiş kemik tabakalardan ve bu tabakaların arasında lakün adı verilen boşluklara yerleşmiş osteositlerden oluşur.
+Havers kanalında sinir hücreleri ve kan damarları bulunur. Atardamarlar kemik dokunun ihtiyacı olan oksijen ve besinleri kemik dokuya taşır. Kemik dokuda oluşan atık maddeler de toplardamarlarla doku dışına taşınır.
+
+Osteonların merkezindeki Havers kanallarını birbirine bağlayan yan kanallara Volkmann (Volkmen) kanalı adı verilir.
+Osteonlar birbirinden yapışma hattı olarak bilinen sınırlarla ayrılır. Yapışma hatları çatlakların duraklama eğilimini artırarak kemiklerin kırılmaya karşı dayanıklı olmasını sağlar.
+
+Süngerimsi Kemik Doku: Gözenekli bir yapıya sahiptir.
+Küçük kemik plakalarının aralarında boşluk kalacak şekilde birbirine bağlanması sonucu oluşur.
+Süngerimsi kemik, içindeki çok sayıda boşluktan dolayı hafiftir.
+Kendi iç ağ örgüsü destekleyici bir sistem oluşturduğundan dayanıklıdır.
+Süngerimsi kemik dokunun boşluklarında kan hücrelerini üreten kırmızı kemik iliği bulunur.
+Süngerimsi kemik dokuda kanal sistemi bulunmaz. Süngerimsi kemik doku; yassı ve kısa kemiklerin iç kısımlarında, uzun kemiklerin uç kısımlarında ve ilik kanalı çevresinde bulunur.
+
+Şekillerine göre kemikler uzun, kısa, yassı, düzensiz şekilli kemikler olarak dört grupta incelenir.
+
+Uzun kemikler, boyları enlerine göre daha uzun olan kemiklerdir. Bacaklardaki baldır kemiği, kaval kemiği, uyluk kemiği; kollardaki pazu kemiği, ön kol kemiği uzun kemiklere örnektir.
+Uzun kemiklerin uç kısımları şişkindir ve baş olarak isimlendirilir, baş kısımlarının arasında kalan bölgeye ise gövde denir.
+Uzun kemiklerin baş kısımlarında periosttan sonra sıkı kemik doku ve onun altında süngerimsi kemik doku bulunur.
+Gövde büyük ölçüde sıkı kemik dokudan oluşur, ortasındaki boşlukta ise sarı kemik iliği yer alır. Sarı kemik iliği sadece uzun kemiklerde bulunur ve bol miktarda yağ içerir. İhtiyaç hâlinde kırmızı kemik iliğine dönüşerek kan hücrelerinin üretimine yardımcı olur.
+Uzun kemiklerin baş kısmında kıkırdak dokudan oluşmuş epifiz plağı vardır. Bu plak, ergenlik dönemi sonuna kadar kemiklerin boyca uzamasını sağlar.
+
+Kısa Kemikler: Uzunlukları, genişlikleri ve kalınlıkları birbirine yakın olan kemiklerdir.
+Kısa kemikler dıştan periostla çevrilidir. Periostun altında sıkı kemik doku onun altında süngerimsi kemik doku bulunur.
+Süngerimsi kemik dokuda kırmızı kemik iliği bulunur. Kısa kemiklerde kemik kanalı yoktur. El bilek ve ayak bilek kemikleri kısa kemiklere örnektir.
+
+Yassı kemikler, boyu ve genişliği kalınlığından fazla olan ince yapılardır. Yassı kemiklerin dış yüzeyini çevreleyen periostun altında sıkı kemik doku ve onun altında süngerimsi kemik doku bulunur.
+Kafatası kemikleri, kaburga kemikleri, kalça kemiği, kürek kemiği yassı kemiklere örnektir.
+
+Düzensiz Şekilli Kemikler: Belirli bir şekli olmayan kemiklerdir.
+Kasların tutunmasını sağlayan çıkıntıları bulunur. Baskılara dayanıklı ve sağlam kemiklerdir.
+Yapısı temel olarak kısa ve yassı kemiklere benzer. Bazı yüz kemikleri ve omur kemikleri düzensiz şekilli kemiklere örnektir.
+
+İskeletin Bölümleri: Yetişkin bir insan iskeleti, eksen iskeleti ve üyeler iskeleti olmak üzere iki ana bölüme ayrılır. Toplam 206 kemikten oluşur. Eksen iskeleti, vücudun eksenini veya gövdeyi destekleyen iskelettir. Üyeler iskeleti ise kol ve bacak kemikleri ile omuz ve kalça kemerlerinden oluşur.
+
+Eksen iskeleti: Vücudun kabaca eksenini oluşturan iskelet yapısıdır.
+Eksen iskeleti; baş, omurga ve göğüs iskeleti bölümlerinden olmak üzere toplam 80 kemikten oluşur.
+
+Baş iskeleti: Kafatası, yüz kemikleri, orta kulakta yer alan kemikler dil kemiği kemik olmak üzere toplam 29 kemikten oluşur.
+Diğer kemiklerden farklı olarak iskeletteki başka herhangi bir kemikle eklem yapmaz.
+Baş iskeletinde sadece alt çene kemiği hareketlidir.
+
+Omurga: Vücudun ağırlığını taşır, omuriliği korur, başın hareketini ve dik durmasını sağlar, kaburga ve iç organlara bağlanma bölgesi oluşturur. Omurgayı oluşturan kemiklere omur denir.
+Omurlar üst üste sıralandığında içlerindeki delik sayesinde bir kanal yapısı oluşur. Bu kanalda omurilik bulunur. Omurlar arasında kıkırdak dokudan oluşmuş diskler vardır.
+Omurlar yapı ve işlevleri bakımından boyun omurları, sırt omurları, bel omurları, sağrı omurları ve kuyruk sokumu omurları olarak beş bölümde incelenir. Birinci boyun omuruna atlas, ikincisine eksen adı verilir. Bu iki omurun arasında kıkırdak disk bulunmaz.
+
+Kaburgalar ve göğüs kemiği olmak üzere toplam 25 kemikten oluşur.
+Sırt omurlarına bağlanan kaburgaların ilk yedi çifti vücudun ön tarafında ayrı ayrı göğüs kemiğine bağlanır. Sonraki üç çift, birbiriyle birleşerek yedinci çift kaburgaya bağlanır. Kalan son iki çift kaburganın uçları göğüs kasları arasında serbesttir. Bu kaburgalara yüzücü kaburgalar denir.
+Kaburgaların göğüs kemiğine bağlandığı bölgelerde kıkırdak doku yer alır. Bu sayede göğüs kafesi esneklik kazanır. Kaburga göğüs bölgesindeki organları korur, destekler ve soluk alıp vermeyi sağlar.
+
+Üyeler iskeleti: Kol ve bacak kemikleri, omuz kemeri ve kalça kemerinden oluşur.
+Kol kemikleri pazu, dirsek, ön kol, el bilek, el tarak ve el parmak kemiklerinden; bacak kemikleri ise uyluk, diz kapağı, baldır, kaval, ayak bilek, ayak tarak ve ayak parmak kemiklerinden oluşur.
+Köprücük ve kürek kemiği omuz kemerini oluşturur. Oturga, çatı ve kalça kemikleri ise kalça kemerini oluşturur. Omuz kemerine kollar, kalça kemerine bacaklar eklemle bağlanır.

@@ -1,0 +1,3 @@
+# Belirli İntegralin Özellikleri
+
+$\int_a^a f(x) dx = 0$ (noktanın alanı sıfırdır). $\int_a^b f(x) dx = -\int_b^a f(x) dx$ (yön değiştirince işaret değişir). $\int_a^b f(x) dx = \int_a^c f(x) dx + \int_c^b f(x) dx$ ($a<c<b$) (alanların toplanabilirliği). $\int_a^b k f(x) dx = k \int_a^b f(x) dx$ (skaler çarpma). $\int_a^b [f(x) \pm g(x)] dx = \int_a^b f(x) dx \pm \int_a^b g(x) dx$ (lineerlik). Parçalı tanımlı fonksiyonlarda integral, parçaların ayrı ayrı integrali alınarak toplanır.

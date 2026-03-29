@@ -1,0 +1,8 @@
+# Tanjant ve Kotanjant Fonksiyonlarının İki Kat Açı Formülleri
+
+Tanjant ve kotanjant için iki kat açı formülleri:
+\[
+\tan 2\alpha = \frac{2\tan\alpha}{1 - \tan^2\alpha}, \qquad
+\cot 2\alpha = \frac{\cot^2\alpha - 1}{2\cot\alpha}.
+\]
+Bu formüller, trigonometrik denklemleri çözerken veya belirli integralleri hesaplarken kullanılır. Ayrıca, $\tan 2\alpha$ ifadesi $\frac{2\tan\alpha}{(1-\tan\alpha)(1+\tan\alpha)}$ şeklinde de yazılabilir. Bu yazım, bazı denklemlerde çarpanlara ayırmayı kolaylaştırır.

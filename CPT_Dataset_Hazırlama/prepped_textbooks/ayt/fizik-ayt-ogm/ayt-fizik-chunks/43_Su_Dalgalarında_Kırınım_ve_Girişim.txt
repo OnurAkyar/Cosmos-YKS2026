@@ -1,0 +1,3 @@
+# Su Dalgalarında Kırınım ve Girişim
+
+Kırınım, dalgaların bir engel veya yarık etrafında bükülmesidir. $\lambda \approx w$ olduğunda belirgindir; $\lambda > w$ olduğunda daha fazla kırınım olur. Girişim, iki kaynaktan gelen dalgaların üst üste binmesidir. Yapıcı girişim (katar) için yol farkı $n\lambda$; yıkıcı girişim (düğüm) için $(n-1/2)\lambda$.

@@ -1,0 +1,11 @@
+# Koligatif Özellikler
+
+Çözeltilerde çözünen maddenin (atom, iyon, molekül) sayısına ve derişimine bağlı olarak değişen özelliklere "koligatif özellikler" denir.
+
+Sabit sıcaklıkta kapalı bir kapta sıvısı ile dengede olan buharın basıncına "denge buhar basıncı" denir. Saf suya eklenen madde sıvısının buharlaşmasına engel olacak şekilde sıvı yüzeyinde bulunacağından çözeltinin buhar basıncı saf çözücünün buhar basıncından düşüktür. Çözünen maddenin derişimi arttıkça buhar basıncı düşer. Buhar basıncı düşmesi, çözeltide kaynama noktası yükselmesi, donma noktası alçalması ve ozmoza sebep olur. Buhar basıncı \(\propto\) sıcaklık, \(\propto \frac{1}{\text{derişim}}\), \(\propto \frac{1}{\text{moleküller arası çekim kuvveti}}\). Sıvılar her sıcaklıkta buharlaşır. Sıvının buhar basıncının dış basınca eşit olduğu sıcaklığa "kaynama noktası" denir. Aynı ortamda kaynayan farklı sıvıların buhar basınçları eşittir.
+
+Uçucu olmayan katı çözücüde çözündüğünde oluşacak sıvının buhar basıncı düşeceğinden bu değeri atmosfer basıncına eşitlemek zorlaşır ve kaynama noktası yükselir. \(\Delta T_k = K_k \cdot m \cdot T_s\) (suyun normal kaynama noktası 100 °C'ye eklenir). \(K_k = 0,52 \, \text{°C/m}\). \(T_s\) = tanecik sayısı (moleküler veya iyonik çözünme belirleyicidir). Örneğin C\(_6\)H\(_{12}\)O\(_6\)(k) → C\(_6\)H\(_{12}\)O\(_6\)(suda) (tanecik sayısı 1); NaCl(k) → Na\(^+\)(suda) + Cl\(^-\)(suda) (tanecik sayısı 2).
+
+Çözeltinin donma noktası, saf çözücünün donma noktasından küçüktür (kışın yollara tuz atılmasının sebebi). \(\Delta T_d = K_d \cdot m \cdot T_s\); \(K_d = 1,86 \, \text{°C/m}\). \(\Delta T_d\), suyun normal donma noktası olan 0 °C'den çıkarılır.
+
+Derişim farklı iki çözelti arasında, çözücü taneciklerinin geçişine izin veren zar yardımıyla derişimi az olan çözeltiden derişik olan tarafa doğru çözücü geçişi olur. Bu olaya "ozmoz" denir. Ozmotik basınç, sıvı moleküllerinin geçişini durduran basınç olarak da tanımlanabilir. Yüksek basınçta "ters ozmoz" oluşur (deniz suyunun arıtımında kullanılır). U borusunun iki tarafında derişimler eşitse çözeltiler izotoniktir; derişimi yüksek çözelti hipertonik, düşük çözelti hipotoniktir. Su, ağacın yapraklarına ozmotik basınçla ulaşır.

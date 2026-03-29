@@ -1,0 +1,23 @@
+# Sosyolojide Kullanılan Veri Toplama Teknikleri
+
+Sosyolojide kullanılan bilimsel yöntemlerin uygulanabilmesi için bazı verilere ihtiyaç vardır. Bu verileri elde etmek için ise araştırmanın yöntemine bağlı olarak bazı veri toplama teknikleri kullanılır.
+
+Yapılandırılmış (sistematik) gözlem, şartları araştırmacı tarafından oluşturulan ve araştırmacı tarafından değiştirilen gözlem şeklidir. Sistematik gözlemde araştırmacı neyi, nasıl gözlemleyeceğini ve kaydedeceğini bilmekte, gözlemlerini elindeki gözlem çizelgesine, soru listesine veya testlere kaydetmektedir. Sosyolojik araştırmalarda araştırılmak istenen bireylerin tamamı evren kavramıyla, evreni temsil edici nitelikteki örnek grup ise örneklem kavramıyla ifade edilir.
+
+Anket, önceden hazırlanmış soruların cevaplayıcılara posta, genel ağ veya telefon aracılığıyla ya da yüz yüze sorulduğu veri toplama tekniğidir. Anketler sayesinde bireylerin toplumsal olaylar, davranışlar, görüşler ve tutumlarla ilgili görüşlerini öğrenmek mümkün olur. Anket tekniğinin başarısı örneklem grubunun evreni ne kadar iyi temsil ettiğine bağlıdır.
+
+Yapılandırılmış görüşme, önceden belirlenmiş ve standart bir görüşme formunda (soru kâğıdı) yazılı bulunan soruların görüşülen bireylere yüz yüze sorulduğu veri toplama tekniğidir. Araştırmacı, görüşme tekniğinde deneklere bir dizi açık uçlu soru sorar. Denekler bu sorulara diledikleri gibi cevap verirler. Görüşme tekniği, bu yanıyla önceden belirlenmiş seçeneklerden oluşan anket tekniğinden ayrılır. Bireylerin sorulara diledikleri gibi cevap verebilmesi yapılandırılmış görüşmeyi anketten ayıran en önemli farktır.
+
+Survey, araştırılma evrenini temsil edecek bir örnekleme sahip olan, standart veri toplama araçlarının kullanıldığı ve verilerin birden çok veri toplama tekniği ile toplandığı araştırma tekniğidir.
+
+Monografi, toplumda sınırları belirlenmiş bir konunun, bir toplumsal birimin anket, gözlem, görüşme gibi teknikler yoluyla, her yönüyle derinlemesine incelenmesidir. Monografi tekniğini kullanan araştırmacı inceleyeceği olayın ya da bir toplumsal birimin kapsamına giren grupların hepsini ele almak yerine örneklem olarak bunların birkaçını alıp tüm yönleriyle derinlemesine inceler. Burada önemli olan seçilen örneklemin, temsil ettiği bütünün özelliklerini taşımasıdır. Monografi tekniğini ilk kez uygulayan Frederic Le Play işçi aileleri üzerinde araştırma yapmıştır. Monografide araştırmacı, konu kapsamına giren grupların hepsini ele almak yerine seçeceği örneklem üzerinde derinlemesine inceleme yapar.
+
+Sosyometri, bir grubu oluşturan bireyler arasındaki tutum ve davranış örüntülerini belirlemek için kullanılan yönteme verilen addır. Bir toplumsal gruba bağlı üyelerin birbirine karşı duydukları sevgi, saygı, kıskançlık, beğeni gibi duygusal bağları ortaya çıkarmaya çalışan bir ölçme tekniğidir. Sosyometri bir grubun üyelerine birbirlerine karşı ne hissettiklerini sorma temeline dayanır. Bir grup içindeki kişilerin birbirlerine yakınlaşma ve uzaklaşma dereceleri sosyometrik testlerle ölçülür. Elde edilen bilgiler sonucunda sosyogram denilen şema ya da grafikler oluşturulur. Sosyometri, küçük grupların incelenmesinde önemli bir tekniktir.
+
+Derinlemesine görüşme, az sayıda insanla görüşülerek ayrıntılı ve derinlemesine bilgi edinilmesinin hedeflendiği, standart bir görüşme formunun kullanılmadığı veri toplama tekniğidir.
+
+Yapılandırılmamış (basit) gözlem, gözlem çizelgesi gibi standart bir veri toplama aracının kullanılmadığı veri toplama tekniğidir. Katılımlı ve katılımsız gözlem olmak üzere iki türü vardır. Araştırmacının çalıştığı konuyla ilgili grubun içine girip grubun bir parçası olmaya çalıştığı gözlem katılımlı gözlemdir. Araştırmacının gözlemlediği grubun bir üyesi hâline gelmediği, bireylerin dışarıdan gözlemlendiği teknik ise katılımsız gözlemdir. Yapılandırılmamış gözlemde standart veri aracı kullanılmaz.
+
+Yaşam öyküsü, bir araştırma probleminin taşıyıcısı olan bireylerin yaşam süreçlerinin ince ayrıntılarına inilerek ilgilenilen olgu ya da olayın somut bir içerik ve bir örnek olay üzerinden araştırıldığı tekniktir.
+
+Örnek olay (vaka) incelemesi, sınırları belirlenmiş bir sosyal olayın kendi bağlamı içinde çeşitli veri toplama teknikleriyle bilgi toplanarak bütüncül olarak araştırıldığı veri toplama tekniğidir. Örnek olay incelemesinde inceleme alanı tek bir konuyla sınırlıdır. Olay incelemesi tekniği, incelenen olaya derinliğine nüfuz edebilme, olay hakkında ayrıntılı bilgi sahibi olabilme ve olayın tekilliğini kavrayabilme imkânı verir. Örnek olay incelemesi en çok kriminoloji alanında kullanılır.

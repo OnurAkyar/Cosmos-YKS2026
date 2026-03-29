@@ -1,0 +1,3 @@
+# Kürede Uzunluk, Alan ve Hacim
+
+Küre, merkezden eşit uzaklıktaki noktaların oluşturduğu yüzeydir. Yarıçapı $r$ olan bir kürenin yüzey alanı $4\pi r^2$, hacmi ise $\frac{4}{3}\pi r^3$ tür. Bir kürenin bir düzlemle arakesiti bir çemberdir. Bu çember kürenin merkezinden geçiyorsa büyük çember adını alır ve yarıçapı $r$'dir. Kürenin yüzey alanı, büyük çember alanının 4 katıdır. Hacim formülü, integral hesabıyla veya Arşimet'in yöntemiyle türetilebilir.

@@ -1,0 +1,13 @@
+# Basit Makineler (Palanga, Eğik Düzlem, Vida, Çıkrık, Çark, Kasnaklar ve Verim)
+
+Palanga, sabit ve hareketli makaralardan oluşan sistemdir. Kuvvet kazancı, yükü taşıyan ip sayısına eşittir. Örneğin üç taşıyıcı ip varsa $F = G/3$, dört ip varsa $F = G/4$ olur.
+
+Eğik düzlem kuvvet kazancı sağlar. Sürtünmesiz eğik düzlemde $F = G \sin\alpha = G \cdot h/s$. Açı arttıkça gerekli kuvvet artar.
+
+Dişli çarklar ve kasnaklarda devir sayısı, diş sayısı veya yarıçapla ters orantılıdır: $n_1 r_1 = n_2 r_2$. Dişliler birbirine zıt yönde döner. Aynı merkezli perçinli çarklar aynı yönde ve aynı devirde döner.
+
+Vida kuvvet kazancı sağlar. $F \cdot 2\pi L = P \cdot a$; burada $L$ kol uzunluğu, $a$ vida adımı, $P$ zemin direncidir. Kuvvet kazancını artırmak için $L$ büyütülür veya $a$ küçültülür.
+
+Çıkrıkta silindire sarılı ipin ucundaki yük, kola uygulanan kuvvetle dengelenir: $F \cdot R = G \cdot r$. Kol bir devir yaptığında yük $2\pi r$ yükselir. Yükü daha küçük kuvvetle kaldırmak için $R$ büyütülür veya $r$ küçültülür.
+
+Verim, alınan enerjinin verilen enerjiye oranıdır. İdeal makinelerde verim %100'dür; gerçek makinelerde sürtünmeler nedeniyle %100'ün altındadır.

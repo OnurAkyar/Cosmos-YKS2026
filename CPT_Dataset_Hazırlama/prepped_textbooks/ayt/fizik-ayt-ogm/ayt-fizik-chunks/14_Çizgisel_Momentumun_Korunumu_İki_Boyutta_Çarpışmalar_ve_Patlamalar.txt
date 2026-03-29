@@ -1,0 +1,13 @@
+# Çizgisel Momentumun Korunumu (İki Boyutta Çarpışmalar ve Patlamalar)
+
+İki boyutta çarpışmalarda momentum korunumu vektörel olarak uygulanır. $x$ ve $y$ bileşenleri ayrı ayrı korunur. Esnek olmayan çarpışmalarda momentum korunurken kinetik enerji korunmaz.
+
+Yatay bir zeminde durgun duran bir cisim iç patlama sonucu üç parçaya ayrıldığında, patlama öncesi momentum sıfır olduğu için son momentumların vektörel toplamı da sıfır olmalıdır: $\vec{P}_1 + \vec{P}_2 + \vec{P}_3 = 0$. Bu, parçaların momentumlarının bir üçgen oluşturduğu anlamına gelir.
+
+Örneğin, bir bilardo topu durgun duran iki özdeş topa çarptığında, gelen top durur ve diğer iki top belirli açılarla hareket eder. Momentumun korunumu gereği, çarpışma sonrası toplam yatay momentum ilk momentuma eşit, toplam düşey momentum ise sıfır olmalıdır.
+
+Bir tanktan mermi fırlatıldığında, tank ve mermiden oluşan sistemin ilk momentumu sıfır olduğu için son momentum da sıfır olmalıdır. Tankın kazandığı momentum, merminin momentumunun yatay bileşenine eşit ve zıt yönlüdür. Düşey bileşen ise yer tarafından dengelenir.
+
+Maksimum yükseklikte iç patlamaya uğrayan bir cismin patlama öncesi momentumu sıfırdır (tepe noktasında hız sıfır). Patlama sonrası parçaların momentumlarının bileşkesi de sıfır olmalıdır.
+
+Eğik atış yapan bir cisim maksimum yükseklikte iken sadece yatay hızı vardır. Bu noktada iç patlama olursa, patlama öncesi momentum yatay yöndedir. Patlama sonrası parçalardan biri serbest düşüyorsa (düşey hızı sıfır, yatay hızı yok), diğer parça yatay momentumu korumak için yatay hızını artırarak hareket eder.

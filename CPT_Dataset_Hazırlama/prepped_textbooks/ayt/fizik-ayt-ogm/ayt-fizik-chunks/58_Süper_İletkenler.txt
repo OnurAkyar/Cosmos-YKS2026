@@ -1,0 +1,3 @@
+# Süper İletkenler
+
+Kritik sıcaklık altında direnç sıfır olur (Meissner etkisi, manyetik alanı dışlama). Maglev trenleri, parçacık hızlandırıcılar, süper iletken kablolar bu teknolojiyi kullanır.

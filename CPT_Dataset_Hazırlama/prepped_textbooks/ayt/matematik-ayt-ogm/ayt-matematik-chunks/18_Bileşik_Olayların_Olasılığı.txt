@@ -1,0 +1,7 @@
+# Bileşik Olayların Olasılığı
+
+Birden fazla basit olaydan oluşan olaylara bileşik olay denir. Bileşik olaylarda iki veya daha çok olay birlikte ya da birbiri ardınca gerçekleşir. Örneğin, bir zarı arka arkaya iki kez attığımızda ilk atışta asal sayı, ikinci atışta çift sayı gelmesi bir bileşik olaydır. Ayrıca, bir torbadan top çekip başka bir torbaya atma ve ardından ikinci torbadan top çekme gibi ardışık işlemler de bileşik olaylardır. Bileşik olayların olasılığını hesaplamak için ağaç diyagramı kullanmak oldukça pratiktir. Ağaç diyagramı, tüm olasılık yollarını görselleştirir ve her bir dalın olasılığını çarparak toplam olasılığı bulmayı sağlar. Örneğin, A torbasında 4 yeşil 5 mavi, B torbasında 6 yeşil 3 mavi, C torbasında 2 yeşil 4 mavi top olsun. A'dan rastgele bir top çekilir; yeşilse B'den, maviyse C'den bir top çekilir. Çekilen topun yeşil olma olasılığı:
+\[
+\frac{4}{9} \cdot \frac{6}{9} + \frac{5}{9} \cdot \frac{2}{6} = \frac{8}{27} + \frac{5}{27} = \frac{13}{27}.
+\]
+Burada ilk terim, A'dan yeşil çekme ve ardından B'den yeşil çekme olasılığını; ikinci terim, A'dan mavi çekme ve ardından C'den yeşil çekme olasılığını temsil eder.

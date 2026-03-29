@@ -1,0 +1,38 @@
+# TEMEL DOKU
+
+Temel Dokunun Genel Özellikleri: Temel doku, bitkinin örtü ve iletim dokusu dışında kalan kısımlarını dolduran dokudur.
+Kök, gövde, yaprak gibi organların tümünde bulunur.
+Depo, fotosentez, destek gibi işlevler için özelleşmiş çeşitli hücreleri içerir.
+Parankima, kollenkima ve sklerenkima dokuları temel doku çeşitleridir.
+
+Parankima, tüm organların yapısında bulunan doku çeşididir.
+İnce çeperli, bol sitoplazmalı ve genellikle canlı hücrelerden oluşur.
+Parankima hücrelerinin çoğu, belirli koşullar altında bölünerek diğer bitki hücresi tiplerine dönüşebilen meristemden en az farklılaşmış doku çeşididir.
+Yaralanma gibi durumlarda bölünerek yeni hücreleri oluşturur ve yaralanma bölgelerini onarabilir.
+Tek parankima hücresinden laboratuvar ortamında bütün bir bitki oluşturmak da mümkündür.
+Bitkilerde en fazla bulunan dokudur.
+Bitkilerde görevlerine göre dört çeşit parankima dokusu bulunur. Bunlar: iletim parankiması, havalandırma parankiması, özümleme parankiması ve depo parankimasıdır.
+
+İletim demetlerinin etrafında sıralanan parankima hücrelerinden oluşur. Özümleme parankiması tarafından sentezlenen organik bileşiklerin diğer dokulara iletilmesi ve iletim sistemi aracılığı ile gelen suyun ve minerallerin fotosentez yapan hücrelere iletilmesini sağlayan parankima dokusudur.
+
+Havalandırma parankiması: Genellikle suda ve bataklıkta yaşayan bitkilerin kök ve gövdelerinde bulunur. Çok sayıda hücreler arası boşluğa sahiptir. Bu boşluklarda hava depo edilir ve bu boşluklar bitkinin gaz alışverişinde görev alır.
+
+Yapraklarda, otsu ve genç gövdelerde bulunur. Özümleme parankiması hücreleri bol kloroplast taşır. Fotosentez yaparak organik maddelerin sentezlenmesini sağlar. Mezofil olarak isimlendirilen yaprağın temel dokusu alt ve üst epidermis tabakaları arasında kalmıştır. Mezofil fotosentez için özelleşmiş parankima hücrelerinden oluşur. Palizat parankiması, üst epidermisin altında yer alan uzun ve silindirik hücrelerden oluşmuştur. Palizat parankiması hücreleri bol kloroplast içerdiğinden fotosentezin en yoğun yapıldığı yerdir. Sünger parankimasını oluşturan hücreler ise palizat parankimasına göre daha az kloroplastlıdır. Bu hücrelerin hücreler arası boşlukları daha fazladır. Sünger parankiması hücreleri yaprağın alt tarafında bulunur.
+
+Yaprak enine kesitinde özümleme parankiması Depo parankiması: bitkinin kök, gövde, meyve ve tohum kısımlarında bulunur. Nişasta, yağ, protein gibi besin maddelerini ya da suyu depolar. Kaktüslerde su, zeytinde yağ, fasulyede protein, patateste nişasta depolanması bu duruma örnek olarak verilebilir.
+
+Patateste depo parankiması Kollenkima (Pek Doku): Bitkinin büyümekte olan kısımlarına destek verir.
+Çiçek ve yaprak sapında, yaprak damarlarının çevresinde, genç gövde ve sürgün kısımlarında bulunur ve bu kısımlara mekanik destek sağlar.
+Canlı bir dokudur.
+Kollenkima hücrelerinin çeper kalınlığı parankima hücrelerinden fazladır. Hücre çeperlerinde selüloz ve pektin birikmesi nedeniyle kalınlaşmalar meydana gelmiştir.
+Kalınlaşmalar, hücrelerin teğetsel çeperlerinde görülür ve lameller oluşursa bu kalınlaşmaya levha kollenkiması; hücre çeperinin sadece köşe bölgelerinde oluşursa köşe kollenkiması adını alır.
+
+Sklerenkima (Sert Doku): Bitkinin büyümeyi tamamlamış, olgunlaşmış organlarında bulunur. Bu doku hücreleri selüloz ve bol miktarda lignin (odun özü) biriktirir. İlk oluştuğunda canlı olan bu doku, hücrelerinin çeperlerinde lignin birikmesi nedeniyle canlılığını yitirir.
+Sert çeperleri sayesinde bitkiyi destekler. Kollenkima hücrelerine göre çok daha serttir.
+Sert doku, sklerenkima lifleri ve taş hücreleri olmak üzere iki çeşittir.
+
+Sklerenkima lifleri: Bitkide gövde ve meyve kabuğunda, yapraklarda veya tohumlarda bulunabilir. Lifler uzun, ince ve kapalı uçludur. Gerilme ve darbelere karşı dirençlidir. Bitkiye destek sağlar. Örneğin keten lifleri ise dokuma sanayinde ticari amaçlı kullanılmaktadır.
+
+Küçük, düzensiz şekilli ve ölü hücrelerdir. Taş hücreleri, kalın ve odunlaşmış çeperlere sahiptir. Bitkide tek tek ya da gruplar hâlinde bulunabilir. Armut, ayva gibi meyvelerin etli kısımlarında; ceviz, fındık gibi sert kabuklu meyvelerin kabuğunda bol miktarda taş hücresi bulunur.
+
+Kollenkima ile sklerenkima arasındaki temel farklar şöyledir: Kollenkima canlı hücrelerden oluşur ve sitoplazma ile çekirdeğe sahipken sklerenkima ölü hücrelerden oluşur ve sitoplazma ile çekirdek içermez. Kollenkima esnek yapısıyla gerilme, kıvrılma ve uzayabilme özelliği gösterirken sklerenkima lifleri hariç bu özelliklerden yoksundur. Kollenkima hücre duvarları selüloz ve pektin birikimiyle kalınlaşmışken sklerenkima hücre duvarları selüloz ve lignin birikimiyle kalınlaşmıştır. Kollenkima bitkinin büyümesi devam eden genç kısımlarında (çiçek sapı, yaprak sapı, genç gövde ve sürgünler) bulunurken sklerenkima büyümesi sona ermiş kısımlarda yer alır; ceviz ve fındık kabuğu ile şeftali gibi meyvelerin çekirdeklerinde de bulunur. Kollenkima köşe kollenkiması ve levha kollenkiması olmak üzere iki çeşitken sklerenkima sklerenkima lifleri ve taş hücreleri olarak iki çeşide ayrılır.

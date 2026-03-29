@@ -1,0 +1,78 @@
+# FOTOSENTEZİN CANLILAR AÇISINDAN ÖNEMİ, FOTOSENTEZDE ROL OYNAYAN ÖGELER
+
+Güneş yeryüzündeki ana enerji kaynağıdır. Canlıların güneş enerjisini doğrudan kullanması ya da bu enerjiyi depolaması mümkün değildir. Bu yüzden güneş enerjisinin canlılar için kullanılabilir hâle gelmesi gerekir. Güneş enerjisinin canlıların kullanabileceği enerji şekline donuşmesi fotosentez ile sağlanır. Klorofil pigmenti bulunduran canlıların ışık enerjisini kullanarak inorganik maddelerden organik madde sentezlemelerine fotosentez denir.
+
+Fotosentezin Canlılar İçin Önemi: Fotosentezle üretilen organik besinler canlıların hücre yapısına katılır. Canlılar, bunu besin kaynağı olarak kullanır ve bu besinleri solunum olayı ile parçalayarak yaşamı için gerekli enerjiyi kazanır. Dolayısıyla fotosentez, ekosistemlerde besin ve enerji akısının temelini olusturan en önemli biyolojik olaydır.
+Fotosentetik canlılar atmosferdeki fazla karbondioksiti kullanarak sera etkisini azaltır.
+Fotosentezle atmosfere verilen oksijenin temel kaynağı fitoplanktonlar, algler ve bitkilerdir.
+Fitoplanktonlar ve algler, bütün mevsimlerde fotosentez yapar.
+Bazı bitkiler ise kısın yaprak döktüğü için fotosenteze daha az katkı sağlar.
+
+Fotosentez sürecinin Anlaşılmasına Katkı Sağlayan Bilim İnsanları ve Çalışmaları: bitkilerin küçük bir tohumdan zamanla nasıl büyük bir bitki hâline geldiği, kütlece nasıl büyüdüğü bilim insanları tarafından merak edilmiş ve günümüze kadar araştırma konusu olmuştur.
+
+Aristo (MÖ 384-322), bitkilerin besin maddelerini kökleri aracılığıyla topraktan ve sudan hazır aldıklarını ileri sürmüştür.
+
+Jan Baptist van Helmont (Cen Baptist ven Helmant), bitkilerdeki kütle artışının sudan kaynaklandığını ileri sürmüştür.
+
+Nicolas Theodore De Saussure (Nikola Tüudör Dö Suçyu), 1800'lü yılların başında bitkilerin güneş ışığında suyu ve karbondioksidi emdiği ve ağırlığının arttığı teorisini kanıtlamıştır. Ayrıca bitkilerin azotu havadan değil topraktan suda çözünmüş tuzlarla aldığını göstermiştir.
+
+Theodor Wilhelm Engelmann (Teodor Vilhelm Engelmin), ışığın dalga boyunun fotosentez hızına etkisini Engelman deneyi olarak ifade edilen basit bir düzenekle açıklamıştır.
+
+Frederick Blackman (Friderik Bilekmen), fotosentez hızının fotosenteze etki eden faktörlerden miktarı en düşük olanına göre belirlendiğini belirten Minimum kuralını bulmuştur.
+
+Cournelius Bernardus van Niel (Kornelyus Bernardis Van Niyıl), 1930'larda bitkiler tarafından salınan oksijenin daha önce düşünüldüğü gibi karbondioksitten değil su moleküllerinin bölünmesinden geldiğini belirlemiştir. Ayrıca CO2 kullanarak kendi besinini kendisi üreten ancak atmosfere oksijen vermeyen bakterilerle çalışmalar yapmış, bu çalışmalar sonucunda bakterilerin su yerine H2S kullandığında yan ürün olarak kükürt açığa çıktığını saptamıştır.
+
+Robert Hill (Rabırt Hil), 1937 yılında ortamda ışık, su ve uygun bir hidrojen yakalayıcısı bulunduğunda kloroplastların O2 oluşturabildiklerini görmüştür. Elektron alıcısının sudaki hidrojeni tutarak oksijeni serbest bıraktığını açıklamıştır. Buna da Hill reaksiyonu adı verilmiştir.
+
+Samuel Ruben (Semuul Ruben), 1941 yılında ağır oksijen atomu (18O2) taşıyan su (H218O) molekülleri ve normal oksijen atomu (16O2) taşıyan karbondioksit (C16O2) molekülleri ile yaptığı çalışmalarla Van Niel'in hipotezini doğrulamıştır.
+
+Peter Dennis Mitchell (Pitır Dönis Mişel), 1960 yılında mitokondrilerde ATP sentezi mekanizmasını açıklamıştır. Yapılan araştırmalar kloroplastlardaki ATP üretiminin de benzer şekilde olduğunu ortaya çıkarmıştır.
+
+Melvin Calvin (Melvin Kalvin), 1946 yılından itibaren fotosentezin ışıktan bağımsız reaksiyonları üzerinde çalışmış ve karbon metabolizmasını tüm ayrıntılarıyla açıklamıştır. Bu çalışmasından dolayı Melvin Calvin'e 1961'de Nobel Ödülü verilmistir.
+
+ Fotosentezde karbon kaynağı sadece karbondioksittir. Ancak hidrojen kaynakları farklılık gösterebilir. Bitkiler ve bazı bakteriler, suyu hidrojen kaynağı olarak kullanırken bazı fotosentetik bakteriler, hidrojen sülfürü hidrojen kaynağı olarak kullanıraktadır.
+
+Bitkilerde, siyanobakterilerde, öglenada ve alglerde gerçekleşen fotosentezin genel denklemi şu şekilde ifade edilir: 6CO₂ + 12H₂O, ışık enerjisi ve klorofil yardımıyla C₆H₁₂O₆ + 6O₂ + 6H₂O ürünlerine dönüşür.
+
+6CO₂ + 12H₂S → ışık enerjisi/klorofil → C₆H₁₂O₆ + 12S + 6H₂O
+
+Sonuç olarak tüm fotosentez çeşitlerinde ortak olarak 6CO2 tüketilip glikoz (C6 H12O6) üretilmektedir. Ancak tüketilen hidrojenli bileşikler aynı olmayıp atmosfere verilecek yan ürün çeşitlerini değiştirmektedir. Elektron kaynağı olarak suyun kullanıldığı fotosentez olayında reaksiyona giren ve reaksiyondan çıkan moleküller ve atomların izlediği yollar denklemde gösterildiği gibidir.
+
+Karbondioksit ve su moleküllerinin yapısındaki atomların fotosentez reaksiyonlarında izlediği yol verilmiştir.
+
+Fotosentez reaksiyonlarında karbondioksit molekülündeki karbon atomları glikozun yapısına katılır. Sudaki hidrojen atomları hem glikozun hem de açığa çıkan suyun yapısına katılır. Sudaki oksijen atomları glikozun ve açığa çıkan suyun yapısına katılır. Karbondioksitteki oksijen atomları ise atmosfere verilir.
+
+Fotosentez, ışık yardımıyla pigmentlerin ve enzimlerin etkinliği ile gerçekleşen bir olaydır. Fotosentezde görevli enzimler ve pigmentler fotosentetik bakterilerde hücre zarında, fotosentetik ökaryotlarda ise kloroplastlarda yer almaktadır. Burada zaman zaman prokaryotlardan söz edilse de ağırlıklı olarak bitkilerdeki fotosentez mekanizması anlatılacaktır. Fotosentetik ökaryotlarda gerçekleşen fotosentezde CO2 ve H2 O dışında rol oynayan temel ögeler kloroplast, ışık enerjisi ve pigmentlerdir.
+
+Fotosentez, ökaryot canlılarda kloroplast organelinde gerçekleşir. Kloroplast, öglena, bazı algler ve bir bitkinin tüm yeşil kısımlarında bulunur.
+
+Kloroplast organelinin dışında seçici geçirgen çift katlı zar bulunur.
+İç kısmı ise keselerden oluşan ve tilakoit adı verilen özel bir zar ağı ile örülmüştür.
+Tilakoit zarlarında ışığı absorbe etme özelliğine sahip yeşil renkli klorofil pigmentleri yer alır.
+Tilakoitler, sütun hâlinde üst üste gelerek granum adı verilen yapıyı meydana getirir.
+Granumlar da ara lamellerle birbirine tutunarak ışığın daha fazla emilmesini sağlayan granayı oluşturur.
+Kloroplastın iç kısmı ise tilakoitlerin gömüldüğü stroma adı verilen renksiz bir ara madde ile doludur.
+Stroma sıvısında DNA, RNA, ribozom ve fotosentez için gerekli enzimler, amino asitler, bazı proteinler, lipit ve nişasta yer alır.
+
+Fotosentez basit bir reaksiyon değil, farklı evrelerden oluşan reaksiyonlar zinciridir. Bu evreler, kloroplastın farklı yerlerinde gerçekleşir. Tilakoitlerde güneş enerjisi kimyasal enerjiye dönüştürülür. Stromada ise bu enerji, karbondioksiti basit şekere indirgemek için kullanır.
+
+Kloroplast, kendine ait DNA'sı olduğundan belli bir büyüklüğe geldiğinde veya ihtiyaç duyulduğunda hücre çekirdeği kontrolünde kendini eşleyerek çoğalabilir. Kloroplast içinde gerçekleşen tepkimelerde görevli enzimlerin üretimini stroma içindeki ribozomlar yapar. Kloroplastlarda üretilen ATP'ler, fotosentez tepkimelerinde kullanılır.
+
+Işık Enerjisi: Işığın yapısındaki yüksek hızla hareket eden ve enerji yüklü olan taneciklere foton denir. Güneş'in yaydığı elektromanyetik ışınlardan görünür dalga boyunda olanların fotonlarındaki enerji fotosentezde kullanılır.
+Işık, elektromanyetik denen bir enerji şekli olup dalgalar hâlinde yayılır.
+Elektromanyetik dalgalar arasındaki uzaklığa ışığın dalga boyu denir.
+Doğada görülen veya görülmeyen farklı dalga boylarına sahip ışıklar vardır.
+
+Elektromanyetik spektrumda yer alan yaşam için önemli ışığın yaklaşık 380 nm ile 750 nm arasındaki dalga boyları insan gözüyle görülebildiğinden görünür ışık (beyaz ışık) olarak isimlendirilir.
+
+Beyaz ışık prizmadan geçirildiğinde mor, mavi, yeşil, sarı, turuncu ve kırmızı renkli ışık bantları oluşturur.
+Dalga boyu uzun olan kırmızı ışığın enerjisi düşük, dalga boyu kısa olan mor ışığın enerjisi yüksektir.
+
+Görünür ışığı (beyaz ışık) emen (soğuran) maddelere pigment denir. Farklı pigmentler farklı dalga boyundaki ışığı soğurur, soğrulmayan ışınları ise geçirir veya yansıtır. Bitkilerde çeşitli renklerin görünümüne sebep olan başlıca pigmentler klorofil, karoten, ksantofil ve likopendir.
+Klorofil pigmentinin yapısında karbon (C), hidrojen (H), oksijen (O), azot (N) ve magnezyum (Mg) atomları bulunur.
+Klorofil, canlılarda yeşil renk görünümünü sağlar ve ışık enerjisini emer.
+Yapısındaki elektronlar ile ışık enerjisini ETS elemanlarına aktarır ve ışık enerjisinin kimyasal enerjiye dönüşümünü sağlar.
+Ortamda mutlaka ışık ve demir (Fe) elementi bulunmalıdır. Çünkü demir elementi klorofilin sentezinden sorumlu enzimin kofaktörüdür.
+Bitkilerde plastitlerin içinde bulunan turuncu renkli karoten, sarı renkli ksantofil ve kırmızı renkli likopen pigmentleri karotenoitler olarak isimlendirilir.
+Karotenoitler fotosentez yapmaz ancak klorofilin soğurduğu ışınlardan farklı dalga boyundaki ışınları soğurarak klorofile aktarır.
+Bazı karotenoitler, fazla ışığı emerek klorofil molekülünün zarar görmesine engel olur.

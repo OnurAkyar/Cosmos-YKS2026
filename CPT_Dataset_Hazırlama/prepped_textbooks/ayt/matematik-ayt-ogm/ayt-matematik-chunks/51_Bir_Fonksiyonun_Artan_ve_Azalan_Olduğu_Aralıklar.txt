@@ -1,0 +1,3 @@
+# Bir Fonksiyonun Artan ve Azalan Olduğu Aralıklar
+
+$f$ $[a,b]$'de sürekli ve $(a,b)$'de türevlenebilir olsun. Her $x \in (a,b)$ için $f'(x) > 0$ ise $f$ $[a,b]$'de artandır. Her $x \in (a,b)$ için $f'(x) < 0$ ise $f$ $[a,b]$'de azalandır. $f'(x) = 0$ ise $f$ sabittir. Bu bilgi, bir fonksiyonun grafiğini çizerken hangi aralıklarda yükseldiğini veya alçaldığını belirlemeye yarar. Türevin işareti, fonksiyonun eğimini gösterir.

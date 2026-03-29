@@ -1,0 +1,3 @@
+# Açısal Momentum
+
+Açısal momentum $\vec{L} = \vec{r} \times \vec{P}$, büyüklüğü $L = m v r = I \omega$. Yönü sağ el kuralı ile bulunur. Tork, açısal momentumun zamana göre türevidir: $\vec{\tau} = \frac{d\vec{L}}{dt}$. Dış tork sıfır ise açısal momentum korunur ($L = \text{sabit}$). Buz patencisi kollarını kapatarak dönüş hızını artırır buna örnektir.

@@ -1,0 +1,3 @@
+# Gerçek Hayat Durumları İle İlgili Dizi Problemleri
+
+Fibonacci dizisi: $1, 1, 2, 3, 5, 8, 13, 21, \dots$ şeklinde ilerler. İlk iki terim 1, sonraki her terim kendinden önceki iki terimin toplamıdır: $a_1=1$, $a_2=1$, $a_n = a_{n-1} + a_{n-2}$ ($n>2$). Genel terimi $a_n = \frac{1}{\sqrt{5}}\left[\left(\frac{1+\sqrt{5}}{2}\right)^n - \left(\frac{1-\sqrt{5}}{2}\right)^n\right]$ olan Fibonacci dizisi, doğada (örneğin ayçiçeği tohumları, sarmal kabuklar) ve finansal piyasalarda sıkça görülür. Ünlü tavşan problemi: Bir çift tavşan her ay yeni bir çift doğurur (iki ay sonra cinsel olgunluğa ulaşarak). Başlangıçta bir çift ile başlandığında aylık tavşan sayıları Fibonacci dizisini verir. Bu problem, popülasyon dinamiklerinin basit bir modelidir.

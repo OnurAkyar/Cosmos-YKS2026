@@ -1,0 +1,31 @@
+# KSİLEMDE SU VE MİNERALLERİN TAŞINMASI
+
+Ksilemde Madde Taşınmasının Genel Özellikleri: Topraktan alınarak ksileme ulaşan suyun ve suda çözünmüş minerallerin bitkinin üst kısımlarına taşınmasında kök basıncı, kılcallık, terleme ve kohezyon kuvveti etkilidir.
+Ksilemde su ve mineraller kök basıncı ile yukarı doğru itilirken terleme ve kohezyon kuvveti ile yapraklara doğru çekilir.
+Suyun taşınması osmozla gerçekleşir.
+Minerallerin taşınması ise kolaylaştırılmış difüzyon ya da aktif taşıma ile gerçekleşir.
+
+Terlemenin neredeyse hiç olmadığı zamanlarda, özellikle geceleri, kök hücreleri mineralleri ksileme doğru aktif taşıma ile taşır. Bu sırada endodermde bulunan kaspari şeridi minerallerin geri dönmesini engeller.
+Ksilem de fazla minerallerden dolayı içindeki ozmotik basıncı artırır ve suyun ksileme doğru ilerlemesini sağlar. Fazla iyon yoğunluğundan suyun ksilemde yukarı doğru itilmesini sağlayan basınca kök basıncı denir.
+Su, bu basınç sayesinde gövde içinde yukarılara doğru ilerler.
+Kök basıncı sadece canlı yapılarda gerçekleşir.
+Bitkinin yaşadığı ortam ne olursa olsun bulunduğu ortamdan su alabilmesi için kök ozmotik basıncı, toprak ozmotik basıncından daha fazla olmalıdır. Ancak kök basıncı, tek başına suyun taşınması için yeterli değildir.
+Kök basıncı, bazı otsu bitkilerde ihtiyaçtan fazla olan suyun yaprak kenarlarındaki hidatotlardan gutasyon yolu ile atılmasına neden olur. Bu, suyun gövde içinde yukarı doğru taşınmasında etkili bir durumdur.
+
+Kılcallık: Ksilem borularının çapının küçük olması içerisinde ilerleyen su ile ksilem boruları arasındaki gerilimi artırır.
+Su moleküllerinin hidrojenleri ile ksilemin çeperleri birbirini çeker.
+Ksilem çeperinin su moleküllerine uyguladığı çekim kuvveti olan adhezyon suyun yükselmesinde etkilidir. Bu yüzden ksilem borularının çapı ne kadar küçük olursa içindeki sıvının yükselmesi de o ölçüde kolay olur. Ancak kılcallık, suyun yükselmesinde diğer faktörlere göre en az etkili olandır.
+Kılcallık canlı ve cansız yapılarda gerçekleşebilir.
+
+Terleme ve Kohezyon Gerilim Teorisi: bitkilerde ksilem öz suyunun yukarılara taşınmasını sağlayan en büyük etki terleme ve kohezyon gerilim teorisi ile açıklanır.
+Fotosentez sırasında suyun kullanılması ve yapraklardaki stoma adı verilen gözeneklerden suyun gaz hâlinde atılmasıyla bitkilerde su kaybı gerçekleşir. Stomada gerçekleşen bu olaya terleme (transpirasyon) denir.
+Terlemede su buharı, yapraktaki hava boşluklarından stomalar aracılığı ile daha kuru olan dış havaya geçer.
+Kaybedilen su buharının yerini, mezofil hücrelerini örten su filminden gaz durumuna geçen su damlacıkları doldurur. Su filminin buharlaşması, hava ile su kesişme yüzeyinde yüzey gerilimini artırarak negatif basınç potansiyeli oluşturur.
+Yüzey gerilimindeki artış, komşu hücrelerden ve hava boşluklarından suyu çeker.
+Ksilemdeki su, kaybedilen su ile yer değiştirmek üzere komşu hücrelere ve hava boşluklarına çekilir. Bunun neticesinde su kökten yukarı doğru emilir.
+Aynı tür moleküllerin birbirine uyguladığı çekim kuvvetine kohezyon denir. Su molekülleri arasında hidrojen bağları kurulur. Bu kuvvet, bitkinin en üst kısımlarına suyun sütun hâlinde çıkmasına katkı sağlar.
+Terleme kohezyon kuvveti canlı ve cansız yapılarda gerçekleşebilir.
+Suyun bitkinin üst kısımlarına kadar taşınmasına, farklı moleküller arasındaki çekim kuvveti olan adhezyon da etki eder. Su, ksilem içerisinde birbirine kohezyon kuvveti ile bağlı iken ksilem çeperlerinin iç yüzeyine de adhezyon kuvveti ile tutunur.
+Terleme olayı, topraktan su ile minerallerin alınmasını ve taşınmasını sağlamasının yanı sıra boşaltımı da sağlayarak su dengesini de korur.
+Yaprak yüzeyinin genişliği, stoma sayısı, iletim demetlerinin sayısı, emici tüy hücrelerinin sayısı terlemeyle doğru orantılıdır.
+Stomaların yapraktaki konumları da terlemede etkilidir.

@@ -1,0 +1,3 @@
+# Eylemsizlik Momenti ve Dönme Kinetik Enerjisi
+
+Eylemsizlik momenti $I = \sum m_i r_i^2$ (noktasal kütleler için). Dönme kinetik enerjisi $E_D = \frac{1}{2} I \omega^2$. Dönerek ötelenen cisimlerin toplam kinetik enerjisi $E = \frac{1}{2} m v^2 + \frac{1}{2} I \omega^2$.

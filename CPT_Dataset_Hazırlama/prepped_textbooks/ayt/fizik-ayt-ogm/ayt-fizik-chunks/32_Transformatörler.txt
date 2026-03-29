@@ -1,0 +1,3 @@
+# Transformatörler
+
+Transformatörler, AC gerilimi yükseltmek veya alçaltmak için kullanılır. Primer ve sekonder sargılardan oluşur. İdeal transformatörde $\frac{V_P}{V_S} = \frac{N_P}{N_S} = \frac{i_S}{i_P}$ ve $V_P i_P = V_S i_S$. Verim = çıkış gücü / giriş gücü.

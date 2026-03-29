@@ -1,0 +1,3 @@
+# Özel Görelilik (Göreli Zaman, Göreli Uzunluk ve Kütle Enerji Eşdeğerliği)
+
+Zaman genişlemesi: $\Delta t = \gamma \Delta t'$, $\gamma = \frac{1}{\sqrt{1-v^2/c^2}} > 1$. Hareketli saat daha yavaş işler. Uzunluk büzülmesi: $L_0 = \gamma L$, hareket doğrultusunda uzunluk kısalır, dik yönde değişmez. Kütle‑enerji eşdeğerliği: $E = m c^2$.

@@ -1,0 +1,7 @@
+# Sekant ve Kosekant Fonksiyonu
+
+Sekant ve kosekant, sırasıyla kosinüs ve sinüsün çarpmaya göre tersi olarak tanımlanır:
+\[
+\sec \alpha = \frac{1}{\cos \alpha}, \qquad \csc \alpha = \frac{1}{\sin \alpha}.
+\]
+Sekant fonksiyonunun tanım kümesi $\cos \alpha \neq 0$ yani $\alpha \neq \frac{\pi}{2} + k\pi$, görüntü kümesi $\mathbb{R} \setminus (-1, 1)$'dir. Çünkü $|\cos \alpha| \le 1$ olduğundan $|\sec \alpha| \ge 1$ olur. Kosekant için tanım kümesi $\sin \alpha \neq 0$ yani $\alpha \neq k\pi$, görüntü kümesi de $\mathbb{R} \setminus (-1, 1)$'dir. Bu fonksiyonlar, trigonometrik denklemlerde ve bazı integrallerde kullanılır. Ayrıca, bazı geometrik problemlerde, birim çembere teğet doğruların uzunlukları olarak yorumlanabilirler.

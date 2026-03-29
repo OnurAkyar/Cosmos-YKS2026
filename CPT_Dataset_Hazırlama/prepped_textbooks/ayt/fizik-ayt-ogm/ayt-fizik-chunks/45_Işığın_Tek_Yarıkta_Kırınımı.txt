@@ -1,0 +1,3 @@
+# Işığın Tek Yarıkta Kırınımı
+
+Tek yarıkta kırınım deseninde merkezi aydınlık saçak diğerlerinin iki katı genişliktedir. Saçak aralığı $\Delta x = \frac{\lambda L}{w n}$.

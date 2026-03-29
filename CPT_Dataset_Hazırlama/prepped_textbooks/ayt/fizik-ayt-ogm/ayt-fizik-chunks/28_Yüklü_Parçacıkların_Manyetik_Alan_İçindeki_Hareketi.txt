@@ -1,0 +1,5 @@
+# Yüklü Parçacıkların Manyetik Alan İçindeki Hareketi
+
+Manyetik alan içinde hareket eden yüklü parçacığa etki eden kuvvet $F = q v B \sin\alpha$ dır. $\alpha$, $\vec{v}$ ile $\vec{B}$ arasındaki açıdır. Kuvvetin yönü sağ el kuralı ile bulunur (negatif yükler için başparmak hızın tersi yönünde tutulur). Kuvvet her zaman hıza diktir, bu nedenle manyetik alan iş yapmaz.
+
+Parçacık manyetik alana dik girerse, $F = qvB$ merkezcil kuvvet görevi görür ve parçacık düzgün çembersel hareket yapar. Yörünge yarıçapı $r = \frac{mv}{qB}$ dir. Parçacık alana paralel girerse kuvvet etki etmez, doğrusal hareket devam eder.

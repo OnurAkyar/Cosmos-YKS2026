@@ -1,0 +1,33 @@
+# Biyoçeşitlilik ve Biyomlar
+
+Canlıların doğal ortam içinde yaşadığı küre olan biyosfer; litosfer, atmosfer ve hidrosfer ile etkileşim hâlindedir. Bir bölgedeki çeşitli özelliklere sahip bitki ve hayvan türleri ile mikroorganizmaların sayısını ve bu canlıların birbirleriyle olan ilişkilerini ifade eden kavrama biyoçeşitlilik denir. Biyoçeşitliliğin yeryüzüne dağılışını etkileyen faktörler fiziki (doğal) faktörler, paleocoğrafya faktörleri ve biyolojik faktörler olarak üç grupta incelenir.
+
+Fiziki faktörler arasında iklim en başta gelir; sıcaklık ve yağış, karalarda yaşayan canlıların dağılışını etkileyen en önemli iklim elemanlarıdır. Sıcaklık ve yağışın fazla olduğu iklim bölgelerinde biyoçeşitlilik fazladır. Bu faktörlere ek olarak ışık ve rüzgâr da canlıların dağılışını etkiler. Yeryüzü şekilleri açısından ise yükseltiye bağlı olarak sıcaklığın azalması ve bir noktaya kadar yağışın artması, bitki ve hayvan türlerinin bir dağ yamacı boyunca değişmesini sağlar; yeryüzü şekillerinin engebeli olduğu bölgelerde iklim kısa mesafelerde değiştiği için bitki ve hayvan türleri de değişmektedir. Su, canlılar için büyük öneme sahip olduğundan su kaynakları ve çevresinde biyoçeşitlilik fazladır. Toprak ise bitkiler için besin maddesi ve su kaynağı işlevi görür; bazı canlı türleri yaşamlarının bir bölümü veya tamamını toprakta sürdürür.
+
+Paleocoğrafya faktörleri incelendiğinde iklim değişikliğinin canlı dağılışı üzerindeki etkisi öne çıkar. Değişen iklim koşulları bazı canlıların yeni yaşam alanı bulmak için göç etmelerine, bazılarının yayılış alanlarının daralmasına, bazılarının da nesillerinin tükenmesine neden olmuştur. Jeolojik zamanlarda meydana gelen yer kabuğu hareketlerine bağlı olarak kıta ve denizlerin dağılışında önemli değişiklikler meydana gelmiş; bu değişimler canlıların dağılışını etkilemiş ve farklı türlerin birbirleriyle etkileşime girmesini sağlamıştır.
+
+Biyolojik faktörler arasında insan faaliyetleri önemli bir yer tutar. İnsanların yeryüzündeki bitki ve hayvanların dağılışına etkisi genelde olumsuz olmakla birlikte olumlu etkileri de olabilmektedir. Avcılık, bitki örtüsünün ve doğal yaşam alanlarının tahribi olumsuz sonuçları doğuran başlıca faaliyetlerdir. Nesli tükenmekte olan hayvanların koruma altına alınması, doğal koruma alanlarının oluşturulması, biyoçeşitliliğin azalmasını önleyici yasalar çıkarılması ve bölgesel ile küresel ölçekte sözleşmeler imzalanması ise olumlu etkiler arasında sayılabilir. Diğer canlılar da biyoçeşitliliği etkiler; yeryüzünde bitkilerin gür ve çeşitli olduğu alanlarda hayvan türlerinin de çeşitlendiği görülmektedir.
+
+Benzer yetişme şartlarına sahip bitki ve hayvan topluluklarını içinde barındıran bölgelere biyom denir. Her biyomun kendine özgü bitki örtüsü ve hayvan türü olmakla beraber biyomlar daha çok bitki örtüsüne göre adlandırılmaktadır.
+
+Tropikal yağmur ormanları biyomu, her mevsimin sıcak ve yağışlı geçtiği, biyoçeşitliliğin fazla olduğu Ekvator ve çevresinde görülür. Yıl boyunca yeşil kalabilen uzun boylu ve geniş yapraklı ağaçlardan oluşan bitki örtüsüne sahiptir; orangutan, kaplan, goril, yılan, leopar, kertenkele, kuş, kelebek ve çeşitli böcek türleri bu biyomda yaşar.
+
+Yaprak döken orman biyomu, yıl boyunca nem ve yağışın fazla olduğu, kışların ılık ve yazların serin geçtiği ılıman iklim bölgelerinde görülür. Orman altı florası bakımından zengin olup sonbaharda yapraklarını döken ağaçlardan oluşan ormanlara sahiptir. Boz ayı, sincap, geyik, çakal, tilki, kartal, tavşan ve yılan bu biyomun karakteristik hayvanlarındandır.
+
+İğne yapraklı orman biyomu kışların uzun ve soğuk, yazların kısa ve serin geçtiği sert karasal iklim bölgelerinde görülür. Soğuğa dayanıklı iğne yapraklı ağaçlardan oluşan tayga (boreal) ormanlarına sahiptir. Kurt, samur, vizon, geyik, vaşak, kunduz ve boz ayı bu biyomda yaşayan başlıca hayvanlardır.
+
+Çalı biyomu, orta kuşağın 30°–40° enlemleri çevresinde yer alan, yazları sıcak ve kurak, kışları ılık ve yağışlı geçen Akdeniz iklim bölgelerinde görülür. Bitki örtüsü bodur ağaç ve çalılardan oluşur; çakal, yaban koyunu, yaban keçisi, tavşan, puma, tilki, karaca ve kokarca bu biyomun tipik hayvanlarıdır.
+
+Savan biyomu her iki yarım kürede yaklaşık 10°–20° enlemleri arasında görülür. Uzun boylu ot toplulukları ile kuraklığa dayanıklı çalı ve küçük gruplar hâlinde bulunan ağaçlar bitki örtüsünü oluşturur. Zebra, zürafa, fil, aslan, timsah, antilop, sırtlan, gergedan, su aygırı, çakal ve deve kuşu bu biyomda yaşar.
+
+Çöl biyomu dönenceler çevresinde ve orta kuşağın denizden uzak iç kesimlerinde yıllık yağış miktarının 200 mm'nin altında olduğu alanlarda görülür. Seyrek olarak kurakçıl otlar, çalılar ve kaktüsler bitki örtüsünü oluşturur. Deve, yılan, kertenkele, karınca, çöl faresi, çöl tilkisi ve akrep bu ortamın karakteristik canlılarıdır.
+
+Ilıman çayırlar biyomu orta kuşakta yıllık yağış miktarının az olduğu, yağışın belirli mevsimlerde toplandığı yarı kurak iklim bölgelerinde görülür. Bozkır, çayır ve preri gibi kısa boylu ot toplulukları bitki örtüsünü oluşturur. Lama, bizon, geyik, kanguru, ceylan, bufalo, tavşan ve çakal bu biyomun tipik hayvanlarıdır.
+
+Tundra biyomu sıcaklığın birkaç ay 0°C'nin üstüne çıktığı, toprağın kışın donup yazın çözüldüğü tundra iklim bölgesinde ve yüksek dağlık alanlarda görülür. Yazın toprağın üst kısmındaki buzların çözülmesiyle ortaya çıkan ot, yosun, liken ve yer yer çalılar bitki örtüsünü oluşturur. Kutup tilkisi, baykuş, ren geyiği, misk öküzü, kurt, karibu ve palyaço ördek bu biyomun karakteristik hayvanlarıdır.
+
+Kutup biyomu sıcaklığın yıl boyunca 0°C'nin altında olduğu, buzul örtüleriyle kaplı kutup bölgelerinde görülür. Bitki örtüsü bulunmaz; kutup ayısı, kutup tilkisi, fok ve penguen bu bölgede yaşayan başlıca hayvanlardır.
+
+Dağ biyomu Himalaya, And, Alp ve Kayalık gibi dağların yüksek kesimleriyle düşük sıcaklık şartlarının hâkim olduğu alanlarda görülür. İğne yapraklı ormanlar ve alpin çayırlar bitki örtüsünü oluşturur. Dağ keçisi, Tibet öküzü, kartal, kar tavşanı, kurt ve kar parsı bu biyomda yaşayan hayvanlardandır.
+
+Tuzlu su biyomları deniz ve okyanus gibi tuzlu sulardan oluşur; canlı türlerinin dağılımında derinlik, ışık, sıcaklık ve basınç etkilidir. Yosun, yunus, balina, midye, yengeç, denizanası, ahtapot, denizyıldızı, hayvansal planktonlar, mercanlar ve çeşitli balık türleri bu ortamda yaşar. Tatlı su biyomu ise akarsu ve tatlı su göllerinden oluşur; balıklar, kurbağalar ve böcekler gibi hayvan türleri ile saz, kamış, nilüfer ve bitkisel planktonlar bu biyomun canlılarını oluşturur.

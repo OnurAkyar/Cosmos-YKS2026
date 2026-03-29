@@ -1,0 +1,3 @@
+# Belirli İntegral
+
+$f$ $[a,b]$'de sürekli ve $F'(x)=f(x)$ ise $\int_a^b f(x) dx = F(b) - F(a)$. Bu, Newton-Leibniz teoremi olarak bilinir. Belirli integral, $f$'nin $[a,b]$ aralığında $x$ ekseni ile arasındaki net alanı (üstteki alan eksi alttaki alan) verir. İntegral sabiti $c$ sadeleşir.

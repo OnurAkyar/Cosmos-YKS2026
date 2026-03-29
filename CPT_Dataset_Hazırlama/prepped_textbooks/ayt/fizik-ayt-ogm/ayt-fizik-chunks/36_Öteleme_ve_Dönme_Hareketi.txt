@@ -1,0 +1,3 @@
+# Öteleme ve Dönme Hareketi
+
+Ötelemede tüm noktalar aynı hızla hareket eder. Dönmede cisim bir eksen etrafında döner. Kaymadan dönen tekerlekte, tekerin merkezinin öteleme hızı ile tekerin dış noktalarının dönme hızı büyüklükçe eşittir.

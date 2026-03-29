@@ -1,0 +1,3 @@
+# Türevlenebilen İki Fonksiyonun Toplamının, Farkının, Çarpımının ve Bölümünün Türevi
+
+Bu kurallar yukarıda verilmiştir. Pratikte, çarpım ve bölüm türevlerinin formüllerini doğru hatırlamak önemlidir. Çarpım kuralı "birincinin türevi çarpı ikinci artı ikincinin türevi çarpı birinci" şeklinde söylenebilir. Bölüm kuralı ise "(payın türevi çarpı payda eksi paydanın türevi çarpı pay) bölü paydanın karesi" şeklinde.

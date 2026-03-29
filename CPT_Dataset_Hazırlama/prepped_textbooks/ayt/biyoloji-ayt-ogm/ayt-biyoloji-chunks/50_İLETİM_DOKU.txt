@@ -1,0 +1,37 @@
+# İLETİM DOKU
+
+İletim Dokunun Genel Özellikleri: Bitkilerde organik ve inorganik maddelerin taşınmasını gerçekleştiren dokudur.
+Bitkinin yapraklarında fotosentez sonucu oluşan organik besin maddelerinin yapraklardan köklere taşınmasını, kökleriyle alınan su ile minerallerin ise toprak üstü organlara ve yapraklara doğru taşınmasını iletim doku gerçekleştirir.
+İletim doku, ksilem (odun borular) ve floem (soymuk borular) olmak üzere iki kısımdan oluşur.
+Ksilem ve floem dokuları genellikle birlikte bulunur ve iletim demetini meydana getirir.
+
+Ksilem (Odun Boruları): Ksilem, topraktan alınan su ve suda çözünmüş minerallerin ve kökte sentezlenen bazı hormonların gövde, yaprak gibi bitkinin sürgün sisteminde yer alan kısımlarına taşınmasını sağlar.
+Ksilem dokusu; ksilem sklerenkiması (sklerenkima lifleri), ksilem parankiması, trakeit ve trake borularından oluşur.
+Ksilem borularının etrafında bulunan ksilem parankima hücreleri çeşitli besin maddelerinin depolanmasında, ksilem sklerenkima hücreleri ise destek sağlamada görev yapar.
+Ksilemin asıl hücreleri olan trake ve trakeit, bitkide uzamanın durduğu kısımlardaki hücrelerin farklılaşması ile meydana gelir.
+Trake ve trakeit, başlangıçta üst üste dizilmiş canlı meristem hücrelerdir. Bu canlı hücreler, zamanla çekirdeklerini ve sitoplazmalarını kaybederek canlılıklarını yitirir.
+Üst üste dizilmiş hücrelerin boyuna çeperleri, lignin birikimiyle giderek kalınlaşır. Hücrelerin birbirine bakan enine çeperleri ise eriyerek kaybolur. Bu değişimler, üst üste dizilmiş hücrelerin içinde madde iletimi için uygun olan içi boş odun borularını meydana getirir.
+Trakeitler uçları kapalı, uzun ve ince hücrelerdir. Asıl görevi su iletimi olmasına rağmen bitkiye destek sağlama görevini de yapar.
+Trakeler trakeitlere göre daha geniş, daha kısa ve daha ince çeperlidir. Uç kısımları daha az sivri olan hücrelerdir.
+Trake ve trakeit hücrelerinin çeperlerinde geçit denen kalınlaşmamış, yer yer kesintiler olan ince bölgeler vardır.
+Su, bir hücreden diğerine geçitlerden geçerek taşınır. Su ve suda çözünmüş maddeler geçitler sayesinde aşağıdan yukarıya doğru ve yanal olarak taşınır.
+Trakelerin uç çeperleri deliklidir ve suyun odun boruları içinde akmasına izin verir. Bu hücreler canlılığını kaybettiği için ksilemde madde taşınması hızlı gerçekleşir.
+
+taşınma sırasında enerji harcanmaması, taşınmanın tek yönlü olması,
+hücreler arasındaki orta lamellerin tamamen erimiş olmasıdır.
+
+Floem (Soymuk Boruları): Floem, bitkide fotosentez ürünü olan organik bileşikleri üretildikleri yerden bitkinin kök, gövde, tohum ve meyve gibi kısımlarına taşır.
+Kökte sentezlenen azotlu organik molekülleri yapraklara ve bitkinin diğer kısımlarına taşır.
+Floem (soymuk boruları); kalburlu boru elemanları, arkadaş hücreleri, floem parankiması ve floem sklerenkiması olmak üzere dört hücre tipinden oluşur.
+Floemin asıl hücreleri, kalburlu borular ve arkadaş hücreleridir.
+Floem parankiması, besinlerin depo edildiği hücrelerdir.
+Floem sklerenkiması bitkiye destek sağlamada görev yapar.
+Kalburlu boru elemanları, ince çeperli ve canlı hücrelerdir. Üst üste dizili hücreler işlevsel olgunluğa eriştiğinde çekirdeği, ribozomları, belirgin kofulları ve hücre iskeletlerini yitirir.
+Kalburlu borular canlıdır ancak çekirdeklerini kaybettiklerinden metabolik faaliyetlerini uzun süre devam ettiremez. Komşu hücrelerin enine çeperleri yer yer eriyerek kalbur şeklini alır. Oluşan bu yapıya kalburlu plak denir. Kalburlu plakta bulunan porlar sıvı akışını kolaylaştırır.
+Kalburlu boru elemanları, uç uca eklenerek kalburlu boru denen sütun oluşturur. Arkadaş hücreleri, kalburlu boru elemanının yanında bulunur ve iletime katılmaz. Plazmodezm adı verilen çok sayıda kanalla kalburlu boru elemanına bağlanır.
+Floem borularında besin maddelerinin taşınması çift yönlüdür. Ancak bir boruda aynı anda çift yönlü taşınım gerçekleşmez. Dal ve yaprakların gövdeye bağlandığı noktalardan yanlara doğru da iletim yapılır.
+Floemde taşıma ksilemdeki taşımaya göre daha yavaş gerçekleşir.
+
+Floemde taşımanın daha yavaş olmasının nedenleri ise enerji harcanması, iletimin çift yönlü olması ve hücreler arası çeperlerin tam olarak erimemiş olmasıdır.
+
+Ksilem ile floem arasındaki başlıca farklar şöyle özetlenebilir: Ksilem ölü hücrelerden oluşurken floem canlı hücrelerden oluşur. Ksilem hücrelerinde çekirdek ve sitoplazma bulunmazken floem hücrelerinde hücre çekirdeği ve sitoplazma yer alır (kalburlu boru hücrelerinde yalnızca sitoplazma bulunur). Ksilem çeperleri lignin birikimiyle kalınlaşırken floem hücre çeperleri kalınlaşmamıştır. Ksilem trake ve trakeitlerden oluşurken floem kalburlu boru ve arkadaş hücrelerinden oluşur. Ksilem kambiyumun içe doğru oluşturduğu iletim doku elemanıyken floem kabuğun iç yüzeyine yakın, kambiyumun dışa doğru oluşturduğu iletim doku elemanıdır. Ksilem köklerle alınan suyu ve mineralleri gövdeye ve yapraklara taşırken floem yaprakta oluşan organik besinleri köklere, köklerde üretilen amino asitleri ise gövdeye ve meyveye taşır. Ksilemde taşıma tek yönlüdür ve hızlıdır; madde taşınması pasif taşıma ile gerçekleşir. Floemde taşıma çift yönlüdür ve daha yavaştır; madde taşınması hem pasif hem de aktif taşıma ile gerçekleşir. Her iki doku da bitkiye mekanik destek sağlar.

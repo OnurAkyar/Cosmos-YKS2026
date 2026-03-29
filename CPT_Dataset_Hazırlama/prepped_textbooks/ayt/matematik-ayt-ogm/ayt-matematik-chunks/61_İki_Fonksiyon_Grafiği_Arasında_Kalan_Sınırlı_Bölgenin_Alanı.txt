@@ -1,0 +1,3 @@
+# İki Fonksiyon Grafiği Arasında Kalan Sınırlı Bölgenin Alanı
+
+$[a,b]$ aralığında $f(x) \ge g(x)$ ise iki eğri arasındaki alan $A = \int_a^b [f(x) - g(x)] dx$. Eğer sıralama değişiyorsa, alan sıralamanın değiştiği noktalara göre parçalara ayrılarak mutlak değer içinde integral alınır: $A = \int_a^b |f(x) - g(x)| dx$.

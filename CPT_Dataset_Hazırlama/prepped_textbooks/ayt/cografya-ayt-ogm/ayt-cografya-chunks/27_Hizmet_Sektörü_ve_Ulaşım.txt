@@ -1,0 +1,15 @@
+# Hizmet Sektörü ve Ulaşım
+
+Tarım ve sanayide doğrudan bir üretim söz konusu iken hizmet sektöründe insanlara ve diğer ekonomik faaliyetlere ürün ve hizmet sağlanması esastır. Eğitim, sağlık, ulaşım, turizm, ticaret, bankacılık, pazarlama, güvenlik, sigortacılık, hukuk ve belediye hizmetleri bu sektöre örnek verilebilir. Gelişmiş ülkelerde hizmet sektörünün GSMH içindeki payı %65–75, gelişmekte olan ülkelerde ise %50–65 civarındadır. Türkiye'de dış ticaret hacmi 2023 yılında 617 milyar dolara, turizm geliri ise 54 milyar dolara yükselmiştir.
+
+Ulaşım, insanın ve onun ürettiği mal ile hizmetlerin çeşitli araçlarla bir sahadan başka bir sahaya taşınması faaliyetidir. Ulaşımı etkileyen faktörler doğal ve beşerî faktörler olarak ikiye ayrılır. Doğal faktörler arasında coğrafi konum, yeryüzü şekilleri ve iklim yer alır; yükseltisi ve engebesi fazla arazilerde yol güzergâhı seçimi güçleşmekte, şiddetli hava olayları ulaşım sistemlerini olumsuz etkilemektedir. Beşerî faktörler arasında ise nüfus yoğunluğu, sermaye, iş gücü, ekonomik faaliyetlerin özellikleri ve teknolojik gelişmeler sayılabilir. Ulaşım yatırımları ve imkânlarının gelişmesi hizmetlere erişilebilirliği artırmakta; bu durum şehirlerin sosyal, ekonomik ve fiziksel gelişmelerini hızlandırmaktadır.
+
+Türkiye'de kara yolu ulaşımı; Cumhuriyet ilan edildiğinde 18.350 km olan toplam kara yolu ağı, 2023 itibarıyla 68.654 km'ye ulaşmıştır. Bu yolların 34.064 km'si il yolu, 30.864 km'si devlet yolu ve 3.726 km'si otoyoldur; bölünmüş yol uzunluğu 1990'daki 4.060 km'den 2024'te 27.700 km'ye çıkmıştır.
+
+Demir yolu ulaşımı kapsamında Anadolu'daki ilk demir yolu 1856–1866 arasında İzmir-Aydın arasında inşa edilmiştir. Yüksek hızlı tren (YHT) ile ilk yolcu taşımacılığı 2009 yılında Ankara-Eskişehir arasında gerçekleşmiş; ardından Ankara-Konya, Ankara-İstanbul, İstanbul-Konya ve diğer hatlar açılmıştır. Marmaray Tüp Geçidi (2013) ve Bakü-Tiflis-Kars Demir Yolu Hattı (2017), Avrupa'dan Çin'e uzanan uluslararası demir yolu ağını tamamlaması bakımından ayrı bir öneme sahiptir. Türkiye'nin 2023 yılı itibarıyla sahip olduğu toplam demir yolu uzunluğu 13.919 km'dir.
+
+Deniz yolu ulaşımında Türkiye'nin üç tarafının denizlerle çevrili olması ve boğazlara sahip bulunması deniz ulaşımı yönünden büyük avantaj sağlamaktadır. 1 Temmuz 1926'da çıkarılan Kabotaj Kanunu ile ülke çevresindeki denizlerde her türlü taşımacılık hakkı Türk girişimcilere verilmiştir. Türkiye'ye 2023 yılında 1.192 kruvaziyer gemi ile yaklaşık 98 bin yolcu uğramıştır.
+
+Hava yolu ulaşımında Türk Tayyare Cemiyeti'nin kurulmasıyla (1925) sivil havacılığın temelleri atılmıştır. Türkiye'de 2023 yılı itibarıyla sivil hava trafiğine açık olan havalimanı sayısı 62'dir; 1960 yılında 713 bin civarında olan taşınan yolcu sayısı 2023 yılında 200 milyonu geçmiştir.
+
+Boru hattı taşımacılığı; çevreci olması, birim taşımadaki maliyetin az oluşu ve kesintisiz ürün akışı sağlaması nedeniyle önemi giderek artan bir ulaşım çeşididir. Türkiye'de ticari anlamda faaliyete geçen ilk boru hattı 1967 yılında açılan Batman-Dörtyol Ham Petrol Boru Hattı'dır; 1974 yılında BOTAŞ kurulmuştur.

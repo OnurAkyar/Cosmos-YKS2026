@@ -1,0 +1,5 @@
+# Elektriksel Potansiyel Enerji ve Elektriksel Potansiyel
+
+İki noktasal yük arasındaki elektriksel potansiyel enerji $E_p = k \frac{q_1 q_2}{d}$ ile verilir. İşaret, yüklerin işaretine göre pozitif veya negatif olur. Birden fazla yük için toplam potansiyel enerji, her bir yük çiftinin enerjilerinin cebirsel toplamıdır.
+
+Bir noktadaki elektrik potansiyeli $V = \frac{E_p}{q_0} = k \frac{q}{d}$ olarak tanımlanır. Skaler bir büyüklüktür, birimi volt (V)'tur. Birden fazla yük için toplam potansiyel, her bir yükün potansiyellerinin cebirsel toplamıdır.

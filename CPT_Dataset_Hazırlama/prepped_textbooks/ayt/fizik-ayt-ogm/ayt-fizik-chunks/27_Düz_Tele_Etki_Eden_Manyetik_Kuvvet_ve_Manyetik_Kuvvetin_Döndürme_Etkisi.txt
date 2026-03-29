@@ -1,0 +1,7 @@
+# Düz Tele Etki Eden Manyetik Kuvvet ve Manyetik Kuvvetin Döndürme Etkisi
+
+Manyetik alan içindeki akım taşıyan tele etki eden kuvvet $F = B i L \sin\alpha$ dır. Kuvvetin yönü sağ el kuralı ile bulunur. $\alpha = 90^\circ$ iken kuvvet maksimumdur; tel alana paralel ise kuvvet sıfırdır.
+
+Paralel iki telde akımlar aynı yönde ise çekme, zıt yönde ise itme kuvveti oluşur. Kuvvet büyüklüğü $F = K \cdot 2 \cdot \frac{i_1 i_2}{d} \cdot L$ dir.
+
+Dikdörtgen tel çerçeve manyetik alan içinde akım taşıdığında, çerçeveye etki eden tork $\tau = N B i A$ olur. Bu tork sayesinde elektrik enerjisi mekanik enerjiye dönüşür.

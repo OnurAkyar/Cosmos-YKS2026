@@ -1,0 +1,9 @@
+# Ketonlar
+
+Karbonil grubuna iki tane radikal grubun bağlanmasıyla oluşan bileşiklere keton (R\(_1\)COR\(_2\)) denir. Genel formül C\(_n\)H\(_{2n}\)O. R\(_1\) ve R\(_2\) alkilleri aynı ise simetrik (basit) keton (CH\(_3\)COCH\(_3\)), farklı ise asimetrik (karışık) keton (CH\(_3\)COC\(_2\)H\(_5\)). Kendilerine has kokuları vardır. Homolog sıra oluşturur. Düz zincirli, halkalı veya aromatik yapıda olabilir. En basit üyesi üç karbonludur (aseton). Polar yapıdadır, suda iyi çözünür. Karbonil bileşikleri hidrojen bağı içermez; doymamıştır (π bağı). Molekül kütlesi arttıkça sudaki çözünürlük azalır. Kendi molekülleri arasında hidrojen bağı oluşturmadıkları hâlde suyla hidrojen bağı oluşturur. Aynı dış basınçta aynı karbon sayılı alkollerden daha düşük sıcaklıkta kaynar.
+
+Yaygın adlandırmada "Alkil + alkil + keton" veya "Dialkil + keton" kalıpları kullanılır (dimetil keton, etil metil keton). Özel isimler de olabilir (aseton). Adlandırmada zincirdeki karbonil grubunun alkol ve alkillere karşı önceliği vardır. Aldehitler ile aynı karbon sayılı ketonlar birbirinin fonksiyonel grup izomeridir. Aldehitlerin ilk üyesi bir karbonlu, ketonların ilk üyesi üç karbonlu olduğundan ilk iki aldehitin izomeri olan bir keton yoktur; her ketonun aldehit olan bir izomeri vardır (ör. C\(_4\)H\(_8\)O: bütanal ve bütanon).
+
+Ketonlarda karbonil karbonuna bağlı hidrojen bulunmadığından özel koşullar sağlanmadığı sürece yükseltgenemez. Ketonlar indirgenebilir: karbonil grubuna hidrojen katılır, sekonder alkol oluşur: \(CH_3COCH_3 + [H] \rightarrow CH_3CHOHCH_3\). LiAlH\(_4\) ve NaBH\(_4\) yaygın indirgen maddelerdir. Ketonlar Fehling ve Tollens çözeltilerine etki etmez.
+
+Aseton (propanon, dimetil keton): Ketonların ilk üyesi, suyla çözelti oluşturan kendine has kokulu sıvı, uçucudur. Kanda eser miktarda, diyabet hastalarının idrarında fazlaca bulunur. Oje, yağ, mum, kauçuk, plastik, vernik gibi maddeler için iyi bir çözücüdür.

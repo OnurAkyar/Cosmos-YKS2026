@@ -1,0 +1,9 @@
+# Kosinüs Teoremi
+
+Herhangi bir $ABC$ üçgeninde kenar uzunlukları $a = |BC|$, $b = |AC|$, $c = |AB|$ ve karşı açılar sırasıyla $\widehat{A}$, $\widehat{B}$, $\widehat{C}$ olmak üzere kosinüs teoremi şu bağıntıları verir:
+\[
+a^2 = b^2 + c^2 - 2bc \cos \widehat{A}, \quad
+b^2 = a^2 + c^2 - 2ac \cos \widehat{B}, \quad
+c^2 = a^2 + b^2 - 2ab \cos \widehat{C}.
+\]
+Teorem, Pisagor teoreminin genelleştirilmiş halidir. Dik üçgende $\cos 90^\circ = 0$ olduğundan $a^2 = b^2 + c^2$ elde edilir. Kosinüs teoremi, iki kenar ve aralarındaki açı bilindiğinde üçüncü kenarı bulmak veya üç kenar bilindiğinde açıları hesaplamak için kullanılır. Örneğin, $\cos \widehat{A} = \frac{b^2 + c^2 - a^2}{2bc}$ şeklinde de yazılabilir. Bu formül, bir üçgenin açısını hesaplamada doğrudan kullanışlıdır. Ayrıca, kosinüs teoremi vektörlerin skaler çarpımı ile de ilişkilidir.

@@ -1,0 +1,18 @@
+# Sinüs ve Kosinüs Fonksiyonlarının İki Kat Açı Formülleri
+
+Toplam formüllerinde $\beta = \alpha$ alınarak iki kat açı formülleri elde edilir:
+\[
+\sin 2\alpha = 2 \sin\alpha \cos\alpha.
+\]
+\[
+\cos 2\alpha = \cos^2\alpha - \sin^2\alpha = 1 - 2\sin^2\alpha = 2\cos^2\alpha - 1.
+\]
+Bu eşitliklerden ayrıca:
+\[
+(\sin\alpha + \cos\alpha)^2 = 1 + \sin 2\alpha, \quad (\sin\alpha - \cos\alpha)^2 = 1 - \sin 2\alpha.
+\]
+Kosinüs iki kat açı formülü, açılım yapılarak çarpanlarına ayrılabilir:
+\[
+\cos 2\alpha = (\cos\alpha - \sin\alpha)(\cos\alpha + \sin\alpha) = (1 - \sqrt{2}\sin\alpha)(1 + \sqrt{2}\sin\alpha) = (\sqrt{2}\cos\alpha - 1)(\sqrt{2}\cos\alpha + 1).
+\]
+Bu formüller, trigonometrik denklemleri çözmede ve integralleri sadeleştirmede kullanılır.

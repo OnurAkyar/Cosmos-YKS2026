@@ -1,0 +1,3 @@
+# Belirli İntegral İle Alan Hesaplama
+
+$y=f(x)$ grafiği, $x=a$, $x=b$ ve $x$ ekseni arasında kalan bölgenin alanı $A = \int_a^b |f(x)| dx$ ile hesaplanır. Eğer $f(x) \ge 0$ ise $A = \int_a^b f(x) dx$; $f(x) \le 0$ ise $A = -\int_a^b f(x) dx$. $f$ işaret değiştiriyorsa, integral pozitif ve negatif kısımlara ayrılır. $\int_a^b f(x) dx$ ifadesi net alanı verirken, $\int_a^b |f(x)| dx$ toplam alanı verir.

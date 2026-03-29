@@ -1,0 +1,3 @@
+# Öz İndüksiyon Akımı, Lorentz Kuvveti ve Elektromotor Kuvvet
+
+Bobinde akım değiştiğinde, öz‑indüksiyon emk'sı oluşur. Bu emk, akımın değişimine karşı koyar. İletken bir tel manyetik alanda hareket ettiğinde, telin uçları arasında indüksiyon emk'sı oluşur: $\varepsilon = B v L \sin\alpha$.

@@ -1,0 +1,5 @@
+# Düzgün Elektrik Alan
+
+Paralel levhalar arasında düzgün elektrik alan oluşur. Alan şiddeti $E = V/d$ ile verilir. Levhalar üretece bağlıyken $V$ sabittir; levhalar arası uzaklık artarsa $E$ azalır. Üreteç bağlantısı kesilip levhalar arası uzaklık artırılırsa yük sabit kalır, $E$ değişmez.
+
+Elektrik alan içindeki yüklü tanecik $F = qE$ kuvveti etkisinde kalır. Ağırlık ihmal edilirse, tanecik $a = qE/m$ ivmesiyle hızlanır. Ağırlık da dikkate alınırsa, net kuvvet $qE \pm mg$ olur.

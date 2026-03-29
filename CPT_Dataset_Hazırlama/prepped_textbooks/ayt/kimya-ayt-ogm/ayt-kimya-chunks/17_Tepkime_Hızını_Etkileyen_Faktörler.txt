@@ -1,0 +1,19 @@
+# Tepkime Hızını Etkileyen Faktörler
+
+Bir tepkimenin hızını tepkimeye giren maddelerin derişimlerine bağlayan ifadeye "hız denklemi" veya "hız bağıntısı" denir. Tek basamakta gerçekleşen tepkimelerde \(\text{RH} = k \cdot [\text{Girenler}]^a\). Mekanizmalı tepkimelerde en yavaş basamak için \(\text{RH} = k \cdot [\text{Girenler}]^a\) şeklinde yazılır. Hız denklemine katı ve sıvılar ile ürünler alınmaz. Mol sayısı (a) üs olarak yazılır. Hız denkleminde yer alan tepken derişimlerinin üsleri toplamına "tepkime derecesi" denir: \(v = k[A]^a [B]^b\) ise tepkime derecesi \(a+b\)'dir.
+
+Tepkime dereceleri: 0. derece (nadir): \(v = k[A]^0 = k\); hız sabit olup reaktiflerin derişimlerinden bağımsızdır (ör. \(2NaHCO_3(k) \rightarrow Na_2CO_3 + CO_2 + H_2O\)). 1. derece: \(v = k[\text{Cl}_2]\) (ör. \(Cl_2(g) \rightarrow 2Cl(g)\)); hız birimi \(\frac{\text{mol}}{\text{L·s}}\) ise \(k\)'nin birimi \(1/\text{s}\). 2. derece: \(2A(g) \rightarrow\) veya \(A(g) + B(g) \rightarrow\); hız birimi \(\frac{\text{mol}}{\text{L·s}}\) ise \(k\) birimi \(\frac{\text{L}}{\text{mol·s}}\).
+
+Mekanizmalı tepkimeler çok sayıda taneciğin aynı anda çarpışması kolay olmadığından basamaklar üzerinden gerçekleşir. Hızı belirleyen basamak en yavaş basamaktır. Bir tür bir basamakta oluşup diğerinde harcanmışsa ara üründür. Ara ürün ve katalizörler toplam denklemde yer almaz. Bir tür yavaş basamağa girip bir başka basamakta çıkmışsa katalizördür. Toplam tepkimede tepkimeye giren moleküllerin sayısına "molekülerite" denir.
+
+Deneysel yöntemle hız belirlenirken iki reaktiften önce biri, sonra diğeri sabit tutularak hızdaki değişime bakılır.
+
+1) Madde cinsi: Zıt yüklü iyonların reaksiyonları en hızlı, çok sayıda bağın oluşup koptuğu reaksiyonlar en yavaştır. İyonik tepkimelerin hızı > nötr tepkimelerin hızı. Zıt yüklü iyonlar arası gerçekleşen > aynı yüklü iyonlar arası gerçekleşen > kopan-oluşan bağ sayısı az olan > kopan-oluşan bağ sayısı çok olan tepkimelerin hızı.
+
+2) Madde derişimi (gazlarda basınç): Örneğin \(C(k) + O_2(g) \rightarrow CO_2(g)\) için \(\text{RH} = k[O_2] = k P_{O_2}\). O\(_2\) derişimi 2 katına çıkarsa hız 2 katına çıkar. C(k) miktarının değişmesi hızı etkilemez çünkü hız bağıntısında yoktur. Mekanizmalı tepkimelerde hızlı basamakta bulunan reaktiflerin miktarının değişmesi hızı etkilemez. Derişim değişimi tepkime hızını değiştirir ancak aktifleşme enerjisini ve hız sabitini değiştirmez.
+
+3) Sıcaklık: Sıcaklık arttıkça taneciklerin kinetik enerjisi ve ortalama kinetik enerjisi artar, aktifleşmiş kompleks oluşturabilecek taneciklerin sayısı artar. Sıcaklık değişimi eşik enerjisinin değerini ve tepkimenin izlediği yolu (mekanizmasını) değiştirmez; hız sabitinin (k) değerini değiştirir. Sıcaklık artışı endotermik veya ekzotermik tüm tepkimelerin hızını artırır.
+
+4) Katalizör: Tepkimeye dışarıdan eklenen ve hiçbir değişime uğramadan tepkimeden çıkan, aktifleşme enerjisini düşürerek tepkimeyi hızlandıran maddelere "katalizör" denir. Katalizörler tepkimeyi başlatmaz ya da durdurmaz, mekanizmasını değiştirebilir, hız sabitinin (k) değerini değiştirir, tepkimenin yönünü değiştirmez, net tepkimede yer almaz, tepkime verimini etkilemez, etkin çarpışma sayısını ve aktifleşme enerjisini aşan tanecik sayısını artırır, tepkime ısısını etkilemez, ileri ve geri aktifleşme enerjisini aynı oranda değiştirir. Aktifleşme enerjisi sadece katalizörle değişir. Mekanizmalı tepkimelerde katalizör yavaş adıma etki eder. Katalizör (pozitif katalizör) hızı artırır; inhibitör (negatif katalizör) hızı azaltır.
+
+5) Temas yüzeyi: Tepkimeye giren taneciklerin temas yüzeyi arttıkça tanecikler arasındaki çarpışma sayısı artacağı için tepkime hızı da artar. Örneğin toz Mg ile HCl tepkimesi şerit Mg'ye göre daha hızlıdır. Temas yüzeyinin değişimi heterojen tepkimelerde hız sabitinin (k) değerini değiştirir.

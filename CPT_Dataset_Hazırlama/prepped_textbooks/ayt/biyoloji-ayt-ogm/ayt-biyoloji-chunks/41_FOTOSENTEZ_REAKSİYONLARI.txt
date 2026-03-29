@@ -1,0 +1,29 @@
+# FOTOSENTEZ REAKSİYONLARI
+
+Fotosentez Sürecinin Şeması: Fotosentez olayı, ışığa bağımlı ve ışıktan bağımsız [Calvin (Kalvin) döngüsü] reaksiyonları olarak iki evrede gerçekleşir.
+
+Işığa bağımlı reaksiyonlar, kloroplastların granalarında gerçekleşir. Fotosentezde besin sentezlenebilmesi için ATP üretilmesi gerekir. Klorofilin ışığı soğurarak enerji kazanmasıyla ATP sentezi gerçekleşir. Işığı soğuran ve kimyasal enerjiye dönüştürülmesini sağlayan birimlere fotosistem denir.
+Fotosentezin ışığa bağımlı reaksiyonları, ökaryot hücrelerde kloroplastın granalarını meydana getiren tilakoit zarlarında, prokaryot hücrelerin ise hücre zarı kıvrımlarında gerçekleşir.
+
+Bu reaksiyonlar ışık olmadan gerçekleşmez. Bu evrede ışık enerjisi, kimyasal enerjiye dönüştürülüp ATP içerisinde geçici olarak depolanır.
+ATP sentezi için klorofilin ışığı soğurması ve ışık tarafından uyarılmış elektronların klorofilden ayrılması gerekir.
+Elektronlardaki enerjiden ATP sentezi yapılabilmesi için kloroplastların tilakoit zarlarında elektron taşıma sistemi (ETS) yer alır.
+Klorofilden ayrılan elektronlar, indirgenme (redüksiyon) ve yükseltgenme (oksidasyon) reaksiyonları ile ETS' yi oluşturan bir molekülden diğer moleküle aktarılır.
+ETS'de elektron alan moleküller indirgenirken elektron veren moleküller ise yükseltgenir.
+Klorofil kaybettiği elektronu sudan karşılar.
+
+Elektron aktarımı sırasında elektronun kaybettiği enerjiden yararlanarak ATP sentezlenirken bir kısmı da ısı enerjisi şeklinde sistemden uzaklaştırılır. Bu şekilde ışık enerjisiyle ATP sentezlenmesine fotofosforilasyon denir.
+Klorofil tarafından soğrulan ışığın bir kısmı ile su molekülleri parçalanır. Işık enerjisi yardımıyla su moleküllerinin elektron, proton ve oksijene ayrışması olayına fotoliz denir.
+Suyun parçalanması ile açığa çıkan hidrojenler (H+), bir çeşit koenzim olan NADP+ (nikotin amid adenin dinükleotit fosfat) ile tutularak NADPH molekülü üretilir.
+Bu evrede fotoliz sonucu açığa çıkan oksijenin fazlası atmosfere verilir.
+ATP ve NADPH ise fotosentezin ışıktan bağımsız reaksiyonlarında kullanılır.
+
+Işıktan bağımsız reaksiyonlar fotosentetik ökaryotlarda kloroplastın stromasında, fotosentetik prokaryotlarda ise sitoplazmada gerçekleşir. Işığın kullanılmadığı bu reaksiyonlar, 1961 yılında Melvin Calvin'in (Melvin Kalvin) yaptığı araştırmalar sonucu açıklanmıştır. Bu nedenle bu reaksiyonlar Calvin döngüsü olarak da bilinir. Işıktan bağımsız reaksiyonların gerçekleşebilmesi için ışığa bağımlı reaksiyonlara ihtiyaç vardır. Çünkü ışığa bağımlı reaksiyonlar safhasında açığa çıkan ATP ve NADPH'a ihtiyaç duyulur. Bu nedenle ışıktan bağımsız reaksiyonlar doğrudan ışığa bağımlı değildir. Bu safhadaki reaksiyonlar, enzimatik tepkimeler olduğu için sıcaklık değişimlerine karşı hassastır. Yüksek sıcaklık, ışıktan bağımsız reaksiyonlarda kullanılan enzimlerin yapısına zarar vereceği için fotosentezi yavaşlatır. Enzimlerin kullanıldığı bu tepkimelerde klorofil ve ETS kullanılmaz.
+
+Işıktan bağımsız reaksiyonlar, CO2 'in şekere indirgendiği metabolik bir evredir.
+Işığa bağımlı tepkimelerden gelen ATP'lerin defosforilasyonu ile açığa çıkan enerji yardımıyla CO2 ile NADPH'ın hidrojenleri birleştirilir.
+Üç karbonlu fosfogliseraldehit (PGAL) molekülleri sentezlenir. PGAL, glikoz, sukroz ve diğer organik moleküllerin sentezinde kullanılan anahtar bir moleküldür.
+Dönüşüm sırasında açığa çıkan NADP+, ADP ve inorganik fosfat molekülleri ise stromadan granaya aktarılır ve ışığa bağımlı reaksiyonlarında yeniden NADPH ve ATP sentezinde kullanılır.
+Sentezlenen PGAL'lerin bir miktarı glikoza dönüştürülür. Geri kalan miktarı ise diğer organik bileşiklerin sentezlenmesinde kullanılır.
+
+Işığa bağımlı reaksiyonlar kloroplastın tilakoit zarında gerçekleşirken ışıktan bağımsız reaksiyonlar stromasında gerçekleşir. Işığa bağımlı reaksiyonlarda ışık, klorofil ve ETS görev yapar; bu süreçte NADP+, ADP, Pi ve H₂O kullanılarak ATP, NADPH ve O₂ üretilir ve suyun fotolizi gerçekleşir. Işıktan bağımsız reaksiyonlarda ise ışık, klorofil ve ETS görev almaz; CO₂, ATP ve NADPH kullanılarak glikoz ve diğer organik bileşikler üretilir; fotoliz gerçekleşmez ve ışığa bağımlı reaksiyonlarda üretilen ATP bu evrede harcanır.

@@ -1,0 +1,34 @@
+# OKSİJENSİZ SOLUNUM, FOTOSENTEZ VE SOLUNUM İLİŞKİSİ
+
+Besin moleküllerinin canlı hücrelerde oksijen kullanılmadan yıkılması sırasında ETS yardımıyla ATP üretilmesine oksijensiz solunum denir.
+
+Oksijensiz solunum yalnızca bazı bakteri ve arkelerde görülür. Elde edilen enerji miktarı oksijenli solunuma göre daha azdır. Glikoz, CO2 ve H2O'ya kadar parçalanmaz ve tamamen okside olmaz. Son elektron alıcısı O2 dışında genellikle bir inorganik moleküldür. ETS'deki son elektron alıcısı olan inorganik maddelerin elektron çekim güçleri zayıf olduğundan üretilen ATP miktarı da azdır. Anaerobik solunumda kullanılan elektron alıcılarından bazıları nitrat (NO3-), ferrik demir (Fe3+), sülfat (SO42-), karbonat (CO32-) ve CO2 gibi bileşiklerdir.
+
+Örneğin bataklıkta yaşayan bazı bakteriler besin moleküllerinden kopardıkları elektronları sülfat iyonuna aktarır. Elektronları alarak indirgenen sülfat, hidrojen sülfür  (H2S)  oluşumunu sağlar. ETS'de elektronların taşınması sırasında açığa çıkan enerji ile ATP sentezlenir. Bataklıklardan çürük yumurta kokusunun gelmesinin nedeni oksijensiz solunum yapan bakterilerin oluşturduğu  H2S 'dir. Ayrıca toprakta ve suda bulunan nitrat  (NO3-) , oksijensiz solunum yapan bakteriler tarafından  N2  ye (moleküler azota) dönüştürülür. Bu bakteriler, oksijensiz ortamda ETS'lerinde son elektron alıcısı olarak nitratı kullanır.  NO3-  elektron alarak birkaç basamakta moleküler azota dönüşür. Denitrifikasyon adı verilen bu olay biyosferdeki azot dengesinin korunmasına katkı sağlar.
+Oksijensiz solunumda substrat düzeyinde fosforilasyon ve oksidatif fosforilasyon ile ATP üretilir.
+
+Besin zincirinin ilk halkasını oluşturan fotosentetik canlılar, güneş enerjisini fotosentezle kimyasal enerjiye çevirerek besinlerin yapısında depolar. Heterotrof canlılar ise üreticilerle veya diğer tüketicilerle beslenerek güneş enerjisinden dolaylı olarak yararlanır. Bu yüzden yeryüzünde yaşayan canlılar için fotosentez oldukça önemlidir.
+Fotosentez ile oluşturulan besinler solunumda kullanıldığından fotosentez ve solunum tepkimeleri arasında birbirlerini tamamlayıcı bir ilişki bulunmaktadır. Fotosentez ürünleri olmadan solunum, solunum ürünleri olmadan da fotosentez gerçekleşmez.
+Oksijenli solunumun son ürünleri olan karbondioksit ve su, fotosentez tepkimelerinde temel maddeleri oluştururken fotosentezin son ürünleri olan besin ve oksijen de oksijenli solunumda tüketilen temel maddeleri oluşturur.
+
+Fotosentez ve solunum ilişkisi: Bitkiler solunumu gece gündüz, fotosentezi sadece ışık varlığında gerçekleştirir. Gündüzleri bitkilerin fotosentez hızı solunum hızından fazla olduğu için solunum sonucu ürettikleri karbondioksiti ve suyu atmosfere vermeden fotosentezde kullanır. Bunun sonucunda atmosfere karbondioksit salınımı geceye göre gündüz azdır.
+Canlıların hücresel solunumu, orman yangınları, fosil yakıtların kullanımı atmosferde karbondioksit oluşumunu etkileyen faktörlerdir.
+Atmosferde biriken karbondioksit gazı, üreticiler tarafından tutularak besin sentezinde kullanılır. Bu da doğadaki madde döngülerinin devamlılığını sağlar.
+Fosil yakıtların aşırı tüketimi, atmosferde CO2 artışına yol açarak sera etkisi yaratmakta ve küresel sınmaya yol açmaktadır. Küresel ısınma, iklim ve canlı türleri üzerinde etkili olmaktadır. Bazı türler yok olurken bazıları yok olma tehlikesiyle karşı karşıya kalmaktadır.
+Atmosferdeki CO2 miktarını dengede tutmak için ormanlar korunmalı ve çoğaltılmalıdır.
+
+Fotosentez ile oksijenli solunum arasındaki başlıca farklar şunlardır: Fotosentez ökaryot canlılarda kloroplastta, prokaryot canlılarda sitoplazmada gerçekleşirken solunum ökaryotlarda sitoplazma ve mitokondride, prokaryotlarda sitoplazmada gerçekleşir. Fotosentez yeterli ışık enerjisi varlığında gerçekleşirken solunum oksijen varlığında gerçekleşir. Fotosentezde CO2 ve H2O (ya da H2S/H2) reaksiyona girerken solunumda organik besinler ve O2 tüketilir. Fotosentezde güneş enerjisi kimyasal bağ enerjisine dönüştürülür; solunumda ise kimyasal bağ enerjisi ATP'ye dönüştürülür. Fotosentez sonunda organik madde birikimi nedeniyle ağırlık artışı olurken solunum sonunda ağırlık azalır. Her iki olayda da enzimatik tepkimeler ve ETS elemanları görev alır, ATP üretimi ve tüketimi gerçekleşir. Fotosentezde fotofosforilasyon görülürken solunumda substrat düzeyinde fosforilasyon ve oksidatif fosforilasyon gerçekleşir.
+
+Ökaryotların mitokondrisinde ve kloroplastlarında, prokaryotların hücre zarında ETS yardımıyla ATP sentezi kemiosmotik görüş ile açıklanır. Bu görüşe göre mitokondri ve kloroplastlarda zarın iki tarafındaki proton yoğunluğu farkına bağlı olarak ortaya çıkan proton itici gücüyle ATP sentezlenir.
+Fotosentezde NADP+ ve hücresel solunumda NAD+ ve FAD molekülleri ile taşınan hidrojenlerin elektronları, ETS' deki taşıyıcı moleküllere aktarılır.
+ETS'de taşınan elektronlar, yüksek enerji düzeyinden düşük enerji düzeyine iniş eğilimindedir.
+ETS'de elektronların taşınımı ile açığa çıkan serbest enerjinin bir kısmı ısı olarak dışarı verilir. Bir kısmı ise iç zarın çevrelediği sıvı ortamdaki hidrojenlerin protonlarını, ETS molekülleri aracılığı ile iç ve dış zar arasındaki boşluğa pompalamada kullanır.
+Zarlar arası boşluktaki proton yoğunluğu, iç zarın çevrelediği sıvı ortama göre daha yüksek olur. İç zarın iki tarafındaki proton yoğunluğu farkı bir potansiyel enerji oluşturur.
+Protonlar, zarlar arası boşluktan sıvı ortama dönme eğilimde olsa da iç zar protonlar için geçirgen değildir. İç zarda yer alan ATP sentaz enzimi, protonların sıvı ortama geri dönmelerini sağlayan bir kanal oluşturur.
+Protonların sıvı ortama geçişi, ATP sentazı aktif hâle getirerek ATP sentezini gerçekleştirir.
+Zarlar arasındaki boşluk ile sıvı ortam arasında elektriksel yük farkı oluşur.
+Elektron akışı, elektron çekim gücü yüksek olan oksijen molekülüne doğrudur.
+Oksijen, ETS'nin son elektron alıcısıdır.
+Oksijenli solunumda oksijen, ETS'nin son molekülüne gelen elektronları alarak elektron akışının ve ATP molekülünün sentezinin sürdürülmesini sağlar.
+Elektron kazanan oksijen, elektronunu kaybetmiş bir çift proton (2H+) ile birleşerek suyu oluşturur.
+Oksijensiz solunumda ise sülfat, nitrat, karbonat veya demir son elektron alıcısı olarak kullanılır.

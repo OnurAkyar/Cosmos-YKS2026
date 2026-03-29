@@ -1,0 +1,3 @@
+# Basit Sarkaç ve Yay Sarkacı
+
+Yay sarkacında periyot $T = 2\pi \sqrt{m/k}$. Seri bağlı yaylarda $1/k_{eş} = 1/k_1 + 1/k_2 + \dots$; paralel bağlı yaylarda $k_{eş} = k_1 + k_2 + \dots$. Basit sarkaçta (küçük açılar) periyot $T = 2\pi \sqrt{L/g}$. Periyot kütleden ve genlikten bağımsızdır.

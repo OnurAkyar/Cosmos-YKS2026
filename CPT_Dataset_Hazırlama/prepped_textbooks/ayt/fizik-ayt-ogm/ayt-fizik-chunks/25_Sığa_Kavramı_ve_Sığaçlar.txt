@@ -1,0 +1,5 @@
+# Sığa Kavramı ve Sığaçlar
+
+Sığa (kapasite), bir iletkenin elektrik yükü depolama yeteneğinin ölçüsüdür. Birimi Farad (F)'dır. Paralel levhalı sığaçta sığa $C = \varepsilon \frac{A}{d}$ ile hesaplanır. $\varepsilon$ dielektrik katsayısı, $A$ levha alanı, $d$ levhalar arası uzaklık. Sığa, $\varepsilon$ ve $A$ ile doğru, $d$ ile ters orantılıdır. Bir sığacın yükü $q = CV$ ile verilir.
+
+Sığaç, üreteçten ayrıldıktan sonra bir üreteç gibi davranarak kısa süreli akım sağlayabilir.

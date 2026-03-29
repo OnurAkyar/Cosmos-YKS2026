@@ -1,0 +1,3 @@
+# Virajlarda Emniyetli Dönüş Şartları
+
+Yatay sürtünmeli virajda maksimum güvenli hız $v_{\text{max}} = \sqrt{g r k}$. Eğimli sürtünmesiz virajda güvenli hız $v = \sqrt{g r \tan\theta}$. Silindir içinde dönen cisim için kaymama şartı $v = \sqrt{\frac{g r}{k}}$.

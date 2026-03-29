@@ -1,0 +1,3 @@
+# Basit Harmonik Hareket Kavramları
+
+Basit harmonik harekette geri çağırıcı kuvvet $F = -k x$ ile orantılıdır. Uzanım $x$, genlik $r$, periyot $T$, frekans $f = 1/T$. Konum $x = r \cos(\omega t)$, hız $v = \omega \sqrt{r^2 - x^2}$, ivme $a = -\omega^2 x$, kuvvet $F = -m \omega^2 x$.

@@ -1,0 +1,38 @@
+# KAN DAMARLARI, KILCAL DAMARLAR VE DOKU SIVISI ARASINDAKI MADDE ALIŞVERIŞI
+
+Kan, vücutta damarlardan oluşmuş kapalı bir sistem içerisinde hareket eder. Bu sayede kan içerisinde bulunan maddeler hücrelere ulaşabilirken aynı şekilde hücrelerden atılan maddeler de kanla ortamdan uzaklaştırılabilir. Dolaşım sisteminde atardamar, kılcal damar ve toplardamar olmak üzere üç çeşit damar bulunur.
+
+Atardamarlar, kalbin karıncıklarında bulunan kanı ilgili organlara taşıyan damarlardır.
+Akciğer atardamarı hariç diğer atardamarlarda oksijen bakımından zengin olan kan bulunur.
+Atardamarlarda endotel tabakasının üzerinde en dışta elastik lifler içeren bağ doku tabakası vardır.
+Ortada düz kaslar ve elastik lif içeren tabaka bulunur.
+Atardamarların duvarları, kanın yüksek basıncına dayanacak şekilde kalın ve güçlüdür.
+Karıncıkların kasılmasıyla atardamarlarda oluşan basınç, atardamarların düz kaslarının kasılıp gevşemesi ve elastik liflerle esneyip eski hâllerine gelmeleri sayesinde kılcallara kadar korunmaktadır.
+Sinir sistemi ve hormonlar sayesinde atardamarların düz kaslarının kasılıp gevşemesi düzenlenerek kan akışı kontrol altında tutulur.
+
+Kılcal damarlar, atardamarlar ve toplardamarlar arasında bulunur.
+Kılcal damarlarda tek katlı yassı epitel hücrelerinden oluşmuş endotel tabaka bulunur.
+Kılcal damarlar endotel tabaka tarafından oluşturulmuş çok ince bir duvara sahiptir.
+Kılcal damar duvarları atardamarlar ve toplardamarların duvarlarına göre daha incedir.
+Kan ile doku sıvısı arasındaki madde alışverişleri kılcal damarlar sayesinde olur.
+
+Toplardamarlar kanı kalbe getiren damarlardır.
+Akciğer toplardamarı hariç toplardamarlarda ise karbondioksit bakımından zengin kan bulunur.
+Endotel tabakasının üzeri ortada düz kas ve dışta bağ doku ile kaplıdır.
+Toplardamarlar düşük basınçlı kanın kalbe geri getirilmesinden sorumlu oldukları için duvarları atardamarlara göre üç kat daha incedir.
+Toplardamarların çapı atardamarların çaplarından daha büyüktür ve toplardamarların duvarları atardamarlardan daha fazla genişleyebilir. Bu yüzden toplardamarlarda daha fazla oranda kan bulunur.
+
+ Kalbe göre daha üst konumda bulunan toplardamarlarda kanın kalbe geri dönmesinde yer çekimi kuvvetinin olumlu yönde bir etkisi varken kalbe göre daha altta kalan toplardamarlar için yer çekimi olumsuz bir etki oluşturur. Buna karşın toplardamarların yapısında bulunan düz kasların ve iskeleti saran kasların kasılıp gevşemesi toplardamarlardaki kanın hareketini kolaylaştırır. Ayrıca toplardamarlardaki tek yönlü açılan kapakçıklar kanın kalbe doğru tek yönde akmasını sağlar.
+
+Damarların Kesit Alanı ve Kanın Akış Hızı: Kan, arterlerden arteriyollere (büyük atardamarlardan daha küçük atardamarlara) oradan da kılcal damarlara geçer. Kılcal damarların geniş bir yüzeye dağılım göstermesi kılcalların toplam kesit alanının atardamarın toplam kesit alanından çok daha fazla olması anlamına gelir. Bunun sonucu olarak kan, kılcallara geçtiği zaman oldukça yavaşlar. Bu durum, kılcal damarlar ile doku sıvısı arasındaki madde alışverişini oldukça kolaylaştırır. Kan daha sonra kılcal damarlara göre toplam kesit alanı daha küçük olan toplardamara geçerek hızlanır.
+
+Damarlarda Kan Basıncı: kalp karıncıklarının duvarları kulakçıklara göre daha kalındır. Bu yüzden atardamarlardaki kan basıncı daha fazladır. Özellikle sol karıncık, kulakçıklara oranla daha güçlü kasıldığından kan basıncının en yüksek olduğu damar aorttur. Doku kılcal damarlarında kan basıncı kısmen düşse de toplardamarlardaki kan basıncından daha yüksektir. Kalbin kasılıp gevşemesi sırasında atardamarlarda oluşan basınca tansiyon denir. Kalp kasıldığında atardamarlardaki kan basıncına sistolik basınç (büyük tansiyon) denir. Karıncıkların gevşemesi sonucu atardamarlarda basınç düşer. Bu basınca da diyastolik basınç (küçük tansiyon) denir. Kalbin her atışında atardamarlarda basınçtan
+
+dolayı oluşan gerilim ve ritmik genişlemeler nabız olarak ifade edilir. Kan basıncı genellikle kalple aynı hizada olan bir koldan tansiyon aleti (sfigmomanometre) aracılığıyla ölçülür. Dinlenme hâlindeki sağlıklı bir yetişkin bireyde sistolde kan basıncı ortalama 120 mmHg iken diyastol durumunda kan basıncı ortalama 70 mmHg'dir.
+
+KILCAL DAMARLAR VE DOKU SIVISI ARASINDAKİ MADDE ALIŞVERİŞİ: Kan ile doku sıvısı arasındaki madde alışverişi kılcal damarlar aracılığıyla olur.
+Kılcal damarlar O2, CO2, glikoz, tuz gibi bazı küçük moleküllere geçirgendir. Ancak kan proteinleri gibi büyük moleküllere geçirgen olmadığı için bu moleküller genellikle kan içerisinde kalır. Kan içerisinde kalan bu proteinler kanın ozmotik basıncının oluşmasında önemli rol üstlenir.
+E. H. Starling (Starling) kılcal damarlar ve doku sıvısı arasındaki madde alışverişinin birbirine zıt olan iki etken tarafından kontrol edildiğini öne sürmüştür. Bu zıt etkenlere (kan basıncı ve ozmotik basınç) Starling kuvvetleri denir.
+Kan basıncı kılcal damar çeperlerindeki mikro açıklıklardan geçebilecek büyüklükteki maddelerin (su ve çözünmüş maddeler) kandan doku sıvısına geçmesini sağlarken kan proteinleri sayesinde oluşan ozmotik basınç ise maddeleri kan içerisine çeker.
+
+Kan basıncı kılcal damarların atardamar ucunda yüksektir ve toplardamar ucuna doğru gidildikçe düşer. Ozmotik basıncı oluşturan proteinler kılcal damardan çıkamayacağı için ozmotik basınç kılcal damarlarda sabittir. Kan basıncı ozmotik basınçtan yüksek olduğu zaman kan içerisindeki su ve çözünmüş maddeler kılcal damardan çıkar; ozmotik basınç kan basıncından yüksek olduğu zaman ise su ve çözünmüş maddeler kana geri döner. Ancak Starling hipotezine göre kılcal damardan çıkan sıvı miktarı kılcal damara geri dönen sıvı miktarından biraz daha fazladır. Kılcal damarlar tarafından kaybedilen bu sıvı lenf "sistemi" ile kana karışır.

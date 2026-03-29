@@ -1,0 +1,3 @@
+# Aritmetik ve Geometrik Dizide İlk N Terim Toplamları
+
+Sigma gösterimi $\sum_{k=1}^{n} a_k = a_1 + a_2 + \dots + a_n$, toplamları kısa ve öz bir şekilde ifade etmeyi sağlar. Bir aritmetik dizinin ilk $n$ terim toplamı $S_n = \frac{n}{2}(a_1 + a_n) = \frac{n}{2}(2a_1 + (n-1)d)$ olarak hesaplanır. Bu formül, Gauss'un meşhur 1'den 100'e kadar olan sayıları toplama yönteminin genelleştirilmesidir: terimleri çiftler halinde toplamak. Bir geometrik dizinin ilk $n$ terim toplamı ($r \neq 1$) $S_n = a_1 \frac{1 - r^n}{1 - r}$ formülüyle bulunur. ($r=1$ durumunda $S_n = n a_1$). Bu formül, $(1-r)S_n = a_1(1-r^n)$ eşitliğinden türetilir. Geometrik diziler, özellikle finans (bileşik faiz) ve bilgisayar bilimlerinde (algoritma analizi) sıkça kullanılır.

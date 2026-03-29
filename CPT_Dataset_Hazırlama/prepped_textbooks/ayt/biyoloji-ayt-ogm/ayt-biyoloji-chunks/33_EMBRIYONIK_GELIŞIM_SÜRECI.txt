@@ -1,0 +1,66 @@
+# EMBRIYONIK GELIŞIM SÜRECI
+
+Embriyonik gelişim zigot oluşumu ile başlayıp büyüme ve gelişmeyle devam eden yeni bireyin oluşması sürecidir.
+
+Büyüme, mitoz ile hücre sayısındaki artıştır. Gelişme, doku ve organların oluşması ve olgunlaşması sürecinde geçirdiği değişikliklerdir.
+
+Yumurta kanalında döllenen embriyonun rahimde gelişim süreci devam eder. İnsanlarda toplam gebelik süresi 38-40 haftadır. Döllenme sonucu oluşan zigot, önce embriyo; farklılaşmanın ileri evrelerinde fetüs adını alır.
+
+Embriyonik gelişim sırasıyla segmentasyon, gastrulasyon ve organogenez evrelerinden oluşur.
+
+Segmentasyon, zigotun arka arkaya mitoz geçirmesiyle bir hücre kitlesine dönüştüğü evredir. Yumurta kanalında başlar ve yaklaşık üç gün sürer. Bölünme sonucunda oluşan hücrelerin her birine blastomer adı verilir Hücreler bölünmeye devam ederek yumurta kanalının sil hareketi ve kas kasılmaları ile rahme doğru ilerler.
+Hücre büyümesi gerçekleşmediği için her bölünmeden sonra zigot gittikçe küçülen hücrelere bölünür. Bu nedenle hücre sayısı artmasına rağmen toplam hacim, zigot ile aynıdır. Hücrelerin DNA'sındaki genlerin tamamı aktiftir.
+Blastomerler, bölünmeye devam ederek çok sayıda hücre oluşmasını sağlar. Oluşan bu hücreler, aynı büyüklükte ve kalıtsal yapıdaki dut görünümlü hücre topluluğu olan morulayı oluşturur. Zona pellusida ile örtülü olan morula, boyut olarak zigotla aynı büyüklüktedir.
+Bir süre sonra moruladaki hücreler kenarlara doğru göç eder ve içi boş top şeklindeki hücre topluluğu blastula oluşur. Blastula içindeki sıvı dolu boşluk blastula boşluğu (blastosöl) adını alır. Blastula evresindeki hücre kitlesine blastosist  denir. Blastosist hâlindeki embriyo, rahme ulaşır ve döl yatağına tutunmaya başlar.
+Blastosistten alınan hücrelere embriyonal kök hücre denir. Bu hücrelerin birçok hücre tipine dönüşebilme yeteneği vardır.
+100'den fazla hücreye sahip olan blastosist, döllenmeden yaklaşık 4-5 gün sonra rahme ulaşıp 1-2 gün sonra endometriyuma tutunur. Endometriyuma tutununcaya kadar rahim içindeki endometriyum salgılarıyla beslenir.
+Blastosistin endometriyum tabakasına tutunması ve gömülmesi olayına implantasyon denir. İmplantasyon sırasında zona pellusida çözünür, blastosisti çevreleyen hücreler endometriyumla temas eder. Bu hücreler salgıladıkları enzimlerle blastosistin endometriyum içine doğru hareketini ve gömülmesini kolaylaştırır. Ayrıca endometriyum içine doğru oluşturdukları çok sayıda villus ile embriyonun besin almasında etkilidir. Embriyoyu oluşturacak olan içteki hücrelerden bir kısmı da embriyo etrafındaki ekstraembriyonik zarları oluşturur.
+
+Embriyoyu çevreleyen dört ekstraembriyonik zar bulunur: Koriyon zarı embriyonun gaz değişiminin gerçekleştiği bölümdür ve plasentanın yapısına katılır. Amniyon zarı embriyoyu dıştan çevreleyen zardır; içindeki amniyon sıvısı embriyoyu mekanik etkilere karşı korur. Allantoyis göbek kordonunun yapısına katılır ve kordondaki kan damarlarını oluşturur. Vitellüs kesesi ise kan hücrelerinin erken embriyonik dönemde üretildiği yerdir; bu kan hücreleri daha sonra embriyo içine göç ederek uygun yerlere taşınır.
+
+Segmentasyon sonucunda endometriyuma gömülen embriyoda implantasyonun tamamlanmasıyla gastrulasyon evresi başlar. Blastosistin alt yüzeyindeki bir hücre takımı, hücre göçüyle blastula boşluğuna doğru hareket eder. Bu evrede tek tabakalı olan blastula, gastrulaya dönüşür. Gastrula boşluğu oluşur ve boşluğun dışarı açılan kısmına blastopor (ilk ağız) denir. Gastrula boşluğu, ileriki dönemlerde sindirim borusunu oluşturacaktır.
+Gastrulasyon evresinde görülen yoğun hücre göçü hareketiyle embriyo üç tabakalı yapıya dönüşür. Embriyonik tabakalar dıştan içe doğru ektoderm (dış deri), mezoderm ve endoderm (iç deri) dir. Bu tabakalar arasında görülen etkileşim, doku ve organların oluşmasına imkân verir. Örneğin ektoderm tabakasından kıl, tırnak, göz merceği gibi yapılar oluşur. Endodermden solunum yolu, karaciğer, pankreas gibi yapılar oluşur.
+
+Farklılaşma evresinde gastrulasyondan sonra içeriye doğru göç eden hücreler blastosölde üçüncü bir tabaka oluşturur ve bu tabaka mezoderm (orta deri) adını alır. Mezoderm tabakası da endoderm ve ektoderm tabakası gibi ileride çeşitli doku ve organları meydana getirir.
+
+Gastrulasyon (a), farklılaşma (b ve c) Gastrulasyon evresinden sonra organogenez evresi başlar. Bu evrede ektoderm, endoderm ve mezoderm embriyonik tabakalarından doku ve organlar gelişir. Örneğin mezoderm tabakasından böbrek, üreme organları gibi yapılar oluşur.
+Organogenezde ilk oluşan organlar beyin ve omuriliktir. Organ oluşumu, gebeliğin ilk üç ayında gerçekleşir. Bu nedenle gebeliğin ilk üç ayında yetersiz beslenme, bazı ilaçlar, virütik hastalıklar, radyasyon gibi etkenler embriyonun gelişimini olumsuz etkileyebilir. Organogenezin ardından hücre büyümesi ve farklılaşması gerçekleşir. Kendi işlevlerini yapacak hücreler bir araya gelerek dokuları, dokular da organları oluşturur. Organogenez sürecinde bazı hücreler kendi yerlerinden ayrılarak başka yerlere göç ederken bazı hücreler de ölüme programlanmıştır. Buna apoptozis denir. Parmaklar arasındaki boşluklar, sindirim kanalı boşluğu apoptozis sayesinde gerçekleşir.
+
+Embriyonun rahim içine yerleşmesi ile burada plasenta ve göbek bağı adı verilen özel yapılar gelişir.
+
+Gelişmenin ilk 2-4 haftalık döneminde embriyo, besin ihtiyacını endometriyumdan karşılar. Sekiz haftaya kadar endometriyum bu görevi sürdürür. Embriyo, implantasyondan bir hafta sonra oluşmaya başlayan plasentadan da beslenmeye başlar.
+Blastosistin dış tabakası dışarı doğru büyüyüp endometriyumla birleşerek plasentayı oluşturur. Plasenta hem anneye hem de embriyoya ait kan damarlarını içeren disk şeklinde bir yapıdır. Dıştan içe doğru koryon ve amniyon zarından oluşur. Bu zarların arasından iki atardamar, bir toplardamar göbek kordununu oluşturur. Göbek kordonundaki kan embriyoya aittir. Ağırlığı doğuma kadar yaklaşık 1 kg'a kadar ulaşabilir.
+Plasenta, anne ve embriyo arasında besin maddelerinin, solunum gazlarının ve metabolik atıkların değişiminin gerçekleştiği yerdir. Annenin antikorlarının bebeğe geçmesini sağlayarak bebeğin bağışıklık kazanmasında etkilidir.
+
+Gebeliğin ilk 10-12 haftasında plasentadan yüksek oranda hCG hormonu salgıladığından endokrin bez özelliği gösterir. Bu hormon, korpus luteumun bozulmasını önleyerek korpus luteumdan östrojen ve progesteron salgılanmasını devam ettirir. hCG hormonunun zamanla azalması sonucu östrojen ve progesteron üretme görevini plasenta üstlenir.
+Göbek kordonu embriyonun plasenta ile bağlantısını sağlarken plasenta ile embriyo arasındaki madde alışverişini sağlayan damarları korur. Göbek kordonu içinde embriyoya ait olan iki atardamar ve bir toplardamar bulunur. Göbek kordonundaki atardamarlar embriyoda üretilen metabolik atıkları ve oksijen bakımından fakir kanı anneye getirirken toplardamar anneden alınan oksijen bakımından zengin kanı ve besin maddelerini embriyoya iletir.
+
+Doğum sırasında göbek kordonu içinde kalan kana kordon kanı denir. Kordon kanında kök hücre elde edilebilecek en genç hücreler bulunur. Bunlar, saklanmak için dondurulduklarında yaşlanma ve yıpranma süreçleri de durdurulmuş olur. Kordon kanı kök hücrelerinin kemik iliği kök hücrelerine göre üreme hızı daha fazladır. Kordon kanı; lösemi, lenfoma, orak hücreli anemi gibi pek çok hastalığın tedavisinde kullanılmaktadır. Ülkemizde "kordon kanı" bankası olarak hizmet veren kuruluşlar bulunmaktadır.
+
+Embriyonik Dönem: Gebelik süresi yumurtanın döllenmesinden itibaren yaklaşık 266 gündür (38 hafta). Gebeliğin sekizinci haftasından sonra embriyo fetüs olarak adlandırılır.
+Döllenmenin 4. haftasında kalp, dakikada yaklaşık 65 atımla çalışmaya başlar.
+
+Gebeliğin 8. haftasının sonunda embriyo, fetüs olarak adlandırılır. Bu döneme fetal evre denir. Fetal evrede organlar artık daha belirgin bir hâl alır. Ancak doğuma kadar hatta doğumda bile fetüsün sinir sistemi, böbrekler ve karaciğer gelişimi tam anlamıyla tamamlanmamıştır.
+
+Dördüncü aydan sonra fetüsün organları, yeni doğanınkiyle neredeyse aynıdır. Ancak organlardaki hücresel değişim devam eder. Fetüs, özellikle gebeliğin son 3 ayında ağırlaşır ve boyca uzar. Amniyotik boşlukta hava bulunmadığından fetal yaşam sürecinde solunum işlevi oluşamaz.
+
+Gebeliğin 3 ve 4. aylarında omurilik ve beyin sapı ile ilgili refleksler oluşmasına rağmen merkezî sinir sisteminin beyin kabuğunu ilgilendiren işlevleri doğumda bile tam gelişmemiştir.
+
+ Fetüs böbrekleri idrar yapımına gebeliğin yaklaşık 6. ayında başlar ve amniyon sıvısının yaklaşık %70-80'i fetüs idrarından oluşur. Bu idrar, kandaki atıklar göbek kordonu ile atıldığından tam bir idrar değildir. Fetüste böbrek gelişimindeki bozukluklar amniyon sıvısı oluşumunu azaltır ve fetüsün ölümüne yol açabilir.
+
+Genellikle hamileliğin tamamlanma süresi olan yaklaşık 270 gün sonra çocuk doğar. Bu süreden önce doğan çocuklar prematüre olarak adlandırılır.
+Doğum başladığında uterustaki kasılmalar sayesinde serviks genişler. Serviksin genişlemesi, oksitosin salgısını artıran sinirlerin uyarılmasını sağlar. Salgılanan oksitosin, uterusun kasılmalarını artırır ve doğum gerçekleşir. Ayrıca oksitosin salgısı, süt kanallarına sütün dolmasını sağlayarak doğan bebeğin beslenmesini ve annenin bu duruma hazır olmasını sağlar.
+
+Hamilelikte Bebeğin Gelişimini Olumsuz Etkileyen Faktörler: Fetüs gelişimini genetik ve çevresel faktörler etkilemektedir. Özellikle doku ve organların oluşmaya başladığı erken embriyo döneminde X ışınımına maruz kalma ve kontrolsüz ilaç kullanımı ciddi gelişim bozukluklarına yol açar, hatta gebeliğin sonlanmasına neden olabilir.
+Hamileliğin ilk üç ayında röntgen çektirmek gibi X ışınımına maruz kalınan uygulamalardan kaçınmalı, doktor kontrolü dışında ilaç kullanılmamalıdır. Tütün mamulleri ve alkollü içeceklerden uzak durulmalıdır.
+Anne adayının yeterli, dengeli ve düzenli beslenmesi önemlidir. Folik asit eksikliği fetüsün erken gelişim döneminde beyin ve omurilik oluşumunda sorunlara neden olacağından annenin folik asit ihtiyacı artar. Hamilelikten önce alınmaya başlanması ve özellikle hamileliğin ilk üç ayında kullanılması sağlıklı sinir sistemi gelişimi için önemlidir. Folik asit, fetüste DNA ve protein sentezinin sağlıklı yürütülmesini sağlar. Folik asit; ıspanak gibi koyu yeşil yapraklı sebzeler, et, yumurta, karaciğer ve baklagillerde bol miktarda bulunur.
+Hamilelikte vitaminlere ve demir, kalsiyum, fosfat gibi minerallere olan ihtiyaç artar. Alyuvar üretiminde ve sinir sisteminin gelişiminde B12 vitamini, kemik gelişiminde D vitamini, bağışıklık sisteminde C vitamini gereklidir. K vitamini, kanamalara özellikle doğum sırasında oluşabilecek beyin kanamalarına karşı koruyucudur. Demir eksikliği, anne ve bebekte anemiye sebep olur.
+Anne adayının psikolojik sağlığının korunması da hamilelikte önemlidir. Annenin yaşayacağı yoğun stresin sinirsel ve hormonal etkileri fizyolojik tepkilere neden olur. Tansiyon ve kan şekerinin yükselmesi, kalp atışlarının hızlanması, bağışıklık sisteminin zayıflaması gibi fizyolojik tepkiler fetüs sağlığını da etkilemekte; erken doğum riskini artırabilmektedir.
+
+Anne yaşının 35'in üzerinde olması, ailede kromozomal anormallik, ultrasondaki şüpheli durumlar gibi riskli gebeliklerde, genellikle 15-20. haftaları arasında amniyosentez uygulanır.
+
+Amniyosentezde amniyon sıvısından alınan örnekte kromozomal taramalar yapılarak genetik riskler tespit edilir.
+
+Hamileliğin İzlenmesinin Bebeğin ve Annenin Sağlığı Açısından Önemi: hamilelikte düzenli aralıklarla sürecin takip edilmesi anne adayı ve fetüs için önemlidir.
+
+Yapılan takiplerde anne adayının boyu, kilosu, kan değerleri, tansiyonu ölçülmekte ve glikoz tarama testleri uygulanmaktadır. HIV, hepatit B ve birçok enfeksiyon riski taşıyan hastalığa karşı tetkikler yapılmaktadır. Kan uyuşmazlığı durumu varsa fetüsün etkilenip etkilenmediği yapılan testlerle tespit edilmektedir. Ultrason ile fetüste görülebilecek anomali risklerinin erken tespiti yapılabilmektedir. Bu yöntemle fetüsün boyu, kilosu, doku ve organlarının gelişimi izlenmektedir. Koryon villus biyopsisi (plasenta biyopsisi), amniyosentez gibi uygulamalarla kromozomal taramalar yapılmakta, genetik hastalıklar tespit edilmektedir.

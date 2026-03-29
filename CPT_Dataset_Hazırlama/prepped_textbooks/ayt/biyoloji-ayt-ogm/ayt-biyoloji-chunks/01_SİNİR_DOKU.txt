@@ -1,0 +1,27 @@
+# SİNİR DOKU
+
+Nöronlar (Sinir Hücreleri): Nöronlar çeşitli uyaranlara karşı beyinde ve omurilikte karmaşık işlem ağlarını oluşturur. Bunun yanı sıra vücudun tüm bölgelerini beyne ve omuriliğe bağlar. Nöronlar; algılama, düşünme, hatırlama, kas aktivitesini kontrol etme, salgı bezlerinin çalışmasını düzenleme gibi sinir sisteminin benzersiz işlevlerinin yerine getirilmesinde rol alır. Bu özelleşmiş hücrelerin çoğu, mitotik bölünme yeteneğini kaybetmiştir.
+
+Sadece beyinde yaklaşık 85 milyar nöron yer almaktadır.
+
+Sinir sisteminde görevlerine göre duyu nöronu, motor nöron ve ara nöron olmak üzere üç tip nöron bulunur.
+Burun, göz, kulak gibi duyu organlarında reseptörlerinden aldıkları uyartıları, merkezî sinir sistemine (beyin ve omuriliğe) taşıyanlara duyu nöronu denir.
+Merkezî sinir sisteminden aldığı cevabı ilgili doku, organ, bez veya kasa götüren motor nörondur.
+Alınan bilginin merkezî sinir sisteminde değerlendirilmesi, yorumlanması gibi işleri yapan nöronlara ara nöron adı verilir.
+
+Nöron; bir hücre gövdesi (soma), dendritler ve aksondan oluşur.
+Sitoplazmasında lizozom, mitokondri, Golgi aygıtı gibi tipik hücresel organeller ile bir hücre çekirdeği içerir.
+Hücre gövdesinde serbest ribozomlar ve Nissl tanecikleri olarak adlandırılan granüllü endoplazmik retikulum kümeleri de bulunur.
+Mikrotübüller akson boyunca hücre içi taşınmada görev alır.
+Nissl tanecikleri tarafından üretilen, yeni sentezlenmiş proteinler nöronların büyümesi ve hasarlı aksonların onarımı için kullanılır.
+
+Hücre gövdesi, diğer nöronlardan gelen uyarıların alındığı ve üzerinde dendrit adı verilen çok sayıda dallanmış uzantıların bulunduğu bölümdür. Dendritler nöronun alıcı ya da girdi kısmıdır; diğer hücrelerden salgılanan nörotransmitter maddelerin (kimyasal habercilerin) bağlanması için çok sayıda reseptör bölgesi içerir. Alınan uyarı akson boyunca akson ucuna kadar götürülür. Aksonlar ise glia hücreleri tarafından oluşturulmuş 20-200 tabakadan oluşan miyelin kılıf ile kaplıdır.
+Miyelin kılıf lipit ve protein yapıdadır.
+Beyinde ve omurilikte miyelin kılıf oluşturan glia hücreleri oligodendrositlerdir.
+Çevresel sinir sisteminde miyelin kılıf Schwann (Şıvan) hücreleri tarafından oluşturulur.
+
+Miyelin kılıf sinir hücrelerinin aksonunda elektriksel yalıtım sağlar. Akson üzerindeki miyelinli bölümlerin kesintiye uğradığı kısma Ranvier (Ranviyer ) boğumu denir. Akson sonundaki akson uçlarında da çok sayıda dallanmalar görülür. Bu dallanmalar sayesinde sinyal birçok hücreye aynı anda aktarılabilir.
+
+Akson uçlarında sinaps adı verilen bağlantı yerlerinde sinyal başka bir nörona, kasa ya da bez hücresine aktarılır.
+
+Glia hücreleri sinir hücrelerini ve dokusunu destekler. Nöronlardan daha küçük olmalarına karşın sayıları nöronlardan yaklaşık 25 kat daha fazladır. Glia hücreleri yaşam boyu bölünmeye devam eder.

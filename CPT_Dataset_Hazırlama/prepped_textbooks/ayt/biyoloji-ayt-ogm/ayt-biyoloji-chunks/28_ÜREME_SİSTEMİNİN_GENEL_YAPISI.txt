@@ -1,0 +1,9 @@
+# ÜREME SİSTEMİNİN GENEL YAPISI
+
+Üreme Sisteminin Genel Yapısı: Canlının neslini devam ettirebilmek için kendine benzer yeni bireyler meydana getirmesine üreme denir. Üreme canlıların ortak özelliklerinden biridir.
+Aynı türden olan ve cinsiyetleri farklı olan her bir bireye eşey denir. Üreme, eşeyli ve eşeysiz üreme olarak ikiye ayrılır. Eşeyi farklı olan iki bireyin üreme hücrelerinin birleşmesine eşeyli üreme denir. İnsanlar eşeyli üreme ile çoğalır.
+Eşeyli üremenin temeli mayoz ve döllenmedir. Mayozla birbirinden genetik olarak farklı ve vücut hücrelerinin yarısı kadar kromozoma sahip, gamet denilen eşey hücreleri üretilir.
+İki gametin birleşmesi ve çekirdeklerinin kaynaşmasına döllenme, gametlerin birleşmesiyle oluşan hücreye ise zigot denir. Zigottan yeni bir birey gelişir.
+Dişi ve erkek üreme sistemi asıl eşey organı ve yardımcı eşey organlarından oluşur.
+Yardımcı eşey organları ise gametleri taşıyan kanallar, bu kanallara salgısını bırakan çeşitli bezler ve dış genital organlardan oluşur.
+Gametlerin üretildiği ve endokrin işlevlerin gerçekleştiği asıl eşey organlarına gonat adı verilir. Erkeklerde testisler, dişilerde yumurtalıklar gonatlardır.

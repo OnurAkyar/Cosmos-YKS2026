@@ -1,0 +1,3 @@
+# Maksimum Minimum Problemleri
+
+Optimizasyon problemlerinde, maksimize veya minimize edilmek istenen nicelik tek bir değişkene bağlı bir fonksiyon olarak ifade edilir. Daha sonra bu fonksiyonun türevi alınarak kritik noktalar bulunur ve bu noktalarda fonksiyonun değeri hesaplanır. Ayrıca tanım aralığının uç noktaları da kontrol edilir. İkinci dereceden bir fonksiyon $f(x)=ax^2+bx+c$ için tepe noktası $x=-\frac{b}{2a}$'da olup $f$'nin maksimum veya minimum değeri $k = \frac{4ac-b^2}{4a}$'dır. Türev yöntemiyle de $f'(x)=2ax+b=0$'dan aynı nokta bulunur. Türev, ekonomi (kar maksimizasyonu, maliyet minimizasyonu), fizik, mühendislik ve veri analizinde yaygın olarak kullanılır.

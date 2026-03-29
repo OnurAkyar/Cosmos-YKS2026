@@ -1,0 +1,3 @@
+# Dizi Kavramı ve Dizinin Terimleri
+
+$A$ ve $B$ boş olmayan iki küme olmak üzere, $A$'nın her elemanını $B$'nin bir ve yalnız bir elemanına eşleyen ilişkiye fonksiyon denir. Özel olarak, $\mathbb{Z}^+$ (pozitif tam sayılar) kümesinden $\mathbb{R}$'ye tanımlanan her fonksiyona gerçek sayı dizisi veya kısaca dizi denir. $f(n) = a_n$ olmak üzere, dizi $(a_n)$ ile gösterilir. $a_n$ değerine dizinin $n.$ terimi veya genel terimi adı verilir. Genel terimi verilmeyen bir sayı kümesi dizi belirtmez çünkü bir dizi, tanımı gereği her $n$ için bir kural belirtmelidir. Dizi, $(a_n) = (a_1, a_2, a_3, \dots)$ şeklinde yazılır.

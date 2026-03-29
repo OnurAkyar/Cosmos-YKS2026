@@ -1,0 +1,12 @@
+# Sinüs ve Kosinüs Fonksiyonlarının Toplam-Fark Formülleri
+
+Toplam-fark formülleri, iki açının toplamının veya farkının trigonometrik değerlerini, açıların ayrı ayrı trigonometrik değerleri cinsinden verir. Bu formüller, trigonometrik özdeşliklerin temelini oluşturur.
+\[
+\cos(\alpha + \beta) = \cos\alpha \cos\beta - \sin\alpha \sin\beta, \qquad
+\cos(\alpha - \beta) = \cos\alpha \cos\beta + \sin\alpha \sin\beta.
+\]
+\[
+\sin(\alpha + \beta) = \sin\alpha \cos\beta + \cos\alpha \sin\beta, \qquad
+\sin(\alpha - \beta) = \sin\alpha \cos\beta - \cos\alpha \sin\beta.
+\]
+Bu formüller, kosinüs teoreminin ispatında ve diğer trigonometrik özdeşliklerin türetilmesinde temel rol oynar. Ayrıca, karmaşık sayıların kutupsal gösteriminde ($e^{i\theta} = \cos\theta + i\sin\theta$) ve dalga mekaniğinde sıklıkla kullanılır. Örneğin, iki dalganın üst üste binmesi bu formüllerle analiz edilir.

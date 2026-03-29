@@ -1,0 +1,9 @@
+# İtme ve Çizgisel Momentum Arasındaki İlişki
+
+İtme, bir kuvvetin belirli bir zaman aralığı boyunca uyguladığı etkidir. Newton'ın ikinci yasası $\vec{F}_{\text{net}} = m \vec{a} = m \frac{\Delta \vec{v}}{\Delta t}$ ifadesinden $\vec{F} \Delta t = m \Delta \vec{v}$ elde edilir. $\vec{F} \Delta t$ terimine itme ($\vec{I}$) denir. İtme vektörel bir büyüklüktür ve birimi N·s'dir.
+
+Çizgisel momentum, bir hareketlinin kütlesi ile hızının çarpımı olarak tanımlanır: $\vec{P} = m \vec{v}$. Momentum da vektörel bir büyüklüktür. Küçük kütleli bir otomobil ile büyük kütleli bir kamyonun momentumları, hızları uygun şekilde seçilerek eşitlenebilir.
+
+Momentum değişimi, $\Delta \vec{P} = \vec{P}_{\text{son}} - \vec{P}_{\text{ilk}}$ olarak hesaplanır. Duvara esnek çarpıp geri dönen bir cisim için $\Delta \vec{P} = -2 m \vec{v}$ olur. Yere yatayla $\alpha$ açısı yaparak çarpıp yansıyan cisimde ise momentum değişimi düşey bileşendeki değişimdir. Yukarı atılan bir cismin maksimum yükseklikte momentum değişimi $\Delta \vec{P} = -m \vec{v}$ olur. Eğik atışta yatay momentum değişmez; momentum değişimi düşey yönde olur.
+
+İtme ile momentum değişimi arasındaki ilişki $\vec{I} = \Delta \vec{P}$ şeklindedir. Aynı $F$ kuvveti aynı $t$ sürede farklı kütlelere etki ederse, itme ve momentum değişimi eşit olur, ancak hız değişimleri ve ivmeler farklı olur. Kuvvet‑zaman grafiğinde grafiğin altındaki alan itmeyi ve momentum değişimini verir. Sabit kuvvet etkisindeki bölgelerde hız zamanla düzgün değişir; hız‑zaman grafiği ile momentum‑zaman grafiği benzerdir.

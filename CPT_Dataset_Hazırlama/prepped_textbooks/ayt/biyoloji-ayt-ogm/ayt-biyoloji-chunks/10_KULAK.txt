@@ -1,0 +1,102 @@
+# KULAK
+
+Kulağın Genel Yapısı: Kulak, işitme ve dengeden sorumlu organdır.
+İşitme olayında oluşan impulsları beyne, denge olayında oluşan impulsları ise beyinciğe iletir.
+Kulak; dış kulak, orta kulak ve iç kulak olmak üzere üç kısımdan oluşur.
+
+85 desibelin üstündeki seslerin şiddeti, kulak zarına zarar vererek işitme kaybına neden olabilir.
+
+Dış kulak, kulak kepçesinden kulak zarına kadar olan bölümdür. Ses dalgalarını toplayan kulak kepçesi kıkırdak yapılıdır. Kulak yolu yaklaşık 2,5 cm uzunluğunda olup hücrelerinin salgıladıkları sıvı ile toz, kir gibi kulağa giren yabancı maddelerin tutulmasını sağlar. Kulak kepçesi ile toplanan ses dalgalarını kulak zarına iletir.
+
+Orta kulak çekiç, örs ve üzengi kemiklerini içerir. Bu kemikler kulak zarından aldıkları titreşimleri yükselterek oval pencereye aktarır.
+Orta kulakta yutakla bağlantılı olan açık bir kanal vardır. Östaki borusu adı verilen bu kanal atmosfer ile orta kulak arasındaki basıncı dengeleyerek basınç değişimlerinden kulak zarının zarar görmesini engeller.
+
+Östaki borusu çocuklarda düz ve kısadır. Biberonla beslenme, sigara dumanında kalma gibi etkenler çocukların orta kulak iltihabına yakalanma olasılığını artırır.
+
+İç kulak; içi sıvı dolu salyangoz (kohlea), tulumcuk, kesecik ve yarım daire kanallarından oluşur. Bu kanallar hem işitme hem de vücudun yatay ve dikey dengesinin korunmasında görev alır.
+Orta kulak iç kulakla bağlantıyı oval pencere ile sağlar. Oval pencerenin iç kulağa bakan tarafında tulumcuk ve kesecik yer alır. Tulumcuk yarım daire kanalları ile bağlantılıdır, keseciğin ucunda salyangoz yer alır.
+Salyangoz içinde üç kanal bulunur. Üstteki kanala vestibüler kanal, ortadaki kanala kohlear kanal, alttaki kanala ise timpanik kanal adı verilir.
+Vestibüler kanal ve timpanik kanalın içi perilenf sıvısı, kohlear kanalın içi endolenf sıvısı ile doludur. Vestibüler kanal oval pencereye, timpanik kanal ise yuvarlak pencereye açılır.
+Kohlear kanal vestibüler ve timpanik kanalların arasında zarlarla ayrılmıştır. Kohlear kanalın temel zar adı verilen zarı üzerinde basınç dalgalarını aksiyon potansiyellerine dönüştüren Corti (korti) organı yer alır. Corti organı basınç dalgalarıyla zar potansiyelleri değişebilen kıl hücrelerini içerir. Kıl hücrelerinin üzerinde onların bağlı olduğu çatı zar bulunur. Ses dalgaları temel zarı hareket ettirdiğinde çatı zarına bağlı kıl hücreleri iki zar arasında basınca maruz kalır. Kıl hücrelerinde zar potansiyeli değişir ve nörotransmitterler salınır. Duyu nöronlarının bu sayede uyarılmasıyla impuls oluşur.
+
+İşitme şu şekilde gerçekleşir: Ses dalgaları kulaktan girerek beyindeki işitme merkezine ulaşıncaya kadar bir dizi olay meydana gelir.
+20-20.000 Hz (Hertz) arasındaki sesler kulak kepçesinde toplanarak kulak yolundan geçer.
+Ses dalgaları kulak zarını titreştirir.
+Titreşen zar; titreşimleri orta kulaktaki çekiç, örs ve üzengi kemiklerine aktarır. Bu kemikler ses titreşimlerinin gücünü 15-20 kat yükselterek oval pencereye gönderir.
+Oval pencereden içeri giren ses titreşimleri dalızdan geçer ve vestibüler kanal içindeki sıvıda basınç dalgası oluşturur. Dalga buradan timpanik kanala geçerek yuvarlak pencerede son bulur.
+Vestibüler kanaldaki basınç dalgaları kohlear kanaldaki temel zarı titreştirir bu titreşimler, tüylü duyu hücrelerinin çatı zara temas edip uzaklaşmasını sağlar.
+İşitme aralığının altındaki frekanslara sahip sesler mekanoreseptörlerde uyarı oluşturmaz. İşitme aralığındaki frekansa sahip sesler kohlear kanaldan geçerek temel zarı titreştirir ve kıl hücrelerinin zar potansiyeli değişir.
+Kıl hücrelerinden nörotransmitter madde salgılanması ile duyu nöronlarında aksiyon potansiyelleri oluşur.
+Duyu nöronları, impulsları salyangozdan çıkarıp önce talamusa oradan beyin kabuğundaki işitme merkezine iletir ve işitme gerçekleşir.
+
+Denge, kısmen gözlerden ve eklemlerdeki reseptörlerden alınan bilgilerin yanında iç kulaktaki denge organı sayesinde sağlanır.
+Yarım daire kanalları üç farklı düzlemde birbirine dik açılarda yerleşmiş, içinde endolenf sıvısı bulunan kanallardır. Yarım daire kanallarının şişkin tabanında kıl hücreleri demeti bulunur. Kıl hücrelerinin kılları kupula adı verilen yarı akışkan sıvı benzeri bir başlık içinde yer alır.
+Baş hareket ettirildiğinde yarım daire kanallarındaki sıvı akışı kupulaya baskı yaparak kıl hücrelerini eğer. Kıl hücrelerinin bu hareketi sinir hücrelerinde impuls oluşturur. Oluşan impulslar uç beyne ve beyinciğe iletilerek vücudun pozisyonu algılanır ve denge sağlanır.
+
+Orta kulak iltihabı, çocuklarda işitme kaybının en sık nedenidir. Bu rahatsızlıkta kulak zarı şişer, iltihaplanır ve kızarır. Genellikle yetişkinlerde kafa travmaları, solunum yolu hastalıkları ya da iç kulak iltihaplanması vertigo hastalığına neden olur. Vertigo hastalığında kişi kendisinin ya da etrafındakilerin döndüğü hissine kapılır. Meniere hastalığına yakalanan kişide ise vertigo belirtilerinin yanı sıra kulak çınlaması ya da işitme kaybı da görülür.
+
+Gözün Genel Yapısı: Görme organı göz, nesnelerin görüntülerini ve renklerini algılamayı sağlayan duyu organıdır.
+Vücuttaki duyu reseptörlerinin yaklaşık %70'i gözde bulunur.
+Gözün fonksiyonunu yerine getirmesinde kaşlar, kirpikler, göz kapakları, gözyaşı bezleri, dış göz kasları gibi yapılar yardımcı olur.
+Kaşlar, gözlerin güneş ışığından korunmasına yardımcı olur ve alından akan terin gözlere ulaşmasını engeller.
+Göz kapakları kapanarak gözü dış etkenlerden korur, dinlenme anında ışığın göze girmesini engeller. Göz kapakları yağ ve ter bezleri içerir.
+Gözyaşı bezleri; mukus, antikor, lizozim enzimi üretir ve salgılar. Gözyaşı, göz yüzeyini nemli ve kaygan bir hâle getirerek onu hem temizler hem de korur.
+Göz kasları, göz küresinin eş güdümlü hareketini sağlar.
+Göz; dıştan içe doğru sırasıyla sert tabaka (sklera), damar tabaka (koroit) ve ağ tabaka (retina) olmak üzere üç tabakadan oluşur.
+
+Göz; sert tabaka(sklera) adı verilen bir bağ dokuyla sarılmış, içi sıvı dolu küre biçiminde bir yapıdır.
+Sert tabaka kan damarı içermez.
+Göz kasları bu tabakaya tutunur.
+Sert tabaka gözün ön kısmında saydamlaşıp şişkinleşerek kornea tabakasını (saydam tabaka) oluşturur.
+
+Damar tabaka kan damarları bakımından zengin ve koyu kahverengi bir tabakadır.
+Melanositler tarafından üretilen kahverengi pigment fazla ışığı emerek göz yuvarlağının içindeki ışık saçılmalarını ve yansımalarını engeller.
+Korneanın iç tarafında göze rengini veren pigmentli yapıda iris bulunur.
+İris, gözün arka kısmındaki fotoreseptörlere gelen ışık miktarını kontrol eder. İrisin merkezindeki açıklığa göz bebeği  (pupilla) denir.
+Parlak ışıkta iris büzülür ve göz bebeği küçülür. Işık miktarı azaldıkça göze daha fazla ışığın girmesi için iris gevşer ve göz bebeği büyür. İrisin arkasında gözü iki odacığa bölen göz merceği bulunur.
+Göz merceği ışığı kırarak görüntünün retina tabakasına düşmesini ve göz uyumunu sağlar. Göz merceğinin önü ve arkası şeffaf bir sıvı ile doludur. Göz merceğiyle ağ tabaka arasındaki boşluk gözün şeklinin sabit kalmasını sağlayan camsı sıvı ile doludur.
+Göz merceği asıcı bağlarla askıya alınmış biçimde durur.
+Uzaktaki bir cisme odaklanırken asıcı bağlar merceği çekerek daha da yassılaştırır. Yakındaki bir cisme odaklanırken ise kirpiksi cismin (siliyer kaslar ya da silli cisim) kasılması asıcı bağların tersine göz merceğinin yuvarlak formunu almasına neden olur. Yakındaki ve uzaktaki cisimlere odaklanırken asıcı bağlar ve kirpiksi cisim sayesinde göz merceği gözün uyum yapma işlevini yerine getirmiş olur. Işık ilk korneadan geçerek göze girer, göz merceği sayesinde odaklanır ve gözün arka kısmındaki ağ tabakaya düşer.
+
+Ağ tabaka (retina), fotoreseptörlerin ve görme sinirlerinin bulunduğu tabakadır.
+Fotoreseptörler çubuk hücreleri ve koni hücreleri olmak üzere iki çeşittir. Çubuk hücreleri siyah-beyaz (gri ve tonları şeklinde) görmeden sorumlu iken koni hücreleri renkli görmeden sorumludur.
+Fotoreseptörlerdeki görme pigmentleri ışık absorblayan A vitamini türevi bir molekül içerir.
+Çubuk hücreleri ışığa hassastır. Loş ışıkta dahi tepki vermeleri onları gece görüşü ve çevresel görüş için en uygun hâle getirir. Ancak netlik düşüktür. Gece nesneleri daha iyi görebilmek için nesneye değil hemen yanına bakmak daha iyi sonuç verir.
+A vitamini eksikliğinde ışığın az olduğu ortamlarda görme alanının ve görme keskinliğinin belirgin azalması olarak tanımlanan gece körlüğü meydana gelir.
+Retina tabakasında koni hücrelerinden yaklaşık 20 kat daha fazla çubuk hücreleri bulunur. Göze gelen ışık sarı nokta  (fovea) üzerine düşer ve oluşan görüntü terstir. Sarı noktada koni hücreleri daha yoğun biçimde yer alır.
+Koni hücreleri aktivasyon için parlak ışığa ihtiyaç duyar, düşük hassasiyete sahiptir. Ancak çubuk hücrelerine göre daha hızlı tepki verir. Üç tip koni hücresinin her biri farklı dalga boylarına sahip ışığı absorbe eden farklı moleküllere sahiptir. Işığın farklı dalga boyları farklı pigmentler tarafından absorbe edildiğinde beyin tarafından farklı koni hücrelerinden gelen uyarılar bir dizi renk olarak algılanır.
+Işık, retinanın arkasındaki çubuk ve koni hücrelerine ulaşana kadar bir hücre ağından ve optik sinir liflerinin içinden geçer. Işığa yanıt olarak fotoreseptörlerde meydana gelen zar potansiyelindeki değişiklik optik sinirlere aktarılmadan önce işlenir. Optik sinirlerde meydana gelen aksiyon potansiyellerle bilgi, beyne iletilir. Optik sinirler optik disk (kör nokta) adı verilen ağ tabakanın fotoreseptörlerden yoksun bölümünden gözü terk eder.
+
+İki göz birbirleriyle örtüşen toplamda yaklaşık 170 derecelik bir görme alanına sahiptir. Görme korteksi iki göz tarafından iletilen görüntüleri birleştirir ve üç boyutlu görmeyi sağlayan derinlik algısı yaratır. Bu sayede nesnelerin konumları hakkında bilgi elde edilir.
+Sağ ve sol gözden gelen optik sinirler beyin korteksinin tabanında optik kiyazma denilen bir yerde karşılaşır.
+Sol taraftaki görme alanından gelen görüntü beynin sağ tarafına, sağ taraftaki görme alanından gelen görüntü beynin sol tarafına iletilir.
+Optik sinirlerdeki aksonların bir kısmı optik kiyazmada çaprazlanarak sağ ve sol görme alanlarından elde edilen görüntüler, beyindeki ilgili görme alanlarına iletilir.
+
+DUYU ORGANLARI RAHATSIZLIKLARI VE SAĞLIKLI YAPISININ KORUNMASI: Duyu Organları Rahatsızlıkları: Kalıtsal özellikler, gözle ilgili yaralanmalar, fizyolojik bazı hastalıklar ve yaşlanma göz fonksiyonlarının bozulmasına neden olabilir.
+Renk körlüğü (Daltonizm), çekinik bir karakter olup X kromozomu ile taşınır. Kırmızı, mavi ve yeşil olmak üzere üç tip koni hücresi renkli görmemizi sağlar. Diğer renklerin algılanması iki ya da üç tip koni hücresinin birlikte çalışması ile gerçekleşir. Renk körlüğü bir ya da daha fazla çeşit koni hücresinin eksikliğinden ya da fonksiyon bozukluğundan meydana gelir. En yaygın renk körlüğü kırmızı-yeşil renk körlüğüdür. Çoğu zaman renk körü insanlar sadece loş ışıkta kırmızıyı yeşilden ayırt etmekte zorlanır. Üç çeşit koniden sadece birine sahip olan nadir bireyler, tamamen renk körüdür. Tam renk körü bireyler dünyayı sadece gri tonlarında görür.
+Astigmatizm, miyopi ve hipermetropi göz küresi çapının normalden farklı oluşu sonucu ortaya çıkan görme bozukluklarıdır.
+
+Astigmatizm kornea ve merceğin düzensiz eğriliğiyle ortaya çıkar. Kornea üzerindeki eşit olmayan şekilde bozulmalar sonucu ışık farklı derecede kırılır ve görüntü bulanıklaşır. Kornea veya göz merceğindeki asimetriyi telafi eden silindirik mercekler ile düzeltilir.
+
+Miyopi (uzağı net görememe) göz küresinin normalden daha uzun oluşuyla veya merceği ayarlamaktan sorumlu kirpikli kasların çok kuvvetli kasılmasıyla ortaya çıkar. Miyop bireylerde görüntü retinanın önünde odaklandığı için görüntü bulanıklaşır. Miyopi içbükey mercekli gözlüklerle düzeltilir.
+
+Hipermetropi (yakını net görememe) miyopinin tam tersi bir sorundur. Göz küresinin normalden daha kısa olması, yakın görüntülerin retinanın arkasında odaklanmasına neden olur. Hipermetropi ışığın yakınsamasını artıran dışbükey mercekli gözlüklerle düzeltilir.
+Katarakt, göz merceğinin saydamlığını kaybetmesiyle ışığın ve görüntünün retinaya ulaşamaması sonucu görme kaybının oluşmasıdır. Göz merceği daha opak hâle gelir ve mercekten geçen ışık miktarı azalır. Genellikle yaşlanmayla ilişkili olsa da yaralanma ya da diyabet de katarakta yol açabilir. Bu rahatsızlık, ameliyatla düzeltilebilir.
+Presbitlik, yaşa bağlı olarak göz merceğinin esnekliğini kaybetmesi sonucu oluşur. Göz, uzak ve yakın cisimlere bakarken uyum sağlayamaz. Presbitlik, ince kenarlı mercek kullanılarak düzeltilir.
+Glokom (göz tansiyonu), göz küresi içindeki camsı sıvı miktarının çok fazla artması sonucu ortaya çıkar. Göz küresi içindeki basıncın artması, gözü besleyen kan damarlarının daralmasına neden olur. Retina hücreleri ve optik sinirler yeterince beslenemez ve ölmeye başlar. Yükselmesi kırklı yaşlardan itibaren başlayıp altmışlı yaşlarda hız kazanır. Hastalığın ilerleme durumuna göre çeşitli ilaçlarla, lazer operasyonları ya da ameliyatlarla tedavi edilebilir.
+Şaşılık, göz küresini hareket ettiren kaslardan birinin uzun ya da kısa olmasıyla ortaya çıkar. Bu durumda gözler farklı yönlere bakar. Ameliyatla düzeltilebilir.
+İşitme kaybı, bebeklikten yaşlılığa kadar her dönemde görülebilir ve çocuklarda sosyal gelişim, yetişkinlerde ise iletişim sorunlarını ortaya çıkarır. İşitme kaybı; iç kulak, işitme siniri ve işitme merkezinde ortaya çıkan sorunlardan kaynaklanmaktadır. Ayrıca tümör tedavisinde kullanılan ilaçlar, kafa içinde basınç artışına yol açan migren ya da damarsal sorunlar, yaşlanmaya bağlı oluşan duyu azalması, gürültülü bir ortamda çalışma, enfeksiyonlar ve diyabet gibi hastalıklar da işitme kaybına neden olmaktadır.
+Denge kaybı, çeşitli hastalıklara bağlı olarak ortaya çıkabilen bir rahatsızlıktır. Denge kaybı; özellikle iç kulaktaki kanalların iltihaplanması, kanaldaki sıvılarda oluşan basınç artışı, denge sinirlerinin iltihaplanması ya da kulak kristallerinin yer değiştirmesi ile oluşur.
+
+İbn Heysem; gözün yapısını, görmenin nasıl gerçekleştiğini, görme bozukluklarının nedenlerini bugünkü bilgilere çok yakın biçimde açıklamıştır. Görme olayının fiziksel ve cisimlerden göze ulaşan ışınlar yardımıyla oluştuğunu matematiksel ispatlarla ortaya koymuştur.
+
+DUYU ORGANLARININ SAĞLIKLI YAPISININ KORUNMASI: Dış ortamla sürekli temas hâlinde olan deri birçok mikroorganizmayla ilk temas noktalarından biridir. El ve vücut temizliğine dikkat ederek mikroorganizmaların üremesi için elverişli ortamları ortadan kaldırmak gerekir.
+
+Derinin Sağlıklı Yapısını Koruma Yolları: Güneşin zararlı ışınlarından uzak durmak ve gerektiğinde cilt yapısıyla uyumlu koruyucu kremler kullanmak.
+Derinin pH ve nem dengesini korumak, alerjik etki göstermeyen temizlik ürünleri kullanmak.
+Derideki çizik ve yaraları dezenfekte etmek.
+Havlu, tarak, tırnak makası gibi kişisel bakım ürünlerini ortak kullanmamak.
+Gözün sağlıklı yapısını korumak için uzun süre ve yakından televizyon, bilgisayar, telefon ve tablete bakmamak; kitap okurken, ders çalışırken, yazı yazarken ortamın uygun aydınlatılmasına dikkat etmek gerekir. Parlak ışık kaynaklarına çıplak gözle bakılmamalı, güneşli ve karlı havalarda fazla ışık yansımalarına karşı doktor tavsiyeli ve doğru güneş gözlükleri kullanılmalıdır.
+Dilde iltihaplanma ve mantar oluşumu dilin sağlıklı yapısını bozar. Bunu önlemek ağız ve diş temizliğine dikkat etmekle mümkündür. Çok sıcak ve çok soğuk gıdaları tüketmemek, içeriği bilinmeyen ya da dile zarar verebilecek kimyasalların tadına bakmamak dilin sağlıklı yapısının korunması için önemlidir.
+Burnu karıştırmamak, burun kıllarını koparmamak, içeriği bilinmeyen ve keskin kokulu maddeleri koklamamak burun sağlığını korumak için alınacak önlemlerden bazılarıdır.
+Kulak sağlığını korumak için sivri uçlu cisimlerle ve pamuklu kulak çubukları ile kulak temizlenmemelidir. Enfeksiyon riskine karşı havuz, deniz gibi sulu ortamlarda uzun süre kalmamak ve sudan çıktıktan sonra kulağın nemli kalmasını önlemek için kurulamak önemlidir. Yüksek sesli ortamlarda uzun süre kalmamak, kulaklıkla müzik dinlerken ses seviyesini doğru ayarlamak alınacak önlemlerdendir.

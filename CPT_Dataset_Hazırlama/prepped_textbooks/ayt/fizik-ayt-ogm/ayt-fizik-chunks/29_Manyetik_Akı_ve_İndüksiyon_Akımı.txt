@@ -1,0 +1,3 @@
+# Manyetik Akı ve İndüksiyon Akımı
+
+Manyetik akı $\Phi = B A \cos\alpha$ ile tanımlanır. Birimi Weber (Wb)'dir. Manyetik akı değiştiğinde, kapalı bir devrede indüksiyon elektromotor kuvveti (emk) oluşur: $\varepsilon = -\frac{\Delta \Phi}{\Delta t}$ (Faraday yasası). $N$ sarımlı bobin için $\varepsilon = -N \frac{\Delta \Phi}{\Delta t}$. Oluşan akım indüksiyon akımıdır. Lenz yasası: İndüksiyon akımının yönü, onu oluşturan manyetik akı değişimine karşı koyacak şekildedir (bağıntıdaki eksi işareti).

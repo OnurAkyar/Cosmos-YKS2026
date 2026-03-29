@@ -1,0 +1,14 @@
+# FLOEMDE FOTOSENTEZ ÜRÜNLERİNİN TAŞINMASI
+
+Floemde Madde Taşınmasının Genel Özellikleri: Fotosentez sonucu oluşan organik besinler, floem tarafından bitkinin diğer kısımlarına taşınır. Floemde besinlerin taşınması, ksilemin aksine çift yönlüdür ve bu taşınma sırasında enerji harcanır. Floemde besin maddelerinin taşınması ksilemdeki su ve mineral taşınmasına göre yavaştır.
+
+Bitkilerde fotosentez sonucu üretilen besinlerin floemde taşınması basınç akış teorisi ile açıklanır.
+Basınç akış teorisine göre fotosentezin gerçekleştiği, besinin üretildiği hücreler kaynak; besinlerin floemle taşınarak kullanıldığı veya depolandığı hücreler ise havuz olarak adlandırılır.
+
+Önce fotosentez sonucu kaynak hücrede oluşan besin maddeleri arkadaş hücrelerine geçer. Besin maddelerinin arkadaş hücrelerinden kalburlu borulara geçişi, kalburlu boru hücrelerinin hücre içi yoğunluğunu artırır; kalburlu boru hücreleri artan ozmotik basınçla ksilemden su çeker. Suyun kalburlu boru hücrelerine girmesiyle ozmotik basınç azalırken turgor basıncı artar ve turgor basıncının etkisiyle hücre içindeki besin içeren sıvı bulunduğu hücreden diğer hücreye geçer. Kalburlu boru hücrelerinde ilerleyen besinler, depo edileceği yere geldiğinde difüzyon ya da aktif taşıma ile önce arkadaş hücrelerine, oradan da depo edileceği havuz hücrelerine geçerek depolanır. Havuz hücrelerine geçen besin maddelerinden dolayı ozmotik basınç düşer, kalburlu borular içerisindeki su tekrar ksileme geçer ve böylece üretilen organik maddelerin taşınması sağlanmış olur.
+
+Bitkilerde Su ve Madde Taşınması ile İlgili Deneyler: 1.Optimum koşullardaki bir saksı bitkisinin soymuk boruları halka şeklinde kesilip çıkarılmıştır.
+
+Bir ay sonra bitkide gözlemlenen değişiklikler ve bu değişikliklerin dayandığı temeller incelendiğinde, süreçte bitkide meydana gelmesi beklenen olayları sıraladığımızda: Susuz ve mineralsiz kalan sürgün sisteminin ölmesi 2.Otsu bir bitkinin yaprakları radyoaktif karbon taşıyan CO2 gazına maruz bırakılmış ve bu radyoaktif karbon atomu önce bitkinin gövdesindeki floemde daha sonra da bitkinin köklerindeki nişasta moleküllerinde tespit edilmiştir.
+
+Radyoaktif karbonun kökteki nişasta moleküllerinde tespit edilmesi sürecinde sırasıyla gerçekleşen olaylar:

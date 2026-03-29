@@ -1,0 +1,5 @@
+# Elektrik Alan
+
+Bir $q$ yükünün $d$ uzağındaki bir noktada oluşturduğu elektrik alan, o noktaya konulan çok küçük bir $q_0$ test yüküne etki eden kuvvettir: $E = k \frac{q}{d^2}$. Elektrik alan vektörel bir büyüklüktür; birimi N/C veya V/m'dir. Birden fazla yükün bir noktada oluşturduğu bileşke elektrik alan, vektörel toplamla bulunur.
+
+Elektrik alan çizgileri, pozitif yükten dışarı doğru, negatif yüke doğru içeri doğrudur. Çizgiler yüzeye diktir, sık olduğu yerde alan şiddeti büyüktür, birbirini kesmezler.

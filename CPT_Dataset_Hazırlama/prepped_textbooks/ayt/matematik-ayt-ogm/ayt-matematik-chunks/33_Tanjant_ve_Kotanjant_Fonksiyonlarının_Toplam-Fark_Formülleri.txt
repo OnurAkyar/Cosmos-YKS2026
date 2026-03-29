@@ -1,0 +1,12 @@
+# Tanjant ve Kotanjant Fonksiyonlarının Toplam-Fark Formülleri
+
+Tanjant ve kotanjant için toplam-fark formülleri sinüs ve kosinüs formüllerinden türetilir:
+\[
+\tan(\alpha + \beta) = \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha \tan\beta}, \qquad
+\tan(\alpha - \beta) = \frac{\tan\alpha - \tan\beta}{1 + \tan\alpha \tan\beta}.
+\]
+\[
+\cot(\alpha + \beta) = \frac{\cot\alpha \cot\beta - 1}{\cot\alpha + \cot\beta}, \qquad
+\cot(\alpha - \beta) = \frac{\cot\alpha \cot\beta + 1}{\cot\beta - \cot\alpha}.
+\]
+Bu formüller, özellikle $\tan$ veya $\cot$ içeren denklemlerin çözümünde ve integrallerde faydalıdır. Ayrıca, bazı trigonometrik limitlerin hesaplanmasında da kullanılırlar.

@@ -1,0 +1,11 @@
+# Enerji Korunumu
+
+Mekanik enerji, bir cismin kinetik enerjisi ile yerçekimi potansiyel enerjisinin toplamıdır: $E_{\text{mekanik}} = E_k + E_p$. Sürtünme kuvvetlerinin ihmal edildiği bir sistemde, sadece yerçekimi kuvveti etkisi altında hareket eden cisimlerin mekanik enerjisi korunur; $E_k$ ve $E_p$ birbirine dönüşürken toplam sabit kalır. Örneğin, trambolinde zıplayan bir çocuğun en üst noktada sadece potansiyel enerjisi vardır ($E_p = mg3h$). Aşağı doğru düştükçe potansiyel enerji azalır, kinetik enerji artar, ancak toplam mekanik enerji değişmez.
+
+Sürtünmeli hava ortamında düşen bir cisimde ise mekanik enerji korunmaz. Cisim düştükçe potansiyel enerjisinin bir kısmı kinetik enerjiye, bir kısmı da hava direnci nedeniyle ısıya dönüşür. Limit hıza ulaşıldığında kinetik enerji sabit kalır, potansiyel enerjideki azalmanın tamamı ısıya dönüşür.
+
+Yatay atış hareketinde de sürtünme ihmal edilirse mekanik enerji korunur. $3h$ yüksekliğinden $v$ yatay hızıyla atılan bir topun toplam mekanik enerjisi $mg3h + \frac{1}{2}mv^2$ olur. Top her $h$ düştüğünde $mgh$ potansiyel enerji kaybederken aynı miktarda kinetik enerji kazanır.
+
+Sarmal yaylarda enerji dönüşümü şöyledir: Sıkıştırılmış bir yay serbest bırakıldığında, yayda depolanan esneklik potansiyel enerjisi önündeki cisme kinetik enerji olarak aktarılır: $\frac{1}{2} k x^2 = \frac{1}{2} m v^2$. Yayı sıkıştıran kuvvet iki katına çıkarılırsa sıkışma miktarı iki katına çıkar, depolanan enerji ise dört katına çıkar.
+
+Sürtünmeli yollarda ise yayda depolanan enerji kinetik enerjiye dönüştükten sonra sürtünme kuvveti iş yaparak cismi durdurur ve ısı açığa çıkar: $\frac{1}{2} k x^2 = \frac{1}{2} m v^2 = F_s \cdot d = Q$.

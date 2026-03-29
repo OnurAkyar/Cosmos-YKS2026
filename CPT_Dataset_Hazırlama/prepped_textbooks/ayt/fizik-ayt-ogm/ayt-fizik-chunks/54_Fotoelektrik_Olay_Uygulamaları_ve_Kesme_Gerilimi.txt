@@ -1,0 +1,3 @@
+# Fotoelektrik Olay Uygulamaları ve Kesme Gerilimi
+
+Fotosel devresinde, katoda düşen ışık yeterli frekansta ise akım oluşur. Doyma akımı ışık şiddetiyle orantılıdır. Kesme potansiyeli $V_{\text{kesme}}$ için $eV_{\text{kesme}} = hf - hf_0$. Fotoelektrik olay fotosellerde, otomatik kapılarda, gece lambalarında kullanılır.

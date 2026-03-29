@@ -1,0 +1,33 @@
+# KÖKLERDE SU VE MİNERAL EMİLİMİ
+
+Köklerde Su-Mineral Emilimi ve Ksileme Taşınma Yolları: Kök sistemi, bitkinin toprağa tutunmasını ve topraktan suyun alınmasını sağlar. Kökteki emici tüyler, topraktan aktif taşıma ile aldığı mineralleri ve tuzları biriktirir. Bu birikim, emici tüylerdeki osmotik basıncın toprak çözeltisine göre daha yüksek olmasını sağlar. Kök hücrelerinde K+ iyonu, topraktaki yoğunluğundan yüzlerce kat fazla olabilir. Bu sayede kökteki emici tüylere osmozla su geçer.
+Bitkilerde suyun taşınması ksilem borularıyla gerçekleşir. Bu yüzden topraktan emilen suyun ve minerallerin ksileme kadar iletilmesi gerekir.
+
+İletim iki yolla gerçekleşir. Birinci yol olan simplast yolda su, emici tüylere girerek hücreden hücreye plazmodezmlerden geçerek ksileme kadar taşınır. İkinci yol olan apoplast yolda ise su hücreye girmeden hücre çeperleri ve çeperlerin çevresindeki hücreler arası boşluktan taşınır.
+
+Böylece su; emici tüylerden epidermise, epidermisten kök korteksine (parankimasına), korteksten de endodermise ulaşır.
+Endodermis duvarlarındaki kaspari şeridi suya geçirimsizdir. Kaspari şeridi, su moleküllerini belirli bölgelerden geçmeye zorlayan bir bariyerdir. Su, endodermis içinde belirli bölgelerden hareket ederek merkezî silindirdeki ksileme ulaşır. Suyun ve minerallerin alımı bu yolla daha hızlı olur. Ksileme ulaşan su, kök ve gövde içinde yukarı doğru hareket ederek yapraklara kadar ulaşır.
+
+Bitkiler, ihtiyaç duyduğu mineralleri toprak çözeltisinden suda çözünmüş hâlde alır. Bu olay iki yolla gerçekleşir. Birinci yol enerji harcanmadan gerçekleşen pasif taşıma ile alınması, ikinci yol ise ATP harcanarak gerçekleşen aktif taşıma ile alınması ya da biriktirilmesidir. Kökte suyun ozmazla, K+ iyonunun aktif taşımayla alınması buna örnek olarak gösterilebilir.
+
+Bitkiler Tarafından Kullanılan Makro ve Mikro Elementler: Bitkilerin yaşamsal faaliyetleri için çok fazla miktarda ihtiyaç duyduğu elementlere makro elementler adı verilir.
+Makro elementlerden bazıları bitkinin yapısını oluşturan organik bileşiklerin başlıca bileşenidir. Bazıları da bileşik enzim yapısında kofaktör olarak bulunur ve enzim aktivasyonunu sağlar.
+Bitkilerin yaşamsal faaliyetleri için çok az miktarda ihtiyaç duyduğu elementlere mikro elementler adı verilir.
+Mikro elementler, bileşik enzim yapısında kofaktör olarak bulunur ve enzim aktivasyonunu sağlar.
+Makro elementler gibi mikro elementlerin eksikliğinde de bitkinin metabolik faaliyetlerinde aksaklıklar ortaya çıkar.
+   Örneğin klorofilin yapısında makro element olan magnezyum elementi vardır. Ancak klorofilin sentezlenmesi sırasında mikro element olan demir elementine ihtiyaç duyulur. Demirin yeterli olmaması, klorofil sentezini durdurur. Bu durumda bitkide hastalıklar ve anormallikler olusur. Eksiklik giderilmezse bu durum, bitkinin ölümüne yol acabilir.
+Bir mineralin eksikliği, başka bir mineral ile giderilemez.
+
+Başlıca makro elementler ve alım formları şöyledir: hidrojen (H₂O), oksijen (O₂), azot (NO₃⁻, NH₄⁺), kükürt (SO₄²⁻), kalsiyum (Ca²⁺) ve potasyum (K⁺). Mikro elementler ise klor (Cl⁻), manganez (Mn²⁺), bor (H₂BO₃⁻), çinko (Zn²⁺), nikel (Ni²⁺) ve molibden (MoO₄²⁻) olarak sıralanabilir.
+
+Nodül ve Mikoriza: Bazı bitkiler, topraktan su ve mineral alımını artırmak için bazı bakteri ve mantar türleri ile mutualist bir birliktelik kurar. Bu bitkilerin kökleri, mantar hifleri ile mikoriza oluşumu gerçekleştirirken bazı bakterilerle de nodül oluşumunu gerçekleştirir.
+
+Mikoriza: Bazı bitkilerin kökleri ile topraktaki özel mantarların oluşturduğu simbiyotik birliktir.
+Tohumlu bitkilerin çoğu, mikoriza oluşturarak toprağın suyunu emmek için yüzey alanlarını artırır.
+Mantarlar, su ve inorganik iyonları emen hif adı verilen ipliklere sahiptir.
+Hifler, kökü dıştan sarar ve toprak içlerine uzanarak emilim yüzeyini artırır.
+Mikoriza, kök korteks hücreleri arasına yerleşir.
+
+Mikoriza Nodül: Baklagillerin kökleri ile Rhizobium (Rizobiyum) cinsi bakterilerin simbiyotik birlikteliğinden oluşan yumrulardır.
+Atmosferin %79'u azot olsa da bitkiler bu serbest azotu kullanamaz, azotu topraktaki amonyum ve nitrat bileşiklerinden karşılar.
+Nodül içindeki Rhizobium bakterileri, havanın serbest azotunu toprağa bağlayarak amonyuma dönüştürür. Böylece bitki, azot ihtiyacını karşılamış olur. Bitki de bakterilerin ihtiyaç duyduğu organik besinleri bakteriye sağlar.

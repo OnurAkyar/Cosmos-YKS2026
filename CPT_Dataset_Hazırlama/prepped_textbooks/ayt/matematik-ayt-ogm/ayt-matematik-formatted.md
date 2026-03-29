@@ -1,7 +1,3 @@
-Aşağıda, **Dik Dairesel Konide Uzunluk ve Alan** bölümü başta olmak üzere, tüm belgenin doğal dil akışını bozan ayrı satırlardaki formüllerin ve madde işaretlerinin kaldırıldığı, sürekli ve okunabilir bir düzyazı haline getirilmiş tam metni bulacaksınız. Matematiksel ifadeler LaTeX formatında korunmuş, her konu başlığı içindekiler tablosuyla birebir eşleşmektedir.
-
----
-
 # Fonksiyonun Grafikleri İle İlgili Uygulamalar
 
 İki değişken arasında doğrusal bir ilişki varsa, bu ilişki $y = ax + b$ biçimindeki bir doğrusal fonksiyon veya bu fonksiyonun grafiği ile ifade edilebilir. Burada $a$ ve $b$ gerçek sayılardır. Doğrusal fonksiyonlar, değişkenler arasındaki sabit oranlı değişimi modellemek için kullanılır. Örneğin, bir arabanın deposunda kalan yakıt miktarı ile alınan yol arasında doğrusal bir ilişki vardır; her kilometrede eşit miktarda yakıt tüketilir.

@@ -1,0 +1,3 @@
+# Birim Çember
+
+Analitik düzlemde merkezi orijin $O(0,0)$ ve yarıçapı 1 birim olan çembere birim çember denir. Birim çember üzerindeki herhangi bir $P(x, y)$ noktası $x^2 + y^2 = 1$ denklemini sağlar. Örneğin, $P\left(\frac{1}{\sqrt{2}}, a\right)$ noktası birim çember üzerinde ise $\left(\frac{1}{\sqrt{2}}\right)^2 + a^2 = 1 \Rightarrow a^2 = \frac{1}{2} \Rightarrow a = \pm \frac{1}{\sqrt{2}}$ olur. Bu iki değerin çarpımı $-\frac{1}{2}$'dir. Birim çember, trigonometrik fonksiyonların tanımlanmasında temel rol oynar. Birim çember sayesinde trigonometrik fonksiyonlar sadece dik üçgenle sınırlı kalmayıp tüm gerçek sayılarda tanımlanabilir. Ayrıca, birim çember üzerinde açıların radyan cinsinden ölçülmesi doğaldır.

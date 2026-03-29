@@ -1,0 +1,11 @@
+# Koşullu Olasılık
+
+$E$ eş olasılıklı bir örnek uzay olsun. $A$ ve $B$ iki olay olsun. $B$ olayının gerçekleştiği bilindiği durumda $A$ olayının gerçekleşme olasılığına $A$ olayının $B$ olayına bağlı koşullu olasılığı denir ve $P(A \mid B)$ ile gösterilir. $P(B) > 0$ olmak koşuluyla:
+\[
+P(A \mid B) = \frac{P(A \cap B)}{P(B)}.
+\]
+Bu formülün mantığı, $B$'nin gerçekleştiğini bildiğimizde, örnek uzayı $B$ ile sınırlandırmamız ve $A$'nın bu yeni örnek uzay içindeki olasılığını hesaplamamızdır. Bu eşitlikten $P(A \cap B) = P(B) \cdot P(A \mid B)$ çarpma kuralı elde edilir. Eğer örnek uzayın tüm sonuçları eş olasılıklı ise, koşullu olasılık şu şekilde de hesaplanabilir:
+\[
+P(A \mid B) = \frac{s(A \cap B)}{s(B)},
+\]
+yani $A$ ve $B$'nin kesişimindeki eleman sayısının $B$'nin eleman sayısına oranı. Örneğin, bir grupta 10 kız ve 8 erkek 10. sınıf, 6 kız ve 14 erkek 11. sınıf olsun. Rastgele seçilen bir öğrencinin erkek olduğu bilindiğine göre 10. sınıf olma olasılığı $\frac{8}{22} = \frac{4}{11}$ olur. Burada, erkek öğrencilerin sayısı 22 olduğu için örnek uzay bu 22 kişiye indirgenir; bunlardan 8'i 10. sınıftır.

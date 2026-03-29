@@ -1,0 +1,3 @@
+# LASER Işınları
+
+Laser, uyarılmış emisyon ile aynı fazlı, aynı frekanslı, aynı yönlü fotonlar üretir. Tek renkli, az sapmalı, yüksek enerjilidir. Kesme, delme, kaynak, tıp (ameliyat, göz tedavisi), iletişim (fiber optik), savunma, ölçüm, barkod okuma, CD/DVD okuyucular gibi çok geniş kullanım alanı vardır.

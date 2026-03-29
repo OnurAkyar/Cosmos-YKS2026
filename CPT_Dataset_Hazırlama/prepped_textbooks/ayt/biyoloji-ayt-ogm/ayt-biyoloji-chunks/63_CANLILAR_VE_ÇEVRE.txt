@@ -1,0 +1,40 @@
+# CANLILAR VE ÇEVRE
+
+Varyasyon: Bir popülasyonda bireyler arasında renk, fizyolojik yapı, davranış gibi özellikler farklı olabilir. Organizmanın göz rengi, kürk rengi gibi dış görünüşü ve kan grubu, davranışları, hastalıkları gibi özelliklerinin tamamı fenotip adını alır. Bir organizmanın fenotipini o canlıya ait genetik faktörler ve çevresel faktörler belirler. Hem genetik hem de çevre etkisi ile gerçekleşen aynı türün bireyleri arasındaki farklılıklara varyasyon denir.
+Uğur böceklerinde görülen renk ve benek sayısındaki farklılıklar, biber bitkisinde görülen renk farklılıkları varyasyona örnek olarak verilebilir.
+
+Genetik varyasyonların nedenleri mayoz bölünmede gerçekleşen krossing over, homolog kromozomların rastgele dağılımları, döllenme ve mutasyonlardır.
+Göz rengi, kan grupları, dil yuvarlayabilme ya da yuvarlayamama gibi özellikler genetik varyasyonlardır. Bu varyasyonlar kalıtsaldır ve eşeyli üremeyle dölden döle aktarılır.
+Çevresel faktörlerin genler üzerindeki etkisi sonucu ortaya çıkan varyasyonlar, üreme hücrelerinde olursa dölden döle aktarılır. Vücut hücrelerinde meydana gelen değişiklikler kalıtsal değildir.
+
+Bir organizmanın DNA'sında ya da RNA'sındaki nükleotit dizisinde meydana gelen değişikliğe mutasyon, değişime neden olan etmenlere ise mutajen denir.
+Mutasyona radyasyon, ultraviyole ışınları, X ışınları, radyoaktif maddeler, bazı kimyasal maddeler, ilaçlar ve virüsler sebep olabilmektedir.
+Mutasyonlar faydalı, zararlı veya nötr olabilir. Canlıya olumlu veya olumsuz herhangi bir etkisi olmayan mutasyonlara nötr mutasyon, canlının yaşamını sürdürdüğü ortamdaki uyum yeteneğini artıran mutasyonlara yararlı mutasyon  denir. Zararlı mutasyonlar ise canlıların hastalanmasına ya da ölümüne neden olabilir.
+
+Doğal Seçilim: Canlıların yaşadığı ortam koşulları çeşitli nedenlerden sürekli değişir. Çevredeki değişikliklere uyum sağlayamayan organizmaların hayatta kalması veya çoğalması olası değildir. Ayrıca popülasyondaki bireyler arasında doğadaki kaynakları kullanabilmek ve yaşayabilmek için sürekli bir rekabet vardır. Ortam koşullarına uyum sağlayabilenler yaşamaya devam ederken uyum sağlayamayanlar mücadeleyi kaybeder.
+Belirli kalıtsal özelliklere sahip bireylerin özelliklerinden dolayı diğer bireylere göre yaşama ve üreme olasılıklarının daha yüksek olması durumuna doğal seçilim adı verilir.
+
+Adaptasyon: Bir bireyin bulunduğu ortam şartlarında yaşama ve üreyebilme şansını artıran kalıtsal özelliklerin tamamına adaptasyon denir. Doğal seçilim yoluyla meydana gelen değişim süreci adaptasyonu oluşturur.
+Adaptasyonlar yapısal, korunma, taklit etme ve davranışsal olabilir.
+Uyum sağlayabilenlerin sadece hayatta kalması değil gelişmesi ve üremesi de olasıdır. Yavrular, doğdukça ebeveynlerinden aktarılan avantajlı genetik özelliklere sahip olacaklardır. Bukalemunların bulunduğu yere göre renk değiştirerek düşmanlarından korunması, nilüfer bitkisinin geniş yapraklara sahip olması sayesinde yapısındaki fazla suyu terleme ile dışarı atması, sukulent bitkisinin yaprağında veya gövdesinde su depolayarak kurak ortama uyum sağlaması gibi özellikler adaptasyona örnek olarak verilebilir.
+
+Yapay Seçilim: İnsanların bilinçli ve amaçlı olarak bir organizmanın belli özelliklerini seçmesi ve kontrollü olarak yetiştirmesi sürecine yapay seçilim denir.
+
+Yapay seçilim; hastalığı ortadan kaldırmak, dönüm başına verimi artırmak, ekosistem içindeki rekabeti azaltmak, gamet seviyesinde genetik varyasyon oluşturmak gibi amaçlarla uygulanabilir.
+
+Bakterilerin Antibiyotiklere Karşı Direnç Geliştirmesi: Bakteri kökenli hastalıklarla mücadelede antibiyotikler kullanılmaktadır.
+Antibiyotiklerin yanlış seçilmesi, sık kullanılması ve kullanım süresine uyulmaması bakterilerin antibiyotiğe direncini artırmaktadır.
+Antibiyotik tedavilerinde zayıf olan bakteriler antibiyotiklerden etkilenerek yok olmakta, güçlü olanlar hayatta kalıp varlığını devam ettirmektedir. Başka bir ifadeyle doğal seçilime uğramaktadır.
+Yaşamını devam ettiren bakteriler konjugasyon (gen transferi) ile bu özelliği diğer bakterilere aktarmaktadır. Bu nedenle kullanılan antibiyotik bu bakterilerle mücadelede etkisiz kalmaktadır.
+
+Pestisitlerin Etkileri: Pestisit (canlıkıran), pest (haşarat) adı verilen zararlıları öldürmek amacı ile kullanılan maddedir. İnsektisit (böcek öldürücü), herbisit (yabani ot öldürücü), fungusit (mantar öldürücü) gibi pestisitler; çok eski tarihlerden beri tarım alanında bit, pire, sinek, ayrık otu gibi zararlılara karşı kullanılmaktadır. İnsektisitlere karşı direnç kazanan böcekler de doğal seçilime örnek olarak verilebilir. İnsektisitlerin yaygın kullanımı, böceklerin uyum sağlayarak bu insektisitlere karşı direnç kazanmasına sebep olmaktadır.
+
+Böceklerde insektisit direnci şu şekilde işler: insektisitten etkilenmeyen, dirençli gene sahip olmayan böcekler ölürken dirençli bireyler hayatta kalır. Hayatta kalan dirençli bireyler yeni nesil oluşturur. DDT günümüzde kullanılması yasaklanmış bir insektisittir. DDT, ilk kullanıldığı yıllarda sineklerle mücadelede etkili olmuş ancak az sayıda da olsa bazı sinekler DDT'den etkilenmemiştir. Bu sinekler, sahip olduğu kalıtsal farklılıklar sayesinde yaşamaya ve üremeye devam etmiştir. Böylece DDT kullanılan bölgede dayanıklı bireylerin sayısı artmış ve bu sineklere karsı DDT'nin etkisi azalmıştır. Dayanıklı sinekler, başlangıçta çok az sayıda olmasına rağmen zamanla çoğalmıştır. DDT'nin kullanımı, dayanıklı bireylerin çoğalmasını sağlayan etkin bir faktör olmuştur.
+
+Tarım ve Hayvancılıkta Yapay Secilim Uygulamaları: Bir türe ait canlılarda insanlar tarafından istenilen bazı özelliklerin seçilmesi ve kontrollü olarak yetiştirilmesine yapay seçilim denir. Yapay seçilimin birçok uygulaması vardır.
+Günümüzde görülen çok farklı köpek çeşitliliği, insanların seçimleri nedeniyle ortaya çıkmıştır. Avcılık veya çobanlıkta kullanılmak üzere yapay seçilim uygulanarak özel köpekler yetiştirilir.
+Brassica oleracea [Brassika olerase (yabani hardal)] bitkisinin farklı kısımlarının kullanılması ile yapay seçilimle karnabahar, yer lahanası, brüksel lahanası, lahana, brokoli ve karalahana vb. sebzeler üretilmiştir.
+
+Besin değeri yüksek et ve süt verimine sahip olan sığır, koyun vb. hayvanların yine aynı özellikteki hayvanlarla çiftleştirilmesi ile et ve süt verimi yüksek hayvanlar elde edilir.
+Dünyaca ünlü İngiliz yarış atları, Arap atlarının en hızlı ve güçlülerinin çiftleştirilmesiyle üretilir.
+İnsanlar tarafından yapay olarak seçilmiş ve yetiştirilmiş hayvan ve bitki türleri kültür olarak adlandırılır.

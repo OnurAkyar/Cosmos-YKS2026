@@ -1,0 +1,3 @@
+# Kararlı ve Kararsız Atomlar, Radyoaktif Işımalar
+
+Kararlı çekirdekte güçlü nükleer kuvvet Coulomb itmesini dengeler. Kararsız çekirdekler radyoaktif bozunur. Alfa ($\alpha$) bozunumunda $^{A}_{Z}X \rightarrow ^{A-4}_{Z-2}Y + ^{4}_{2}He$. Beta ($\beta^-$) bozunumunda nötron → proton + elektron + antinötrino, $^{A}_{Z}X \rightarrow ^{A}_{Z+1}Y + e^- + \bar{\nu}$. Beta ($\beta^+$) bozunumunda proton → nötron + pozitron + nötrino, $^{A}_{Z}X \rightarrow ^{A}_{Z-1}Y + e^+ + \nu$. Gama ($\gamma$) bozunumunda uyarılmış çekirdek foton yayınlar, $A$, $Z$ değişmez. Fisyon büyük çekirdeğin parçalanması, füzyon küçük çekirdeklerin birleşmesidir (Güneş). Radyasyon iyonlaştırıcı (α, β, γ, X, UV) ve iyonlaştırıcı olmayan (radyo, mikrodalga, IR, görünür) olarak sınıflandırılır.

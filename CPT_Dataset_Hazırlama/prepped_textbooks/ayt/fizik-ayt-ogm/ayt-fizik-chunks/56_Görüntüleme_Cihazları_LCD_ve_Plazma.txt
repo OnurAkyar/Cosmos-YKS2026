@@ -1,0 +1,5 @@
+# Görüntüleme Cihazları, LCD ve Plazma
+
+Görüntüleme cihazları arasında röntgen (X-ışınları), MR (manyetik rezonans), PET (pozitron emisyon tomografisi), BT (bilgisayarlı tomografi), ultrason, radar, sonar, termal kameralar bulunur.
+
+LCD (sıvı kristal ekran) düşük enerji tüketimi, ince yapı, az ısı avantajlarına sahiptir; dar görüş açısı ve yavaş tepki süresi dezavantajlarıdır. Plazma ekranlar gaz iyonlaşmasıyla çalışır; yüksek parlaklık, geniş açı, yüksek yenileme hızı sunar; ancak yüksek enerji tüketimi, ağırlık, ekran yanması riski taşır.

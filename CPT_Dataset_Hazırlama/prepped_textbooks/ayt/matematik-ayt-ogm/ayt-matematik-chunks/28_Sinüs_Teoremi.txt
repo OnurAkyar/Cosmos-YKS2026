@@ -1,0 +1,7 @@
+# Sinüs Teoremi
+
+Bir $ABC$ üçgeninde kenar uzunlukları ile karşı açıların sinüsleri arasında şu ilişki vardır:
+\[
+\frac{a}{\sin \widehat{A}} = \frac{b}{\sin \widehat{B}} = \frac{c}{\sin \widehat{C}} = 2R,
+\]
+burada $R$ üçgenin çevrel çemberinin yarıçapıdır. Sinüs teoremi, bir kenar ve karşısındaki açı ile başka bir açı bilindiğinde diğer kenarı bulmak için kullanılır. Ayrıca, üçgenin alanı $A = \frac{1}{2}bc \sin \widehat{A} = \frac{1}{2}ac \sin \widehat{B} = \frac{1}{2}ab \sin \widehat{C}$ şeklinde de hesaplanabilir. Teoremin ispatı, bir kenara ait yüksekliğin iki farklı şekilde ifade edilmesiyle yapılır: $h = b \sin \widehat{C} = c \sin \widehat{B}$ gibi. Sinüs teoremi, özellikle çevrel çember ile ilgili problemlerde ve üçgenin kenarları ile açıları arasında dönüşüm yaparken kullanılır.

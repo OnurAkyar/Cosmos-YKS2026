@@ -1,0 +1,3 @@
+# Bağımsız Olaylar
+
+$A$ ve $B$ iki olay olsun. Eğer $A$ olayının gerçekleşmesi $B$ olayının gerçekleşme olasılığını etkilemiyorsa (veya tersi), bu olaylara bağımsız olaylar denir. Bağımsızlık durumunda $P(A \mid B) = P(A)$ olur. Koşullu olasılık tanımından $P(A \cap B) = P(A) \cdot P(B)$ elde edilir. Bu, bağımsızlığın temel karakterizasyonudur. Eğer $P(A \cap B) \neq P(A)P(B)$ ise olaylar bağımlı olarak adlandırılır. $A$ veya $B$'nin gerçekleşme olasılığı ise $P(A \cup B) = P(A) + P(B) - P(A \cap B)$ ile hesaplanır. Ayrıca, $P(A \text{ ya da } B) = P(A \cap B') + P(B \cap A')$ şeklinde de ifade edilebilir. Bu, sadece birinin gerçekleştiği durumu temsil eder.

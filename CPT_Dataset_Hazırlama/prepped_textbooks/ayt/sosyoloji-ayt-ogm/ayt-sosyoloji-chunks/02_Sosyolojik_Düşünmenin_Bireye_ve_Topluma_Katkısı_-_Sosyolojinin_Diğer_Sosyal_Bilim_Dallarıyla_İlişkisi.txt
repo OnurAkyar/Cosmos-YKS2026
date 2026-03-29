@@ -1,0 +1,25 @@
+# Sosyolojik Düşünmenin Bireye ve Topluma Katkısı - Sosyolojinin Diğer Sosyal Bilim Dallarıyla İlişkisi
+
+Sosyoloji, toplumsal yaşamı ve gerçekliği birçok açıdan ele alırken yaptığı çalışmalarla bireylere ve toplumlara da katkı sağlamaktadır. Bunların başlıcaları şunlardır. Sosyoloji, içinde yaşanılan toplumu, kurumu, grubu daha iyi anlamayı destekler. Toplumsal olayları daha geniş bir perspektifle analiz edebilmeyi sağlar. İnsanın kendi davranışlarının nedenlerini daha iyi anlayabilmesine yardımcı olur. Araştıran ve eleştirel düşünebilen bireyler olabilmeyi destekler. Toplumsal yaşamdaki problemlerin nedenlerini açıklar ve bunların çözümü için gereken bilimsel verileri sunar. Bilinen toplumsal gerçekliklerin arkasındaki ilişkilerin ve gerçekliğin görülmesini kolaylaştırır. Bireylerde empati yeteneğini de geliştirir.
+
+Sosyoloji toplumsal yapıyı ve bu yapıyı etkileyen etkenleri açıklarken diğer bilimlerle ilişki kurmak ve onların verilerinden yararlanmak durumunda kalır. Sosyolojinin en fazla ilişkili olduğu bilim dalları şunlardır.
+
+Psikoloji, davranışları ve zihinsel süreçleri sistematik olarak inceleyen bilim dalıdır. Bireyin davranışlarını ve davranışların nedenlerini açıklamayı konu edinen psikolojinin, özellikle sosyal psikolojinin, sosyolojik araştırmalara önemli katkıları vardır.
+
+Tarih, toplumların geçmişte yaşadığı olaylar sosyolojinin bazı genellemelere ulaşmasında belirleyici bir rol oynadığı için tarih biliminden yararlanılır.
+
+Coğrafya, sosyoloji toplumların üzerinde yaşadığı bölgenin ve bölge özelliklerinin toplumsal hayata etkisini anlayabilmek için coğrafyanın verilerinden yararlanır.
+
+Hukuk, resmî kural ve yasalar toplumsal ilişkileri biçimlendirdiği için sosyoloji hukuk biliminin toplum üzerindeki etkisinden yararlanır.
+
+Antropoloji, sosyoloji insanlığın ve toplumların tarihsel gelişim sürecinde geçtiği aşamaları ve geliştirdiği kültürel yapıları anlamada antropolojiden (insan bilimi) yararlanır.
+
+Siyaset bilimi, devletin, hükûmetin, yönetim biçimlerinin yapısı ve işleyişi toplumsal ilişkilerin, kurumların, kuruluşların yapısını ve işleyişini biçimlendirdiği için sosyoloji, siyaset biliminin verilerinden yararlanır.
+
+Ekonomi, bir mal üretilirken, paylaşılırken ve tüketilirken bireylerin ve sosyal grupların birbirleriyle ilişkilerini inceleyen ekonomi bilimi toplumsal gerçekliği açıklamada sosyolojiye önemli katkılar sağlar.
+
+İletişim bilimleri, bilişim ve medya teknolojilerinin önem kazandığı günümüzde iletişimin toplumsal anlamı, topluma etkileri, toplum-iletişim ilişkisi, toplumsal iletişimin tarihsel süreç içindeki gelişimi gibi konuları açıklamada sosyoloji iletişim biliminden yararlanılır.
+
+Sosyoloji hem somut toplumsal durumları inceleyen hem de onlarla ilgili soyutlama yapan bir bilimdir. Sosyolojinin bu özelliği, toplumsal olay ve toplumsal olgu kavramlarında açığa çıkmaktadır. Toplumsal olay, belli bir zaman ve mekânda gerçekleşen, en az iki kişiyi ilgilendiren somut değişim ya da oluşumlara denir. Toplumsal olayların sebep ve sonuçları bulunur ayrıca bir defaya özgü ve tekildir. Örneğin Kurtuluş Savaşı, 2022 yılında Türkiye'de gerçekleşen üniversite sınavı birer toplumsal olaydır. Toplumsal olgu ise aynı türden toplumsal olayların sürekliliğinden türetilen soyut bir kavramdır. Toplumsal olgunun belirli bir yeri ve zamanı yoktur. Toplumsal olgu, benzer olayların sebep ve sonuçlarının tümünü içerir ve genelleştirilebilir hükümlerle ilgilidir. Örneğin sınav, savaş birer toplumsal olgudur. Evlilik üzerinden hem toplumsal olay hem de toplumsal olgu şu şekilde açıklanabilir: Ayşe ve Ali'nin evliliği bir toplumsal olaydır. Çünkü en az iki kişiyi ilgilendirir ayrıca yeri ve zamanı belli somut bir durumdur. Ama iki kişinin evliliği değil de "Evlilik, Türk toplumunda önemli bir yere sahiptir" dediğimizde aynı türden toplumsal olayların bir genellemesi yapılmış olur. Belli bir zaman ve yer bilgisi bulunmaz. Bu durumda toplumsal bir olgudan bahsedilmiş olur.
+
+Sosyolojide olay ve olgular indirgemeci ve bütünsel olmak üzere iki tür yaklaşım temelinde analiz edilir. Toplumsal olay ve olguları siyasi, ekonomik, dinî, hukuki ve ahlaki boyutlarından sadece birine indirgeyerek inceleyen yaklaşıma indirgemeci yaklaşım denir. Bütünsel yaklaşım ise toplumsal olay ve olguları siyasi, ekonomik, dinî, hukuki ve ahlaki boyutlarının tümünü içerecek şekilde ve bu tüm boyutların birbirleriyle etkileşimini dikkate alarak analiz eder. Bütünsel yaklaşım, toplumu analiz etmede geniş bir perspektif sunduğu için sosyologlar tarafından daha fazla tercih edilir.

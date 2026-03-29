@@ -1,0 +1,7 @@
+# Basit Makineler (Basit Makinelerin Özellikleri, Kaldıraçlar, Makaralar)
+
+Basit makineler, iş kolaylığı sağlamak, kuvvetten veya yoldan kazanç elde etmek amacıyla kullanılan araçlardır. Kaldıraç, makara, palanga, vida, çıkrık, dişli çarklar basit makine örnekleridir. Tüm basit makinelerde yük ile kuvvet arasındaki ilişki denge veya tork prensibinden, alınan yollar ise iş prensibinden bulunur. Basit makineler enerjiden kazanç sağlamaz; ya kuvvetten kazanç sağlar (yoldan kaybeder) ya da yoldan kazanç sağlar (kuvvette kaybeder). Kuvvet kazancı, Yük/Kuvvet oranıdır.
+
+Kaldıraçlar üç tiptir. Destek arada olan kaldıraçta kuvvet kolu yük kolundan büyükse kuvvet yükten küçüktür; pense, makas, tahterevalli bu tipe örnektir. Yük arada olan kaldıraçta kuvvet her zaman yükten küçüktür; el arabası, fındık kıracağı bu tipe örnektir. Kuvvet arada olan kaldıraçta kuvvet her zaman yükten büyüktür, kuvvetten kazanç yoktur; maşa, cımbız bu tipe örnektir.
+
+Sabit makarada makara yer değiştirmez; kuvvetten veya yoldan kazanç sağlamaz. $F = G$ olup, yük $h$ yükselirse ip $h$ çekilir. Hareketli makarada makara yük ile birlikte hareket eder. Kuvvetten kazanç vardır: $F = G/2$ (makara ağırlığı ihmal edilirse). Yoldan kayıp vardır: yük $h$ yükselirse ip $2h$ çekilir. Ardışık hareketli makaralarda kuvvet kazancı artar; iki hareketli makara için $F = G/4$ olur.

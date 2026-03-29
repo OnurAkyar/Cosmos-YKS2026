@@ -1,0 +1,9 @@
+# Yatay Atış
+
+Yatay atış hareketi şöyle tanımlanır: $t=0$ anında, hava direncinin ihmal edildiği bir ortamda bir cisim $v_0$ yatay hızıyla atıldığında, cisim hem yatay hem de düşey yönde yer değiştirerek parabolik bir yörünge izler ve yere ulaşır. Atıldıktan sonra yatay yönde cisme herhangi bir kuvvet etki etmediği için yatay hız sabit kalır ($v_x = v_0$); bu nedenle cisim yatayda eşit zamanlarda eşit yollar alır. Düşey yönde ise cisim yerçekimi kuvveti etkisinde olduğu için ivmesi $g$'ye eşittir ve düşeyde serbest düşme hareketi yapar.
+
+Yatay atış hareketinin yatay yönde incelenmesinde, $t$ sürede alınan yatay yol $x = v_x t = v_0 t$ bağıntısı ile bulunur. Yörüngenin herhangi bir P noktasında cismin hızının büyüklüğü, yatay hız $v_x = v_0$ ile o andaki düşey hız $v_y = g t$'nin vektörel bileşkesidir: $v = \sqrt{v_0^2 + (g t)^2}$.
+
+Yatay atış hareketinin düşey yönde incelenmesinde, $t$ sürede alınan düşey yol $h = \frac{1}{2} g t^2$, $t$ süre sonraki düşey hız $v_y = g t$, zamansız hız denklemi $v_y^2 = 2 g h$ olarak kullanılır. Yerçekimi ivmesi $g$ sabit olduğu için, düşey yönde her $t$ sürede hız artışı $g t$ kadar olur. Alınan yollar ise serbest düşmede olduğu gibi ardışık eşit zaman aralıklarında $h$, $3h$, $5h$, ... şeklinde artar. Örneğin $g = 10 \, \text{m/s}^2$ alındığında, 0‑1 s arasında $5$ m, 1‑2 s arasında $15$ m, 2‑3 s arasında $25$ m yol alınır.
+
+Yatay atış hareketinde cismin havada kalma süresi, ilk hızına ve cismin kütlesine bağlı değildir; sadece atış yüksekliğine ($h$) ve yerçekim ivmesine ($g$) bağlıdır: $t = \sqrt{2h/g}$. Kütlesi $m$ olan bir cisim $v_0$ yatay hızıyla atıldığında $2t$ sürede yere düşüyorsa, aynı yükseklikten $2m$ kütleli bir cisim $2v_0$ yatay hızıyla atıldığında yine $2t$ sürede yere düşer, ancak yatayda aldığı yol iki katına çıkar.

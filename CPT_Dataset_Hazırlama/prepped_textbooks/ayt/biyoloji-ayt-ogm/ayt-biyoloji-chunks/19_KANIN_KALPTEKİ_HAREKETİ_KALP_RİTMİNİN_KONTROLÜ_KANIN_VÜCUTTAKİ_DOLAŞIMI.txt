@@ -1,0 +1,44 @@
+# KANIN KALPTEKİ HAREKETİ, KALP RİTMİNİN KONTROLÜ, KANIN VÜCUTTAKİ DOLAŞIMI
+
+Kanın Kalpteki Hareketi ve Kalp Döngüsü: Kalp kası belirli bir ritimde kasılıp gevşer.
+Kalbin iki kulakçığının kasılmasını iki karıncığın kasılması izler. Kasılmayı da gevşeme takip eder. Kalbin kasılması sistol, gevşemesi ise diyastol olarak isimlendirilir.
+
+Kalbin sağ kulakçığı, üst ve alt ana toplardamarlar ile kalbin kendi toplardamarlarından gelen oksijen bakımından fakir kan ile dolar. Akciğerlerde gaz alışverişi olduktan sonra oksijen bakımından zenginleşen kan ise akciğer toplardamarlarıyla kalbin sol kulakçığına gelir. Kulakçıklara gelen kanın büyük bölümü tüm odacıklar gevşemiş durumdayken pasif olarak karıncıklara dolar; kalan kısım ise karıncıklar kasılmaya başlamadan önce kulakçıkların kasılmasıyla karıncıklara geçer. Karıncıkların kasılmasıyla AV kapakçıkları kapanır; oksijen bakımından fakir kan akciğer atardamarına, oksijen bakımından zengin kan ise aort atardamarına geçer.
+Kalp kapakçıklarının kapanması stetoskop yardımıyla duyulabilir. Bu sesler ''lup-dup'' şeklindedir.
+AV kapakçıklarının kapanması sırasında ''lup'', aort ve pulmoner kapakçıkların kapanması sırasında ise ''dup'' sesi duyulur.
+Kalbin birbirini izleyen kasılma ve gevşeme olayına kalp döngüsü denir. Kalp döngüsü yaklaşık 0,85 saniye sürer. Bu süre üç aşamada tamamlanır.
+
+Bu sürenin 0,15 saniyesi kulakçıkların kasılmasına, 0,30 saniyesi karıncıkların kasılmasına ve 0,40 saniyesi ise kalbin dinlenmesine ayrılmaktadır.
+Kalbin kasılma sayısı (atış sayısı) ve her bir kasılmada bir karıncığın pompaladığı kan miktarı (atış hacmi) kalp debisini belirler.
+İnsan kalbi dinlenme sırasında dakikada ortalama 60-70 kez atar. Her atışta vücuda 70 mL kan gönderir.
+
+Birim zamanda kalpten geçen kan miktarı olarak adlandırılan kalp debisi dinlenme hâlinde yaklaşık 5 litre/dakikadır. Bu, insanın vücudundaki toplam kanın yaklaşık bir dakika içinde kalpten geçtiği anlamına gelir.
+
+Kalp kası, iskelet kasından farklı olarak sinir sisteminden uyarı almadan aksiyon potansiyellerini başlatabilir ve ritmik ve devamlı olarak kasılıp gevşeyebilir. Kalp kasında bunu sağlayan yapı üst ana toplardamarın kalbe girdiği yerin yakınında bulunan sinoatriyal düğüm (SA) olarak adlandırılan hücre grubudur.
+Sinoatrial düğüm kalp kasının kasılma hız ve zamanını belirler. Bu hücrelerin oluşturduğu aksiyon potansiyelleri komşu hücreleri kasılması için uyarır.
+
+Kalpte impuls oluşumu ve iletimi şu şekilde gerçekleşir: SA düğümden çıkan uyarılar önce kulakçıkların duvarlarına yayılır ve her ikisinin de aynı anda kasılmasına yol açar. Ardından uyarılar sağ ve sol kulakçıklar arasındaki duvardaki atrioventriküler düğüme (AV) ulaşır. AV'de impulslar, kalbin uç noktasına yayılmadan önce 0,1 saniye kadar geciktirilir. Bu gecikme karıncıklar kasılmadan önce kulakçıklardaki kanın karıncıklara aktarılmasını sağlar. AV düğümünden çıkan uyarılar his demetlerine ve karıncık duvarları boyunca yayılan Purkinje liflerine iletilir.
+His demetleri ve Purkinje lifleri özelleşmiş kas lifleridir. Uyarılar bu sayede tüm karıncığa yayılır. Karıncıklar kasılır ve kan atardamarlara aktarılır.
+SA düğümü etkileyerek kalbin çalışma hızını değiştiren bazı durumlar vardır. Örneğin kanda CO2 oranındaki artış kan pH'sini düşürür. Bu durumda kalp atışı hızlanır. Kafein, tein, nikotin gibi bazı kimyasallar da kalp atış hızını artırır.
+Vücut sıcaklığındaki artış kalbin çalışmasını hızlandıran diğer bir etkendir. Adrenalin, noradrenalin, tiroksin hormonları kalbin çalışmasını hızlandırırken vagus sinirinden salgılanan asetilkolin yavaşlatır.
+
+Kalbin Çalışmasına Etki Eden Faktörler: Kalbin çalışması ve atım sayısı, bazı faktörler tarafından düzenlenerek kalbin değişen çevre koşullarına uyum göstermesi sağlanır. Bu faktörlerden bazıları kalp atışlarını hızlandırırken bazıları yavaşlatır.
+Kalp atım hızını otonom sinirlerden olan vagus sinirinden salgılanan asetilkolin hormonu, vücut sıcaklığının düşmesi, hücreler arasında aşırı miktarda potasyumun bulunması ve kalsiyum eksikliği gibi nedenler azaltır.
+Kafein ve tein gibi bazı kimyasal maddeler, adrenalin ve tiroksin hormonları, kandaki CO2 yoğunluğu ise kalp atım hızını artırır.
+Otonom sinirlerden salgılanan noradrenalin ile kalbin çalışması hızlanır.
+Kişi aşırı kan kaybettiğinde kalp, otonom sinirlerle uyarılır. Bu uyarı sayesinde kalp atım hızı dakikada 150-180 atıma kadar artabilir.
+
+Kanın vücuttaki dolaşımı küçük kan dolaşımı (pulmoner dolaşım) ve büyük kan dolaşımı (sistemik dolaşım) olmak üzere iki şekilde gerçekleşir.
+
+Pulmoner dolaşım kalp ile akciğerler arasındaki kan dolaşımıdır.
+Sağ karıncığın kasılmasıyla başlar.
+Karbondioksidi çok olan kan, sağ karıncıktan akciğer atardamarı aracılığıyla akciğerlere gönderilir.
+Akciğerlerde bulunan alveoller ile alveolleri çevreleyen kılcal damarlardaki kan arasında madde alışverişi gerçekleşir. Alveollerdeki oksijen kana geçerken kandaki karbondioksit alveollere geçer.
+Oksijen bakımından zenginleşen kan, akciğer toplardamarları aracılığıyla kalbin sol kulakçığına gelir.
+
+Büyük Kan Dolaşımı (Sistemik Dolaşım): Sistemik dolaşım oksijen bakımından zengin olan kanın kalp ve atardamarlar aracılığıyla vücut hücrelerine ulaştırılması, vücut hücrelerinin ürettiği karbondioksidin toplardamarlar aracılığıyla kalbe getirilmesi sürecidir.
+Sistemik dolaşım sol karıncığın kasılmasıyla başlar.
+
+Kan, sol karıncıktan aorta geçerek aorttan ayrılan kollarla vücuttaki doku ve organlara madde taşır.
+Doku kılcallarında kan ile hücreler arasında madde alışverişi gerçekleştikten sonra kan, doku ve organlardaki toplardamarlara geçer. Bu toplardamarlar ana toplardamarlarla bağlantılıdır.
+Vücudun alt bölgesindeki dokulardan toplanan kan, alt ana toplardamar ile vücudun üst bölgesindeki dokulardan toplanan kan ise üst ana toplardamar ile kalbin sağ kulakçığına getirilir.

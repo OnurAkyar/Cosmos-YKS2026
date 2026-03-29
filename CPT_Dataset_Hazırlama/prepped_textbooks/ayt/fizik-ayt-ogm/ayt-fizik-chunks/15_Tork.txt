@@ -1,0 +1,7 @@
+# Tork
+
+Kuvvetlerin döndürücü etkisine tork denir. Tork, $\vec{\tau} = \vec{d} \times \vec{F}$ vektörel çarpımı ile tanımlanır. Tork vektörel bir büyüklüktür; yönü sağ el kuralı ile bulunur. Dört parmak dönme yönünü gösterecek şekilde avuç içine alınan cisimde, başparmağın yönü tork vektörünün yönünü verir. Tork vektörü sayfa düzlemine dik dışarı doğru ise $\odot$, içeri doğru ise $\otimes$ sembolü ile gösterilir.
+
+Torkun büyüklüğü, kuvvetin büyüklüğü ile kuvvetin doğrultusuna, dönme noktasından çizilen dik uzaklığın çarpımına eşittir: $\tau = F \cdot d$. Birim N·m'dir. Kuvvetin doğrultusu dönme noktasından geçiyorsa, dik uzaklık sıfır olduğu için tork sıfır olur. Kuvveti bileşenlerine ayırarak da tork hesaplanabilir: sadece dönme noktasına dik bileşen tork oluşturur.
+
+Toplam (net) tork, bir noktaya göre tüm kuvvetlerin oluşturduğu torkların vektörel toplamıdır. Aynı yöndeki torklar toplanır, zıt yöndekiler çıkarılır. Tork dengesi, bir cismin dönme hareketi yapmaması için toplam torkun sıfır olmasıdır. Denge için hem $\vec{F}_{\text{net}} = 0$ hem de $\vec{\tau}_{\text{net}} = 0$ olmalıdır.

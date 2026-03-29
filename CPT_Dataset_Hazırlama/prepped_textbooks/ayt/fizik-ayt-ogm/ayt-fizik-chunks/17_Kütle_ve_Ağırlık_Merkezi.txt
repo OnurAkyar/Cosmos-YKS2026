@@ -1,0 +1,7 @@
+# Kütle ve Ağırlık Merkezi
+
+Ağırlık, bir cisme etki eden yerçekimi kuvvetidir. Ağırlık merkezi, bu paralel kuvvetlerin bileşkesinin uygulama noktasıdır. Küçük boyutlu cisimlerde ağırlık merkezi ile kütle merkezi hemen hemen aynıdır. Ancak çok yüksek yapılarda, yerçekimi ivmesinin yükseklikle azalması nedeniyle ağırlık merkezi kütle merkezinin biraz altında olur.
+
+Bir cisim ağırlık merkezinden asıldığında veya ağırlık merkezinin altına destek konulduğunda dengede kalır. Birleştirilmiş cisimlerin ağırlık merkezi, her bir parçanın ağırlığının ve konumunun ağırlıklı ortalaması alınarak bulunur. Kesikli cisimlerde, çıkarılan parça varsa, onun ağırlığı yukarı yönlü kabul edilir.
+
+Koordinat sisteminde, birden fazla cismin ortak kütle merkezinin koordinatları $x_{\text{km}} = \frac{\sum m_i x_i}{\sum m_i}$, $y_{\text{km}} = \frac{\sum m_i y_i}{\sum m_i}$ ile hesaplanır.

@@ -1,0 +1,3 @@
+# Deneysel Olasılık
+
+Deneysel olasılık, bir olayın gerçekleşme sıklığının toplam deney sayısına oranıdır. Teorik olasılık ise olayın olası tüm sonuçlar içindeki matematiksel oranıdır. Deneysel olasılık, deney sayısı arttıkça teorik olasılığa yaklaşır. Bu, büyük sayılar yasası olarak bilinir ve rastgele olayların uzun vadede istikrarlı bir oran sergilediğini ifade eder. Örneğin, bir madeni parayı 100 kez atıp 48 tura gelmesi durumunda tura gelme deneysel olasılığı 0,48 iken teorik olasılık 0,5'tir. Atış sayısı arttıkça deneysel olasılık 0,5'e yaklaşır. Deneysel olasılık, özellikle teorik modelin karmaşık olduğu veya bilinmediği durumlarda kullanışlıdır. Örneğin, bir ürünün hatalı çıkma olasılığını belirlemek için testler yapılır.

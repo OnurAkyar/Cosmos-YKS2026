@@ -1,0 +1,3 @@
+# Işığın Dalga Doğası ve Doppler Olayı
+
+Işığın girişim ve kırınım yapması dalga doğasını kanıtlar. Doppler etkisi: Kaynak ve gözlemci arasında bağıl hareket varsa algılanan frekans değişir. Yaklaşan kaynakta frekans artar (maviye kayma), uzaklaşanda frekans azalır (kırmızıya kayma).

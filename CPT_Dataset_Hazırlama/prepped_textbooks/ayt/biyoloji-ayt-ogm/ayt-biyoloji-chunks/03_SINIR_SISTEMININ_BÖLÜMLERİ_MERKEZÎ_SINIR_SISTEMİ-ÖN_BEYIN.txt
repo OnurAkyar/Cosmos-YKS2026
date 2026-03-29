@@ -1,0 +1,31 @@
+# SINIR SISTEMININ BÖLÜMLERİ, MERKEZÎ SINIR SISTEMİ-ÖN BEYIN
+
+SİNİR SİSTEMİNİN BÖLÜMLERİ: Sinir sistemi merkezî sinir sistemi ve çevresel sinir sistemi olmak üzere iki bölümden oluşur.
+
+Merkezî sinir sistemi, beyin ve omurilikteki sinirlerden oluşan sinir sisteminin bütünleştiricisi ve kontrol merkezidir. Merkezî sinir sisteminde ara nöronlar (bağlantı nöronları) yer alır. Ara nöronlar, duyu nöronlarından gelen duyusal bilgileri işler. Ardından mevcut koşullar ve deneyimlere dayanarak uygun motor nöronları aktive eder. Böylece kasların kasılmasını ve bezlerin salgı üretmesini teşvik eden tepkinin ortaya çıkmasını sağlar.
+
+Motor nöronlar merkezî sinir sisteminden aldığı yanıtı kaslara, bezlere veya diğer nöronlara iletir. Motor nöronların hücre gövdesi ve dendritleri merkezî sinir sisteminin içindedir. Motor nöronların aksonları çevresel sinir sisteminin kontrolündeki organlara uzanır.
+
+Merkezi Sinir Sisteminin Genel Yapısı ve Bölümleri: Merkezî sinir sistemi, embriyonik bir yapı olan içi boş sinir kordonundan (nöral tüp) oluşur. Embriyonik dönemdeki sinir kordonu boşluğu, beyin ve omurilik gelişirken omurilik kanalını ve beyin yarıklarını (ventrikül) oluşturur. Omurilik kanalı ve beyin ventrikülleri beyin omurilik sıvısı (BOS) ile doludur. Ventriküller, ependim hücreleri ile çevrilidir. BOS, merkezî sinir sistemini korur; besler ve atıkların uzaklaştırılmasında görev alır. Merkezî sinir sistemi gri maddeden ve ak maddeden oluşur.
+
+Beynin korteksinde nöronların hücre gövdeleri, dendritleri ve miyelinsiz aksonları içeren gri madde bulunur. Korteksin altındaki ak madde ise miyelin kılıflı aksonlardan oluşur. Beyindeki ak madde çoğunlukla içeride yer alırken omurilikteki ak madde dısarıda yer alır.
+
+Merkezî sinir sistemi bağ dokudan oluşmuş üç katlı koruyucu zarla çevrilidir. Kafatasının altında yer alan en dıştaki zar, sert zardır. Sert zar en kalın olan zar olup kafatasının iç yüzeyine yapışıktır. Zarların ortasındaki örümceksi zar gevşek bir beyin örtüsü oluşturur. Örümceksi zar ile onun altında yer alan ince zar arasındaki boşlukta kan damarları ve BOS bulunur. En içte bulunan ince zar; beyin ve omuriliğin yüzeyine yapışık ince, şeffaf bir zardır. İnce zar içinde beyin ve omuriliğe oksijen ve besin sağlayan birçok kan damarı bulunur.
+
+Beynin Genel Yapısı ve Bölümleri: Embriyonik dönemin henüz dördüncü haftasında ön beyin, orta beyin ve arka beyin olmak üzere beynin bölümleri şekillenmeye başlar. Beşinci haftayla birlikte ön beyinde uç beyin ve ara beyin gelişir. Arka beyin pons, beyincik ve omurilik soğanını oluşturacak şekilde farklılaşmaya başlar. Uç beynin diğer bölümlere göre orantısız ve hızlı büyümesi dış kısmın içe doğru kıvrılmasına neden olur. Böylece beynin iki yarım küresi (korteks, beyin kabuğu) oluşur.
+
+Ön Beynin Genel Yapısı: Ön beyin, uç beyin ve ara beyin olmak üzere iki kısımdan oluşur. Uç beyin, toplam beyin kütlesinin yaklaşık %80'i ile beynin en büyük kısmıdır. Sağ ve sol olmak üzere iki yarım küreden oluşur.
+
+Sağ yarım küre vücudun sol tarafıyla, sol yarım küre ise vücudun sağ tarafıyla iletişim kurar. Beyin yarım küreleri nasırlı cisim adı verilen çok sayıda akson bağlantılarıyla oluşmuş yapıyla birbirine işlevsel olarak bağlıdır.
+
+Uç beyin; bilinçli davranışlar, hafıza, öğrenme ve duyu alımında rol oynar. Beyin yarım kürelerinin her biri ön lop (frontal lop), yan lop (paryetal lop), şakak lobu (temporal lop) ve arka lop (oksipital lop) olmak üzere dört kısma ayrılır. Ön lop ile yan lop enine doğru merkezî bir yarıkla (Rolando yarığı) ayrılmıştır. Bu merkezî yarığın ön kısmında motor işlevlerin görüldüğü primer motor korteks, arka kısmında basınç ve dokunma duyu işlevlerinde görev alan primer duyu korteksi bulunur.
+
+Duyu organlarından primer duyu korteksine gelen duyusal bilgi, işlenmek üzere ilgili derleme alanlarına gönderilir. Değerlendirilen ve bütünleştirilen bilgi, primer motor korteksten beyin sapı ve omurilik yoluyla beyni terk eder. Bu bilgi motor nöronları uyararak tepkiyi efektör organlara iletmede görev alır.
+
+Ara beyin; talamus, hipotalamus ve epitalamustan oluşur.
+
+Talamus: Uç beyne gelen duyusal bilgilerin (koku hariç) toplandığı merkezdir. Duyu organlarından gelen bilgiler burada işlenir ve beyin kabuğunun ilgili merkezine iletilir. Beyincik ve bazal çekirdeklerden primer motor korteksine bilgi ileterek motor fonksiyonlara katkıda bulunur ve bilincin korunmasında rol oynar.
+
+Hipotalamus: Vücudun termostatı olarak görev yaparak vücut ısısını kontrol eder, sirkadiyen ritimleri düzenler ve vücutta homeostasiyi sağlar. Hipofiz bezini kontrol ederek otonom sinir sisteminin aktivitelerini denetler ve bütünleştirir. Hipofiz bezinin salgıladığı hormonlar cinsel davranışları, beslenmeyi ve susamayı düzenler; heyecan ve stres durumunda "savaş ya da kaç" tepkisini oluşturur.
+
+Epitalamus: Talamusun üst ve arka kısmında endokrin sistemin bir parçası olan epifiz bezinin bulunduğu bölgedir. Epifiz bezi melatonin hormonu salgılar. Bu hormon, hipotalamusla sirkadiyen ritimleri düzenlemeye yardımcı olarak uyku-uyanıklık döngüleri ve ergenlik başlangıcının düzenlenmesinde görev alır. Epitalamusta yer alan bazı kılcal damar toplulukları beyin omurilik sıvısının oluşumuna yardımcı olur.

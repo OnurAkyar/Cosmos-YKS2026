@@ -1,0 +1,7 @@
+# Manyetik Alan
+
+Hareket eden yükler çevrelerinde manyetik alan oluşturur. Düz bir telden $i$ akımı geçtiğinde, telden $d$ uzaklıktaki manyetik alan şiddeti $B = K \cdot \frac{2i}{d}$ dir. $K = 10^{-7} \, \text{T·m/A}$. Manyetik alan yönü sağ el kuralı ile bulunur.
+
+Çember şeklindeki telin merkezinde $B = K \cdot 2\pi \frac{i}{r}$; $N$ sarım için $B = N K \cdot 2\pi \frac{i}{r}$. Çember parçası için $B = K \cdot 2\pi \frac{i}{r} \cdot \frac{\alpha}{360}$.
+
+Bobin (akım makarası) içinde düzgün manyetik alan oluşur: $B = N \cdot \frac{K \cdot 4\pi i}{L}$. Bobin elektromıknatıs gibi davranır.

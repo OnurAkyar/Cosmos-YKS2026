@@ -1,0 +1,3 @@
+# Analitik Düzlem
+
+İki sayı doğrusunun $O$ noktasında bir yatay bir dikey olarak dik kesişmesiyle oluşan sisteme dik koordinat sistemi, bu sistemin bulunduğu düzleme analitik düzlem denir. Yatay eksen $x$ ekseni (apsis ekseni), dikey eksen $y$ ekseni (ordinat ekseni). Bir $A(a,b)$ noktasının koordinatları, $x=a$ ve $y=b$ doğrularının kesiştiği noktadır. Orijin $O(0,0)$'dır. Eksenler düzlemi dört bölgeye ayırır: I. bölge $x>0, y>0$; II. bölge $x<0, y>0$; III. bölge $x<0, y<0$; IV. bölge $x>0, y<0$.

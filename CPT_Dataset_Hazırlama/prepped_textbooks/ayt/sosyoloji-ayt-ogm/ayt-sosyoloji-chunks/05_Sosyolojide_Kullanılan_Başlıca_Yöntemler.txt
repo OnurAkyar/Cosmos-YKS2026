@@ -1,0 +1,19 @@
+# Sosyolojide Kullanılan Başlıca Yöntemler
+
+Bilim, ilgilendiği konular üzerinde açıklamalar yapmayı, tahminler geliştirmeyi ve ilişkiler kurmayı amaçlayan sistematik bir bilgi bütünüdür. Bir sosyal bilim dalı olan sosyoloji toplumsal gerçekliğin çeşitli yönlerini açıklamak için geliştirilen çeşitli kuramlar kullanır. Bu kuramlar bilimsel yöntemlerle geliştirilebilir. Bilimsel yöntemler bir yandan kuramların geliştirilmesi için gereken verilerin toplanmasını ve işlenmesini, diğer yandan da geliştirilen kuramların araştırmalarla sınanması ve kontrol edilmesi sürecini kapsar. Sosyologlar toplumda bir sorun ya da ilginç bir olay gördüklerinde onu tümevarım, tümdengelim, analoji gibi temel bilimsel yöntemlerle incelemeye koyulurlar. Sosyologlar, bu temel yöntemlerin yanı sıra farklı yöntemleri de kullanabilirler.
+
+Sosyolojide kullanılan başlıca yöntemler şunlardır.
+
+Tümevarım, tikelden tümele, özelden genele, tek tek olaylardan yasalara geçiş biçiminde yapılan akıl yürütmeye denir. Bu yöntemde aynı türden olgu, olay, durum için birden fazla gözlem yapılır. Örneğin, pek çok ülkedeki işsizlik sorunu incelenip aralarındaki benzerlikten yola çıkarak "Dünyadaki işsizliğin genel sebebi şudur" genellemesine ulaşmak tümevarım yönteminin sosyolojide kullanılmasına örnek verilebilir.
+
+Tümdengelim, tümelden tikele ya da yasalardan olgulara inme biçimindeki akıl yürütmeye denir. Bu yöntemde araştırmaya mevcut bir kuram ile başlanır. Mevcut kurama dayalı olarak geliştirilen hipotez baştaki hipotezi doğruluyorsa sonuç doğru kabul edilir. Örneğin, eğitim düzeyinin artmasıyla çocuk sahibi olma eğiliminin azaldığına dair bir kuram varsa bu kuramdan yola çıkılarak ailelerin eğitim düzeyine göre çocuk sahibi olma eğilimlerinin belirleneceği bu yöntemle söylenebilir.
+
+Analoji, iki olay veya varlık arasında bilinen benzerliklerden yararlanarak bilinmeyen benzerliklerin bulunmasıdır. Bu yolla elde edilen bilgi sadece bir varsayımdır. Örneğin, İspanya ve Türkiye Akdeniz iklimine sahiptir. İspanya'da göç oranı düşüktür. O halde Türkiye'de de göç oranı düşüktür şeklinde bir yargıya varmak analojiye örnek verilebilir.
+
+Diyalektik yöntem, doğanın olduğu gibi toplumun da çelişkiler ve çatışmalar üzerinden gelişen ilerlemesi kabul edilerek toplumu inceleme yoludur. Karşıtların çelişkisi, değişim-dönüşüm, hareket ve bütünlük olmak üzere dört temel ilkeye dayanır. Her şey var olabilmek için kendi zıddını da yaratmak ve onunla girdiği bir çatışma sürecinde devamlı olarak değişmek zorundadır.
+
+Pozitivist araştırma yöntemi, toplum hakkında nesnel, kesin, genel geçer bilgilere ulaşılabileceğini ve doğa bilimlerinin yöntemlerinin sosyolojide kullanılabileceğini öne sürer. Pozitivist bilim insanları tarafsız olmaya, istatiksel ölçmelere, sayılabilir durumlara ve gözlenebilir olaylara çok önem verirler.
+
+Anlama-yorumlama yöntemi, toplum ve doğanın farklı olduğunu, doğa bilimlerindeki nedensellik ilkesinin toplumsal konuları incelerken geçerli olmadığını düşünür. Buna göre sosyoloji toplumsal eylemin amacını ve anlamını kavramaya ve yorumlamaya odaklanmalıdır. Bu yöntemi kullananlar katılımlı gözlem, alan araştırması, derinlemesine görüşme gibi araştırma tekniklerini ile elde ettikleri niteliksel verileri yorumlayarak anlamaya çalışırlar. Bu yöntemde katılımlı gözlem, alan araştırması, uzun süreli ve derinlemesine görüşme vb. teknikler kullanılır.
+
+Tarihsel inceleme, tarihsel sosyoloji, tarihsel malzemeyi kullanarak toplumsal olgu ve olayları anlamaya ve açıklamaya çalışır. Örneğin, günümüzü yahut da içinde yaşadığımız toplumsal yapıyı ve onun sorunlarını anlamak için tarihsel süreç ve o süreçte yaşanan dönüşümleri anlamak gereklidir.

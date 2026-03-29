@@ -1,0 +1,3 @@
+# Işığın Çift Yarıkta Girişimi
+
+Young deneyi ışığın dalga doğasını gösterir. Saçak aralığı $\Delta x = \frac{\lambda L}{d n}$. Merkezi aydınlık saçak diğerleriyle aynı genişliktedir.

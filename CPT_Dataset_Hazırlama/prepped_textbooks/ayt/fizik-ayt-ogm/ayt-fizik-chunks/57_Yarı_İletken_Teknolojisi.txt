@@ -1,0 +1,3 @@
+# Yarı İletken Teknolojisi
+
+Yarı iletkenler (Si, Ge) 4 değerlik elektronludur, saf halde yalıtkandır. Katkılama ile N tipi (5 değerlikli, donör) fazla elektron, P tipi (3 değerlikli, akseptör) boşluk (hole) oluşur. P‑N eklemi diyot (tek yönlü akım) oluşturur. Transistör anahtarlama ve yükseltme yapar. LED ışık yayan diyottur. Fotodiyot ışığı elektriğe çevirir. Güneş pili fotovoltaik etki ile elektrik üretir.

@@ -1,0 +1,3 @@
+# İki Fonksiyonun Bileşkesinin Türevi
+
+Zincir kuralı, bileşke fonksiyonların türevini hesaplamak için temel araçtır. Örneğin, $y = \sin(x^2)$ ise $y' = \cos(x^2) \cdot 2x$. $y = \sqrt{1+x^2}$ ise $y' = \frac{1}{2\sqrt{1+x^2}} \cdot 2x = \frac{x}{\sqrt{1+x^2}}$. Zincir kuralı, dış fonksiyonun türevi ile iç fonksiyonun türevinin çarpımıdır.

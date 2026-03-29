@@ -1,0 +1,3 @@
+# Compton Saçılması ve De Broglie Dalga Boyu
+
+Compton olayında X-ışını fotonu serbest elektrona çarpar, enerjisinin bir kısmını aktarır, dalga boyu artar: $\Delta \lambda = \frac{h}{m_e c}(1-\cos\theta)$. Işığın tanecikli doğasını kanıtlar. De Broglie'ye göre maddesel parçacıkların da dalga boyu vardır: $\lambda = h/p = h/(mv)$. Işığın ikili doğası: bazı olaylarda dalga (girişim), bazı olaylarda tanecik (fotoelektrik, Compton).

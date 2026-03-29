@@ -1,0 +1,5 @@
+# Elektriksel Potansiyel Fark ve Elektriksel İş
+
+Eş potansiyel yüzeyler, üzerindeki tüm noktaların potansiyelinin eşit olduğu yüzeylerdir. Elektrik alan çizgilerine diktirler. Elektrostatik dengedeki iletkenlerin yüzeyleri eş potansiyeldir.
+
+Bir $q$ yükünü elektrik alanda bir noktadan diğerine taşımak için yapılan iş, $W = q \Delta V$ ile verilir. Elektrik alan yönünde gidildikçe potansiyel azalır. Alan yönüne dik hareket edildiğinde potansiyel değişmez. Eş potansiyel yüzey üzerinde iki nokta arasında iş yapılmaz.

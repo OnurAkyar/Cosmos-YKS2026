@@ -1,0 +1,21 @@
+# Belleğin Temel İşlevleri - Unutmaya Sebep Olan Faktörler - Bellek Geliştirme Teknikleri
+
+Belleğin temel işlevleri: Bellek hem öğrenmenin gerçekleşmesinde hem de öğrenilen bilgilerin depolanıp istenildiği zaman hatırlanmasında rol oynar. Belleğin kodlama, depolama ve geri çağırma olmak üzere üç temel işlevi vardır.
+
+Kodlama, bilginin belleğe işlenebilir hâle getirilmesidir. Bilgilerin belleğe yerleştirilebilmesi için zihinde sayı, sembol, formül ve şemalar oluşturulur. Hatırlamanın temel ilkesi etkili kodlamadır. Kodlama görsel, işitsel, sözel, anlamsal vb. gibi ne kadar çok çeşitli yolla yapılırsa o kadar etkili ve kalıcı olur. Kodlama çoğu kez otomatik yapılır. Örneğin görülen nesnelerin adı otomatik olarak aktif hâle gelir.
+
+Depolama, kodlanarak belleğe yerleştirilen bilgilerin uzun süreli bellekte saklanmasına depolama denir. Uyarıcılar depolama aşamasında bilgiye dönüşür ve gerektiğinde kullanılmak üzere depolanır. Uygun şekilde depolanmayan bir bilginin geri çağrılması mümkün değildir.
+
+Geri çağırma (hatırlama), uzun süreli bellekte depolanan bilgilerin gerektiğinde bilince çıkarılmasıdır. Tanıma ise karşılaşılan bir nesnenin önceden görülmüş, karşılaşılan bir bilginin önceden öğrenilmiş olduğunu fark etmektir. Örneğin sokakta gördüğümüz kişinin ortaokul arkadaşınız olduğunu fark etmek tanımak, ortaokul arkadaşınızın ismini bulmaya çalışmak ise hatırlamaktır.
+
+Unutmaya neden olan faktörler: Unutma, önceden öğrenilen bilgilerin bellekte saklanamaması yani silinmesi durumudur. Bilgilerin kısa süreli bellekten uzun süreli belleğe gönderilmemesi sonucu ortaya çıkar. Hatırlamama, unutmadan farklıdır. Unutma bilginin tamamen kaybolmasıdır. Hatırlamama ise uzun süreli belleğe atılan bilginin yeterli ipucu olmadığı için geri çağırılamaması durumudur.
+
+Unutmaya neden olan faktörler aşağıda belirtilmiştir. Bilgilerin kullanılmaması ve tekrar edilmemesi: Tekrar edilmeyen ve kullanılmayan bilgiler unutulur. Sık kullanılan bilgiler alışkanlık hâline geldiği için kolay kolay unutulmaz. Öğrenmenin hemen arkasından belli aralıklarla yapılan tekrarlar hatırlamayı kolaylaştırır. Bilinçaltına atma (güdülenmiş unutma): İstenilmeyen, hoşa gitmeyen, rahatsız eden anılar, durumlar ya da fikirler bastırılarak bilinçaltına atılır ve unutulur. Yaşanılan travmaların unutulması bu türden bir unutmadır. Ket vurma (bozucu etki): Bir öğrenmeden önce ya da sonra gerçekleşen bir başka öğrenmenin diğerini unutturmasıdır. Bozucu etki ileriye ve geriye ket vurma olarak ikiye ayrılır. İleriye ket vurma, eski öğrenilenlerin yenileri unutturmasıdır. Örneğin okul değiştiren öğrenciye numarası sorulduğunda öğrenci yeni numarası yerine eskisini söyler. Geriye ket vurma, yeni öğrenilenlerin eskileri unutturmasıdır. Örneğin İngilizce dersinde bir grup kelime ezberlendikten sonra ikinci bir grup kelime ezberlenirse ilk gruptaki kelimeler unutulur. Organik nedenler: Beyinde hücre kaybı veya çeşitli hastalıklar ve yaşlanma sonucu beynin fonksiyonlarını tam olarak yerine getirememesine bağlı unutmadır. Bunların dışında depresyon, stres, uykusuzluk, kaygı, bazı vitaminlerin vücutta eksik olması gibi faktörler de unutmaya neden olabilir.
+
+Bellek geliştirme teknikleri: Belleği güçlendirmek, hatırlamak için bilgi çok iyi öğrenilmelidir. Malzemenin örgütlenmiş olması ve yardımcı ipuçlarının olması hatırlamayı kolaylaştırır.
+
+Gruplama: Belleğin kapasitesi bellidir. Bunu artırmak oldukça zordur. Belleğin kapasitesi gruplamalar yaparak güçlendirilebilir. Örneğin 104082661965 gibi 12 rakamdan oluşan bir sayı, 104 082 661 965 şeklinde gruplanırsa akılda tutulması daha kolay olur.
+
+Hayal etme ve kodlama: Bilgi kodlanırken yardımcı olacak hayallerle birlikte kodlanır. Bu tür kodlamaya "hatırda tutma tekniği" de denir. Örneğin sözcüklerin tekerlemelerle öğrenilmesi daha kolay olur.
+
+Benzerlikler kurma: Yeni bilgileri öğrenirken eski bilgilerle benzerlik kurulması bilgilerin belleğe yerleştirilmesini kolaylaştırır.
