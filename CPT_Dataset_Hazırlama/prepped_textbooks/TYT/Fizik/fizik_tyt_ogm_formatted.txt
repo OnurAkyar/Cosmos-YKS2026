@@ -1,0 +1,254 @@
+	# Fizik Bilimine Giriş
+
+## Fizik Nedir?
+Fizik; uzay, zaman, madde ve enerji arasındaki ilişkiyi inceleyen bilim dalıdır. Bir doğa bilimi olan fizikte çalışmalar gözlem ve deneye dayalı olarak yürütülür. Fizikteki çalışmalar atom altı parçacıklardan uzak galaksilere kadar geniş bir alanı kapsar; evrenin işleyişini keşfetmede fizik bilimi önemli bir rol oynar. Islak bir yolda araçların durma mesafesinin artması, mikrodalga fırının yiyecekleri ısıtması, emniyet kemerinin koruyuculuğu gibi birçok günlük hayat olayı fizik bilimi ile açıklanabilir.
+
+## Fiziğin Alt Dalları
+1. **Mekanik:** Kuvvet, hareket ve dengeyi inceler. Gezegenlerin hareketi, binaların yapımı, aerodinamik vb. konuları kapsar. Statik (denge), Dinamik (kuvvet ve kütle etkisi) ve Kinematik (sadece hareket) olmak üzere üçe ayrılır.
+2. **Termodinamik:** Isı, sıcaklık, ısı alışverişi, ısıl denge ve hâl değişimini inceler. Bina yalıtımı, küresel ısınma ve hava olayları çalışma alanına girer.
+3. **Elektromanyetizma:** Elektrik yükünü, yüklü parçacıkların hareketini, manyetik maddelerin özelliklerini ve oluşturdukları etki alanlarını inceler.
+4. **Optik:** Işığın yapısını ve ışık olaylarını (yayılma, yansıma, kırılma vb.) inceler.
+5. **Nükleer Fizik (Çekirdek Fiziği):** Atom çekirdeğinin yapısını, çekirdekte meydana gelen etkileşimleri ve tepkimeleri (radyasyon, nükleer tıp, santraller) inceler.
+6. **Katıhâl Fiziği:** Kristal yapıdaki maddelerin elektrik, manyetik, optik ve esneklik (mekanik) özelliklerini inceler. Güneş panelleri, şarjlı piller, akıllı kumaşlar çalışma alanıdır.
+7. **Atom Fiziği:** Atomu bir çekirdek ile elektronları içeren bir sistem olarak ele alır, molekül yapılarını inceler (Elektron mikroskobu, 3D yazıcılar, lazer).
+8. **Yüksek Enerji ve Plazma Fiziği:** Atom altı parçacıkları, yüksek enerjili parçacıkların etkileşimini ve maddenin plazma hâlini inceler (CERN deneyleri, uzay sanayisi).
+
+## Fiziksel Niceliklerin Sınıflandırılması
+Fiziksel nicelikler, temel ve türetilmiş ile skaler ve vektörel olmak üzere sınıflandırılır.
+
+**Temel Büyüklükler:** (Kütle, Işık şiddeti, Sıcaklık, Akım şiddeti, Madde miktarı, Uzunluk, Zaman). Ölçümleri doğrudan yapılabilir.
+**Türetilmiş Büyüklükler:** Temel büyüklükler yardımıyla türetilebilen niceliklerdir (Kuvvet, Hız, Enerji, Alan, Hacim, Basınç vb.).
+
+- **Skaler Büyüklükler:** Sadece sayı ve birimle ifade edilebilen yönsüz büyüklüklerdir (Kütle, sıcaklık, basınç, enerji, zaman, özkütle).
+- **Vektörel Büyüklükler:** Sayı ve birimin yanı sıra doğrultu, yön ve uygulama noktasının da belirtilmesi gereken büyüklüklerdir (Kuvvet $\vec{F}$, hız $\vec{v}$, ivme $\vec{a}$, yer değiştirme $\Delta\vec{x}$). Birden fazla vektörün yerine kullanılabilen tek vektöre **bileşke vektör** ($\vec{R}$) denir.
+
+## Bilim Araştırma Merkezleri
+- **TÜBİTAK:** Türkiye Bilimsel ve Teknolojik Araştırma Kurumu.
+- **TENMAK:** Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu.
+- **ASELSAN:** Askerî Elektronik Sanayi (savunma elektroniği).
+- **CERN:** Avrupa Nükleer Araştırma Merkezi (İsviçre-Fransa sınırı, parçacık hızlandırıcılar).
+- **NASA:** Ulusal Havacılık ve Uzay Dairesi (ABD sivil uzay programı).
+- **ESA:** Avrupa Uzay Ajansı.
+
+---
+
+# Madde ve Özkütle
+
+Evrende kütlesi, hacmi ve eylemsizliği olan her şeye **madde** denir. Erime/donma sıcaklığı, özkütle, öz ısı maddenin ayırt edici özellikleridir. 
+
+- **Kütle:** Değişmeyen madde miktarıdır. Skaler ve temel bir büyüklüktür, "m" ile gösterilir. SI birimi "kg"dır, eşit kollu terazi ile ölçülür. (Ağırlık ise kütleye etki eden yer çekimi kuvvetidir, $\vec{G} = m \cdot \vec{g}$).
+- **Hacim:** Bir maddenin uzayda kapladığı yere denir. Skalerdir, "V" ile gösterilir, SI birimi "$m^3$"tür.
+- **Özkütle (Yoğunluk):** Birim hacimdeki kütle miktarıdır. Sabit sıcaklık ve basınç altında maddeler için ayırt edici bir özelliktir. $d = \frac{m}{V}$ formülüyle hesaplanır. SI birimi $kg/m^3$'tür (genellikle $g/cm^3$ kullanılır).
+
+**Karışımların Özkütlesi:**
+$d_1$ ve $d_2$ özkütleli iki sıvı homojen karıştığında karışımın özkütlesi sıvıların özkütleleri arasında bir değer alır ($d_1 > d_{karisim} > d_2$). Karışımın özkütlesi, hacimce fazla katılan sıvının özkütlesine daha yakındır. Eşit hacimde karıştırılırlarsa: $d_{karisim} = \frac{d_1 + d_2}{2}$ olur.
+
+---
+
+# Dayanıklılık, Adezyon, Kohezyon ve Yüzey Gerilimi
+
+## Dayanıklılık
+Katı bir cismin kendi ağırlığına ve dışarıdan uygulanan kuvvetlere karşı gösterdiği dirence **dayanıklılık** denir. Kendi ağırlığına karşı dayanıklılık, $\frac{Kesit Alanı}{Hacim}$ oranı ile ilişkilidir. Cisimlerin boyutları orantılı olarak artırılırsa dayanıklılıkları azalır (Kare-Küp Kanunu).
+
+## Adezyon ve Kohezyon
+- **Adezyon Kuvveti (Yapışma):** Farklı türden madde molekülleri arasındaki çekim kuvvetidir. Suyun cama yapışması adezyona örnektir.
+- **Kohezyon Kuvveti (Birbirini Tutma):** Aynı türden maddelerin molekülleri arasındaki çekim kuvvetidir. Su damlasının dağılmadan küresel durması kohezyona örnektir (Cıvada kohezyon çok yüksektir).
+- Kohezyon > Adezyon ise sıvı yüzeyi ıslatmaz (cıva gibi). Adezyon > Kohezyon ise sıvı yüzeyi ıslatır (su gibi).
+
+## Yüzey Gerilimi ve Kılcallık
+- **Yüzey Gerilimi:** Sıvı yüzeyindeki moleküllere etki eden dengelenmemiş kohezyon kuvveti sebebiyle yüzeyin gergin bir zar gibi davranmasıdır. Sıcaklık artarsa yüzey gerilimi azalır. Suya tuz eklemek yüzey gerilimini artırırken, deterjan veya sabun eklemek azaltır.
+- **Kılcallık:** Sıvıların adezyon ve kohezyon kuvvetleri etkisiyle ince (kılcal) borularda yükselmesi veya alçalmasıdır. Bitkilerde suyun taşınması, peçetenin suyu emmesi kılcallığa örnektir.
+
+---
+
+# Hareket ve Kuvvet
+
+## Hareket Kavramları
+Bir cismin seçilen bir referans noktasına göre yer değiştirmesine hareket denir.
+- **Hareket Türleri:** Öteleme (ilerleme), Dönme (sabit eksen etrafında dolanma) ve Titreşim (gidip gelme).
+- **Yörünge:** Cismin izlediği yol.
+- **Konum ($\vec{x}$):** Referans noktasına göre yönlü uzaklık (vektörel).
+- **Alınan Yol (x):** Yörüngenin uzunluğu (skaler).
+- **Yer Değiştirme ($\Delta \vec{x}$):** İlk konumdan son konuma çizilen en kısa yönlü doğru ($\Delta \vec{x} = \vec{x}_{son} - \vec{x}_{ilk}$). Vektöreldir.
+- **Hız ($\vec{v}$):** Birim zamandaki yer değiştirme ($\vec{v} = \frac{\Delta \vec{x}}{\Delta t}$). Vektöreldir.
+- **Sürat ($v$):** Birim zamanda alınan yoldur ($v = \frac{x}{t}$). Skalerdir.
+
+## Düzgün Doğrusal Hareket ve İvme
+- **Düzgün Doğrusal Hareket:** Eşit zaman aralıklarında eşit yer değiştirmeler yapılan (sabit hızlı) harekettir. İvme sıfırdır. Konum-zaman grafiğinin eğimi hızı verir. Hız-zaman grafiğinin altında kalan alan yer değiştirmeyi verir.
+- **İvme ($\vec{a}$):** Birim zamandaki hız değişimidir. $\vec{a} = \frac{\Delta \vec{v}}{\Delta t}$. 
+- **Düzgün Hızlanan / Yavaşlayan Hareket:** Hızın birim zamanda düzgün arttığı veya azaldığı durumlardır. İvme sabittir. Hız-zaman grafiğinin eğimi ivmeyi, ivme-zaman grafiğinin altındaki alan hız değişimini verir.
+
+## Kuvvet ve Newton'un Hareket Yasaları
+Kuvvet ($\vec{F}$), duran cismi harekete geçiren, şekil değiştiren, yön değiştiren etkidir. Dinamometre ile ölçülür, birimi Newton'dur (N). Bileşke (Net) Kuvvet, birden fazla kuvvetin etkisini tek başına yapan kuvvettir.
+1. **I. Yasa (Eylemsizlik Prensibi):** Net kuvvet sıfırsa, duran cisim durmaya devam eder, hareketli cisim sabit hızla hareketini sürdürür.
+2. **II. Yasa (Temel Prensip):** Bir cisme net kuvvet etki ediyorsa, cisim ivmeli hareket yapar. $\vec{F}_{NET} = m \cdot \vec{a}$
+3. **III. Yasa (Etki-Tepki Prensibi):** Etkileşen cisimler birbirlerine eşit büyüklükte ve zıt yönde kuvvet uygularlar. $\vec{F}_{etki} = -\vec{F}_{tepki}$.
+
+## Sürtünme Kuvveti
+Hareket etmeyi zorlaştıran kuvvettir. Cisme yüzeyin uyguladığı tepki kuvveti ile doğru orantılıdır: $F_s = k \cdot N$.
+- **Statik Sürtünme:** Duran cisimleri harekete geçene kadar etkileyen kuvvettir. Uygulanan kuvvete eşittir.
+- **Kinetik Sürtünme:** Kayarak ilerleyen cisimlere etki eder. Statik sürtünmenin maksimum değerinden daha küçüktür.
+
+---
+
+# İş, Enerji ve Güç
+
+- **İş ($W$):** Kuvvet ile kuvvet doğrultusunda yapılan yer değiştirmenin çarpımıdır. $W = \vec{F} \cdot \Delta \vec{x}$. Birimi Joule (J). Harekete dik kuvvetler iş yapmaz.
+- **Güç ($P$):** Birim zamanda yapılan iştir (iş yapma hızı). $P = \frac{W}{\Delta t}$. Birimi Watt (W).
+- **Mekanik Enerji:** Bir cismin Kinetik ($E_K$) ve Potansiyel ($E_P$) enerjilerinin toplamıdır.
+  - **Kinetik Enerji:** Hareketten kaynaklı enerjidir. $E_K = \frac{1}{2} \cdot m \cdot v^2$.
+  - **Yerçekimi Potansiyel Enerjisi:** Konumdan kaynaklı enerjidir. $E_P = m \cdot g \cdot h$.
+  - **Esneklik Potansiyel Enerjisi:** Sıkışan/uzayan yaylarda depolanan enerjidir. $E_{yay} = \frac{1}{2} \cdot k \cdot x^2$.
+- **İş-Enerji Teoremi:** Sisteme yapılan iş, enerjideki değişime eşittir ($W = \Delta E$). Sürtünmesiz ortamlarda mekanik enerji korunur. Sürtünmeli ortamlarda enerjinin bir kısmı ısıya dönüşür ($W_s = \vec{F}_s \cdot \Delta \vec{x}$). Toplam enerji daima korunur.
+- **Verim:** Bir sistemde yapılan işin harcanan enerjiye oranıdır. $Verim = \frac{Alinan Enerji}{Verilen Enerji}$.
+- **Enerji Kaynakları:**
+  - *Yenilenemez:* Fosil yakıtlar (Kömür, Petrol, Doğalgaz), Nükleer Enerji.
+  - *Yenilenebilir:* Hidroelektrik, Güneş, Rüzgâr, Jeotermal, Dalga, Gel-git, Biyokütle, Hidrojen.
+
+---
+
+# Isı ve Sıcaklık
+
+- **Sıcaklık:** Moleküllerin ortalama kinetik enerjisinin bir ölçüsüdür. Termometre ile ölçülür. Birimi Kelvin'dir (K).
+- **Isı:** Sıcaklık farkından dolayı transfer edilen enerjidir. Kalorimetre ile ölçülür. Birimi Joule (J) veya kaloridir (cal).
+- **İç Enerji:** Bir sistemi oluşturan taneciklerin kinetik ve potansiyel enerjilerinin toplamıdır. Isı alan maddenin iç enerjisi artar.
+
+## Termometreler ve Dönüşümler
+Metal (yüksek sıcaklıklar), Sıvılı (günlük kullanım), Gazlı (hassas düşük sıcaklık ölçümleri) ve Kızılötesi termometreler vardır.
+Dönüşüm Formülü: $\frac{C}{100} = \frac{F - 32}{180} = \frac{K - 273}{100}$
+
+## Öz Isı, Isı Sığası ve Isı Alışverişi
+- **Öz Isı ($c$):** 1 gram maddenin sıcaklığını $1^\circ C$ artırmak için gereken ısıdır. Ayırt edicidir.
+- **Isı Sığası ($C$):** Kütle ile öz ısının çarpımıdır ($C = m \cdot c$). Ayırt edici değildir.
+- Hal değiştirmeyen bir maddenin ısı formülü: $Q = m \cdot c \cdot \Delta T$
+- **Isıl Denge:** Sıcaklıkları farklı iki madde temas ettiğinde ısı transferi gerçekleşir. Son sıcaklıkları eşitlendiğinde ısıl dengeye ulaşırlar. $Q_{alinan} = Q_{verilen}$
+
+## Hâl Değişimi
+Maddenin fiziksel halleri (Katı, Sıvı, Gaz, Plazma) arasındaki geçişlerdir. Erime, donma, buharlaşma, yoğuşma, süblimleşme, kırağılaşma, iyonizasyon ve deiyonizasyon. Hâl değişimi sırasında sıcaklık sabit kalır. Formül: $Q = m \cdot L$ ($L$: hâl değiştirme ısısı).
+
+## Isı Yayılma Yolları ve Genleşme
+- **İletim:** Katılarda moleküllerin titreşimini birbirine aktarmasıdır.
+- **Konveksiyon:** Sıvı ve gazlarda (akışkanlarda) ısınan maddenin genleşerek yükselmesi, soğuk olanın çökmesiyle oluşan sirkülasyondur.
+- **Işıma (Radyasyon):** Enerjinin elektromanyetik dalgalarla yayılmasıdır (Boşlukta da yayılır, Güneş'in dünyayı ısıtması).
+- **Genleşme:** Isı alan maddenin hacminin artmasıdır (su $+4^\circ C$'de en yoğun, en küçük hacimlidir; bu özel bir durumdur).
+  - Boyca Genleşme: $\Delta L = L_0 \cdot \lambda \cdot \Delta T$
+  - Yüzeyce Genleşme: $\Delta S = S_0 \cdot 2\lambda \cdot \Delta T$
+  - Hacimce Genleşme: $\Delta V = V_0 \cdot 3\lambda \cdot \Delta T$ (veya sıvılar için hacimce genleşme katsayısı $a$).
+
+---
+
+# Elektrostatik
+
+Durgun elektrik yüklerini inceler. Yükler elektron (e) ve protonlardan (p) kaynaklanır. Temel (elementer) yük elektronun yüküdür. Zıt yükler birbirini çeker, aynı yükler birbirini iter.
+- **Elektriklenme Çeşitleri:**
+  1. *Sürtünme ile:* Cisimler arasında elektron alışverişi olur. Biri ne kadar (+) yüklenirse diğeri o kadar (-) yüklenir.
+  2. *Dokunma ile:* Toplam net yük kapasitelere (yarıçaplara) göre paylaşılır. İşaretler son durumda aynı olur.
+  3. *Etki ile:* Yüklü cismin yaklaştığı tarafta zıt yüklerin birikmesi, uzak tarafta aynı yüklerin kalmasıdır.
+- **Topraklama:** Yüklü bir cismin iletken bir telle toprağa bağlanarak nötr hâle getirilmesidir.
+- **Faraday Kafesi:** Dış elektromanyetik alanlardan korunmayı sağlayan metal örgü/kaplama yapıdır. İletkenin içindeki elektrik alan sıfırdır.
+- **Elektroskop:** Bir cismin yüklü olup olmadığını ve yükün cinsini bulmaya yarayan araçtır.
+
+## Coulomb Kanunu ve Elektrik Alan
+- **Coulomb Kuvveti:** Yüklü cisimlerin birbirine uyguladığı elektriksel kuvvet. $F = k \cdot \frac{q_1 \cdot q_2}{d^2}$.
+- **Elektrik Alan ($\vec{E}$):** Birim pozitif test yüküne ($+q_0$) etki eden elektriksel kuvvettir. $\vec{E} = \frac{\vec{F}}{q} \implies E = k \cdot \frac{q}{d^2}$. Alan çizgileri (+) yükten çıkar, (-) yüke girer. Asla kesişmezler.
+
+---
+
+# Elektrik ve Manyetizma
+
+## Elektrik Akımı, Potansiyel Fark ve Direnç
+- **Elektrik Akımı ($I$):** İletkenin kesitinden birim zamanda geçen net yük miktarıdır. $I = \frac{q}{\Delta t}$. Birimi Amper'dir. Akım yönü (+) kutuptan (-) kutba, elektronların hareketi ise (-) kutuptan (+) kutba doğru kabul edilir. Ampermetre (seri bağlanır) ile ölçülür.
+- **Potansiyel Fark (Voltaj - $V$):** İki nokta arasında birim yükün taşınması için gereken enerjidir. Voltmetre (paralel bağlanır) ile ölçülür.
+- **Direnç ($R$):** İletkenin akıma karşı gösterdiği zorluktur. $R = \rho \cdot \frac{L}{A}$ (L: boy, A: kesit, $\rho$: özdirenç). Birimi Ohm'dur ($\Omega$).
+- **Ohm Yasası:** $V = I \cdot R$.
+- **Bağlamalar:**
+  - *Seri Bağlama:* $R_{es} = R_1 + R_2 + R_3$. Akımlar eşittir. Gerilimler toplanır.
+  - *Paralel Bağlama:* $\frac{1}{R_{es}} = \frac{1}{R_1} + \frac{1}{R_2} + \frac{1}{R_3}$. Gerilimler eşittir. Ana koldaki akım dallara bölünür.
+
+## Üreteçler, Elektriksel Enerji ve Güç
+- **Elektromotor Kuvvet (Emk - $\epsilon$):** Üretecin birim yüke kazandırdığı enerjidir. Seri bağlanırlarsa toplanır (ters bağlılar çıkarılır). Paralel bağlı özdeş üreteçlerin eşdeğer gerilimi bir üretecin gerilimine eşittir; pil ömrünü uzatmak için paralel bağlanır.
+- **Elektriksel Enerji ($E$):** $E = V \cdot I \cdot t = I^2 \cdot R \cdot t$.
+- **Elektriksel Güç ($P$):** Birim zamanda harcanan enerjidir. $P = V \cdot I = I^2 \cdot R = \frac{V^2}{R}$.
+- **Lamba Parlaklığı:** Lambanın gücü ($P$) ile doğru orantılıdır.
+
+## Mıknatıs ve Manyetik Alan
+Demir, nikel, kobalt gibi maddeleri çeken cisimlere mıknatıs denir. N (Kuzey) ve S (Güney) olmak üzere iki kutbu vardır. Aynı kutuplar iter, zıt kutuplar çeker.
+- **Manyetik Alan Çizgileri:** Mıknatısın dışında N'den S'e, içinde S'den N'ye doğrudur. Kesişmezler.
+- **Akım Geçen Telin Manyetik Alanı:** Telin çevresinde çembersel manyetik alan oluşur. Sağ el kuralı ile bulunur (Başparmak akım, dört parmak manyetik alan yönü). $B \propto \frac{i}{d}$.
+- **Elektromıknatıs:** Demir çekirdek üzerine sarılı telden akım geçirilmesiyle elde edilen yapay mıknatıstır.
+
+---
+
+# Basınç ve Kaldırma Kuvveti
+
+Birim yüzeye dik etki eden kuvvete **basınç ($P$)**, tüm yüzeye dik etki eden kuvvete **basınç kuvveti ($F$)** denir. $P = \frac{F}{S}$.
+- **Katı Basıncı:** Cismin ağırlığı ile doğru, yüzey alanı ile ters orantılıdır. Katılar kendilerine uygulanan kuvveti kendi doğrultusunda aynen iletir (basıncı aynen iletmezler, kuvveti iletirler).
+- **Sıvı Basıncı:** $P = h \cdot d \cdot g$. Sıvı basıncı derinliğe, özkütleye ve yerçekimi ivmesine bağlıdır; kabın şekline bağlı değildir.
+- **Sıvı Basınç Kuvveti:** $F = h_{ort} \cdot d \cdot g \cdot S$.
+- **Pascal Prensibi:** Sıvılar üzerlerine uygulanan basıncı, kabın her noktasına aynen ve dik olarak iletir. Su cendereleri, hidrolik frenler, krikolar bu prensiple çalışır.
+- **Gaz Basıncı:** Açık hava basıncı Torriçelli deneyi (Barometre) ile ölçülmüştür. Deniz seviyesinde 0°C'de 76 cm-Hg (1 atm) dir. Yükseklere çıkıldıkça açık hava basıncı azalır. Kapalı kaplardaki gaz basıncı Manometre ile ölçülür. Altimetre yüksekliği, batimetre deniz derinliğini ölçer.
+- **Akışkan Basıncı (Bernoulli İlkesi):** Akışkanın süratinin arttığı yerde basıncı düşer. Uçakların uçması, fırtınada çatıların uçması bu ilkeyle açıklanır.
+
+## Kaldırma Kuvveti
+Sıvı (veya gaz) içine bırakılan cisme akışkan tarafından uygulanan yukarı yönlü kuvvettir.
+$F_K = V_{batan} \cdot d_{sivi} \cdot g$
+**Arşimet Prensibi:** Kaldırma kuvveti, cismin yerini değiştirdiği (taşırdığı) sıvının ağırlığına eşittir.
+- *Yüzen ve Askıda Kalan Cisimler:* $F_K = G_{cisim}$.
+- *Batan Cisimler:* $F_K < G_{cisim}$ (Cisim kabın tabanından tepki kuvveti görür).
+
+---
+
+# Dalgalar
+
+Esnek ortama aktarılan enerjinin ortamda oluşturduğu şekil değişikliğinin ilerlemesine **dalga hareketi** denir.
+- **Periyot ($T$):** Bir tam dalga oluşması için geçen süredir.
+- **Frekans ($f$):** Birim zamandaki dalga sayısıdır. $T \cdot f = 1$. (Frekans sadece kaynağa bağlıdır).
+- **Dalga Boyu ($\lambda$):** Ardışık iki tepe veya iki çukur arası mesafedir.
+- **Hız ($v$):** $v = \lambda \cdot f = \frac{\lambda}{T}$. (Hız sadece ortama bağlıdır).
+- **Genlik:** Dalganın denge konumundan maksimum uzaklığıdır; taşıdığı enerjinin ölçüsüdür.
+
+## Dalga Sınıflandırmaları
+1. **Taşıdıkları Enerjiye Göre:**
+   - *Mekanik Dalgalar:* Yayılması için maddesel ortam gerekir (Yay, su, ses, deprem).
+   - *Elektromanyetik Dalgalar:* Boşlukta yayılabilirler, ışık hızıyla hareket ederler (Radyo, Mikrodalga, Kızılötesi, Görünür Işık, Morötesi, X-Işınları, Gama Işınları).
+2. **Titreşim Doğrultusuna Göre:**
+   - *Enine Dalgalar:* Titreşim doğrultusu ile yayılma doğrultusu birbirine diktir (Elektromanyetik dalgalar, yay, su, deprem).
+   - *Boyuna Dalgalar:* Titreşim doğrultusu ile yayılma doğrultusu paraleldir (Ses, yay, su, deprem). *Not: Su dalgaları hem enine hem boyunadır.*
+
+## Yay, Su, Ses ve Deprem Dalgaları
+- **Yay Dalgaları:** Atmanın hızı yayı geren kuvvete ve yayın kalınlığına ($\mu$) bağlıdır ($v = \sqrt{F/\mu}$). Sabit uçtan yansıyan atma ters döner, serbest uçtan yansıyan aynı şekilde döner.
+- **Su Dalgaları:** Derin ortamda hız ve dalga boyu daha büyüktür. Sığ ortamda hız azalır. Doğrusal dalgalar parabolik engellerden odaklanarak (çukur) veya dağılarak (tümsek) yansır.
+- **Ses Dalgaları:** Mekanik ve boyuna dalgalardır. Boşlukta yayılmaz. Sesin sürati ortamın yoğunluğuna ve sıcaklığına bağlıdır (Katıda hızlı, gazda yavaş). Sesin Yüksekliği (frekans) ince/kalın (tiz/pes) olmasını belirler. Şiddeti (genlik) gürlüğünü belirler. Rezonans, bir kaynağın diğerini aynı frekansta titreştirmesidir.
+- **Deprem Dalgaları:** Yer kabuğundaki kırılmalara bağlıdır. Büyüklük (Richter ölçeği) açığa çıkan enerjiyi, Şiddet ise hasar durumunu ifade eder. Tsunami, deniz dibindeki tektonik hareketlerin oluşturduğu dev dalgalardır.
+
+---
+
+# Optik
+
+Işığı ve ışık olaylarını inceler. Işık, tanecik (fotoelektrik, compton) ve dalga (kırınım, girişim) ikili doğasına sahiptir.
+
+## Aydınlanma
+- **Işık Şiddeti ($I$):** Kaynağın birim zamanda yaydığı ışık yoğunluğudur. Birimi Candela (cd).
+- **Işık Akısı ($\Phi$):** Belirli bir yüzeye düşen toplam ışık enerjisidir. Küre yüzeyinde $\Phi = 4\pi I$. Birimi Lümen (lm).
+- **Aydınlanma Şiddeti ($E$):** Birim yüzeye düşen ışık akısıdır. $E = \frac{I}{d^2} \cdot \cos \alpha$. Birimi Lüks (lx).
+
+## Gölge ve Yansıma
+Saydam olmayan cisimlerin arkasında oluşan karanlık bölgeye **gölge** denir.
+- Noktasal kaynakla tam gölge ve yarı gölge oluşur.
+- **Yansıma:** Işığın yüzeye çarpıp dönmesidir. Gelme açısı yansıma açısına eşittir ($i = r$). Düzgün (paralel) ve Dağınık yansıma olarak ikiye ayrılır.
+- **Düzlem Ayna:** Görüntü sanal (zahiri), düz, cisimle aynı boyda ve aynaya eşit uzaklıkta (simetrik) oluşur.
+
+## Küresel Aynalar
+- **Çukur Ayna:** Işığı toplar. Cisim odak (F) ile ayna arasındaysa görüntü dev ve sanaldır (Makyaj aynası, dişçi aynası). Diğer durumlarda görüntü gerçektir. Özel ışınlar: Asal eksene paralel gelen odaktan, odaktan gelen paralel, merkezden gelen kendi üzerinden yansır.
+- **Tümsek Ayna:** Işığı dağıtır. Görüntü her zaman sanal, düz, küçük ve odak ile ayna arasındadır (Güvenlik aynaları, araç yan aynaları).
+
+## Işığın Kırılması ve Renkler
+- **Kırılma:** Işığın farklı yoğunluklu saydam ortama geçerken doğrultu değiştirmesidir. Hızı ve dalga boyu değişir, frekansı değişmez.
+- *Az yoğundan çok yoğuna geçerken:* Işın normale yaklaşarak kırılır.
+- *Çok yoğundan az yoğuna geçerken:* Işın normalden uzaklaşır. Gelme açısı **sınır açısını** aşarsa **tam yansıma** yapar (Serap olayı, fiber optik kablolar).
+- **Görünür Uzaklık:** Az yoğun ortamdan (havadan) çok yoğun ortama (suya) bakan göz, cismi yakında görür. Çok yoğundan az yoğuna bakan göz, cismi uzakta görür.
+- **Prizmalar:** Beyaz ışığı renklerine ayırır. En az kırılan Kırmızı, en çok kırılan Mordur.
+- **Mercekler:** İnce kenarlı (yakınsak) mercek ışığı toplar, Kalın kenarlı (ıraksak) mercek ışığı dağıtır. 
+- **Renk:** - Işıkta Ana Renkler: Kırmızı, Yeşil, Mavi (Karışımları Beyaz). Ara Renkler: Sarı, Cyan, Magenta.
+  - Boyada Ana Renkler: Sarı, Cyan, Magenta (Karışımları Siyah).
+  - Cisimler kendi rengini güçlü yansıtır, diğerlerini soğurur.
