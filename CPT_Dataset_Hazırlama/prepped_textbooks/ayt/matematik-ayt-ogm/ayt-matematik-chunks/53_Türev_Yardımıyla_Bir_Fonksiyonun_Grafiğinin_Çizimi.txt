@@ -1,3 +1,0 @@
-# Türev Yardımıyla Bir Fonksiyonun Grafiğinin Çizimi
-
-Bir fonksiyonun grafiğini çizmek için şu adımlar izlenir: Tanım kümesini belirle. Eksenleri kestiği noktaları bul ($f(x)=0$, $f(0)$). Türevi kullanarak artan/azalan aralıkları ve ekstremum noktalarını bul. İkinci türevle (varsa) konvekslik/konkavlık ve dönüm noktalarını belirle. İkinci türev pozitifse fonksiyon konveks (yukarı bükük), negatifse konkav (aşağı bükük). Asimptotları (düşey, yatay, eğik) araştır. Bu bilgileri kullanarak grafiği çiz. Doğrunun eğimi $m = \tan \alpha$ veya $m = -\frac{a}{b}$ ($ax+by+c=0$ için). İki noktası bilinen doğrunun eğimi $m = \frac{y_2-y_1}{x_2-x_1}$. Paralel doğruların eğimleri eşit, dik doğruların eğimleri çarpımı $-1$'dir.

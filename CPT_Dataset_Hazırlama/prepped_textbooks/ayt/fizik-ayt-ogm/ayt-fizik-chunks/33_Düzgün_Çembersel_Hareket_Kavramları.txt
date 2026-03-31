@@ -1,3 +1,0 @@
-# Düzgün Çembersel Hareket Kavramları
-
-Periyot ($T$) bir tam tur için geçen süredir (s). Frekans ($f$) birim zamandaki tur sayısıdır (Hz). $T = 1/f$ ilişkisi vardır. Çizgisel hız (sürat) $\vartheta = \frac{2\pi r}{T} = 2\pi f r$. Konum vektörü $\vec{r}$, çizgisel hıza diktir. Açısal hız $\omega = \frac{\Delta \theta}{\Delta t} = 2\pi f$, ve $\vartheta = \omega r$. Merkezcil ivme $a = \frac{\vartheta^2}{r} = \omega^2 r$, yönü merkeze doğrudur.

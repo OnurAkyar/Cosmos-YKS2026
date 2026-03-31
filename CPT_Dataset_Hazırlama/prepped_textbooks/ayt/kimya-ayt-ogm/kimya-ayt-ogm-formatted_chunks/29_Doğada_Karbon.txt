@@ -1,0 +1,15 @@
+# Doğada Karbon
+
+Karbon atomu 2. periyot 4A grubunda yer alır, 4 tane değerlik elektronuna sahiptir. Karbon atomu değerlik elektronlarını ortaklaşa kullanarak tekli, ikili veya üçlü bağlar oluşturur.
+
+Bir elementin atomlarının uzayda farklı sayı ve şekilde dizilmesi sonucunda oluşan yapılara "allotrop" denir. Aynı elementin atomlarından oluşmasına rağmen allotropların kimyasal özelliklerinin bazıları, fiziksel özelliklerinin tamamı farklıdır.
+
+Elmas, her karbon atomunun birer kovalent bağla çevresindeki dört karbon atomuna bağlanmasıyla düzgün dört yüzlü yapı oluşturduğu bir karbon alotropudur. Bilinen en sert maddelerden biri olan elmas cam ve beton kesme gibi işlemlerde kullanılır; elektriği iletmez, ısıyı ise iletir.
+
+Grafitte her karbon atomu, çevresindeki üç karbon atomuna kovalent bağla bağlanarak tabakalar hâlinde altıgen halkalar oluşturur; bu tabakalar birbirine zayıf etkileşimlerle tutunur. Yapısındaki π bağlarındaki elektronların hareketi sayesinde ısı ve elektriği iletir. Makine yağı yapımında, metallerin dökümü için kalıp olarak, kalem uçlarında ve endüstride elektrik iletkeni olarak kullanılır.
+
+Fulleren, çok sayıda karbon atomunun bir araya gelmesiyle oluşan içi boş, küresel yapıya sahip bir karbon alotropudur. Karbon atomları beşgen, altıgen ve yedigen halkalar olarak dizilebilir; top, tüp, çubuk ve halka şeklinde sınıflandırılabilir. Süper iletken olarak, HIV virüsünün teşhisinde, kanser tedavisinde ilaç taşıyıcı sistem olarak, hidrojenin yakıt olarak depolanmasında ve güneş pillerinin yapımında kullanılır; ısı ve elektriği iletir.
+
+Grafen, grafiti oluşturan tabakalardan birinin diğer tabakalardan ayrıştırılmasıyla elde edilir; iki boyutlu düzlem yapıya sahip olan bu maddede altıgen halkadaki her bir karbon atomu diğer üç karbon atomuna bağlıdır. Bilinen en ince ve en güçlü malzeme olan grafen, güneş pillerinde, akıllı pencerelerin ve elektronik ekranların yapımında kullanılır; elektrik ve ısı iletkenidir.
+
+Karbon nanotüp, tek grafen tabakasının silindir oluşturacak şekilde kıvrılmasıyla meydana gelir; tek duvarlı veya iç içe geçmiş tüpler şeklinde olabilir. Gaz dedektörlerinin yapımında, hidrojen depolamada ve nanoteks adlı kumaşların üretiminde kullanılır; ısı ve elektriği iletir.

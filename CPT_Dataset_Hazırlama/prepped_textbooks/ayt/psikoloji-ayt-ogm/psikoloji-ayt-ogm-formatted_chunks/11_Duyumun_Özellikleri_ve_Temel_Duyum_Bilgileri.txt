@@ -1,0 +1,9 @@
+# Duyumun Özellikleri ve Temel Duyum Bilgileri
+
+Duyum, duyu organlarının uyarılmasıyla oluşan ham deneyimdir. Algı ise bu ham deneyimlerin yorumlanması ve anlamlandırılmasıdır. Duyum ve algı birbirine bağlı olmakla birlikte farklı süreçlerdir. Örneğin gözümüze çarpan ışık dalgaları ham bir duyumdur; ancak bu ışığı bir nesne olarak tanımak ve anlamlandırmak algı sürecidir.
+
+Duyumun eşiği, bir uyarıcının algılanabilmesi için gereken en düşük yoğunluktur. Mutlak eşik, bir uyarıcının yüzde elli olasılıkla algılanabildiği en düşük yoğunluktur. Fark eşiği ise iki uyarıcı arasındaki en küçük farkın algılanabildiği düzeydir. Weber Yasası'na göre fark eşiği, uyarıcının başlangıç yoğunluğuna orantılı olarak değişir.
+
+Duyuların uyarlanması, sürekli bir uyarıcıya maruz kalındığında duyarlılığın zamanla azalmasıdır. Örneğin soğuk suya girdiğimizde başta çok soğuk hissederiz ancak bir süre sonra uyum sağlarız.
+
+Duyu sistemleri görme, işitme, tat, koku, dokunma, denge ve kinestetik duyular olmak üzere birçok farklı modaliteyi kapsar. Görme duyusu ışığa, işitme duyusu ses dalgalarına, tat ve koku duyuları kimyasal uyarıcılara tepki verir. Dokunma duyusu baskı, sıcaklık ve ağrıyı kapsar. Denge duyusu kulaktaki vestibüler sistem aracılığıyla sağlanırken kinestetik duyu kasların ve eklemlerin konumunu bildirir.

@@ -1,0 +1,3 @@
+# Çemberin Analitik İncelenmesi
+
+Çemberin genel denklemi $x^2 + y^2 + Dx + Ey + F = 0$ biçimindedir; bu denklemin merkezi $M\left(-\frac{D}{2}, -\frac{E}{2}\right)$ ve yarıçapı $r = \frac{1}{2}\sqrt{D^2+E^2-4F}$ olarak hesaplanır. $D^2+E^2-4F > 0$ olduğunda gerçek bir çember, $D^2+E^2-4F = 0$ olduğunda bir nokta ve $D^2+E^2-4F < 0$ olduğunda ise sanal çember elde edilir. $Ax^2 + By^2 + Cxy + Dx + Ey + F = 0$ denkleminin çember belirtmesi için $A = B \neq 0$, $C=0$ ve uygun düzenlemeyle $D^2+E^2-4AF > 0$ koşullarının sağlanması gerekir.

@@ -1,0 +1,3 @@
+# Türev Alma Kuralları
+
+Sabit bir fonksiyon olan $f(x)=c$ için $f'(x)=0$ olur; sabit bir fonksiyonun değişim hızı sıfırdır. Kuvvet kuralına göre $f(x)=ax^n$ ise $f'(x)=a n x^{n-1}$ olur ($n$ rasyonel); bu kural, binom teoremi ve limit tanımı kullanılarak türetilir. İkinci türev $f''(x) = \frac{d^2 f}{dx^2}$, türevin türevi olup ivme veya eğrilik gibi kavramlarla ilişkilidir. Toplam ve fark için $(f \pm g)' = f' \pm g'$ bağıntısı geçerlidir. Çarpım kuralı $(f \cdot g)' = f' g + g' f$ şeklindedir; bu türevin limit tanımından gelir. Bölüm kuralı ise $\left(\frac{f}{g}\right)' = \frac{f' g - g' f}{g^2}$ olarak verilir ($g \neq 0$). Zincir kuralına göre $(f \circ g)'(x) = f'(g(x)) \cdot g'(x)$ olup özel olarak $\frac{d}{dx} [f(x)]^n = n [f(x)]^{n-1} f'(x)$ elde edilir.

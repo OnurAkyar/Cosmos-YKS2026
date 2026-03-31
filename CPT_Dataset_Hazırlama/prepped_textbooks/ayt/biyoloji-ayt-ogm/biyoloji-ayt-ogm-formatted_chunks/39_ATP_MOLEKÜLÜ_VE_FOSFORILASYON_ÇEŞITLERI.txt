@@ -1,0 +1,29 @@
+# ATP MOLEKÜLÜ VE FOSFORILASYON ÇEŞITLERI
+
+Canlılığın Devamı İçin Enerjinin Gerekliliği, canlılarda meydana gelen bütün metabolik süreçlerin ayrılmaz bir parçası olan enerji;büyüme, gelişme, çoğalma gibi olaylarda kullanılır. Gerekli olan bu enerjiyi ototroflar kendi ürettikleri besinlerden, heterotroflar ise dış ortamdan aldıkları besinlerden sağlar. Canlılar, en çok kullandıkları enerji çeşidi olan kimyasal bağ enerjisini de besin zinciri yolu ile birbirlerine iletirler. Canlılar tarafından besinlerin kimyasal bağlarındaki bu enerji doğrudan kullanılamadığı için ATP'ye dönüştürülür.
+
+ATP yaşamsal faaliyetlerin enerji kaynağıdır; hücre içinde sentezlenir ve başka bir hücreye aktarılamaz. Depolanamaz ve hücrede elektrik, ısı, hareket gibi farklı enerji formlarına dönüştürülür. Tüm canlı hücrelerde bulunur, sürekli olarak üretilir ve tüketilir. ATP sentezlenemeyen hücrelerde canlılık sona erer.
+
+ATP molekülünün yapısında azotlu organik baz olan adenin, beş karbonlu şeker olan riboz, adenin bazı ile riboz arasında glikozit bağı, üç fosfat grubu, riboz ile fosfat grubu arasında ester bağı ve üç fosfat arasında 2 adet yüksek enerjili fosfat bağı bulunur. Adenin bazı ile riboz şekeri adenozin adını alır. Adenozin molekülüne bir fosfatın bağlanmasıyla adenozin monofosfat (AMP) oluşur. AMP'ye bir fosfatın bağlanmasıyla adenozin difosfat (ADP) oluşur. ADP'ye bir fosfatın bağlanmasıyla da adenozin trifosfat (ATP) oluşur.
+
+ATP molekülü, canlıların kullanabildiği evrensel enerji kaynağı olarak kabul edilir.
+
+ATP Döngüsü, hücrelerde büyüme, üreme, hareket, biyosentez, aktif taşıma gibi yaşamsal faaliyetler için gereken yapım ve yıkım tepkimelerine metabolizma denir. Basit moleküllerden kompleks yapılı moleküllerin sentezlenmesine anabolizma (yapım), karmaşık moleküllerin basit moleküllere parçalanmasına katabolizma (yıkım) denir. Yapım tepkimeleri enerji gerektiren endergonik, yıkım tepkimeleri ise genellikle enerji acığa cıkaran ekzergonik tepkimelerdir.
+
+ATP molekülü, sürekli kullanılan ve yenilenebilen bir moleküldür. ADP'ye enerji ile birlikte inorganik fosfat (Pi) eklenmesi sonucu ATP üretilmesine fosforilasyon denir. Fosforilasyon sırasında su açığa çıkar (dehidrasyon).
+
+ADP ve ATP'nin birbirine dönüşüm reaksiyonları ATP'nin H2O ile hidroliz edilerek yapısındaki enerjinin acığa çıkarılmasına defosforilasyon denir.
+
+ATP sitoplazma, mitokondri ve kloroplast gibi yapılarda sentezlenir. Oluşumu dehidrasyon, parçalanması hidroliz tepkimesiyle gerçekleşir.
+
+ATP sentezi fosforilasyon olayıdır. Fosforilasyon gerçekleşirken enzim, fosfat, enerji ve AMP ya da ADP maddelerine ihtiyaç vardır.
+
+Canlı organizmalarda ATP molekülünün üretilmesi; substrat düzeyinde fosforilasyon, oksidatif fosforilasyon ve fotofosforilasyon olmak üzere üç şekilde gerçekleştirilir.
+
+Substrat Düzeyinde Fosforilasyon, yapısında fosfat bulunduran bir substrattan enzimler aracılığı ile bir fosfatın ADP'ye aktarılması sayesinde ATP sentezlenmesine substrat düzeyinde fosforilasyon denir.
+
+Substrat düzeyinde fosforilasyon, oksijenli solunum ve oksijensiz solunum yapan tüm canlı hücrelerde gerçekleşen ortak bir olaydır. Görev alan enzimler de ortaktır.
+
+Oksidatif Fosforilasyon, organik moleküllerin yıkımıyla veya inorganik moleküllerin oksitlenmesi sonucu açığa çıkan elektronların, elektron taşıma sisteminde yükseltgenme ve indirgenme reaksiyonları ile taşınması sırasında oluşan enerjiden ATP üretilmesine oksidatif fosforilasyon denir. Oksijenli solunum, oksijensiz solunum ve kemosentez yapan canlılarda ATP'nin çoğu oksidatif fosforilasyonla elde edilir.
+
+Fotofosforilasyon, klorofil molekülünün ışık enerjisini kullanarak ADP'ye inorganik fosfat eklemesi yoluyla ATP sentezlemesine fotofosforilasyon denir. Fotofosforilasyonla sentezlenen ATP molekülü fotosentezde kullanılır. Başka bir metabolik olay için kullanılmaz. Fotofosforilasyon, fotosentez yapan canlıların klorofil bulunduran hücrelerinde ışık ve su varlığında gerçekleşir. Klorofilli (siyanobakteri gibi) canlılarda ve bitkilerde ışık varlığında fotofosforilasyon görülür. Fotofosforilasyon, prokaryot canlılarda sitoplazmada; ökaryotlarda kloroplast organelinde gerçekleşir.

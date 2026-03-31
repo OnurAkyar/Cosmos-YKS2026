@@ -1,0 +1,3 @@
+# Çok Değerli Mantık
+
+Çok değerli mantık, önermelerin doğru ve yanlış dışında da değerler alabileceğini kabul eder. Üç değerli mantıkta “belirsiz” üçüncü bir değerdir. Bulanık mantık ise 0 ile 1 arasında sürekli doğruluk dereceleri kullanır. Bulanık mantık, yapay zekâ, kontrol sistemleri, karar verme mekanizmaları gibi alanlarda gerçek dünyadaki belirsizlikleri modellemek için kullanılır. Örneğin akıllı buzdolapları, trafik ışık sistemleri ve ev otomasyonu bulanık mantık uygulamalarına örnektir. Bulanık mantık, kesin sınırlar yerine derecelendirilmiş üyeliklerle çalışarak esnek ve insan benzeri karar verme süreçleri sağlar.

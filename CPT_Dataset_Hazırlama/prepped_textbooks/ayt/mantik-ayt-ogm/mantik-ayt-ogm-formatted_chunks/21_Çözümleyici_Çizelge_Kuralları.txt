@@ -1,0 +1,39 @@
+# Çözümleyici Çizelge Kuralları
+
+Doğruluk çizelgesi yöntemi çok sayıda önerme için pratik olmadığından çözümleyici çizelge (ağaç yöntemi) geliştirilmiştir. Bu yöntemde her önerme tipi için belirli bir çözümleme kuralı uygulanır. Kuralların büyük bölümü, De Morgan eşdeğerliklerine dayanır. Çözümleyici çizelgede işlemler şu şekilde yapılır. Öncelikle çözümlenecek önerme başlangıç önermesi olarak yazılır ve sol tarafına adım numarası (genellikle 1), sağ tarafına “(Ö)” işareti konur. Ardından önermenin ana eklemi ve ana bileşenleri belirlenir. Çözümleme sırasında önce “alt alta yazma” kuralı (çengel), sonra “çatal açma” kuralı uygulanır. Aynı kurala tabi birden fazla önerme varsa, en üsttekinden başlanır. Her yeni adıma bir numara verilir ve bu numara, çözümlemede kaynak numarası olarak gösterilir. Çatal açma kuralından sonra işleme önce sol daldan devam edilir. Çözümlemeye, artık çözümlenmesi gerekmeyen “çekirdek önermelere” (
+∼p veya 
+p gibi) ulaşıncaya kadar devam edilir. Her çözümleme adımından sonra aynı dal üzerinde bir önerme ile onun değili (
+p gibi) yan yana gelmişse, bu dalda çelişki vardır ve dal kapatılır; kapatılan dalın altına “X” işareti konur. Kapatılan dalda çözümlenmemiş önerme kalsa bile artık o dalda işlem yapılmaz. Açık olan dallardan devam edilir.
+
+Sekiz temel çözümleyici çizelge kuralı şu şekilde sıralanabilir.
+
+Tümel evetleme önermesi 
+p∧q için, önermenin altına alt alta 
+q yazılır ve bu iki bileşen bir çengel işaretiyle birleştirilir. Kaynak numarası çengelin sağ tarafına yazılır. Tikel evetleme önermesi 
+p∨q için, altına bir çatal açılır; çatalın sol dalına 
+p, sağ dalına 
+q yazılır ve kaynak numarası çatalın ortasına konur. Koşul önermesi 
+p⇒q, eşdeğer olduğu 
+∼p∨q biçiminde çözümlenir; bu nedenle altına bir çatal açılır, sol dalına 
+∼p, sağ dalına 
+q yazılır. Karşılıklı koşul önermesi 
+p⇔q ise 
+(p∧q)∨(∼p∧∼q) eşdeğerliğinden hareketle altına bir çatal açılır; sol dalda alt alta 
+q, sağ dalda alt alta 
+∼q yazılır, her iki dalda da bileşenler çengel ile birleştirilir.
+
+Değillenmiş tümel evetleme 
+∼(p∧q) için, De Morgan kuralı ile 
+∼p∨∼q elde edilir; dolayısıyla altına bir çatal açılır, sol dalına 
+∼p, sağ dalına 
+∼q yazılır. Değillenmiş tikel evetleme 
+∼(p∨q) ise 
+∼p∧∼q biçiminde olduğundan alt alta 
+∼q yazılır, çengel ile birleştirilir. Değillenmiş koşul 
+∼(p⇒q), eşdeğeri 
+p∧∼q olduğundan alt alta 
+∼q yazılır. Değillenmiş karşılıklı koşul 
+∼(p⇔q) ise 
+(p∧∼q)∨(∼p∧q) biçiminde olduğundan altına bir çatal açılır; sol dalda alt alta 
+∼q, sağ dalda alt alta 
+q yazılır. Tüm bu kurallarda, her adımda kaynak numarası (başlangıç önermesinin adım numarası) ilgili çözümlemenin yanında belirtilir.

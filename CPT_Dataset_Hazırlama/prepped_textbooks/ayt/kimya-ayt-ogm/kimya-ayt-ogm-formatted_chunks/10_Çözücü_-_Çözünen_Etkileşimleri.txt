@@ -1,0 +1,19 @@
+# Çözücü - Çözünen Etkileşimleri
+
+Bir çözelti, çözücü ve çözünenden oluşur; çözeltinin fiziksel hâlini çözücünün (miktarı genellikle daha çok olan bileşenin) fiziksel hâli (katı, sıvı, gaz) belirler. Çözücüsü sıvı olan çözeltilere sıvı çözeltiler, çözücüsü su olan çözeltilere sulu çözeltiler denir.
+
+Çözünen maddenin çözücü ile çözelti oluşturması üç adımda gerçekleşir; önce çözünen tanecikler arasındaki etkileşim zayıflar, ardından çözücü tanecikleri arasındaki etkileşim zayıflar ve son olarak çözücü ile çözünen tanecikleri etkileşime girer. Bir maddenin diğer madde içinde çözünmesi veya çözünmemesi; çözücü ve çözünenin yapısına, etkileşimine ve etkileşimin kuvvetine bağlıdır. Çözünmenin temel ilkesi benzer benzeri çözer, başka bir deyişle polar maddeler polar çözücülerde, apolar maddeler apolar çözücülerde çözünür şeklinde özetlenebilir.
+
+Dipol etkileşimine sahip polar maddeler; iki farklı ametal atomundan oluşan diatomik moleküller (HF, HCl), merkez atomun ortaklanmamış elektron çifti içermesi ve asimetrik yapı ile karakterize edilir.
+
+İndüklenmiş dipol etkileşimine sahip apolar maddeler; aynı ametallerden oluşan poliatomik moleküller (O\(_2\), N\(_2\), S\(_8\)), merkez atomun ortaklanmamış elektron çifti içermemesi ve simetrik yapı ile tanımlanır.
+
+İyonik etkileşime sahip bileşikler, katyon (+) ile anyon (-) arasında oluşur; metal + ametal, metal + kök iyon, kök iyon (+) + kök iyon (-) ve kök iyon (+) + ametal kombinasyonları bu türe örnek gösterilebilir.
+
+Hidrojen bağı içeren maddeler, hidrojenin F, O, N atomları ile bağlandığı bileşiklerdir; başlıca örnekler HF, NH\(_3\) ve H\(_2\)O dur.
+
+Soy gazlar (He, Ne, Ar) indüklenmiş dipol etkileşimi gösterir.
+
+Somut örnekler üzerinden ele alındığında HCl (polar) ve H\(_2\)O (polar) dipol-dipol etkileşimiyle çözünür. KCl (iyonik) H\(_2\)O (polar) → iyon-dipol, çözünür. NaCl (iyonik) CCl\(_4\) (apolar) → iyon-indüklenmiş dipol, çok zayıf etkileşim, "çözünmez" kabul edilir. O\(_2\) (apolar) H\(_2\)O (polar) → indüklenmiş dipol-dipol, zayıf etkileşim, az da olsa çözünür (sudaki hayatın kaynağı). I\(_2\) (apolar) CCl\(_4\) (apolar) → indüklenmiş dipol-indüklenmiş dipol (London), çekim kuvvetleri birbirine yakın, çözünür. NH\(_3\) (polar, hidrojen bağı) H\(_2\)O (polar, hidrojen bağı) → hidrojen bağı, çözünür.
+
+Çözünme olayındaki entalpi değişimi \(\Delta H_{\text{çözelti}} = \Delta H_1 + \Delta H_2 + \Delta H_3\). \(\Delta H_1\) ve \(\Delta H_2\) > 0 (endotermik, enerji gerekir), \(\Delta H_3\) < 0 (ekzotermik, enerji verir). Toplam enerji pozitif ise çözünme endotermik, negatif ise ekzotermiktir.

@@ -1,0 +1,19 @@
+# Çözünürlük ve Çözünürlüğe Etki Eden Faktörler
+
+Fiziksel hâllerine göre sınıflandırıldığında çözen katı ve çözünen katı ise alaşım, çözen sıvı ve çözünen katı ise şerbet, çözen sıvı ve çözünen sıvı ise kolonya, çözen sıvı ve çözünen gaz ise kola, çözen gaz ve çözünen gaz ise hava elde edilir.
+
+Çözünme şekline göre iki tür ayırt edilir: iyonik çözünmede iyon ayrışması gerçekleşir, örneğin NaCl(k) → Na\(^+\)(suda) + Cl\(^-\)(suda); moleküler çözünmede ise bileşik iyon vermeden çözünür, örneğin C\(_{12}\)H\(_{22}\)O\(_{11}\)(k) → C\(_{12}\)H\(_{22}\)O\(_{11}\)(suda).
+
+Çözünenin madde miktarına göre bağıl olarak çözeltiler derişik (konsantre) ve seyreltik olmak üzere ikiye ayrılır. Bir çözelti tek başına derişik veya seyreltik olarak tanımlanamaz; derişik çözeltiye çözücü eklenerek seyreltik, seyreltik çözeltiye çözünen eklenerek derişik hâle getirilebilir.
+
+Çözünürlüklerine göre değerlendirildiğinde doymamış çözelti (t °C'de 100 cm\(^3\) suda 20 g X çözünmesi), doymuş çözelti (30 g X), aşırı doymuş çözelti (40 g X; kararsızdır, zamanla çözünen maddenin bir kısmı kristal olarak ayrılır; kristallenme). Çözünürlük sabit sıcaklık ve basınçta 100 cm\(^3\) suyun çözebileceği maksimum madde miktarıdır.
+
+1) Madde cinsi: Benzer benzeri çözer. Polar maddeler polar çözücülerde, apolar maddeler apolar çözücülerde çözünür. Su evrensel bir çözücüdür; polar, iyonik ve hidrojen bağı içeren maddeleri iyi çözer; O\(_2\) gibi apolar maddeleri az çözer.
+
+2) Basınç, katı ve sıvı maddelerin çözünürlüğünü etkilemez. Gazların çözünürlüğü basınç arttıkça artar (kola şişesinin kapağı açıldığında basınç azalır, gaz açığa çıkar; dalgıçlar derinlerden hızla yukarı çıkarsa kanlarında çözünmüş gaz açığa çıkar, "vurgun" olayı).
+
+3) Sıcaklık: Katı ve sıvıların çözünürlüğü genellikle endotermik olduğundan sıcaklık arttıkça çözünürlük artar (NaCl, KNO\(_3\), K\(_2\)SO\(_4\)...). Sıcaklık arttıkça çözünürlüğü azalan katılar da vardır (Ce\(_2\)(SO\(_4\))\(_3\), CdSO\(_4\)). Endotermik çözünen katılarda sıcaklık azaltılırsa çözünürlüğü azalan katı düzgün geometrik şekilli katılar oluşturur (kristallendirme). Gazların çözünürlüğü sıcaklık arttıkça azalır (ekzotermik çözünme; gazlı içecekler soğuk içilir).
+
+Çözünürlüğü değiştirmeyip yalnızca çözünme hızını artıran faktörler temas yüzeyini artırmak, çözücü veya çözünen ilave etmek, çözeltiyi karıştırmak ve çözünen maddeyi toz hâline getirmektir.
+
+Gazların sıvılardaki çözünürlüğü, çözelti üzerindeki gazın kısmi basıncı ile doğru orantılıdır (Henry Yasası). Dalgıçlarda vurgun olayı ve gazlı içeceklerde kapak açıldığında gaz çıkışı basıncın etkisine örnektir.

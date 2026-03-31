@@ -1,0 +1,3 @@
+# Fotoelektrik Olay
+
+Foton enerjisi $E = hf = hc/\lambda$. Fotoelektrik denklemi $hf = hf_0 + \frac{1}{2}mv_{\text{max}}^2$ olarak yazılır. Eşik frekansı $f_0$, eşik enerjisi $E_0 = hf_0$. Kopan elektronların maksimum kinetik enerjisi ışığın frekansına bağlıdır, şiddetine değil.

@@ -1,0 +1,21 @@
+# Alkinler
+
+Yapısında en az bir tane üçlü bağ bulunduran hidrokarbonlardır; birden fazla üçlü bağ bulunduranlara polialkin denir. Genel formülleri C\(_n\)H\(_{2n-2}\)'dir. En az iki tane π (pi) bağı içerir. Grubun ilk üyesi iki karbonludur (asetilen). Asetilende karbon atomları sp hibritleşmesi yapar, VSEPR gösterimi AX\(_2\), doğrusal geometri. Asetilenden bir hidrojen eksik yapı etinil (H–C≡C–) olarak adlandırılır. Homolog sıra oluşturur. Apolar yapıda olduklarından suda çözünmez. Karbon sayısı arttıkça kaynama noktaları artar. R–C≡C–H ile asetilen, uç alkindir; bu yapıda üçlü bağın hidrojenleri asidik özellik gösterir. R–C≡C–R iç alkindir.
+
+IUPAC'a göre en uzun karbon zinciri seçilip üçlü bağın yakın olduğu uçtan başlanarak numaralandırılır. Bağlı gruplar okunduktan sonra en uzun zincire karşılık gelen alkanın –an eki yerine –in eki getirilir. Alkinlerin özel adlandırması asetilene göre yapılır: Alkil + alkil + asetilen (ör. CH\(_3\)–C≡C–C\(_2\)H\(_5\) etil metil asetilen). Aynı karbonlu alkinler, dienler ve sikloalkenler izomerlerdir.
+
+Alkinlerin ilk üyesidir, oda şartlarında gaz hâlindedir. Çabuk alev alıp yüksek derecede ısı verdiğinden metallerin kaynak işlerinde kullanılır. Kararsız ve patlayıcı olduğundan yüksek basınçta sıvılaştırılmamalıdır.
+
+Asetilen eldesi şu tepkimeler zinciriyle gerçekleşir: CaCO\(_3\)(k) → CaO(k) + CO\(_2\)(g); CaO(k) + 3C(k) → CaC\(_2\)(k) + CO(g); CaC\(_2\)(k) + 2H\(_2\)O(s) → CH≡CH + Ca(OH)\(_2\)(suda).
+
+1) H\(_2\) katılması: CH≡CH + H\(_2\) (Pd katalizör) → CH\(_2\)=CH\(_2\); CH≡CH + 2H\(_2\) (Pt katalizör) → CH\(_3\)–CH\(_3\).
+
+2) Halojen katılması: CH≡CH + Br\(_2\)(suda) → CHBr=CHBr (kızıl kahve renk kaybolur); CH≡CH + 2Br\(_2\)(suda) → CHBr\(_2\)–CHBr\(_2\) (renksiz). Üçlü bağ, ikili bağdan daha kararlı olduğundan alkinlerin katılma tepkimeleri alkenlere göre daha yavaştır.
+
+3) Halojen asidi katılması: Markovnikov Kuralı geçerlidir. Örnek: CH≡CH + HCl → CH\(_2\)=CHCl (vinil klorür).
+
+4) Su katılması: CH≡CH + H\(_2\)O → CH\(_2\)=CH–OH (enol, kararsız) ↔ CH\(_3\)–CHO (asetaldehit, kararlı). 3 ve daha fazla karbonlu alkinlere su katılırsa keton elde edilir: CH\(_3\)–C≡CH + H\(_2\)O → CH\(_3\)–C(OH)=CH\(_2\) (enol) ↔ CH\(_3\)–CO–CH\(_3\) (keton).
+
+5) Polimerleşme: Örneğin vinil klorür polimerleşerek PVC oluşur.
+
+6) Yer değiştirme: Asetilen, Tollens ve Fehling ayıraçları ile darbelere dayanıksız, patlayıcı metal asetilenür tuzlarını oluşturur. Tollens ayıracı ile beyaz çökelek: CH≡CH + 2Ag(NH\(_3\))\(_2^+\) → Ag–C≡C–Ag + 2NH\(_3\) + 2NH\(_4^+\). Fehling ayıracı ile kırmızı çökelek: CH≡CH + 2Cu(NH\(_3\))\(_2^+\) → Cu–C≡C–Cu + 2NH\(_3\) + 2NH\(_4^+\).

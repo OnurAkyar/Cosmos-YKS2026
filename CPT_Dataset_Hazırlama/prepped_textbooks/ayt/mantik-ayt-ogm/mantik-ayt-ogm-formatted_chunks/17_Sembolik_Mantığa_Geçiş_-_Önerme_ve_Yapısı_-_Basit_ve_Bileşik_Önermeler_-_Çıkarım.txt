@@ -1,0 +1,9 @@
+# Sembolik Mantığa Geçiş - Önerme ve Yapısı - Basit ve Bileşik Önermeler - Çıkarım
+
+Sembolik (modern) mantık, klasik mantığın çok anlamlılık ve belirsizlik sorunlarını aşmak için geliştirilmiştir. Önermeler sembollerle gösterilir ve biçimsel yönleriyle incelenir. İki değerli mantık (doğru/yanlış) altında önermeler mantığı ve niceleme mantığı bulunur. Önermeler mantığında basit önermeler p, q, r harfleriyle, önerme eklemleri ise 
+∼ (değil), 
+∧ (ve), 
+∨ (veya), 
+⇒ (ise), 
+⇔ (ancak ve ancak) sembolleriyle gösterilir. Sembolik mantıkta “değil” ifadesi de bir eklem olarak kabul edilir ve önermeyi bileşik yapar. Çıkarımlar öncüller ve sonuç arasında “
+∴” işareti ile gösterilir.

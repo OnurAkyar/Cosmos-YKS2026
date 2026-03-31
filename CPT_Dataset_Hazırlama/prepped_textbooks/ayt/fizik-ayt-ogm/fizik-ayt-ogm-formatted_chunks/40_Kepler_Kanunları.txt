@@ -1,0 +1,3 @@
+# Kepler Kanunları
+
+Yörüngeler kanunu olarak bilinen birinci kanuna göre gezegenler Güneş etrafında eliptik yörüngelerde döner; Güneş elipsin odak noktalarından birindedir. Alanlar kanunu olarak bilinen ikinci kanuna göre gezegenin yarıçap vektörü eşit zamanlarda eşit alanlar tarar; bu durum açısal momentumun korunumunun bir sonucudur. Periyotlar kanunu olarak bilinen üçüncü kanun ise aynı yıldız çevresinde dönen gezegenler için $T^2 / R^3 = \text{sabit}$ bağıntısının geçerli olduğunu söyler.

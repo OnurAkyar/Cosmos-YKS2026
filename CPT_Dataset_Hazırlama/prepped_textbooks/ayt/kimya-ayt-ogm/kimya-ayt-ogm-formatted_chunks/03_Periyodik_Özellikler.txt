@@ -1,0 +1,35 @@
+# Periyodik Özellikler
+
+Atomik yarıçap, atom çekirdeğinden en dış katmandaki elektrona kadar olan uzaklıktır. Ancak elektronun yeri tam olarak belirlenemediğinden atomun yaptığı bağ ve çekirdekler arası uzaklık esas alınır. İyonik yarıçap, çekirdekler arası uzaklığın yarısı değildir çünkü iyonlar aynı büyüklükte değildir. Kovalent yarıçap ve Van der Waals yarıçapı da kullanılır; Van der Waals yarıçapında çekirdekler arası uzaklık ikiye bölünür.
+
+Bir grupta yukarıdan aşağıya doğru inildikçe katman sayısı artacağından çap büyür: \(r_{Li} < r_{Na} < r_{K}\). Bir periyotta soldan sağa gidildikçe katman sayısı sabit olduğu hâlde çekirdek yükü artacağından çap küçülür: \(r_{Li} > r_{F}\). Geçiş elementlerinde beklenenden az çap küçülmesine "perdeleme etkisi" denir. Lantanitlerde soldan sağa doğru çaptaki azalma belirgin ama yavaştır; buna "lantanit büzülmesi" denir.
+
+Bir atomun çapı elektron verdikçe küçülür, elektron aldıkça büyür: \(r_{X^+} < r_X < r_{X^-}\). İzoelektronik türlerde çekirdek yükü arttıkça çap küçülür: \(r_{Na^+} < r_{Ne} < r_{F^-}\).
+
+Metallerin elektron verme eğilimi yüksektir. Grupta yukarıdan aşağıya doğru çap artar, elektron vermek kolaylaşır, metalik aktiflik artar. Metalik aktiflik grupta aşağı doğru artarken metalik bağın kuvveti azalır, erime noktası azalır. Periyotta sağa doğru metalik bağın kuvveti ve buna bağlı özellikler (sertlik vb.) artar. Periyodik cetvelde metallerin sayısı ametallerin sayısından fazladır. Metal gruplarında metalik bağ kuvveti arttıkça erime noktaları artar; metalik bağ kuvveti çap azaldıkça ve değerlik elektron sayısı arttıkça artar.
+
+Ametaller elektron alma eğilimi yüksek elementlerdir. Bir periyotta soldan sağa doğru çap azalır, elektron almak kolaylaşır, ametalik özellik artar. 1A (H hariç), 2A ve geçiş elementleri metal iken 4A, 5A, 6A ve 7A gruplarında ametaller bulunur. Periyodik sistemdeki en aktif metal 1A grubunun en altındaki fransiyum (Fr), en aktif ametal ise 7A grubunun en üstünde yer alan flor (F) elementidir. En metal + en ametal = en iyonik bileşik; FrF en iyonik bileşiktir.
+
+Ametal gruplarında ve soy gazlarda soldan sağa değişkenlik gösterirken yukarıdan aşağıya doğru inildikçe London kuvveti artar, erime ve kaynama noktaları artar. Oda koşullarındaki hâlleri: F\(_2\) ve Cl\(_2\) gaz, Br\(_2\) sıvı, I\(_2\) katı.
+
+Temel hâlde nötr bir gaz atomundan 1 elektron koparmak için gerekli enerjiye "1. iyonlaşma enerjisi" denir: \(\text{X(g)} + Q \rightarrow \text{X}^+(g) + e^-\). İyonlaşma enerjisi endotermiktir, birimi kJ/mol'dür. Bir atomun maksimum atom numarası kadar iyonlaşma enerjisi vardır (örneğin oksijenin 8 tane). İyonlaşma enerjileri arasında \(\text{İ.E.}^1 < \text{İ.E.}^2 < \text{İ.E.}^3 < \dots\) ilişkisi vardır.
+
+Bir grupta yukarıdan aşağıya doğru çap arttığından iyonlaşma enerjisi azalır. Aynı periyotta soldan sağa doğru çap küçüldüğünden iyonlaşma enerjisi genellikle artar. Sıralama küresel simetrik olan 2A ve 5A gruplarında bozulur; kararlı bu yapılardan 1 elektron koparmak daha zordur. 2. ve 3. periyot için iyonlaşma enerjisi sıralaması 1A < 3A < 2A < 4A < 6A < 5A < 7A < 8A şeklindedir.
+
+Değerlik elektronları en düşük enerji ile kopan elektronlardır. A grubu elementlerinde ardışık iyonlaşma enerjilerinden faydalanılarak periyodik cetveldeki yerleri ve atom numaraları belirlenebilir. Baş grup elementlerinde iyonlaşma enerjisi değerlerinde sıçramanın 3 ile 3,5 kat ve fazla olduğu yerde değerlik elektronu bitmiştir; bu durum çekirdeğe daha yakın kabuğa geçildiğini gösterir ve grup numarası bulunur.
+
+Gaz hâldeki nötr bir atomun 1 elektron alması sırasında oluşan enerji değişimine "elektron ilgisi" denir. Elektron ilgisi endotermik veya ekzotermik olabilir. Örneğin \(\text{F(g)} + e^- \rightarrow \text{F}^-(g) + \text{Enerji}\) (ekzotermik), \(\text{Be(g)} + e^- + \text{Enerji} \rightarrow \text{Be}^-(g)\) (endotermik). Açığa çıkan enerji ne kadar büyükse elektron ilgisi o kadar büyüktür. 2. ve sonraki elektron ilgileri endotermiktir. Grupta yukarıdan aşağıya doğru elektron ilgisi genellikle azalır. Periyotlarda elektron ilgisi sağa doğru genellikle artar (soy gazların elektron ilgileri azdır). Periyodik sistemde elektron ilgisi en büyük element klor (Cl) elementidir.
+
+Atomun bağ elektronlarını çekme eğiliminin bir ölçüsüdür. Pauling, flor atomunun elektronegatifliğini 4,0 kabul etmiştir. Soy gazlar bağ yapmadıklarından elektronegatifliklerinden bahsedilemez. Elektronegativitesi en yüksek atom flor (F)'dur. Mulliken'e göre elektronegatiflik, \(\text{EN} = \frac{\text{Elektron ilgisi} + \text{İyonlaşma enerjisi}}{2}\) şeklinde hesaplanır.
+
+Asitler ve bazlar suyun H\(^+\) ve OH\(^-\) iyon derişimini değiştiren maddelerdir. Oksitler dörde ayrılır: asidik oksitler (ametal oksitler, örn. CO\(_2\), SO\(_2\)), bazik oksitler (metal oksitler, örn. Na\(_2\)O, CaO), amfoter oksitler (Al\(_2\)O\(_3\), ZnO), nötr oksitler (oksijence fakir ametal oksitler, örn. CO, N\(_2\)O).
+
+Periyodik cetvelde hidrojenli bileşiklerin asitlik kuvveti hem soldan sağa hem de yukarıdan aşağıya artar. Asit kuvveti: \(\text{NH}_3 < \text{H}_2\text{O} < \text{HF} < \text{HCl} < \text{HBr} < \text{HI}\).
+
+Periyodik cetvelde metalin çapı arttıkça hidroksitli bileşiğin bazlık kuvveti artar. Baz kuvveti: \(\text{Mg(OH)}_2 < \text{NaOH} < \text{KOH}\).
+
+Ametal oksitte ametal sayısı ≥ oksijen sayısı ise nötr özellik gösterir (NO, CO, N\(_2\)O nötr oksittir). Ametal oksitlerinin sulu çözeltileri genellikle asidiktir; ametalik karakter arttıkça oksitli bileşiğin sulu çözeltisinin asitlik kuvveti artar: \(\text{Cl}_2\text{O}_7 > \text{SO}_3 > \text{P}_2\text{O}_5\). Metal oksitlerin sulu çözeltisi baziktir; metalik karakter arttıkça oksitli bileşiğin sulu çözeltisinin bazlık kuvveti artar: \(\text{MgO} < \text{Na}_2\text{O} < \text{K}_2\text{O}\). Zn, Al, Sn, Cr, Be, Pb amfoter metallerdir; bu metallerin oksitleri de amfoterdir. Amfoter maddeler asitlerin hepsine, bazların güçlüsüne etki eder.
+
+Bir periyotta soldan sağa gidildikçe atom yarıçapı genellikle azalır, iyonlaşma enerjisi genellikle artar, elektron ilgisi genellikle artar, elektronegatiflik genellikle artar, metalik karakter azalır, ametalik karakter artar, oksit ve hidroksit bileşiklerinin asitlik kuvveti artar.
+
+Bir grupta yukarıdan aşağıya doğru inildikçe atom yarıçapı genellikle artar, iyonlaşma enerjisi genellikle azalır, elektron ilgisi genellikle azalır, elektronegatiflik genellikle azalır, metalik karakter artar, ametalik karakter azalır, oksit ve hidroksit bileşiklerinin asitlik kuvveti azalır.

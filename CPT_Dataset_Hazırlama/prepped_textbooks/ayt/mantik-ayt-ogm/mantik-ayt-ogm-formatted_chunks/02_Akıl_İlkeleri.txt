@@ -1,0 +1,22 @@
+# Akıl İlkeleri
+
+Aklın genel olarak üç ilkesi vardır. Bunlar özdeşlik, çelişmezlik ve üçüncü hâlin imkânsızlığıdır. Ancak bunlara 17. yüzyılda Gottfried Leibniz (1646‑1716) tarafından yeter‑sebep ilkesi olarak dördüncü bir ilke daha eklenmiştir.
+
+Özdeşlik ilkesi mantığın en temel ilkesidir. Bu ilke, bir şeyin kendisiyle aynı olması gerektiğini, yani bir şey ne ise o olduğunu ifade eder. Akıl yürütme boyunca kullanılan bir terime verilen anlamın aynı kalması da özdeşlik ilkesinin bir gereğidir. Mantıkta sembolik olarak 
+=
+A=A ya da 
+A⇒A şeklinde gösterilen özdeşlik ilkesi, bir önermede bir şeyin bir başka şeyle olan ilişkisini değil, yalnızca kendisi olmasını vurgular. Örneğin “Masa, masadır” ve “Kalem, kalemdir” bu ilkeye örnek verilebilir. Bu ilkeye göre bir şey kendisi dışındaki bir şeyle özdeş olamaz, yalnızca eşit ya da benzer olabilir. Benzerlik, iki ayrı şeyin değişik oranlarda ortak özelliklere sahip olması durumudur; eşitlik ise iki ayrı şeydeki tüm özelliklerin ortak olmasıdır. Özdeşlik ise iki ayrı şey arasındaki bir ilişki değil, tek bir şeyin kendisi olmasıdır. İki farklı dağın bazı ortak özelliklere sahip olması onları benzer kılar; tüm özelliklerinin ortak olması eşitlik ile açıklanabilir; ancak özdeşlik ancak aynı dağın kendisi olmasıyla ilgilidir.
+
+Çelişmezlik ilkesine göre bir şey aynı zamanda ve aynı şartlarda hem kendisi hem de kendisinden başka bir şey olamaz. Mantık dilinde “A, A olmayan değildir” şeklinde ifade edilen bu ilke, sembolik olarak 
+∼(A∧∼A) ile gösterilir. Çelişen iki yargıdan birinin zorunlu olarak yanlış olduğunu söyler. “Metal iletkendir” (
+A) ve “Metal iletken değildir” (
+∼A) önermelerini ele alalım. Çelişmezlik ilkesine göre 
+A doğru ise 
+∼A yanlış, 
+A yanlış ise 
+∼A doğru değeri alır, çünkü metal aynı anda hem “iletken” hem de “iletken olmayan” olamaz.
+
+Üçüncü hâlin imkânsızlığı ilkesi “Bir önerme ya doğrudur ya da yanlıştır, ikisinin arasında üçüncü bir hâl yoktur” der. Başka bir deyişle, A ile A olmayan dışında bir olasılık bulunmaz. Sembolik olarak 
+(A∨∼A) şeklinde gösterilir. Bu ilke, her önermenin ya doğru ya da yanlış olduğunu, ikisinin dışında bir değer alamayacağını belirtir.
+
+Yeter‑sebep ilkesine göre yeterli sebep olmadıkça hiçbir olgunun var olduğu, ileri sürülen hiçbir yargının doğru olduğu iddia edilemez. Mantık açısından bu ilke “Bir önermenin doğruluğu veya yanlışlığı sebepsiz iddia edilmemelidir” anlamına gelir. “Düşünürsen anlarsın” ifadesinde anlamanın ortaya çıkması için düşünmenin gerçekleşmesi gerekir; bu, yeter‑sebep ilkesine örnektir. “Öğrenci, öğrencidir” özdeşlik ilkesine, “Öğrenci ya başarılıdır ya başarısızdır” üçüncü hâlin imkânsızlığı ilkesine, “Öğrenci hem çalışkan hem tembel değildir” çelişmezlik ilkesine örnektir.

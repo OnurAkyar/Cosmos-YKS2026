@@ -1,0 +1,33 @@
+# Çözümleyici Çizelge ile Tutarlılık, Geçerlilik ve Eşdeğerlik Denetlemesi
+
+Çözümleyici çizelge yöntemi, bir önermenin tutarlılığını, geçerliliğini, iki önermenin eşdeğerliğini ve bir çıkarımın geçerliliğini denetlemek için kullanılır. Denetleme sırasında yukarıda sıralanan kurallar eksiksiz uygulanır.
+
+Bir önermenin tutarlılığını denetlemek için, önerme başlangıç önermesi olarak yazılır ve çözümleme tamamlanır. Eğer çözümleme sonunda en az bir açık dal (yani kapatılmamış dal) kalıyorsa, bu dal o önermeyi doğru yapan bir yorumu temsil eder; dolayısıyla önerme tutarlıdır. Tüm dallar kapatılmışsa, önermeyi doğru yapan hiçbir yorum yok demektir ve önerme tutarsızdır. Örneğin 
+[
+]
+[(p∧∼p)∨q] önermesinin çözümlemesinde, bir dalda 
+q açık kalır, bu nedenle önerme tutarlıdır. Buna karşılık 
+∼(p⇒q)∧(∼p∧q) önermesinin çözümlemesinde tüm dallar kapanır, önerme tutarsızdır.
+
+Birden fazla önermenin bir arada tutarlılığını denetlemek için, verilen önermeler alt alta yazılır (hepsi başlangıç önermesi kabul edilir) ve çözümlenir. Çözümleme sonunda, tüm önermeleri aynı anda doğru yapan ortak bir yorumun varlığı, en az bir açık dalın bulunması demektir. Böyle bir açık dal varsa önermeler birlikte tutarlıdır; hiç açık dal yoksa birlikte tutarsızdır. Örneğin 
+∼(p∨q) ile 
+(p⇒∼q) önermeleri birlikte tutarlıyken, 
+(∼p∧∼q) ile 
+(p∨q) birlikte tutarsızdır.
+
+Bir önermenin geçerliliği (totoloji olup olmadığı) denetlenirken, önermenin değillenmiş hâli başlangıç önermesi olarak alınır ve çözümlenir. Eğer değillenmiş önermenin çözümlemesinde tüm dallar kapanıyorsa, bu önermenin yanlışlanmasının imkânsız olduğunu, yani her yorumda doğru olduğunu gösterir; bu durumda önerme geçerlidir. Açık dal kalıyorsa önerme geçersizdir. Örneğin 
+(∼p∨q)∨∼(p⇒q) önermesinin değillenmiş hâli tüm dalları kapalı olduğu için geçerlidir. 
+(∼p∨q)∨(p∧q) önermesinin değillenmiş hâlinde ise bir açık dal bulunduğu için geçersizdir.
+
+İki önermenin eşdeğerliğini denetlemek için, önce bu iki önerme bir karşılıklı koşul eklemi ile birleştirilir (
+p⇔q gibi). Elde edilen bu yeni önermenin değili alınır ve çözümlenir. Eğer tüm dallar kapanırsa, karşılıklı koşul önermesinin her zaman doğru olduğu, yani iki önermenin aynı doğruluk değerlerini paylaştığı anlaşılır; bu durumda önermeler eşdeğerdir. Açık dal kalırsa eşdeğerlik yoktur. Örneğin 
+(p⇒∼q) ile 
+(∼p∨∼q) önermeleri bu şekilde denetlendiğinde tüm dallar kapalı çıkar, bu nedenle eşdeğerdirler.
+
+Bir çıkarımın geçerliliğini denetlemek için iki yol kullanılabilir. Ancak çözümleyici çizelge ile en pratik yol şu şekildedir. Öncüller olduğu gibi yazılır, sonucun ise değili alınarak alt alta eklenir. Ardından bu önerme kümesi çözümlenir. Eğer çözümleme sonunda tüm dallar kapanıyorsa, öncüller ile sonucun değilinin bir arada bulunması imkânsızdır; bu da öncüller doğruyken sonucun yanlış olamayacağı anlamına gelir, yani çıkarım geçerlidir. Açık dal kalıyorsa, öncüllerin doğru ve sonucun yanlış olduğu bir durum mümkün demektir; çıkarım geçersizdir. Örneğin 
+(p∧q) ve 
+(p⇒∼q) öncüllerinden 
+∼p sonucunu çıkaran akıl yürütme geçerlidir (tüm dallar kapalı). Buna karşılık 
+(p∧∼q) ve 
+(p∨q) öncüllerinden 
+q sonucunu çıkaran akıl yürütme geçersizdir (açık dal bulunur).

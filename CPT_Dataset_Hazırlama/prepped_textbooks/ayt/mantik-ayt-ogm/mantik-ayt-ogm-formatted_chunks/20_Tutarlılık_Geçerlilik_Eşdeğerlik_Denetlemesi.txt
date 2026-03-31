@@ -1,0 +1,3 @@
+# Tutarlılık, Geçerlilik, Eşdeğerlik Denetlemesi
+
+Doğruluk çizelgesi yöntemiyle bir önermenin tutarlılığı (en az bir doğru yorumunun olması), geçerliliği (tüm yorumlarda doğru olması, yani totoloji) ve iki önermenin eşdeğerliği (tüm yorumlarda aynı doğruluk değerini almaları) denetlenebilir. Çıkarımların geçerliliği için iki yöntem vardır. Birinci yöntemde, öncüller tümel evetleme ile birleştirilip sonuca koşul eklenerek elde edilen önermenin totoloji olup olmadığına bakılır. İkinci yöntemde, öncüller ile sonucun değilinin bir arada tutarlı olup olmadığına bakılır; eğer tutarsızlarsa çıkarım geçerlidir.

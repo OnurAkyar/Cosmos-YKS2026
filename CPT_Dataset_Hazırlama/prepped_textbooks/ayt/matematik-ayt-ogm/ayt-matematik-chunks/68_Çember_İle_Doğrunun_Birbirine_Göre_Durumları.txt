@@ -1,3 +1,0 @@
-# Çember İle Doğrunun Birbirine Göre Durumları
-
-Merkezin doğruya uzaklığı $h$ ile yarıçap $r$ karşılaştırılır: $h < r$ ise iki kesim noktası, $h = r$ ise teğet, $h > r$ ise kesmez. Cebirsel olarak, doğru denklemi çember denkleminde yerine yazılıp elde edilen ikinci derece denklemin diskriminantına bakılır: $\Delta > 0$ iki kesim, $\Delta = 0$ teğet, $\Delta < 0$ kesmez.

@@ -1,0 +1,5 @@
+# Yorumlama - Önermelerin Doğruluk Değerleri - Doğruluk Çizelgesi
+
+Yorumlama, sembolleştirilmiş önermelere doğruluk değeri atama işlemidir. 
+n farklı basit önerme için 
+  olası yorum vardır. Doğruluk çizelgesi, tüm olası yorumları ve bileşik önermenin her yorumdaki doğruluk değerini gösteren tablodur. Her eklemin doğruluk tablosu yukarıda verildiği gibidir.

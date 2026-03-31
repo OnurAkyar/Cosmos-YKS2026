@@ -1,0 +1,3 @@
+# Belirsiz İntegral
+
+$F'(x) = f(x)$ ise $F(x)$'e $f(x)$'in ters türevi veya belirsiz integrali denir ve $\int f(x) dx = F(x) + c$ ile gösterilir, $c$ integral sabitidir. Belirsiz integral, türevin ters işlemidir ve bir fonksiyonun tüm ters türevlerini (bir sabit farkıyla) verir. Temel integral kuralları şöyle sıralanabilir: $\int x^n dx = \frac{x^{n+1}}{n+1} + c$ ($n \neq -1$); $n=-1$ durumunda ise $\int x^{-1} dx = \ln|x| + c$ elde edilir. Sabit çarpan kuralına göre $\int af(x) dx = a \int f(x) dx$ ve toplam-fark kuralına göre $\int [f(x) \pm g(x)] dx = \int f(x) dx \pm \int g(x) dx$ olur.

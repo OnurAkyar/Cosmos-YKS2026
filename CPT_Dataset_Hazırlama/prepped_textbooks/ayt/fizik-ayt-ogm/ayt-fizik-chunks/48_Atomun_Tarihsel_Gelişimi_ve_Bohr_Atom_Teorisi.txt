@@ -1,7 +1,0 @@
-# Atomun Tarihsel Gelişimi ve Bohr Atom Teorisi
-
-Dalton atomu bölünemez küre olarak düşünmüştür. Thomson üzümlü kek modelinde elektronları pozitif yük içine gömmüştür. Rutherford çekirdekli modeliyle atomun büyük kısmının boşluk olduğunu göstermiştir.
-
-Bohr modeli (hidrojen atomu) üç varsayıma dayanır: Elektronlar Coulomb kuvvetiyle dairesel yörüngede ışıma yapmadan döner; açısal momentum kuantumludur: $L = n \frac{h}{2\pi}$; elektron üst yörüngeden alt yörüngeye geçerken $E_{\text{foton}} = hf = E_i - E_s$ yayınlar. Yörünge yarıçapı $r_n = 0.53 \frac{n^2}{Z}$ Å, enerji $E_n = -13.6 \frac{Z^2}{n^2}$ eV.
-
-Modern atom teorisinde De Broglie dalga boyu $\lambda = h/p$, Heisenberg belirsizlik ilkesi ($\Delta x \Delta p \geq h/4\pi$), Schrödinger dalga denklemi, elektron bulutu, kuantum sayıları yer alır.

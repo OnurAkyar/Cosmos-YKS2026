@@ -1,0 +1,3 @@
+# Diferansiyel Kavramı ve Değişken Değiştirme (İkame) Yöntemi
+
+Diferansiyel, $d(f(x)) = f'(x) dx$ olarak tanımlanır; küçük değişimleri ifade eder ve integral alma işleminde değişken değiştirme için kullanılır. Değişken değiştirme (ikame) yönteminde, $\int f(x)^n f'(x) dx$ tipindeki integrallerde $u = f(x)$ ve $du = f'(x) dx$ dönüşümü yapılarak $\int u^n du = \frac{u^{n+1}}{n+1} + c$ elde edilir. Bu yöntem, zincir kuralının tersine uygulanmasıdır. Benzer şekilde $\int \frac{f'(x)}{[f(x)]^n} dx$ için $u = f(x)$ dönüşümü ile $\int u^{-n} du$ bulunur. $\int f'(g(x)) g'(x) dx$ tipinde ise $u = g(x)$ dönüşümü ile $\int f'(u) du = f(u) + c$ olur. Değişken değiştirme, karmaşık integralleri basitleştirmek için güçlü bir tekniktir.

@@ -1,0 +1,13 @@
+# Niceleme Mantığı - Temel Kurallar - Denetlemeler
+
+Niceleme mantığı (yüklemler mantığı), “tüm” ve “bazı” niceleyicilerini (
+∃) ekleyerek önermelerin daha ayrıntılı sembolleştirilmesini sağlar. Ad sembolleri (a, b, c) tekil özneleri, yüklem sembolleri (F, G, H) ise özellikleri gösterir. “Sokrates filozoftur” 
+Fa olarak yazılır. “Her canlı ölümlüdür” 
+∀xFx, “Bazı insanlar öğrencidir” 
+∃xFx şeklindedir. Niceleyici değilleme kuralları 
+∼∀xFx≡∃x∼Fx ve 
+∼∃xFx≡∀x∼Fx biçiminde ifade edilir. Tümel özellemede 
+∀xFx ten 
+Fa çıkarılır (daha önce geçmiş bir ad varsa onunla, yoksa herhangi bir adla). Tikel özellemede ise 
+∃xFx ten yeni bir ad (c) ile 
+Fc çıkarılır. Niceleme mantığında çözümleyici çizelge ile denetleme yapılırken, önermeler mantığı kurallarına ek olarak niceleyici değilleme ve özelleme kuralları da uygulanır. İşlem sırası şu şekildedir. Önce tümel niceleyici değilleme kuralı, sonra tikel niceleyici değilleme kuralı, ardından alt alta yazma kuralı, daha sonra tikel özelleme kuralı, sonra çatal açma kuralı ve en son tümel özelleme kuralı uygulanır. Denetleme kriterleri önermeler mantığındakiyle aynıdır. Tutarlılık için en az bir açık dal, geçerlilik için değillenmiş önermede tüm dalların kapalı olması, eşdeğerlik için karşılıklı koşulun değillenmiş hâlinde tüm dalların kapalı olması, çıkarım geçerliliği için öncüller ve sonucun değili ile tüm dalların kapalı olması gerekir.

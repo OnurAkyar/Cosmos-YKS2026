@@ -1,3 +1,0 @@
-# Aritmetik Dizi ve Özellikleri
-
-Ardışık terimleri arasındaki farkın sabit olduğu diziye aritmetik dizi denir. Yani $a_{n+1} - a_n = d$ (ortak fark). Bu sabit fark, dizinin doğrusal bir şekilde değiştiğini gösterir. Genel terim: $a_n = a_1 + (n-1)d$. Sonlu bir aritmetik dizide baştan ve sondan eşit uzaklıktaki terimlerin toplamı eşittir: $a_1 + a_n = a_2 + a_{n-1} = \dots$. Bu özellik, terimlerin simetrik dağılımından gelir. Ayrıca $a_k$ ve $a_p$ biliniyorsa $d = \frac{a_p - a_k}{p-k}$. İki sayı $a$ ve $b$ arasına $p$ tane terim yerleştirilerek aritmetik dizi oluşturulursa ortak fark $d = \frac{b-a}{p+1}$ olur. Aritmetik dizide bir terim, kendisine eşit uzaklıktaki iki terimin aritmetik ortalamasıdır: $a_n = \frac{a_{n-k} + a_{n+k}}{2}$.

@@ -1,0 +1,11 @@
+# Öğrenme
+
+Öğrenme, yaşantı ve deneyimlerin sonucunda davranışlarda ya da zihinsel süreçlerde görece kalıcı değişiklikler meydana gelmesidir. Bu değişiklikler olgunlaşma, hastalık veya yorgunluktan değil yaşantılardan kaynaklanır.
+
+Klasik koşullanma, Rus fizyolog İvan Pavlov tarafından keşfedilmiştir. Bu öğrenme biçiminde doğal bir tepkiye yol açan koşulsuz bir uyarıcıyla birlikte nötr bir uyarıcı art arda sunulur. Zamanla nötr uyarıcı tek başına da tepkiye yol açmaya başlar ve koşullu uyarıcı hâline gelir. Pavlov'un köpek deneyleri bu süreci açık biçimde ortaya koymuştur. Söndürme, koşullu uyarıcının koşulsuz uyarıcıyla birlikte tekrar sunulmaması sonucu koşullu tepkinin zayıflamasıdır. Kendiliğinden geri dönüş ise söndürülen tepkinin bir süre sonra yeniden ortaya çıkmasıdır.
+
+Edimsel koşullanma, B.F. Skinner tarafından sistematik biçimde incelenmiştir. Bu yaklaşıma göre bir davranışın ardından gelen sonuçlar o davranışın gelecekte tekrarlanma olasılığını belirler. Olumlu pekiştirme, istenen davranışın ardından ödül sunulmasıdır. Olumsuz pekiştirme ise istenmeyen bir uyarıcının kaldırılmasıyla davranışın güçlendirilmesidir. Ceza, davranışın ardından olumsuz bir sonuç gelerek ya da olumlu bir şey kaldırılarak davranışın zayıflatılmasıdır.
+
+Sosyal öğrenme kuramına göre bireyler, başkalarını gözlemleyerek ve taklit ederek de öğrenebilir. Albert Bandura'nın geliştirdiği bu kurama göre gözlemleyerek öğrenme, dikkat etme, akılda tutma, davranışı yeniden üretme ve motivasyon aşamalarından geçer. Bandura'nın ünlü Bobo bebek deneyi, çocukların saldırgan davranışları gözlemleyerek taklit ettiğini göstermiştir.
+
+Bilişsel öğrenme ise içgörü ve kavrayış yoluyla gerçekleşir. Wolfgang Köhler'in maymunlar üzerinde yaptığı deneyler, problemleri çözmenin mekanik deneme-yanılmanın ötesinde zihinsel yeniden yapılandırma gerektirdiğini ortaya koymuştur.

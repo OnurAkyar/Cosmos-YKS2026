@@ -1,0 +1,5 @@
+# Elektriksel Kuvvet
+
+Aynı cins elektrik yükleri birbirini iter, zıt cins yükler birbirini çeker. Bu kuvvete Coulomb kuvveti denir ve büyüklüğü $F = k \frac{q_1 q_2}{d^2}$ ile verilir. Burada $k = 9 \times 10^9 \, \text{N·m}^2/\text{C}^2$ (boşluk ve hava için), $q_1$, $q_2$ yük miktarları (coulomb), $d$ aralarındaki uzaklık (metre). Bu kuvvet etki‑tepki çiftini oluşturur; $\vec{F}_{12} = -\vec{F}_{21}$ bağıntısı geçerlidir. Yalıtkan ortamlarda $k$ daha küçük olur.
+
+Birden fazla yükün bir yüke uyguladığı bileşke kuvvet vektörel toplamla bulunur. Yükler serbest bırakıldığında, eşit büyüklükteki kuvvetler nedeniyle küçük kütleli cisim daha büyük ivme kazanır. İple asılı yüklü kürelerde, iplerin düşeyle yaptığı açı kütle ile ters orantılıdır.

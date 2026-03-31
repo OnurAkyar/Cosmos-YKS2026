@@ -1,3 +1,0 @@
-# Elektromanyetik Dalgalar
-
-Elektromanyetik dalgalar, ivmeli yüklü parçacıklar tarafından yayılır. Enine dalgalardır; elektrik ve manyetik alanlar birbirine ve yayılma yönüne diktir. Boşlukta $c = 3\times10^8$ m/s hızla yayılır. Ortamda hız $v = c/n$. Spektrum (dalga boyu azalan, frekans artan sırada): radyo dalgaları, mikrodalgalar, kızılötesi, görünür ışık, morötesi, X ışınları, gama ışınları.

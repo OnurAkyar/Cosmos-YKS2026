@@ -1,0 +1,8 @@
+# Sembolleştirme - Önerme Eklemleri
+
+Sembolleştirme şu adımlarla gerçekleştirilir. Önce basit önermeler harflere dönüştürülür, ardından önerme eklemleri sembolleştirilir, son olarak bileşik önermeler parantezlerle ayrılır. Önerme eklemlerinin tanımları ve doğruluk tabloları şu şekildedir. Değilleme (
+∼) doğruyu yanlışa, yanlışı doğruya çevirir. Tümel evetleme (
+∧) ancak tüm bileşenler doğruysa doğrudur. Tikel evetleme (
+∨) en az bir bileşen doğruysa doğrudur. Koşul (
+⇒) sadece ön bileşen doğru, art bileşen yanlışken yanlıştır; diğer durumlarda doğrudur. Karşılıklı koşul (
+⇔) bileşenler aynı doğruluk değerine sahipken doğrudur.

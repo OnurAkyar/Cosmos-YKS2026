@@ -5,7 +5,6 @@ def chunk_by_main_header(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Split on lines that start with exactly one '#' (not '##', '###', etc.)
     parts = re.split(r'(?=\n# (?!#))', content)
 
     chunks = []
@@ -21,7 +20,6 @@ def write_chunks_to_folder(chunks, output_folder):
     os.makedirs(output_folder, exist_ok=True)
 
     for i, chunk in enumerate(chunks):
-        # Derive a filename from the # header line
         first_line = chunk.splitlines()[0]
         title = first_line.lstrip('#').strip()
         safe_title = re.sub(r'[^\w\s-]', '', title).strip().replace(' ', '_')
@@ -31,14 +29,27 @@ def write_chunks_to_folder(chunks, output_folder):
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(chunk)
 
-        print(f"Written: {filename}")
+        print(f"Written: {filepath}")
+
+
+def process_all_markdown(root_folder):
+    for dirpath, _, filenames in os.walk(root_folder):
+        for file in filenames:
+            if file.endswith("-formatted.txt"):
+                filepath = os.path.join(dirpath, file)
+
+                print(f"\nProcessing: {filepath}")
+
+                # Create output folder next to the file
+                base_name = os.path.splitext(file)[0]
+                output_folder = os.path.join(dirpath, f"{base_name}_chunks")
+
+                chunks = chunk_by_main_header(filepath)
+                write_chunks_to_folder(chunks, output_folder)
+
+                print(f"Total chunks: {len(chunks)}")
 
 
 if __name__ == "__main__":
-    filepath = r"ayt-mantik-formatted.txt"
-    output_folder = "ayt-mantik-chunks"
-
-    chunks = chunk_by_main_header(filepath)
-    write_chunks_to_folder(chunks, output_folder)
-
-    print(f"\nTotal chunks written: {len(chunks)}")
+    root_folder = "prepped_textbooks/ayt"
+    process_all_markdown(root_folder)

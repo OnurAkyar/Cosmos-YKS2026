@@ -1,0 +1,5 @@
+# Alternatif Akım
+
+Doğru akım (DC) zamanla yönü ve şiddeti değişmeyen akım türüdür; pil ve akü gibi kaynaklardan elde edilir. Alternatif akım (AC) ise yönü ve şiddeti zamanla periyodik olarak değişen akım türü olup alternatörlerle üretilir. Etkin değer, aynı ısıyı veren doğru akım değeridir; maksimum değerin $1/\sqrt{2}$ katıdır.
+
+AC devrelerinde direnç (ohmik direnç) frekanstan bağımsızdır. Bobin, indüktif reaktans $X_L = 2\pi f L$ gösterir; frekans arttıkça $X_L$ artar. Sığaç, kapasitif reaktans $X_C = 1/(2\pi f C)$ gösterir; frekans arttıkça $X_C$ azalır. Empedans $Z$, devre elemanlarının toplam direncidir. $X_L = X_C$ olduğunda rezonans oluşur, akım maksimum olur.

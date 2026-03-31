@@ -1,0 +1,27 @@
+# ÜRINER SISTEMIN GENEL YAPISI, GÖREVLERI VE ORGANLARI
+
+Canlıların ortak özelliklerinden biri de boşaltımdır. İnsan yaşamının devamlılığı için suyun ve çözünmüş iyonların vücuda alınmasının veya kaybedilmesinin düzenlenmesi önemlidir. Fazla miktarda su alınması veya vücuttan fazla su kaybedilmesi ölüme neden olabilir. Vücuttaki su dengesi boşaltım sistemiyle sağlanır. Vücutta metabolik faaliyetler sonucu oluşan, tekrar kullanılmayan ve vücut için zararlı olabilen maddelerin vücut dışına atılmasına boşaltım adı verilir. Boşaltım, hücrelerin ve organizmanın canlılığını devam ettirebilmesi ve homeostazinin devamlılığının sağlanması için önemlidir.
+
+Boşaltımda metabolizma atıkları su, karbodioksit (CO2 ), amonyak (NH3 ), üre [CO(NH2 ) ] ve ürik asittir (C5 H4 N4 O3 ). Su; akciğerler, böbrekler ve deri yoluyla dışarıya verilir. Amonyağın vücuttan atılabilmesi için çok fazla suya ihtiyaç duyulur. Vücudun su kaybetmesi, homeostatik dengenin bozulmasına sebep olacağından amonyağın büyük kısmı karaciğerde üreye ve bir kısmı da ürik aside çevrilerek vücuttan atılır. İnsanda amonyağın bir kısmı, tuzların fazlası, su ve ilaç gibi maddeler, ana azotlu atık olan üre, idrar şeklinde böbreklerden atılır.
+
+Canlılarda azotlu boşaltım ürünlerinin zehirlilik oranı çoktan aza doğru; amonyak, üre ve ürik asit şeklindedir. Bu atıkları vücuttan uzaklaştırması için gerekli olan su miktarı da çoktan aza doğru amonyak, üre ve ürik asit şeklindedir.
+
+Amonyağın üreye dönüştürülmesi karada yaşayan canlılar için boşaltımla atılacak su miktarının azalması anlamına gelir. Bu olay kara canlılarında önemli bir adaptasyondur.
+
+Böbrekler aynı zamanda kan hacminin, basıncının ve pH'sinin düzenlenmesine, kan plazmasındaki mineral ve iyonların yoğunluğunun ayarlanmasına, yabancı maddelerin ve metabolik atıkların vücuttan uzaklaştırılmasına ve D vitamininin aktifleştirilerek kalsiyum iyonu düzeyinin ayarlanmasına yardımcı olur.
+
+Ayrıca; böbrekler amino asit, gliserol gibi karbohidrat olmayan molekülleri glikoza dönüştürerek vücudun şeker ihtiyacının karşılanmasında, toksik maddelerin vücuttan arındırılmasında karaciğere yardımcı olur.
+
+Oksijen seviyesi düşerse, böbreklerde üretilen eritropoietin hormonu kemik iliğinde alyuvar üretimini uyarır. Kronik böbrek yetmezliği olan hastalarda bu hormon yeterince salgılanamadığı için alyuvar sayısında bir düşüş olur ve anemi ortaya çıkar.
+
+Böbrekler, böbrek; omurganın iki yanında, karın boşluğunun arkasına yerleşmiş, bel hizasında yer alan bir çift boşaltım organıdır. Böbreklerin üzeri bağ doku yapısında ince bir zarla çevrilidir. Kan, aorttan gelerek böbreğin ortadaki çukur kısmından böbrek atardamarı ile böbreğe girer. Böbrek atardamarı, böbreğe kan götüren dallanmalar yapar. Her iki böbreğin üst uçlarında piramit şeklinde endokrin bez olan böbrek üstü bezleri yer alır.
+
+Her böbrekten birer üreter çıkar ve idrar kesesine bağlanır. Böbreklerde oluşturulan idrar, üreterle idrar kesesine aktarılır.
+
+İdrar kesesi, böbreklerden gelen idrarı biriktiren organdır. Atardamarlarla gelen kan böbreklerde süzülerek birtakım işlemlerden geçer ve idrarı oluşturur.
+
+İdrar kesesinden çıkan kanala üretra denir. İdrar, idrar kesesinden üretra ile vücut dışına atılır.
+
+Nefronların toplama kanallarının oluşturduğu piramit görünümlü yapıya Malpighi piramidi adı verilir. Toplama kanalları havuzcuk denilen bölgeye bağlanır ve idrarı buraya boşaltır.
+
+Böbrek dıştan içe doğru kabuk (korteks), öz (medulla) ve havuzcuk (pelvis) yapılarından oluşur.

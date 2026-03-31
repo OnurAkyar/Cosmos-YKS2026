@@ -1,3 +1,0 @@
-# Çemberin Standart Denklemi
-
-Merkezi $M(a,b)$, yarıçapı $r$ olan çemberin denklemi: $(x-a)^2 + (y-b)^2 = r^2$. Bu, iki nokta arası uzaklık formülünün doğrudan uygulamasıdır. Özel durumlar: Merkez orijin: $x^2 + y^2 = r^2$. $x$ ekseni üzerinde: $(x-a)^2 + y^2 = r^2$. $y$ ekseni üzerinde: $x^2 + (y-b)^2 = r^2$. $y$ eksenine teğet: $(x-a)^2 + (y-b)^2 = a^2$. $x$ eksenine teğet: $(x-a)^2 + (y-b)^2 = b^2$. Her iki eksene teğet: $(x \mp r)^2 + (y \mp r)^2 = r^2$ (bölgeye göre işaretler).

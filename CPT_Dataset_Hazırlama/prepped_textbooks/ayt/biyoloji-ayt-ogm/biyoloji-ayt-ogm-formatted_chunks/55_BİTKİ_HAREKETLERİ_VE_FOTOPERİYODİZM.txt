@@ -1,0 +1,39 @@
+# BİTKİ HAREKETLERİ VE FOTOPERİYODİZM
+
+Bitkilerde hareket, bitki dokularında çevreden gelen etkilere karşı uyarıların algılanması, uyarının iletimi ve uyarıya fizyolojik cevabın verilmesi şeklinde gerçekleşir. Bitkilerde tropizma ve nasti olmak üzere iki çeşit hareket görülür.
+
+Tropizma Hareketleri, bitkinin büyüyen ve uzayan kısımlarında oksin hormonunun düzensiz dağılımı sonucu ortaya çıkan ve asimetrik büyümeden kaynaklanan yönelme hareketlerine tropizma hareketleri denir. Tropizma hareketleri uyarının yönüne bağlı olarak gerçekleşir. Uyarının geldiği yöne doğru gerçekleşen hareket pozitif tropizma, uyarının tersi yönünde gerçekleşen hareket negatif tropizma olarak adlandırılır. Uyaranın çeşidine göre tropizma hareketleri fototropizma, gravitropizma (geotropizma), hidrotropizma, travmatropizma, kemotropizma, tigmotropizma olarak gruplandırılır.
+
+Fototropizma, bitkilerin ışık uyaranına karşı gösterdiği yönelme hareketidir. Örneğin günebakan bitkisinin ya da cam kenarına konan çiçeğin güneşe doğru yönelmesi fototropizma hareketidir. Bitkinin ışık kaynağına doğru yönelim göstermesi pozitif fototropizma, ışık kaynağından uzaklaşması ise negatif fototropizma olarak adlandırılır. Köklerde negatif fototropizma, gövdede ise pozitif fototropizma görülür. Fototropizmada oksin hormonu etkilidir.
+
+Fototropizmada oksin hormonunun etkisini anlamak için bilim insanları bitkilerin ışığı algılama mekanizmasını çözmek için deneyler yapmışlardır. 1913'te Charles Darwin, Francis Darwin ve Peter Boysen Jensen tarafından gerçekleştirilen deneyler, fototropizmanın ilgili sinyali nasıl ilettiğini saptamak için bir seri deney yapmıştır.
+
+Bu deneylerdeki gözlemler ve deneylerden ulaşılan sonuçlar aşağıda verilmiştir, tek yönden ışık alan hiçbir uygulama yapılmayan koleoptil, kontrol grubu olarak kullanılmıştır. Koleoptilde ışığa yönelim gözlenmiştir. Koleoptil ucu kesildiğinde ışığa yönelim olmamıştır. Koleoptil ucu ışık geçirmeyen bir başlık ile kapatıldığında ışığa yönelim olmamıştır. Koleoptil ucu ışık geçiren bir başlık ile örtüldüğünde ışığa yönelim olmuştur. Koleoptil ucu açık bırakılarak koleoptilin diğer kısımları ışık geçirmeyen siyah bir örtü ile kapatıldığında ışığa yönelim olmuştur. Koleoptilin ucu, hücreler arasındaki teması kesen fakat kimyasalların geçişine izin veren jelatin bir blokla koleoptilin alt kısımlardan ayrıldığında ışığa yönelim olmuştur. Koleoptilin uç kısmı alt kısmından geçirimsiz bir madde (mika) ile ayrıldığında ışığa yönelim olmamıştır.
+
+Sonuç, sadece koleoptilin ucu ışığı algılayabilir fakat kıvrılma uçtan belli uzaklıkta gerçekleşir. Sinyal, jelatin blok gibi geçirgen bir engelden geçebilir fakat mika gibi katı bir engelden geçemez. Bu, fototropizmaya neden olan sinyalin taşınabilir olduğunu göstermektedir. Bu durumdan yola çıkılarak "bitkilerin ışığı tepe noktalarından alıp oluşturduğu maddelerle gövdenin alt kısımlarına ilettiği" sonucuna varılmıştır.
+
+Kontrol grubunda koleoptilin ucu kesilmiş ve büyüme gözlenmemiştir. Oksin içermeyen agar blok, kesilen ucun yerine konmuş; koleoptilde büyüme ve yönelme gözlenmemiştir. Koleoptilin uç kısmı kesilerek agar blok üzerine yerleştirilmiştir. Uç kısmında bulunan oksinin agar bloka geçmesi sağlanmıştır. Oksini emen agar blok, ucu kesilmiş koleoptilin üzerine yerleştirilmiştir. Yönelim olmadan koleoptilde büyüme gerçekleşmiştir. 5 ve 6. Uçları kesilmiş koleoptilerin merkezinden uzağa oksin emdirilmiş agar bloklar yerleştirildiğinde koleoptil, ışığa doğru büyümede olduğu gibi agar blokta oksinin bulunduğu tarafın aksi yönünde büyümeye başlamıştır. Yönelim ve büyüme gözlenmiştir.
+
+Sonuç, oksin sentezlenmesi için ışığa gerek yoktur. Oksin, koleoptil ucunda sentezlenir ve yer çekimine doğru taşınır. Oksin, koleoptilin büyümesinden sorumludur ve yönelime oksinin asimetrik dağılımı neden olur.
+
+Geotropizma (Gravitropizma), bitkinin yer çekimi etkisine bağlı gösterdiği yönelim hareketine geotropizma denir. Bitki kökünde yer çekimi yönünde pozitif geotropizma, gövdede ise yer çekimine ters yönde negatif geotropizma görülür.
+
+Bitki köklerinin suya doğru yönelim göstermesine hidrotropizma denir. Su kenarlarında ve sulak alanlara yakın bölgelerde yaşayan bitkilerin köklerinin su birikintisine doğru yönelmesi pozitif hidrotropizmaya örnektir.
+
+Kemotropizma, bitki köklerinin toprakta bulunan farklı kimyasal maddelere karşı gösterdiği yönelim hareketine kemotropizma denir. Bitki köklerinin büyüme ve gelişmesi için gerekli olan gübre gibi yararlı maddelere doğru büyüyerek yaklaşmasına pozitif kemotropizma; aşırı tuz, kireç gibi zararlı maddelerin bulunduğu bölgenin ters yönüne büyüyerek uzaklaşmasına negatif kemotropizma denir.
+
+Bitkilerde herhangi bir yaralanma durumunda görülen yönelme hareketine travmatropizma denir. Örneğin bir bitkinin gövdesi yaralandığında yara bölgesinde hormon salgılanır. Bu hormonun etkisiyle gövde, yara bölgesinin tam tersi yönünde büyümeye devam eder.
+
+Bitkilerin dokunmaya karşı verdiği tepkilere tigmotropizma (haptotropizma) denir. Özellikle sarılıcı bitkilerde görülür. Asma, fasulye, salatalık, sarmaşık gibi bitkiler bulundukları dala sarılır.
+
+Nasti Hareketleri, bitki hücrelerindeki turgor basıncındaki değişimler sonrasında gerçekleşen, uyaranın yönüne bağlı olmayan hareketlere nasti hareketleri denir. Başlıca nasti hareketleri fotonasti, termonasti, sismonastidir.
+
+Işık etkisiyle gerçekleşen nasti hareketlerine fotonasti denir. Fasulye bitkisinin yapraklarının gündüz dik gece eğik durması, sarmaşık bitkisinin çiçeklerinin gündüz açıp gece kapanması fotonasti olayına örnektir.
+
+Termonasti, sıcaklığın etkisiyle görülen hareketlerdir. Lale çiçekleri düşük sıcaklıkta kapanır, yüksek sıcaklıkta açılır.
+
+Sarsıntı ve dokunmanın neden olduğu harekete sismonasti denir. Sismonasti, Mimosa pudica [Mimoza pudika (küstüm otu)] bitkisinde görülür. Bu bitki dokunma ile yapraklarını kapatır. Yine Dionea muscipula [Dionea muskipula (böcek kapan)] bitkisinin yapraklarının içine böcek konduğunda buradaki duyarlı tüyler yaprakta aniden bir turgor değişimi meydana getirerek yaprakların kapanmasını sağlar.
+
+Tropizma ve nasti hareketleri birbirinden farklı özellikler taşır. Tropizma uyaranın yönüne bağlıyken nasti uyaranın yönünden bağımsızdır. Tropizma yalnızca bitkinin büyüyen ve uzayan kısımlarında görülürken nasti hareketleri bitkinin ilgili organının tamamıyla gerçekleşir. Tropizma oksin hormonunun etkisiyle yavaş gerçekleşir; nasti ise turgor basıncı değişimiyle hızlı gerçekleşir.
+
+Mevsimsel olaylar, bitkilerin çoğunun yaşam döngüsünde kritik önem taşır. Tohum çimlenmesi, çiçeklenme, tomurcuk dormansisinin kırılması yılın belli zamanlarında gerçekleşen olaylardır. Bitkilerin yılın en uygun zamanını saptamak için kullandığı çevresel uyarı, gün uzunluğundaki değişim fotoperiyottur. Gece veya gün uzunluğuna verilen fizyolojik yanıt fotoperiyodizm olarak adlandırılır. Fotoperiyodizm, bitkilerin dünya üzerindeki dağılımını belirleyen önemli bir faktördür. Işık alma süresine bağlı çiçeklenmeye göre bitkiler üç ana grupta incelenir. Gecenin gündüzden daha uzun olduğu günlerde çiçeklenen bitkilere kısa gün (uzun gece) bitkileri denir. Bazı fasulye çeşitleri, çilek, patates, kasımpatı genelde yaz sonunda, sonbaharda ya da kışın çiçeklenir. Gündüzün geceye oranla daha uzun olduğu günlerde çiçeklenen bitkilere uzun gün (kısa gece) bitkileri denir. Bu bitkiler ilkbahar sonu veya yaz başında çiçeklenir. Hardal, marul, süsen ve pek çok tahıl uzun gün bitkisidir. Bu bitkilerin çiçeklenebilmesi için 12-14 saat ışık alma süresi gerekir. Bazı bitkiler fotoperiyottan etkilenmez. Bu bitkilere nötr gün bitkileri denir. Domates, çeltik, pamuk, ayçiçeği, pirinç, karahindiba bu bitkilere örnektir.

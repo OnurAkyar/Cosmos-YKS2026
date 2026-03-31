@@ -1,5 +1,0 @@
-# Denge ve Denge Şartları
-
-Bir cisim üzerinde net kuvvet sıfır ise cisim ya durgundur ya da sabit hızla hareket eder. Ancak denge hali için net kuvvetin sıfır olması yeterli değildir; aynı zamanda net torkun da sıfır olması gerekir. Aksi takdirde cisim dönme hareketi yapar.
-
-Asılı cisimlerde, iplerdeki gerilme kuvvetlerinin bileşkesi ağırlığı dengeler. İki ipli asmada ipler arasındaki açı arttıkça iplerdeki gerilme kuvveti artar. Kuvvetlerin bileşkesi bulunurken bileşenlere ayırma, uç uca ekleme veya Lami teoremi kullanılabilir. Lami teoremi: Bir noktaya etki eden üç kuvvet dengede ise, her kuvvetin karşısındaki açının sinüsüne oranı sabittir.

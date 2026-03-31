@@ -1,0 +1,21 @@
+# KEMOSENTEZ
+
+Kemosentez ve Kemoototrof Canlılar, bir atom ya da molekülden elektron ayrılmasını sağlayan kimyasal tepkimelere oksidasyon denir. İnorganik maddelerin oksidasyonu sonucu açığa çıkan kimyasal enerji ile inorganik maddelerden organik madde sentezine kemosentez denir. Kemosentez sırasında canlı türüne göre enerji kaynağı olarak farklı inorganik maddeler kullanılabilir. Bu süreçte Fe²⁺, NH₃, NO₂, H₂, H₂S ve S₂ gibi inorganik madde çeşitleri oksitlenir. Oksidasyon ve redüksiyon sonucu elde edilen enerji ile oksidatif fosforilasyonla ATP sentezlenir. ATP sentezinde ETS görev yapar.
+
+Besin sentezi için gerekli enerjiyi inorganik maddelerin oksidasyonu sonucu açığa çıkan kimyasal enerjiden karşılayan canlılara kemoototrof denir. Nitritleyici ve nitratlayıcı bakteriler, kükürt okside edici bakteriler, demir okside eden bakteriler, hidrojen okside eden bakteriler ve arkelerin çoğu bu canlılara örnek olarak verilebilir.
+
+Kemoototrof canlılar, prokaryot hücre yapısına sahiptir.
+
+Kemoototrof canlılar, klorofil pigmenti bulundurmadıkları için besin sentezi sırasında ışık enerjisi kullanmazlar. Bu canlılar, fotoototroflardan farklı olarak hem gündüz hem de gece besin üretebilir.
+
+H2S, fotosentez yapan bazı bakterilerde hidrojen ve elektron kaynağı olarak kullanılırken kemosentezde enerji kaynağı olarak kullanılır.
+
+Kemosentezin Madde Döngülerine Katkısı ve Endüstriyel Alanlarda Kullanımı, kemosentetik canlılar, madde döngülerinde rol oynadığından biyolojik dengenin korunmasında ve çevre kirliliğini önlemede etkilidir.
+
+Nitrit ve nitrat bakterileri, doğadaki azot döngüsünün gerçekleşmesinde önemli role sahiptir.
+
+Kemosentetik arkelerin büyük bir kısmı; yüksek tuzluluk, düşük oksijen yoğunluğu, yüksek sıcaklık, yüksek ya da düşük pH gibi zor koşullarda yaşar. Bu canlılardan elde edilen zor koşullara dayanıklı enzimler, biyolojik ve ekonomik açıdan oldukça önemlidir. Kemosentetik canlılar endüstriyel alanda metallerin etkisiyle kirlenmiş suların kullanılabilir hâle getirilmesinde, boya endüstrisinde, arıtma tesislerinde, atık suların temizlenmesinde ve kalitesi düşük metal cevherlerin zenginleştirilmesinde kullanılır.
+
+Fotosentez ile kemosentez olaylarının ortak ve farklı olan yönleri vardır.
+
+Fotosentez ile kemosentezin ortak yönleri şunlardır, her ikisinde de inorganik maddelerden organik maddeler üretilir, besindeki karbonun ve oksijenin kaynağı CO2'dir, ETS reaksiyonları gerçekleşir ve enzimler kullanılır. Farklı yönleri ise şöyledir: fotosentezde ışık enerjisi kullanılırken kemosentezde kimyasal enerji kullanılır; fotosentezde klorofil pigmenti gereklidir ancak kemosentezde oksidasyon gerekmektedir; fotosentez yalnızca ışık varlığında gerçekleşirken kemosentez gece ve gündüz gerçekleşebilir.

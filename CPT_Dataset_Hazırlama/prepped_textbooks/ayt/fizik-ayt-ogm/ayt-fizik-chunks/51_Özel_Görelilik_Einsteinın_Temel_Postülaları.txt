@@ -1,3 +1,0 @@
-# Özel Görelilik (Einstein'ın Temel Postülaları)
-
-Michelson‑Morley deneyi esir (ether) rüzgarının ışık hızına etkisini gözlemleyememiştir. Sonuç: Işık hızı tüm eylemsiz sistemlerde sabittir. Einstein'ın postülaları: Fizik yasaları tüm eylemsiz referans sistemlerinde aynıdır; ışık hızı boşlukta $c$ olup kaynağın veya gözlemcinin hızından bağımsızdır.

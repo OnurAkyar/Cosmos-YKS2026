@@ -1,0 +1,7 @@
+# İdeal Gaz Yasası
+
+Bir gazın dört değişkenini (P, V, n ve T) birbirine bağlayan kanundur: \(V \propto \frac{nT}{P}\) ⇒ \(PV = nRT\). Gaz kanunlarına uyan, molekülleri birbirinden etkilenmeyen, moleküller arası çekim kuvvetlerinin olmadığı varsayılan gazlara "ideal gaz" denir. Düşük molekül ağırlığına sahip, yalnız London çekim kuvvetlerinin etkisinde olan gazlar yüksek sıcaklık ve düşük basınçta ideale en yakındır.
+
+İdeal gaz sabiti R, 1 mol gazın normal şartlar (0 °C, 1 atm) altındaki hacmi (22,4 L) ideal gaz denkleminde yerine yazılarak bulunur: \(R = \frac{PV}{nT} = \frac{1 \cdot 22,4}{1 \cdot 273} = 0,0821 \, \text{atm·L·mol}^{-1}\text{K}^{-1}\). \(n = \frac{m}{M_A}\) yazılarak \(PV = \frac{m}{M_A}RT\) elde edilir. \(m = dV\) yazılarak \(PV = \frac{dV}{M_A}RT\) ve \(P = \frac{dRT}{M_A}\) elde edilir.
+
+İdeal gaz denkleminde basınç atm, hacim L, sıcaklık ise K biriminde alınır.

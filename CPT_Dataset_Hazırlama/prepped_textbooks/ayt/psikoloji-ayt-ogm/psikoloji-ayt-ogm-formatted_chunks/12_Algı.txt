@@ -1,0 +1,11 @@
+# Algı
+
+Algı, duyu organları aracılığıyla alınan bilgilerin beyin tarafından organize edilerek yorumlanması sürecidir. Algı yalnızca duyumun ötesinde; bireyin geçmiş deneyimlerine, beklentilerine ve dikkatine bağlı olarak şekillenir.
+
+Şekil-zemin ilişkisi, algıda bir nesnenin (şeklin) arka plandan (zeminden) ayrılarak öne çıkmasıdır. Örneğin beyaz bir kâğıt üzerindeki siyah yazıda harf şekil, kâğıt ise zemindir.
+
+Algısal gruplama, benzer, yakın veya süreklilik gösteren uyarıcıları birlikte algılama eğilimidir. Gestalt ilkeleri bu gruplamayı açıklar. Yakınlık ilkesine göre birbirine yakın nesneler bir grup olarak algılanır. Benzerlik ilkesine göre birbirine benzeyen nesneler bir arada görülür. Süreklilik ilkesine göre düzgün çizgiler ve eğriler kesintisiz bir bütün olarak algılanır. Kapalılık ilkesine göre ise eksik şekiller zihin tarafından tamamlanarak bütün olarak algılanır.
+
+Derinlik algısı, iki boyutlu retina görüntüsünden üç boyutlu uzamsal ilişkilerin çıkarılmasıdır. Tek gözle yapılan ipuçları arasında perspektif, boyut farklılığı ve örtme yer alırken iki gözle yapılan ipuçları arasında binokülüler ayrışma öne çıkar.
+
+Algıyı etkileyen faktörler arasında beklenti, geçmiş deneyim, motivasyon ve kültürel bağlam sayılabilir. Yanılsamalar da algının ne denli öznel olduğunu gösterir; Müller-Lyer yanılsaması gibi örnekler, beynin çevreden gelen bilgileri nasıl aktif biçimde yorumladığını ortaya koyar.

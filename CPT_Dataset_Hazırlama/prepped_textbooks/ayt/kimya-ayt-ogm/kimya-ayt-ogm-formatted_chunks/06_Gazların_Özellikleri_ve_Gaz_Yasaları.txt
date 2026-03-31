@@ -1,0 +1,23 @@
+# Gazların Özellikleri ve Gaz Yasaları
+
+Gazlar maddenin dört hâlinden biridir, en düzensiz hâldir. Taneciklerin hacmi, moleküller arası uzaklığın yanında ihmal edilir. Tanecikleri titreşim, öteleme ve dönme hareketi yapar. Gaz tanecikleri birbiriyle ve kabın çeperleriyle çarpıştığından hızları ve yönleri değişebilir (Brown hareketi). Gaz taneciklerinin çarpışmaları esnektir; çarpışma sonunda ortalama hızları değişmez. Yoğuşma, kırağılaşma ve iyonizasyon yaparak farklı fiziksel hâle dönüşür. Sıkıştırılabilen akışkanlardır. Yüksek basınç ve düşük sıcaklıkta sıvılaştırılabilir. Gazlar birbiriyle daima homojen karışarak çözelti oluşturur. Gazlar içinde bulundukları kabı tamamen doldurduklarından hacimleri ve şekilleri kabın hacmine ve şekline eşittir. Gaz tanecikleri arasındaki çekim kuvvetleri katı ve sıvılarınkine göre çok azdır. Gazların yoğunluğu katı ve sıvılarınkinden azdır.
+
+Basınç, gaz moleküllerinin birbiriyle ve kabın çeperleriyle yaptığı çarpışmalar sonucunda birim yüzeye uyguladığı kuvvettir. Çarpışma sayısına ve çarpma şiddetine bağlıdır. Yaygın kullanılan birimler atm, mmHg, cmHg ve Torr olup 1 atm = 76 cmHg = 760 mmHg = 760 Torr bağıntısı geçerlidir. Kapalı kaplardaki gazların basıncı manometre ile, açık hava basıncı barometre ile ölçülür.
+
+Hacim: Gaz taneciklerinin öz hacmi toplam hacim yanında ihmal edilir; gazın hacmi içinde bulunduğu kabın hacmine eşittir, "V" ile gösterilir. Laboratuvarda gaz büretleri kullanılır. Birimler: L, mL, m\(^3\), dm\(^3\), cm\(^3\), mm\(^3\). 1 L = 1 dm\(^3\) = 1000 mL = 1000 cm\(^3\); 1 m\(^3\) = 1000 dm\(^3\). Gazların hacimleri sıcaklık ve basınçtan etkilenir.
+
+Sıcaklık, gazın ortalama kinetik enerjisinin ölçüsüdür ve termometre ile ölçülür. Sıcaklığı aynı olan gazların cinsi ne olursa olsun kinetik enerjileri aynıdır: \(E_K = \frac{3}{2}kT\). °C (Celcius) ve K (Kelvin) birimleri kullanılır; \(K = °C + 273\).
+
+Mol, madde miktarının ölçüsüdür ve "n" ile gösterilir.
+
+Gaz kanunları, gazların basınç, hacim, sıcaklık ve mol sayılarının birbiriyle ilişkilerini açıklayan eşitliklerdir.
+
+Boyle Kanunu Basınç-Hacim ilişkisi (1662 Robert Boyle). Sabit sıcaklıkta bir miktar gazın basıncı artırılırsa hacmi azalır. Hacim \(\propto \frac{1}{\text{Basınç}}\) (n, T sabit). \(PV = k\) (sabit). Farklı iki durum için \(P_1 V_1 = P_2 V_2\).
+
+Charles Kanunu, hacim-sıcaklık ilişkisini ele alır ve 1787 yılında Jacques Charles tarafından ortaya konmuştur. Bir miktar gazın sabit basınç altında mutlak sıcaklığı artırıldığında hacmi artar. Hacim \(\propto\) Mutlak sıcaklık (n, P sabit): \(V = kT\). Farklı iki durum için \(\frac{V_1}{V_2} = \frac{T_1}{T_2}\). -273,15 °C sıcaklığına "mutlak sıfır noktası" denir; bu sıcaklığı başlangıç kabul eden sıcaklık ölçeğine "Kelvin (mutlak) sıcaklık ölçeği" denir. Gaz hesaplamalarında sıcaklık birimi olarak Kelvin kullanılır. Teorik olarak gazların hacmi -273,15 °C'de sıfır olur, ancak deneysel olarak gazlar bu sıcaklığa gelmeden sıvılaşır.
+
+Gay-Lussac Kanunu, basınç-sıcaklık ilişkisini ele alır ve Joseph Gay-Lussac tarafından ifade edilmiştir. Belirli miktar gazın sabit hacimde mutlak sıcaklığı ile basıncı doğru orantılıdır: \(P = kT\) (n, V sabit). Farklı iki durum için \(\frac{P_1}{P_2} = \frac{T_1}{T_2}\) veya \(\frac{P_1}{T_1} = \frac{P_2}{T_2}\). Sıcaklık arttığında gaz taneciklerinin hızı, çarpma şiddeti ve çarpma sayısı artar. \(E_K = \frac{1}{2}mv^2 = \frac{3}{2}kT\) olduğundan hız \(\propto \sqrt{T \cdot M_A}\) ve \(\propto \frac{n\sqrt{T}}{V\sqrt{M_A}}\). Günlük hayatta deodorant ve sprey kutularının güneşte bırakılmaması gerekir.
+
+Avogadro Kanunu, mol sayısı-hacim ilişkisini inceler ve Amedeo Avogadro tarafından tanımlanmıştır. Aynı şartlarda (T, P) bir gazın miktarı artırılırsa hacim artar. Hacim \(\propto\) mol sayısı: \(V = k n\). Farklı iki durum için \(\frac{V_1}{V_2} = \frac{n_1}{n_2}\). NŞA (0 °C ve 1 atm) 1 mol gaz = 22,4 L. Oda şartlarında (25 °C ve 1 atm) 1 mol gaz = 24,5 L.
+
+Dalton Kanunu, mol sayısı-basınç ilişkisini tanımlar ve John Dalton tarafından ifade edilmiştir. Sıcaklığı ve hacmi sabit olan bir gazın miktarı artırılırsa basıncı artar. Basınç \(\propto\) mol sayısı: \(P = k n\) (V, T sabit). Farklı iki durum için \(\frac{P_1}{P_2} = \frac{n_1}{n_2}\).
