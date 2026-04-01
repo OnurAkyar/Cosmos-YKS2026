@@ -1,0 +1,1369 @@
+# Canlıların Ortak Özellikleri
+
+Yaşam bilimi olarak da adlandırılan biyoloji; canlının yapısını, davranış şeklini, diğer canlılarla olan ilişkisini, yeryüzündeki dağılışını ve cansız faktörlerle ilişkisini inceler.
+
+Biyolojinin araştırma, inceleme ve uygulama alanı oldukça geniştir. Bu sebeple birçok alt bilim dalına ayrılmıştır. Bu alt bilim dalları, kendi konusuna göre ayrıntılı çalışmalarını sürdürür ve bilimsel çalışma sonuçlarını diğer bilim dallarıyla paylaşır. Bu paylaşımlardan tıp, veterinerlik, diş hekimliği, çevre mühendisliği, genetik mühendisliği, eczacılık, ziraat, uzay biyolojisi gibi bilim dalları faydalanır. Biyoloji bilimi ile ilgili çalışmalar bu bilim dalının güncel hayatla nasıl iç içe olduğunu da gösterir.
+
+Biyoloji; sağlık, gıda-beslenme ve çevre sorunlarına çözüm önerileri üreten, aynı zamanda biyolojik çeşitliliğin korunmasına yönelik çalışmalar yapan bir bilimdir.
+
+Canlıları cansız varlıklardan ayırmak ve canlıların ortak özelliklerini kavramak, biyolojinin en temel konularından olup biyolojinin günlük hayattaki önemini anlamaya da katkı sağlayacaktır.
+
+Canlıları cansız varlıklardan bir ya da birkaç özelliğine bakarak ayırt etmek zordur. Varlıkları canlı olarak nitelendirebilmek için hücresel yapı, beslenme, besinlerden enerji elde etme, boşaltım, hareket, uyarılara tepki, metabolizma, homeostazi, uyum, organizasyon, üreme, büyüme ve gelişme gibi özelliklere sahip olup olmadığına bakılır. Bu özelliklere sahip olan varlıklar canlı, varlıkların canlı olma durumu ise canlılık olarak tanımlanır. Bütün canlılar birbirinden farklı karakteristik özelliklere sahip olmalarına rağmen her canlı, özel fonksiyonlara sahip hücre ya da hücrelerden oluşur. Hücreler, organizmaların canlılık faaliyetlerini gerçekleştiren yapısal ve işlevsel en küçük birimleridir. Yapısal olarak iki çeşit hücre vardır:
+
+Çekirdeği ve zarlı organelleri bulunmayan hücrelere prokaryot hücre denir. Bakteriler ve arkeler prokaryot hücre yapısına sahip canlılardır. Bakteriler, prokaryot hücre yapısına sahip tek hücreli canlılardır.
+
+Çekirdeğe ve zarlı organellere sahip olan hücrelere ökaryot hücre denir. Öglena, paramesyum, amip, algler, mantarlar, bitkiler ve hayvanlar ökaryot hücre yapısına sahip canlılardır.
+
+Canlıların bazıları tek hücreli bazıları ise çok hücrelidir. Öglena, amip, paramesyum ve bakteri gibi canlılar tek hücreli olup gözle görülemez. Şapkalı mantarlar, bitkiler ve hayvanlar ise çok hücreli canlılardır ve gözle görülebilir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Ökaryot hücrelere özgü tek ya da çift katlı zara sahip hücre birimlerine organel denir. Prokaryot hücrelerde ise zarlı organel bulunmaz.
+
+Önemli bir nokta olarak belirtmek gerekir ki, her tek hücreli canlı prokaryot değildir. Ökaryot tek hücreli canlılar da vardır. Ancak her prokaryot canlı tek hücrelidir.
+
+Canlılar; büyüyüp gelişmek, yıpranan doku ve organlarını onarmak, enerji elde etmek ve düzenleyici faaliyetlerini devam ettirebilmek için besin maddelerine ihtiyaç duyar.
+
+Canlıların bir kısmı yaşadığı ortamdan su, mineral ve karbondioksit gibi inorganik maddeleri alıp güneş enerjisini veya kimyasal enerjiyi kullanarak ihtiyaç duyduğu organik besini üretir. Bu canlılara üretici (ototrof) canlılar denir. Bitkiler (tam parazit bitkiler hariç), algler (su yosunları) ve bazı tek hücreli canlılar üreticidir.
+
+Canlıların diğer bir kısmı ise inorganik maddelerden ihtiyaç duyduğu organik besinleri üretemez. Besinlerini yaşadıkları ortamdan hazır olarak alırlar. Bu canlılara tüketici (heterotrof) canlılar denir. Hayvanlar, mantarlar ve bazı tek hücreli canlılar tüketicidir.
+
+Canlılar, yaşamsal faaliyetlerini devam ettirebilmek için enerjiye ihtiyaç duyar. Bu enerji, besinlerin hücrede parçalanmasıyla elde edilen ATP (adenozin trifosfat) molekülünden karşılanır. Hücreler ATP'yi hücresel solunum ve fermantasyon ile üretir.
+
+Hücresel solunum oksijenli ve oksijensiz solunum olmak üzere iki çeşittir. Organik besinlerin yapı taşlarından oksijen yardımıyla ATP üretilmesi oksijenli solunum, oksijen olmaksızın farklı moleküller kullanılarak ATP üretimi oksijensiz solunum olarak adlandırılır.
+
+Bazı canlılar, solunum dışında elektron taşıma zinciri ve oksijen olmaksızın organik maddelerin enzimlerle daha küçük organik maddelere çevrilmesiyle ATP enerjisi üretebilir. Bu yıkım tepkimelerine de fermantasyon denir. Canlılar, hücrelerindeki düzeni korumak amacıyla metabolik faaliyetler sonucu oluşan atık maddeleri vücuttan uzaklaştırmak zorundadır.
+
+Tek hücreli canlılarda metabolik atıklar, hücre zarı ya da özelleşmiş organeller tarafından uzaklaştırılır. Örneğin; tatlı sularda yaşayan amip, öglena, paramesyum gibi tek hücreliler vücutlarındaki fazla suyu kontraktil koful (fazla suyu pompalayarak dışarı atan özelleşmiş organel) yardımıyla dışarı atar. Karbondioksit ve amonyak gibi atık gazlar ise hücre zarından dışarıya verilir.
+
+Gelişmiş yapılı bitkiler; atık maddeleri yaprak dökümü, terleme (transpirasyon: yapraklardan su buharı salınması), damlama (gutasyon: yaprak uçlarından su damlaması) ve kökleri yoluyla uzaklaştırır. Omurgalı hayvanlarda böbrekler, kandaki zararlı maddeleri süzerek idrarla; akciğerler, kandaki karbondioksiti solunum yoluyla vücuttan uzaklaştırır.
+
+Canlılar, çeşitli ihtiyaçlarını karşılamak için hareket eder. Bu ihtiyaçlar; avlanmak, göç etmek, üremek, yavrularını beslemek, ışık ve suya ulaşmak gibi çeşitli nedenlerle olabilir.
+
+Hayvanlarda hareket, çoğunlukla yer değiştirme şeklindedir ve kolaylıkla gözlemlenebilir. Hayvanlar hareket için bacak, kanat, yüzgeç gibi organlarını kullanır.
+
+Memeli bir hayvan olan çita, saatte 115 km hızla koşabilir. 108 km/saat hıza ise 3,1 saniyede çıkabilir. Bu sebeple avını yakalamak için yaptığı koşu, bir dakikadan az sürer. Tam hızlarına ulaştıklarında her adımda katettiği mesafe 15 metreye ulaşabilir. Bitkilerde hareket, yer değiştirme şeklinde değil durum değiştirme şeklindedir. Tek hücreli canlılar; kamçı, sil ve yalancı ayak gibi yapıları yardımıyla yer değiştirme hareketi yapar.
+
+Canlılarda durum değiştirmeye veya harekete sebep olan her türlü faktöre uyaran denir. Canlıların yaşadıkları ortamdaki ısı, ışık, su miktarı, avcı, kimyasal madde gibi dış uyarıları veya canlının kendi içinden gelen iç uyarıları alıp bunlara çeşitli tepkiler vermesi uyarana tepki olarak adlandırılır. Sıcak bir cisme dokunulduğunda elin hızla çekilmesi, uyarana verilen tepkidir. Canlılar olumlu uyaranlara yönelirken olumsuz uyaranlardan uzaklaşmaya çalışır. Lâle çiçekleri 15-20 °C sıcaklıkta açılarak, 5-10 °C sıcaklıkta ise kapanarak gün içerisindeki sıcaklık değişimlerine karşı kendini korur. Canlı hücrelerde gerçekleşen biyokimyasal olayların tamamına metabolizma denir. Bu metabolik olaylar anabolizma ve katabolizma olmak üzere iki bölümde incelenir.
+
+Hücrelerin küçük molekülleri birleştirerek büyük moleküller oluşturduğu yapım tepkimelerine anabolizma (özümleme) denir. Bitkilerin fotosentezle besin üretmesi, hayvanların protein ya da lipit sentezlemesi anabolizma örneklerindendir.
+
+Büyük moleküllerin parçalanarak daha küçük moleküller oluşturduğu yıkım tepkimelerine katabolizma (yadımlama)  denir. Sindirim ve hücresel solunum katabolizmaya örnektir. Bütün çevresel değişimlere rağmen organizmada kararlı bir iç ortamın sağlanması ve korunması olayına homeostazi  denir.
+
+Vücut sıvılarının asit baz dengesinin ayarlanması, vücut sıcaklığının sabit tutulması, zararlı atıkların vücudun dışına atılması ve vücuttaki su miktarının korunması homeostaziyi düzenleme amacıyla yapılan faaliyetlerdir. Örneğin; kuvvetli bir egzersiz yapıldığında ısı üretilir, o da vücut sıcaklığını arttırır. Sinir sistemi bu artışı algılayarak terlemeyi tetikler. Terlendiğinde ise nem deriden buharlaşarak vücut sıcaklığını düşürüp normal seviyeye getirir. Bir organizmanın yaşadığı çevrede hayatta kalma ve üreme şansını artıran kalıtsal özelliklerin tamamına uyum (adaptasyon) denir.
+
+Tüm canlılar, belirli bir organizasyona sahiptir. Atomlar birleşerek molekülleri, moleküller de birleşerek organelleri ve hücrenin diğer kısımlarını oluşturur. Bazı canlılar tek hücreden oluşur. Örneğin; tek hücreli bir canlı olan amip bu tek hücresi ile besinlerini alır; işler ve atıkları uzaklaştırır; çevresel uyarılara cevap verir; ürer ve diğer işlevlerini gerçekleştirir. Çok hücreli organizmalar ise tüm bunları özelleşmiş hücreler arasındaki iş bölümü ile gerçekleştirir.
+
+Çok hücreli canlılarda görev ve yapı bakımından benzer hücreler bir araya gelerek dokuları, dokular organları, organlar sistemleri, sistemler ise organizmayı meydana getirir.
+
+Çok hücreli canlılar, hücrelerin rastgele bir araya toplanmış hâli olmayıp iş birliği içinde olan çok sayıda hücrenin oluşturduğu birlikteliktir. Bu durum canlıya zaman ve enerji tasarrufu sağlar. Canlıların soylarını devam ettirmek için yeni bireyler oluşturmasına üreme denir. Eşeyli ve eşeysiz olmak üzere iki çeşit üreme vardır.
+
+Eşeyli üreme, dişi ve erkeğe ait üreme hücrelerinin birleşmesiyle yeni bireyler meydana gelmesidir. Eşeyli üremeyle oluşan yavrular hem anadan hem de babadan gelen özellikleri taşır. Bu şekilde kalıtsal çeşitlilik sağlanır.
+
+Eşeysiz üremede ana birey, döllenme olmaksızın kendisiyle aynı kalıtsal özelliklere sahip yavrular meydana getirir. Eşeysiz üreyebilen canlılara bir hücreli canlılar, bazı bitkiler ve bazı omurgasız hayvanlar örnek olarak verilebilir. Canlılar büyür, gelişir, yaşlanır ve ölür. Büyüme tek hücreli canlılarda sitoplazmanın hacimce ve kütlece artışı ile çok hücreli canlılarda ise hücre sayısının ve hacminin artışı ile sağlanır.
+
+Gelişme ise canlının sahip olduğu yapıların zamanla değişerek fonksiyonel olarak olgunlaşmasıdır. Yeni doğan bir bebeğin kilo alması, büyümeye; emeklemesi, yürümesi ve koşması ise gelişmeye örnektir.
+
+# İnorganik Bileşiklerin Genel Özellikleri ve Canlılar İçin Önemi
+
+Canlıların yapısını oluşturan temel bileşikler moleküllerden, moleküller ise aynı ya da farklı element atomlarından meydana gelir. Farklı türdeki canlıların vücudundaki element çeşitleri ve miktarları da farklılık gösterebilir. Canlılardaki temel bileşikler inorganik ve organik olmak üzere iki çeşittir.
+
+Canlılar tarafından üretilemeyen, doğadan hazır olarak alınan, yapısında karbon ve hidrojen elementlerini birlikte bulundurmayan bileşiklere inorganik bileşik denir. Örn: $HNO_3$ , $H_2SO_4$ , HCl, $CO_2$ , CO vb.
+
+İnorganik bileşikler, küçük yapılı olduklarından sindirilmeden kana geçer ve hücre içine alınır. Solunum tepkimelerinde inorganik bileşikler enerji ham maddesi olarak kullanılmaz. Yapıcı, onarıcı ve düzenleyici olarak görev yapar. İnorganik bileşikler; su, asitler, bazlar, tuzlar ve minerallerdir.
+
+Tüm organizmalarda en çok bulunan bileşen sudur. Organizmaların toplam kütlesinin %70'inden fazlası sudan oluşur. Su, biyolojik yapıların oluşturulması ve yaşamsal faaliyetlerinin gerçekleştirilebilmesi için gerekli inorganik maddelerin en önemlisidir. İnsanların çeşitli doku ve organlarındaki su miktarı birbirinden farklı olduğu için metabolizma hızları da farklılık gösterir. Su molekülü, bir oksijen atomuna kovalent bağlar ile bağlanan iki hidrojen atomundan oluşur.
+
+Su molekülleri birbirlerine hidrojen bağı ile bağlanır. Su molekülleri arasında kurulan hidrojen bağının çekim kuvvetine kohezyon (su moleküllerinin birbirini çekme kuvveti), suyun diğer moleküllere tutunmasını sağlayan kuvvete ise adhezyon denir.
+
+Su iyi bir çözücü olduğundan sindirim tepkimelerinde kullanılır. Hücrelerin ihtiyaç duyduğu maddelerin taşınmasını ve metabolik atıkların uzaklaştırılmasını sağlar. Ayrıca yüksek özgül ısıya sahip olması ve ısıyı depolama özelliği sayesinde, deniz ve okyanuslardaki su yavaş yavaş ısınıp soğur ve böylece canlıların olumsuz etkilenmesi önlenmiş olur. Suyun donmasıyla oluşan buz, yoğunluğu daha az olduğundan su yüzeyinde kalarak daha alt tabakalardaki suyun soğuk hava ile temasını önler, suda yaşayan canlıların donmadan yaşamlarına devam etmelerine olanak sağlar. Yapraklarda terleme sonucunda oluşan emme kuvveti ve kohezyon-adhezyon kuvvetleri sayesinde su, bitkilerin köklerinden yapraklarına kadar kesintisiz bir sütun şeklinde yer çekimine zıt yönde taşınır. Suyun kohezyon kuvvetine bağlı olarak oluşan yüzey gerilimi, bazı canlıların su yüzeyinde durabilmesine ve yürüyebilmesine olanak sağlar. Su, buharlaşma ısısının yüksek olması sebebiyle etkili bir soğutma sağlar. Karada yaşayan bazı canlılar, artan vücut sıcaklığını terleme yoluyla düşürür.
+
+Suda çözündüğünde hidrojen iyonu ($H^+$) veren bileşiklere asit denir. Genellikle tatları ekşidir. Mavi turnusol kâğıdını kırmızıya dönüştürür.
+
+Suda çözündüğünde hidroksit iyonu ($OH^-$) veren bileşiklere baz denir. Genellikle tatları acıdır ve ele kayganlık hissi verir. Kırmızı turnusol kâğıdını maviye dönüştürür.
+
+Bir çözeltinin ne kadar asidik ya da bazik olduğunu içeriğindeki serbest $H^+$ iyon derişimi belirler. Oluşan hidrojen ($H^+$) iyonlarının konsantrasyonuna bakılarak çözeltinin pH değeri belirlenir. Bu pH değerini belirlemek için pH metre adı verilen cihaz kullanılır. Buna göre bir çözeltinin pH değeri 7'nin altındaysa asit, 7'nin üzerindeyse baz, 7 ise nötrdür. Bir çözeltinin pH değeri 7'den 0'a doğru gittikçe asitlik derecesi, 7'den 14'e doğru gittikçe baziklik derecesi artar.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Vücudun farklı bölgeleri farklı pH değerine sahiptir. Bu değerlerdeki küçük değişimler ölümcül bile olabilir. İnsan kanının normal pH değeri 7,4'tür. Bu değerin 7'ye düşmesi ya da 7,8'e yükselmesi iç dengeyi bozacağından birkaç dakika içinde insanın ölmesine sebep olur. Tuzlar, asitlerin ve bazların nötrleşme tepkimesiyle birleşmesi sonucunda oluşur.
+
+Örn: Hidroklorik asit (HCl) ve sodyum hidroksitin (NaOH) birleşmesi sonucu sofra tuzu olarak bilinen sodyum klorür (NaCl) ve su ($H_2O$) meydana gelir.
+
+Tuzun canlı vücuduna az ya da çok alınması sağlık sorunlarına neden olabilir. Tuzun gereğinden az alınması yorgunluk ve kan şekerinin yükselmesi, fazla alınması durumunda ise yüksek tansiyon, kalp-damar hastalıkları, böbrek rahatsızlıkları ve bağırsak iltihaplanmaları gibi sağlık sorunlarına yol açabilir.
+
+Canlılarda organik moleküllerin yapısına katılan ve bazı bileşik enzimleri aktive eden inorganik maddelerdir. Canlılar yaşadığı ortamdan su ve besinler aracılığıyla mineralleri hazır olarak alır. Her mineralin kendine özgü görevi vardır. Bu sebeple vücuttaki bir mineralin eksikliği başka bir mineral ile giderilemez. Mineraller idrar, ter ve dışkı ile vücut dışına atıldığından mineral içeren besinler düzenli olarak vücuda alınmalıdır. Mineraller, hücre içinde ve hücreler arası boşluklarda tuz hâlinde de bulunabilir.
+
+Klor minerali hücre içi ve hücreler arası sıvıda su dengesinin ve suyun pH değerinin ayarlanmasında görev alır. Mide hücrelerinden salgılanarak, midede görev alan sindirim enzimlerini $H^+$ ile birleştirerek aktifleştirir. Ayrıca yetersiz alınması, sindirim sistemi ve büyüme bozukluklarına neden olur. Kaynak besinler: Sofra tuzu, et, süt, süt ürünleri, taze sebzelerdir.
+
+Kükürt minerali amino asitlerin yapısına katılır; saç, tırnak ve cilt sağlığı için gereklidir. Eksikliğinde büyüme bozuklukları, saçta dökülme ve deri renginde solma görülür. Kaynak besinler: Süt, et, balık, yumurta, fasulye, fındık, fıstık, bademdir.
+
+İyot minerali tiroit bezinden salgılanan tiroksin hormonunun yapısında bulunur. Büyüme çağında yeterince alınmazsa tiroksin eksikliği sonucu cücelik, çarpık bacaklılık ve zekâ geriliği gibi hastalıklar görülebilir; iyot eksikliği tiroit bezinin büyüyüp guatr hastalığına neden olmasına da yol açabilir. Kaynak besinler deniz ürünleri ve iyotlu tuzdur.
+
+Magnezyum minerali kemik ve dişlerin yapısına katılır; kasların çalışmasında, ATP üretiminde, karbonhidrat ve protein metabolizmasında görev alır. Yetersiz alınması kaslarda kramplara, büyümenin yavaşlamasına, saç dökülmesine ve yorgunluk hissine neden olur. Bitkilerde klorofil pigmentinin yapısında da bulunur. Kaynak besinler: Kuru yemişler, baklagiller, soya fasulyesi, kabuklu deniz ürünleri, kakao, peynirdir.
+
+Sodyum minerali kasların uyarılması, sinirsel iletim, pH ve su dengesinin sağlanmasında görev alır. Yetersiz alınması kaslarda kramplara ve sinirsel iletimin aksamasına neden olabilirken ihtiyaçtan fazla alınması yüksek tansiyon, ishal, titreme ve kusmaya yol açabilir. Kaynak besinler: Sofra tuzu, et, süt, süt ürünleri ve taze sebzelerdir.
+
+Demir minerali solunum gazlarını taşımada görevli hemoglobin molekülünün yapısına katılır; oksijenli solunumda ve fotosentezde görev alan bazı enzimlerin yapısına ve karaciğerdeki katalaz enziminin yapısına kofaktör olarak katılır. Besinlerle alınan demir minerali C vitamini varlığında emilerek kana karışır. Eksikliğinde yeteri kadar hemoglobin üretilemeyeceği için anemi olarak bilinen kansızlığa neden olur. Kansızlıkta birim zamanda hücrelere taşınan oksijen miktarı, buna bağlı olarak da enerji (ATP) üretimi azalır, metabolizma yavaşlar. Kaynak besinler: Deniz ürünleri, karaciğer, yumurta sarısı, baklagiller, yeşil yapraklı sebzeler, kuruyemişlerdir.
+
+Potasyum minerali hücre içi ve hücreler arası ortamda su ve asit-baz dengesini ayarlar; iskeletin ve kalp kaslarının çalışmasını ile sinir hücrelerinde uyarı iletimini sağlar. Eksikliği kalp ve iskelet kaslarının çalışma ritminin bozulmasına ve sinirsel iletimin aksamasına neden olurken ihtiyaçtan fazla alınması böbrek yetmezliğine yol açabilir. Kaynak besinler: Baklagiller, turunçgiller, muz, avokado, brokoli, ıspanak, patates, kuruyemişlerdir.
+
+Kalsiyum minerali kemik ve dişlerin yapısının korunmasında, kas dokunun kasılıp gevşemesinde, sinir hücrelerinde uyartının iletilmesinde ve kanın pıhtılaşmasında görev alır. Besinlerle alınan kalsiyum, D vitamini varlığında emilerek kana karışır. Ayrıca çocuklarda kalsiyum eksikliği kemiklerde yumuşama ve eğrilme şeklinde görülen raşitizm hastalığına neden olur. Yetişkin bireylerde ihtiyaçtan az alınması kemik erimesine (osteoporoz), normalden fazla alınması da eklemlerde kireçlenmeye sebep olabilir. Kaynak besinler: Süt ve süt ürünleri, yumurta sarısı, kuruyemişler, tahıllar, baklagiller, yeşil yapraklı sebzelerdir.
+
+Flor minerali diş ve kemik sağlığı için gereklidir. Yetersiz alınması dişlerin çürümesine, fazla alınması ise dişlerde kararmaya ve beneklenmeye yol açar. Kaynak besinler: Ham çay yaprağı, kabuklu deniz ürünleri, somon balığıdır.
+
+Çinko minerali bazı enzimlerin ve insülin hormonunun yapısına katılır; yaraların iyileşmesinde etkilidir. Eksikliğinde vücut direnci azalır ve dikkat eksikliği görülür. Kaynak besinler: Deniz ürünleri, et, yumurta, tahıllar, kuru baklagillerdir.
+
+Fosfor minerali kemiklerin, dişlerin, DNA, RNA ve ATP'nin yapısına katılır; pH'ın dengelenmesinde görev alır. Eksikliğinde kemikler zayıflar ve enerji metabolizmasında bozulmalar görülür. Kaynak besinler: Süt ürünleri, yumurta, et, tahıl ve baklagillerdir.
+
+# Organik Bileşiklerin Genel Özellikleri, Karbonhidratlar
+
+Tüm canlıların temel yapısını organik bileşikler ve inorganik bileşikler oluşturur. Organik bileşikler canlılar tarafından üretilir. Karbonhidrat, lipit, protein, nükleik asit, enzimler, vitaminler, hormonlar ve ATP canlılar için önemli organik bileşiklerdir. Ayrıca yapısında karbon ve hidrojen elementlerinin yanı sıra oksijen, azot, fosfor, kükürt de bulunabilir. Enerji verici, yapıcı, onarıcı ve düzenleyici olarak farklı işlevlere sahiptir. Besinlerle alınanların çoğu hücre zarından geçemeyecek kadar büyük olduğundan sindirilerek kana geçer. Büyük organik bileşiklerin en küçük anlamlı yapı birimine monomer denir. Benzer ya da özdeş yapıdaki çok sayıda monomerin birbirine bağlanmasıyla oluşan büyük yapılı organik moleküllere polimer denir. Monomerlerin birleşerek polimerleri oluşturması bir dehidrasyon reaksiyonudur. Dehidrasyon sırasında basit organik maddelerden birinin hidrojeni ($H^+$) ile diğerinin hidroksit grubu ($OH^-$ ) birleşir. İki monomer arasında bağ oluşurken bir molekül su çıkışı olur. Polimerlerin su kullanılarak yapı birimlerine ayrılmasına ise hidroliz denir. Dehidrasyonun tersi bir olaydır. Hücre içi ve dışında gerçekleştirilebilir. Sindirim olayı hidrolize örnek verilebilir.
+
+Karbonhidratlar, fotosentez sonucu oluşan organik moleküllerdir. Hücrede birinci derecede enerji kaynağı olarak kullanılır. Ayrıca yapı maddesi ve onarıcı olarak da görev yapar. Hücre zarının, hücre çeperinin, nükleik asitlerin, DNA, RNA ve ATP'nin yapısına katılır. Yapılarında karbon (C), hidrojen (H) ve oksijen (O) elementleri bulunur. Molekül formülü genel olarak $CH_2O$'nun katları şeklindedir. Monomerleri birbirine glikozit bağıyla bağlanır. Buğday, arpa, pirinç gibi tahıllar, şeker pancarı, şeker kamışı, sebzeler, meyveler karbonhidrat bakımından zengin besinlerdir.
+
+Karbonhidratlar içerdikleri şeker birim sayısına göre monosakkaritler (tek şekerler), disakkaritler (iki şekerler) ve polisakkaritler (çoklu şekerler) olmak üzere üçe ayrılır.
+
+Monosakkaritler basit şekerlerdir; sindirime uğramadan hücre zarından geçebilirler. İçerdikleri karbon atomu sayısına göre gruplandırılır: beş karbonlulara pentoz, altı karbonlulara heksoz denir. Heksozlar, $C_6H_{12}O_6$ kapalı formülünden oluşur.
+
+6 Karbonlular (Heksoz): Glikoz: Kan şekeri ya da üzüm şekeri olarak bilinir. Üretici canlılar tarafından üretilir. Ayrıca amino asitler, yağ asitleri gibi diğer organik moleküllere dönüşebilir. Tüm canlı hücrelerde bulunur. Canlılar enerji elde etmek için glikozu ilk sırada kullanır. Sağlıklı bir insanın her 100 mL kanında yaklaşık 70-110 mg glikoz bulunmalıdır. Sinir hücreleri öncelikle glikozdan enerji elde eder. Açlık sırasında bayılmanın nedeni, sinir hücrelerinin yeterli glikoz bulamamasıdır. Birçok disakkarit ile polisakkaritin yapı taşıdır.
+
+Fruktoz; karpuz, muz gibi meyvelerde bulunan, meyve şekeri olarak da bilinen heksoz çeşididir. İnsanlar fruktozu glikoza dönüştürerek kullanır. Tatlılığı en yüksek olan şekerdir.
+
+Galaktoz bitkilerde de bulunmasına rağmen memelilerin sütünde daha çok bulunduğundan süt şekeri olarak adlandırılır. Bitkilerde kloroplastın içinde, şeker pancarı, yosun, reçine ve keçiboynuzu özütünde bulunur.
+
+Kapalı formülleri aynı, açık formülleri farklı olan organik moleküllere izomer denir. Glikoz, fruktoz ve galaktoz birbirlerinin yapısal izomeridir. Disakkarit sentezi, dehidrasyon tepkimesine örnektir ve sonucunda bir molekül su açığa çıkar. Monomerlerin arasında glikozit bağı oluşur. Bu bağların su kullanılarak kopartılması hidroliz olayıdır. Ayrıca disakkaritler hücre zarından geçemez. Hidrolizle monomerlerine (yapı birimlerine) ayrılır. Ayrıca hidroliz edildikten sonra hücre zarından geçebilir.
+
+Disakkaritler iki monosakkaritin glikozit bağı ile birleşmesiyle oluşur ve hidroliz edilmeden hücre zarından geçemez. Maltoz, sakkaroz (sükroz) ve laktoz disakkaritlere örnektir. Maltoz, malt şekeri veya arpa şekeri olarak da bilinir; iki glikoz molekülünün bağlanmasıyla oluşur ve arpa tohumlarında bulunur.
+
+Sükroz (sakkaroz) çay şekeri olarak bilinir. Glikoz ve fruktozun birleşmesiyle oluşur. Havuç, şeker pancarı, şeker kamışı gibi bitkilerde bol miktarda bulunur. Laktoz, glikoz ve galaktozun birleşmesiyle oluşur. Memeli hayvanların sütünde bulunur. Çok sayıda glikozun glikozit bağıyla birleşmesiyle oluşan polimerlerdir.
+
+Polisakkaritler büyük molekül olduklarından sindirilmeden hücre zarından geçemez. Nişasta, glikojen, selüloz ve kitin polisakkaritlere örnektir. Ayrıca polisakkaritler depo maddesi ya da yapısal olarak görev yapar. Nişasta ve glikojen deposal, selüloz ve kitin yapısal polisakkaritlerdir.
+
+Bitkilerin fotosentezle ürettiği glikozun fazlası lökoplastlarında nişastaya dönüştürülür. Bitki hücrelerinde bulunur, hayvan ve mantar hücrelerinde bulunmaz. Ayrıca bitkinin kök, gövde, yaprak, meyve ve tohum gibi organlarında depolanır. Suda çok az çözünür. Iyotla mavi renk alır. En çok arpa, buğday gibi tahıllarda, patates ve pirinçte bulunur.
+
+Hayvanlarda besinlerle alınan nişasta, sindirim kanalında glikoza kadar parçalanarak sindirilir. Açığa çıkan glikozlar kana geçer ve hücrelere taşınır. Hayvanlar nişastalı besinlerle beslendiğinde sindirim kanalında nişastaya rastlanır. Ancak hayvan hücrelerinde nişastaya rastlanmaz.
+
+Glikozun fazlası bakteri, arke, cıvık mantar, mantar ve hayvan hücrelerinde glikojene dönüştürülerek depolanır. Suda çok az çözünür. Ayrıca besinlerle vücuda alınan glikozun fazlası karaciğer ve çizgili kaslarda glikojen şeklinde depo edilir. Açlık durumunda glikoza ihtiyaç duyulduğunda karaciğerdeki glikojen kullanılır. Insanlarda glikojenin glikoza dönüşmesi hem hücre içinde hem de hücre dışında gerçekleşebilir.
+
+Selüloz bitki hücrelerinin çeper yapısına katılır; sentezi hücre zarında gerçekleşir ve suda çözünmez. Otçul hayvanlar, bağırsaklarında yaşayan bakteriler sayesinde selülozu sindirir. Yeryüzünde en çok bulunan karbonhidrat çeşidi olduğundan endüstriyel alanda kâğıt, pamuk ve yapay ipek yapımında kullanılır.
+
+Kitin, diğer polisakkaritlerden farklı olarak yapısında azot bulundurur. Mantarlarda hücre çeperinin yapısını oluşturur. Ayrıca suda çözünmez. Uğur böceği, çekirge, kelebek, yengeç, ıstakoz gibi eklembacaklıların dış iskeletinin yapısı kitindir. Kitinin saf hâli deri gibi yumuşaktır. Ancak eklembacaklıların dış iskeletinde olduğu gibi yapısına kalsiyum karbonat tuzlarının katılmasıyla sertleşir. Ameliyat ipliği yapımında kullanılır. Bu iplik, ameliyat yarası iyileşince kendiliğinden erir.
+
+Üretici canlılar, atmosferdeki karbondioksiti fotosentez ve kemosentez yoluyla karbonhidratların yapısına katar. Hayvanlar da karbonhidratlı bileşikleri yiyerek karbonu almış olur. Glikoz, sinir hücrelerinin normal şartlar altında enerji elde etmek için kullandığı öncelikli organik bileşiktir. Ayrıca parçalanmaları için gerekli oksijen miktarı, lipit ve proteinlere göre daha az olduğundan karbonhidratlar enerji kaynağı olarak ilk sırada kullanılır. Besinlerle yeterli karbonhidrat alınmazsa enerji eldesi için ikinci sırada yağlar, daha sonra da proteinler kullanılır. Karbonhidratlar, yağlar ve proteinlerle bileşikler oluşturarak hücre yapısına katılır. Bazı karbonhidrat çeşitleri; DNA, RNA, ATP ve hücre zarı gibi önemli molekül ve bileşiklerin yapısına katılır. Insanlar selülozdan doğrudan yararlanamaz ancak selüloz, sindirim kanalında mekanik uyarı sağlayarak bağırsak hareketlerini destekler ve sindirim sisteminin düzgün çalışmasına katkıda bulunur. Gereğinden fazla karbonhidrat alındığında karbonhidratların bir kısmı kullanılır. Ancak kandaki glikozun fazlası karaciğer ve kaslarda glikojen şeklinde depolanır. Gerektiğinde tekrar glikoza dönüştürülerek kullanılır. Selüloz; kâğıt, sentetik ipek ve plastik yapımında kullanılır.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Kanserli hücreler sağlıklı hücrelere göre daha fazla şeker kullandığından şeker tüketimini dengelemek önemlidir. Karbonhidratların fazlası insanda yağa dönüştürülerek depolanır. Bu nedenle çok tüketilmesi şişmanlığa ve insülin direncine sebep olarak diyabetin (şeker hastalığı) gelişmesine de zemin hazırlar. Enerji ihtiyacı ilk sırada karbonhidratlardan karşılandığından az karbonhidrat tüketildiğinde hâlsizlik, yorgunluk ve baş dönmesi meydana gelir. Ayrıca enerji ihtiyacı için karbonhidrat içeren besinler yeterince tüketilmelidir.
+
+# Lipitler
+
+Suda çözünmeyen hidrokarbonlardır ancak alkol, eter, kloroform, aseton gibi organik çözücülerde çözünür. Bileşiminde karbon (C), hidrojen (H) ve oksijen (O) elementleri bulunur, bazı çeşitlerinin yapısına fosfor (P) ve azot (N) elementleri de katılabilir. Ayrıca canlıların yapısındaki en önemli lipitler; nötral yağlar (trigliseritler), fosfolipitler ve steroitlerdir.
+
+Nötral yağlar (trigliseritler) bitki ve hayvan hücrelerinde lipitlerin depo şeklidir. Üç molekül yağ asidi ile bir molekül gliserol esterleşme tepkimesi ile birleşir. Bu bir dehidrasyon olayıdır. Tepkime sırasında gliserol ile yağ asitleri arasında üç adet ester bağı kurulur ve üç molekül su açığa çıkar.
+
+Doymuş yağ asitlerinde karbon atomları arasındaki tüm bağlar tektir; oda sıcaklığında katı hâlde bulunur ve genellikle hayvansal kaynaklıdır. Doymuş yağ asidi içeren yağlara doymuş yağlar denir. Örneğin; tereyağı, kuyruk yağı, iç yağı.
+
+Doymamış yağ asitlerinde karbon atomları arasında çift bağlar bulunur; bu durum yağ asidine esneklik kazandırır. Oda sıcaklığında sıvı hâlde olup genellikle bitkisel kaynaklıdır. Doymamış yağ asidi içeren yağlara doymamış yağlar denir. Örneğin; ayçiçek yağı, mısır yağı, zeytinyağı.
+
+Doymamış yağ asitleri hidrojen atomları ile doyurularak trans yağlar elde edilir. Margarinler, trans yağa örnektir. Trans yağların kalp-damar sağlığı üzerine olumsuz etkileri vardır.
+
+Fosfolipitler hücre zarının yapısına katılır. Gliserole bağlı iki yağ asidi ve bir fosfat grubundan oluşan bu lipit çeşidinde moleküllerin dış ortama ve hücrenin içine bakan baş kısımları hidrofilik (suyu seven), zarın iç kısmındaki kuyruk bölgeleri ise hidrofobik (suyu sevmeyen) yapıdadır.
+
+Steroitler yapısında dört karbon halkası ve çeşitli işlevsel yan gruplar bulunan lipit çeşididir. Östrojen ve testosteron gibi erkek ve dişi eşey hormonlarının yapısına katıldığından düzenleyici görevleri vardır. Ayrıca safra salgısı ile A ve D vitaminlerinin yapısına da katılır. Ayrıca kolesterol hayvansal kaynaklı bir steroit örneğidir. Hücre zarının bir bileşenidir. Zarın akışkanlığını artırır, esnekliğini ve dayanıklılığını sağlar. Sinir hücrelerinde yalıtım görevi yapar. Kolesterol, omurgalılarda karaciğerde sentezlenir ayrıca besinlerle de alınır. Bitkilerde kauçuk, eterik yağ, reçine ve haşhaş sütü gibi dış salgılar steroitlere örnektir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Tavuk derisi, yumurta sarısı, sakatat, ıstakoz ve karidesi fazla tüketmek, kanda kolesterol düzeyini yükseltebilir. Bunun sonucunda damar sertliği, damar tıkanıklığı görülebilir. Kalbi besleyen damarların tıkanması kalp krizine, beyni besleyen damarların tıkanması bilinç kaybına ve felce neden olabilir.
+
+Yağlar glikolipitler olarak hücre zarının yapısına katılır. Bazı vitaminlerin ve hormonların yapısına katılarak düzenleyici görev üstlenir. Sinir hücrelerinin etrafını sararak elektriksel yalıtımı gerçekleştirir. Ayrıca deri altında depo edildiğinden soğuk iklimde yaşayan hayvanlarda vücut ısısının korunmasını sağlar. Vücudun basınçtan ve darbelerden zarar görmesini engeller. Organların etrafında depo edilir, böbrek gibi bazı iç organlara desteklik sağlar. Yağda eriyen A, D, E ve K vitaminlerinin vücuda alınmasında etkilidir.
+
+Kış uykusuna yatan memeliler uyku sırasında, göçmen kuşlar uzun göç yolculuğunda, develer çöl gibi zorlu şartlarda vücutlarında depoladıkları yağları kullanır. Ayı ve sincap kış uykusu için vücutlarında yağ depolar.
+
+Yağların hidrojenleri fazla olduğundan enerji elde edilmesi için oksijenli solunumla yıkıldığında karbonhidratlara ve proteinlere göre iki kat fazla enerji verir. Sonuçta bol miktarda metabolik su açığa çıkar. Bu nedenle hayvanlar, enerji ve su ihtiyacını karşılamak için vücutlarında yağ depolar. Yağlar hafif olduğu için yüzmede ve uçmada kolaylık sağlar. Bu durum, göçmen kuşlar için avantajdır. Ayrıca aynı miktarları parçalandığında karbonhidratlardan daha fazla enerji vermelerine rağmen parçalanmaları için daha fazla oksijene ihtiyaç olduğundan enerji eldesinde karbonhidratlardan sonra ikinci sırada kullanılır. Üreme hormonlarının yapısına katıldıklarından üreme sisteminin gelişiminde önemlidir.
+
+# Proteinler
+
+Proteinler canlılarda yapısal olarak en fazla bulunan organik moleküllerdir. Karbon (C), hidrojen (H), oksijen (O) ve azot (N) elementlerinden oluşur. Bazıları kükürt (S) ve fosfor (P) da içerebilir.
+
+Proteinlerin monomerleri amino asitlerdir. Proteinler, 20 çeşit amino asidin farklı sayı ve dizilişle bir araya gelmesiyle oluşur. Bitkiler 20 çeşit amino asidin tamamını üretir, insanlar 12 çeşidini karaciğerde üretirken 8 çeşidini üretemez. İnsan vücudunda üretilemeyen dışarıdan besinlerle hazır alınmak zorunda olan bu amino asitlere temel (esansiyel = zorunlu) amino asitler denir. Proteinli besinlerle beslenmek canlılık açısından önemlidir.
+
+Bir amino asidin yapısında merkezdeki karbona bağlı bir hidrojen atomu, bir amino grubu, karboksil grubu ile "R" ile gösterilen değişken (radikal) grup vardır. Canlılardaki 20 farklı amino asidin değişken grupları birbirinden farklı olduğundan amino asitlerin çeşitliliğini de radikal grup belirler.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Amino asitler amfoter özellik gösterir. Amfoter özellik (hem asit hem baz gibi davranabilme); kuvvetli asitler karşısında baz, kuvvetli bazlar karşısında asit gibi davranmak demektir. Bu özellik, amino asitlerin bulundukları ortamdaki pH değerini belirli sınırlarda tutmalarını sağlar. PH değerinin belli sınırlarda tutulması da canlılar açısından çok önemlidir. Bir amino asidin karboksil grubundaki hidroksit ile diğer amino asidin amino grubundaki hidrojenin etkileşime girmesiyle peptit bağı (iki amino asit arasındaki kovalent bağ) kurulur, bir molekül su açığa çıkar ve dipeptit oluşur. Protein oluşumunu sağlayan bu reaksiyonlara peptitleşme denir. Iki amino asidin birleşmesiyle dipeptit, üç amino asidin birleşmesiyle tripeptit, çok sayıda amino asidin birleşmesiyle polipeptit meydana gelir. Birden fazla polipeptitin bir araya gelmesiyle proteinler oluşur. Protein sentezi, tüm canlılarda DNA şifrelerine göre ribozomlarda gerçekleşir. Ayrıca canlılarda DNA yapısının farklı olması; üretilen proteindeki amino asitlerin sayı, çeşit ve dizilişinin de farklı olmasına dolayısıyla protein çeşitliliğine sebep olur. Yüksek ve düşük sıcaklık, pH, yoğun tuz çözeltisi, yüksek basınç, radyasyon gibi etkenler proteinlerin üç boyutlu yapısını bozabilir. Bu olaya denatürasyon (proteinin üç boyutlu yapısının bozularak işlevini yitirmesi) denir. Denatürasyon, amino asitler arasındaki peptit bağlarının korunurken proteinin üç boyutlu yapısının bozulması ve fonksiyon gerçekleştiremez hâle gelmesidir. Denatüre olan protein genellikle eski hâline dönemez, biyolojik özelliklerini kaybeder ancak besin değerini kaybetmez. Örneğin, yumurta pişirildiğinde besin değerini kaybetmez, ancak içerdiği protein yüksek ısıda denatüre olur ve bu dönüşümün geri dönüşü yoktur. Denatüre olmuş bazı proteinler eski hâline dönebilir. Buna renatürasyon denir.
+
+Proteinler canlılarda yapıcı-onarıcı, düzenleyici ve enerji verici olarak görev alır. Enerji elde etmede karbonhidrat ve yağlardan sonra üçüncü sırada kullanılır. Ayrıca hücre zarının yapısında bulunanlar, maddelerin tanınması ve taşınmasında görevlidir. Insülin, glukagon gibi hormonların yapısında bulunan proteinler düzenleyici görev yapar. Savunma proteinleri olan antikorlar, vücudu yabancı maddelere ve mikroplara karşı korur. Alyuvarların yapısında bulunan hemoglobin, protein yapılıdır ve solunum gazlarını taşır. Kan pıhtılaşmasını sağlar. Kolajen proteinleri; kemik, kıkırdak ve eklemlerin yapısına katılır. Kasların kasılmasını protein yapıdaki iplikler gerçekleştirir. Saç, tırnak, tüy, boynuz gibi yapılar protein yapıdadır. Proteinler enerji verici olarak kullanıldığında boşaltım atığı olarak karbondioksit ve su dışında amonyak da meydana gelir.
+
+Büyüme ve gelişmede proteinler etkilidir. Bazı hormonlar, enzimler ve antikorlar protein yapılı olduğundan vücudun bağışıklık sisteminde kritik rol oynar. Ayrıca kanın osmotik basıncını ayarlayarak kan ve doku hücreleri arasındaki madde alışverişini düzenler.
+
+Proteinler doğrudan depolanamaz, besinlerle alınan fazla protein yağa dönüştürülerek depolanır. Bu nedenle şişmanlığa, böbrekler ve karaciğerde hasara ayrıca idrarla kalsiyum atılmasına ve gut hastalığına neden olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Et, süt, peynir, yumurta, yoğurt, tahıllar ve baklagiller protein açısından zengin besinlerdir. Protein eksikliğinde büyüme yavaşlar; hâlsizlik, vücutta kuruma, saç dökülmesi ve ödem görülür. Ayrıca yıpranan dokuların onarımı zorlaşır, yaralar geç iyileşir. Bağışıklık zayıflar, vücut direnci azalır. Kanın pıhtılaşması gecikir, zihinsel gelişmede gerileme görülebilir.
+
+# Enzimler
+
+Kimyasal tepkimelerin başlayabilmesi için gereken en düşük enerji miktarına aktivasyon enerjisi denir. Bu enerjiyi düşürerek tepkimeleri hızlandıran ve tepkimelerden değişmeden çıkan maddelere katalizör adı verilir. Canlı sistemlerdeki biyolojik katalizörler enzimlerdir. Enzimler aktivasyon enerjisini düşürerek tepkimelerin daha az enerji harcanarak gerçekleşmesini sağlar.
+
+Enzimler basit enzim (pepsin, üreaz, nükleaz gibi) ve bileşik enzim (karbonik anhidraz) olarak ikiye ayrılır. Basit enzimler sadece protein kısmından oluşur. Bileşik enzimler protein kısmından ve yardımcı kısımdan oluşur. Bileşik enzimlerin protein olan kısmına apoenzim, yardımcı kısmına kofaktör adı verilir. Ayrıca yardımcı kısım inorganik ya da organik olabilir. Yardımcı kısım, B grubu vitaminleri gibi organikse koenzim; $K^+$, $Ca^{2+}$, $Mg^{2+}$ metal iyonları gibi inorganikse kofaktör adı verilir. Apoenzim ve yardımcı kısım birlikte holoenzimi (bileşik enzim) oluşturur.
+
+Apoenzim, enzimin hangi maddeye etki edeceğini belirler yani substratı tanır. Ayrıca asıl etkiyi ise yardımcı kısım yapar yani substratı ürüne dönüştürür. Enzimin etki ettiği maddeye substrat, tepkime sonunda ortaya çıkan maddeye ise ürün adı verilir. Enzimler tepkimeden hiçbir değişime uğramadan çıktığından tekrar tekrar kullanılabilir. Zamanla yapısı bozulanlar amino asitlerine kadar yıkılıp yenisi sentezlenir. Koenzim ve kofaktörler de tekrar tekrar kullanılabilir. Ayrıca her enzim, belirli bir genin kontrolünde sentezlenir. Bir apoenzim sadece bir çeşit koenzim veya kofaktörle çalışırken bir koenzim veya kofaktör değişik apoenzimlerle çalışabilir. Enzim ile substratı arasında anahtar-kilit ilişkisi vardır. Her enzim her substrata etki etmez. Enzimler substratlara özgüdür. Enzim substratına bağlanarak enzim-substrat kompleksi oluşur. Enzimin substratına bağlandığı bölgeye aktif bölge denir. Substrata enzim etki ederek ürüne dönüştürür. Enzim, herhangi bir değişikliğe uğramaz. Ayrıca enzimatik tepkimelerin gerçekleşmesi için enzim ile substratın bir araya gelmesi gerekir. Bazı enzimler çift yönlü çalışabilir yani tersinirdir. Alyuvarlarda bulunan karbonik anhidraz enzimi karbondioksitle suyu birleştirip karbonik asit oluştururken, karbonik asidi karbondioksite ve suya da çevirdiğinden çift yönlü çalışan tersinir bir enzimdir. Karbonik anhidraz enzimi karbondioksit taşınırken bu dönüşüm tepkimelerini gerçekleştirir. Ayrıca karaciğerde hidrojen peroksiti ($H_2O_2$) parçalayan katalaz ve sindirim olaylarını gerçekleştiren sindirim enzimleri gibi bazı enzimler bu kurala uymaz yani tersinir olarak çalışmaz. Tepkimeleri tek yönlüdür. $H_2O_2$ + Katalaz → $H_2O$  + $\frac{1}{2}$  $O_2$  + Katalaz. Ayrıca enzimler sadece hücre içinde üretilir ancak hem hücre içinde hem de hücre dışında çalışabilir. Örneğin, sindirim enzimleri hem hücre içinde hem hücre dışında çalışabilir. Ayrıca bazı enzimler substratının sonuna "az" eki getirilerek adlandırılır. Örneğin; lipaz enzimi lipitlere, maltaz enzimi maltoza, sükraz enzimi sükroza etki eden enzimlerdir. Tripsinojen ve pepsinojen gibi bazı enzimler ise inaktif hâllerinin sonuna "jen" eki getirilerek adlandırılır. Bunlar aktifleştiklerinde "jen" eki gider tripsin ve pepsin adını alır. Ayrıca enzimler takım hâlinde çalışır. Bir enzimin ürünü kendinden sonraki enzimin substratıdır. Örneğin; amilaz enziminin son ürünü olan maltoz, maltaz enziminin substratıdır. Maltazın son ürünü ise glikozlardır. Ayrıca amilaz ve maltaz enzimleri takım hâlinde çalışan enzimlere örnektir. Son ürünlerin ortamda birikimi enzimatik tepkimelerin hızını azaltır. Bu nedenle enzimatik reaksiyonlar geri besleme (son ürünün kendi üretim hızını düzenlemesi) ile düzenlenir. Ayrıca solunum enzimleri gibi bazı enzimler vücudun tüm hücrelerinde bulunur. Substratın yüzeyi ne kadar geniş olursa enzim etkinliği de o kadar hızlı olur.
+
+Sıcaklık, protein yapılı olan enzimleri doğrudan etkiler. Enzimlerin en iyi çalıştığı sıcaklık değerine optimum sıcaklık denir; bu değerin altında enzimler yavaşlar, üzerinde ise yapıları bozulur. Enzimler 0 ve eksi sıcaklıklarda çalışmaz yani inaktif durumdadır ve protein yapıları bozulmaz. Ortam ısıtılırsa enzimler aktifleşerek tekrar çalışır. Böylece gıdalar düşük sıcaklıkta bozulmadan uzun süre saklanabilir. Optimum sıcaklık değeri aşıldığında enzimlerin yapıları bozulmaya başlar. Bunun sebebi enzimleri oluşturan proteinlerin yapısının yüksek sıcaklıklarda bozulmasıdır. Yapısı tamamen bozulan bir enzim ortam uygun sıcaklığa getirilse bile çalışamaz.
+
+Her enzimin en iyi çalıştığı optimum pH aralığı ve maksimum hızda çalıştığı bir pH değeri vardır. Enzimler genellikle nötr ortamlarda daha iyi çalışırken bazıları farklılık gösterir. Örneğin; midede çalışan pepsin enzimi, asidik ortamda çalışırken bağırsakta görevli tripsin enzimi ise pH değeri 8 olan bazik ortamda çalışır.
+
+Enzim ve substrat miktarı da tepkime hızını doğrudan etkiler. Ortamda yeterli substrat varsa enzim yoğunluğu arttıkça birim zamanda oluşan ürün miktarı da artar. Enzim miktarı sabit ise substrat miktarı arttıkça birim zamanda oluşan ürün miktarı önce artar, sonra sabit hızla devam eder. Ortamda yeterli miktarda enzim varken substrat miktarı sınırlı ise substrat bitince reaksiyon da biter.
+
+Hücrelerdeki su miktarı %15'in altına düşerse enzimler çalışmaz. Su yoğunluğu belirli bir noktaya ulaşıncaya kadar tepkime hızı artar, belirli bir noktadan sonra sabit kalır. Su yoğunluğu aşırı artarsa tepkime hızı azalır. Düşük su yoğunluğunda besinlerde mikroorganizmalar üreyemeyeceği için kurutulmuş gıdalar, bal, reçel bozulmadan uzun süre saklanabilir. Ayrıca su oranı %15'in üzerine çıkmaya başladığında ise enzimler aktif hâle gelir ve mikroorganizmalar çoğalmaya başlar. Bunun sonucunda besinler bozulur.
+
+Enzimler substratlara dış yüzeylerinden başlayarak etki eder. Substrat yüzey alanı arttıkça enzimin bağlanacağı yüzey de artar ve tepkime hızı ile ürün miktarı da artar. Örneğin, besinlerin iyice çiğnendikten sonra yutulması substrat yüzeyini artırarak sindirim tepkimelerini hızlandırır; kıyılmış etin yüzeyi doğranmış etten fazla olduğundan sindirim enzimleri köfteyi kuşbaşı etten daha hızlı sindirir.
+
+Enzimin çalışma hızını artıran maddelere aktivatör denir. Pepsinojen, mide hücreleri tarafından üretilen inaktif bir enzimdir. Mide öz suyunda bulunan hidroklorik asit (HCI), inaktif olan pepsinojeni aktif pepsin durumuna getiren bir aktivatör maddedir. Su miktarındaki artış belli değerlere kadar aktivatör etki yapar. Bileşik enzimlerin yapısında bulunan kofaktör ya da koenzimler de bir aktivatördür. Enzimlerin etkinliğini yavaşlatan ya da durduran maddelere ise inhibitör denir. İnhibitörlere siyanür, cıva, kurşun, kadmiyum ve arsenik gibi ağır metaller; tarım ilaçları, yılan, akrep ve örümcek zehri örnek olarak verilebilir. Yüksek sıcaklık, pH, ışık değişimleri de inhibitör etkisi gösterir. Örneğin ultraviyole ışınlar amilaz enzimini inhibe eder.
+
+Enzimler reaksiyonun gerçekleşmesi için gerekli enerjiyi sağlamaz ancak tepkimenin aktivasyon enerjisini düşürerek reaksiyonların daha düşük enerjiyle daha hızlı gerçekleşmesini sağlar. Enzimler olmasaydı vücudumuzdaki üre yaklaşık üç yüz yılda parçalanırdı. Aktivasyon enerjisi enzimlerle düşürülmeseydi vücutta biyokimyasal reaksiyonlar hücrelere zarar verecek kadar yüksek sıcaklıklarda gerçekleşecekti. Enzimlerle tepkimelerin hücrelere zarar vermeden daha düşük sıcaklıklarda gerçekleşmesi sağlanır. Örneğin, 1 molekül glikozun vücut dışında yakılması için gereken sıcaklık yaklaşık 160 °C iken canlı hücrelerde enzimler sayesinde 36,5-37 °C'de yakılır. Ayrıca kas kasılması, sinirsel iletim, protein sentezi, büyüme, üreme, hücre bölünmesi gibi birçok metabolik reaksiyon enzimler ile gerçekleştirilir.
+
+Enzimler canlılığın devamı için çok önemlidir. Süt kaynatıldığında içindeki mikroorganizmaların enzimleri bozulur ve böylece ekşimeden saklanabilir. Enzimler, protein yapısında olduklarından sıcaklık değişimlerinden etkilenir. 0 °C'nin altında enzimlerin yapıları bozulmaz ama enzimler görevlerini yapamaz. Düşük sıcaklıkta mikroorganizmaların enzimleri çalışmayacağı için besinler dondurucuda bozulmadan uzun süre saklanabilir.
+
+Bu nedenle bal, reçel ve turşu gibi yiyeceklerde su miktarı %15'in altına düşürülerek bozulmadan uzun süre saklanabilir. Sebze ve meyveler kurutularak, reçeller ise su oranı düşürülerek enzimler durdurulur ve bu yiyecekler uzun süre saklanabilir.
+
+Enzimlerin canlının yapısında gerçekleşen reaksiyonları hızlandırmasının dışında başka birçok görevi vardır. Antibiyotiklerin, kimyasal temizlik malzemelerinin, ekmek, peynir, şeker, kahve, sirke, vitamin gibi gıdaların üretiminde enzimler kullanılır. Petrol tankerlerinden sızan petrolün çevreye verdiği zararların yok edilmesinde de enzimler etkilidir.
+
+# Vitaminler ve Hormonlar
+
+Vitaminler suda çözünen ve yağda çözünen olarak ikiye ayrılır. Yağda çözünenler vücutta depolanabilirken suda çözünenler depolanmaz. Bu nedenle yağda çözünenlerin vücutta eksiklikleri geç hissedilirken suda çözünenlerin eksikliği vücutta hemen belirti verir. Suda çözünen vitaminlerin normal miktarları günlük alınmalıdır. Günlük miktardan fazlası ter ve idrarla atılır. Ayrıca yağda çözünen vitaminlerin bağırsaklardan emilebilmesi için yağların sindiriminde ve emiliminde problem olmaması gerekir. Suda çözünen vitaminler (B ve C), yağda çözünenler (A, D, E ve K) vitaminleridir. B vitaminleri enerji verici ve hücrelerde yapı birimi olarak kullanılmaz.
+
+B vitamini bazı bileşik enzimlerin yapısına katılır. Bileşik enzimlerin yardımcı kısmına katılarak koenzim bölümünü oluşturduklarından düzenleyici molekül olarak görev yapar.
+
+C vitamini antioksidan özellik gösterir. Bağışıklık sisteminin güçlenmesinde ve diş sağlığının korunmasında önemlidir. Kan hücrelerinin yapımı için gerekli olan demirin ve folik asidin kana geçmesini kolaylaştırıp kansızlığı önlemede etkilidir. En fazla turunçgillerde bulunur.
+
+A vitamini besinlerle provitamin A şeklinde alınır, daha sonra ince bağırsak ve karaciğerde A vitaminine dönüşür. Görme, büyüme, üreme, kan yapımı, embriyo gelişimi ve bağışıklığın güçlenmesi için gereklidir.
+
+D vitamini besinlerle alınan ya da deride üretilen provitamin D'nin karaciğerde ve böbrekte çeşitli tepkimelerle dönüşümüyle oluşur. Besinlerle alınan kalsiyumun ve fosforun ince bağırsaktan emilmesini, kemik ve dişlerde depolanmasını sağlar; idrarla kalsiyum ve fosfor atılımını azaltır.
+
+E vitamini hücrelerin yenilenmesinde, genel sağlığının korunmasında, hücre zarının korunmasında ve damar tıkanıklığının önlenmesinde etkilidir. Kontrolsüz hücre bölünmesini önlediğinden tümör oluşumunu engeller. Alzheimer hastalığının ilerlemesini yavaşlattığı için de önemlidir.
+
+K vitamini, kanın pıhtılaşmasında görevli proteinlerin karboksilasyonunda koenzim olarak görev yapar ve bu proteinlerin sentezi için gereklidir.
+
+B vitamini eksikliğinde beriberi, pellegra, anemi, yorgunluk, iştahsızlık, kaslarda kramp, deride yağlanma, cilt sorunları, saç dökülmesi, havale, görme bozuklukları, ağızda yaralar, sinirsel bozukluk, zihin bulanıklığı ve bunama gibi sağlık sorunları oluşabileceğinden canlılar açısından önemlidir. Diş etlerinde kanamalar ve çekilmeler, bağışıklık sisteminde zayıflama, yaraların iyileşmesinde gecikme, iştahsızlık, hâlsizlik ve eklemlerde şişme, çocuklarda büyüme geriliği C vitamini eksikliğinden kaynaklanan durumlardır. Ayrıca A vitamini görme, büyüme, üreme, bağışıklık, kan yapımı için önemlidir. Uzun süre eksikliğinde gece körlüğü, deride kuruma ve pullanma, kemik ve diş gelişiminde problemler, vücut direncinde azalma görülebilir. D vitamini yetersizliğinde besinlerle alınan kalsiyum ve fosfor mineralleri ince bağırsaktan yeterince emilemeyeceğinden çocuklarda uzun kemiklerde eğriliklerle ortaya çıkan raşitizm, yetişkinlerde osteoporoz (kemik erimesi), osteomalazi (kemik yumuşaması) hastalıkları meydana gelir. E vitamini kısırlık, kaslarda yorgunluk, karaciğer hastalıkları, kırmızı kan hücrelerinin kolayca parçalanması gibi sağlık sorunlarının çözümü için gereklidir. Ayrıca eksikliği erkeklerde sperm üretiminin azalmasına, kadınlarda rahim fonksiyonlarının bozulmasına, kasların zayıflamasına, alyuvarların parçalanmasına ve hücrelerde zar yapısının bozulmasına neden olur. Kansere ve kalp hastalıklarına yakalanma riskinin de E vitamini eksikliği ile arttığı düşünülmektedir. E vitamini eksikliği cilt yaşlanmasını hızlandırır, kısırlığa yol açabilir.
+
+Hormonlar hayvanlarda kan ve vücut sıvılarıyla hedef organlara taşınarak hücreler üzerinde düzenleyici etki gösterir. Büyümeyi, gelişmeyi, farklılaşmayı, üreme ve homeostaziyi sağlar. Ayrıca bitkilerde kök ve gövdenin büyümesi, yaprak oluşumu, çiçeklenme, meyve oluşumu, olgunlaşması, üreme, tohumun çimlenmesi gibi olayları; hayvanlarda ise büyüme, gelişme ve üreme gibi metabolik olayları düzenler.
+
+Metabolizmayı düzenlediğinden canlılık açısından çok önemlidir. Hormonlar dokularda çok az miktarda bulunmalarına rağmen miktarındaki çok küçük bir değişim metabolizmayı olumsuz etkiler. Örneğin; hipofiz bezinden salgılanan ve kanla vücuda dağılan büyüme hormonu insanda vücut hücrelerini etkileyerek büyümeyi ve hücre bölünmesini uyarır. Büyüme çağındaki bir çocukta az salgılanırsa cücelik, fazla salgılanırsa devlik görülebilir.
+
+# Nükleik Asitler
+
+İlk defa 1869 yılında Friedrich Miescher (Firidrik Mişer) tarafından cerahatli bandajlardan elde edilen lökositlerde ve somon balığı sperm hücrelerinin çekirdeğinde rastlanmıştır. Çekirdekte bulunduğu için çekirdek asidi anlamına gelen nükleik asit ismi verilmiştir. Yönetici moleküller de denmektedir. Protein sentezi, büyüme, gelişme, üreme, enerji üretimi gibi metabolik olayları yönetir. Genetik bilgiyi taşır, kalıtsal özelliklerin nesilden nesile iletilmesini sağlar. Ayrıca C, H, O, N ve P temel elementleridir. Asit özellikte moleküllerdir. - DNA (Deoksiribonükleik Asit) ve RNA (Ribonükleik Asit) olmak üzere iki çeşittir. Yapı birimine nükleotit denir. Nükleik asitler nükleotit polimerleridir. Nükleotitler azotlu organik baz, 5 karbonlu şeker (pentoz) ve fosfat grubu ($PO_4$) olarak 3 alt birimden oluşur.
+
+Bir nükleotit sentezi sırasında azotlu organik baz ile 5 karbonlu şeker, glikozit bağı ile bağlanarak nükleozit oluşturulur. Şekere inorganik fosfat grubunun ester bağı ile bağlanmasıyla da nükleotit meydana getirilir. Glikozit ve ester bağlarının kurulumu sırasında su açığa çıkar (dehidrasyon).
+
+Azotlu organik bazlardan adenin, guanin, sitozin hem DNA'nın hem de RNA'nın yapısına, timin sadece DNA'nın yapısına, urasil ise sadece RNA'nın yapısına katılır. Pentoz şekerler, tüm nükleotit çeşitlerinde bulunur ancak riboz şekeri RNA'nın yapısına, deoksiriboz şekeri ise DNA'nın yapısına katılır. Bu nedenle DNA'ya ve RNA'ya ait nükleotitler pentozlarına bakılarak ayırt edilir. Ayrıca nükleotitlerin yapısına katılan üçüncü molekül inorganik fosfat grubudur ($HPO_4^{2-}$). İki komşu nükleotit birbirlerine fosfodiester bağı ile bağlanır. Bu bağ, iki nükleotidin şekerini fosfat grubu ile birbirine bağlayarak nükleotit zincirlerini (polinükleotit) oluşturur ve nükleik asitleri meydana getirir.
+
+Bir hücrede azotlu organik baz 5, nükleotit ise 8 çeşit bulunur. DNA tüm canlılarda bulunur. Prokaryot hücrelerin sitoplazmasında, ökaryot hücrelerin çekirdeğindedir. Mitokondri ve plastitlerin de kendine özgü DNA'ları vardır. Prokaryot hücre DNA'sı halkasal, ökaryot hücre DNA'sı doğrusaldır. Birbiri üzerine sarmal yapmış iki nükleotit zincirinden oluşur. Bu iki nükleotit zincirinden birincisi, diğerinin tamamlayıcısı durumundadır. Birinci nükleotidin baz dizilişi biliniyorsa ikincisi yazılabilir. Ayrıca DNA şekeri deoksiribozdur. Adenin (A), guanin (G), timin (T) ve sitozin (C) olmak üzere dört çeşit nükleotitten oluşur. Bir iplikte pürin bazının karşısına karşı iplikte daima bir pirimidin bazı gelir. Adenin karşısında timin; guanin karşısında sitozin olacak şekilde düzenlenir. Karşılıklı gelen bazlardan adenin ile timin arasında ikili, guanin ile sitozin arasında üçlü hidrojen bağı kurulur ve DNA'daki adenin sayısı timin sayısına, guanin sayısı da sitozin sayısına eşit olur. Hidrojen bağları, zayıf fiziksel bağlar olduğu için oluşumları sırasında su açığa çıkmaz.
+
+DNA'nın fiziksel dayanıklılığı büyük ölçüde bazlar arasındaki yığınlanma (stacking) etkileşimleri ve çift sarmal yapısı ile sağlanır; hidrojen bağları ise karşılıklı bazların eşleşmesini sağlar. G+C sayısı A+T sayısından fazla olan DNA'nın iki ipliğini birbirinden ayırmak için gerekli olan ısı miktarı daha fazladır.
+
+DNA'da nükleotit sayıları ve nükleotitlerin diziliş sıraları farklıdır. Bu durum çeşitliliğe sebep olduğundan canlıların DNA'ları belli oranda birbirinden farklılık gösterir.
+
+Hücre bölüneceği zaman DNA kendini eşler. Buna replikasyon (DNA'nın kendini birebir kopyalaması) denir. Replikasyon sonucunda DNA'da nükleotit sayıları birbirinin aynısı olan iki DNA molekülü oluşur. Replikasyon sayesinde yeni oluşacak hücrelere kalıtım bilgisinin eşit miktarda aktarılması sağlanır. $\text{Toplam hidrojen bağı sayısı} = (A \times 2) + (G \times 3)$. Bu bağlamda şu oranlar her zaman geçerlidir: $A/T = 1$, $G/C = 1$, $Pürin/Pirimidin = 1$ ve $Fosfat/Şeker = 1$; ayrıca toplam nükleotit sayısı, toplam şeker sayısına ve toplam fosfat sayısına eşittir. Ayrıca hangi canlıya ait olursa olsun tüm DNA moleküllerinde $A/T$, $G/C$, $Pürin/Pirimidin$ oranları 1'e eşittir. Bir tür için $\frac{A+T}{G+C}$ oranı hemen hemen sabittir.
+
+RNA; prokaryot hücrelerin sitoplazmasında ve ribozomun yapısında, ökaryot hücrelerin çekirdeğinde, çekirdekçiğinde, sitoplazmasında, ribozomun yapısında, mitokondri ve plastitlerin içinde bulunur. RNA tek zincirlidir, kendini kopyalayamaz ve onaramaz. Ayrıca timin organik bazı içermez. Timin yerine urasil bazı bulunur. Tüm RNA çeşitleri DNA üzerinden üretilir. Mesajcı RNA (mRNA), taşıyıcı RNA (tRNA) ve ribozomal RNA (rRNA) olmak üzere üç çeşit RNA vardır.
+
+Ökaryot hücrelerde DNA çekirdektedir ve bölünme haricinde çekirdek dışına çıkamaz. Protein sentezi sitoplazmadaki ribozomlarda gerçekleştiğinden DNA'daki bilginin ribozomlara taşınması gerekir. MRNA, protein sentezi için DNA'dan aldığı şifreyi ya da mesajı ribozoma taşır. Bu şifre; sentezlenecek proteindeki amino asitlerin çeşitlerini, dizilişlerini ve sayılarını belirler. MRNA sentezlenirken DNA'nın iki zincirinden sadece biri kalıp olarak kullanılır ve mRNA bu zincirin karşıtı olarak sentezlenir. Sentez sırasında DNA'daki adenin karşısına mRNA'daki urasil gelir.
+
+tRNA; protein sentezi sırasında sitoplazmadaki kendine özgü serbest amino asitlere bağlanıp bu amino asitleri ribozoma taşır. Diğer RNA'lar gibi tek zincirlidir; bir nükleotit zincirinin kıvrımlar yapmasıyla oluşur ve bu kıvrımlar hidrojen bağlarıyla bir arada tutulur.
+
+Her tRNA molekülü kendine özgü bir amino asidi bağlayıp protein sentezine katılması için ribozoma taşıdığından hücrelerde en az 20 çeşit tRNA bulunmalıdır. tRNA diğer RNA çeşitlerinden farklı olarak hidrojen bağı içerir.
+
+RRNA, proteinle birlikte ribozomun yapısını oluşturur. Çekirdekçikte sentezlenir. Ribozomun yapısına katılırken zayıf hidrojen bağları ile kendi üzerinde katlanıp üç boyutlu yapı kazanır. Ayrıca RRNA, enzim gibi davranarak amino asitler arasında peptit bağı kurulmasında görev alır ve polipeptit sentezinin gerçekleşmesini sağlar.
+
+DNA ile RNA arasında yapısal ve işlevsel bakımdan önemli farklar bulunmaktadır. DNA'nın karakteristik organik bazı timin iken RNA'nınki urasildir. DNA'nın şekeri deoksiriboz, RNA'nınki ise ribozdur. DNA çift iplikli sarmal bir yapıya sahipken RNA tek ipliklidir. DNA kendini eşleyebilir ve onarabilir; RNA ise bu yeteneklerden yoksundur. Yıkılıp yeniden üretilemeyen DNA'nın aksine RNA gerektiğinde yeniden sentezlenebilir. Son olarak DNA'da A/T, G/C ve Pürin/Pirimidin oranları her zaman 1'e eşitken RNA'da böyle sabit bir oran söz konusu değildir. DNA hücrenin tüm yaşamsal olaylarını ve protein sentezini yöneten moleküldür. RNA ise DNA'dan aldığı genetik bilgi ile protein sentezinde görev alır.
+
+Nükleik asitler, organizmaların hücrelerinde bulunan kalıtsal bilgiyi depolayarak nesilden nesile aktarılmasını sağlayan büyük organik moleküllerdir. Kalıtsal bilgiler DNA'da genler hâlinde bulunur. Genler; göz rengi, kan grubu, saç rengi ve parmak izi gibi genetik özellikleri belirler. Ayrıca DNA hücredeki metabolik olayları yönetir, RNA protein sentezinden sorumludur.
+
+# ATP (Adenozin trifosfat)
+
+Güneş enerjisi, fotosentez yapan canlılar tarafından organik besinlerin yapısında kimyasal bağ enerjisine dönüştürülür. Besinlerde depolanan kimyasal enerji hücrelerde solunumla açığa çıkarılır ve açığa çıkan serbest enerjiyi depolayan ATP (Adenozin trifosfat) molekülüdür. ATP hücrelerde elektrik, hareket gibi farklı enerjilere dönüştürülür.
+
+ATP (adenozin trifosfat) nükleotit yapılı bir moleküldür. Azotlu organik baz (adenin), beş karbonlu şeker (riboz) ve üç fosfat grubundan oluşur. Adenin organik bazı ile riboz arasında glikozit bağı, riboz şeker ile fosfat grubu arasında ester bağı, fosfat molekülleri arasında fosfat bağları vardır.
+
+Adenin azotlu organik bazına riboz şekerin bağlanmasıyla adenozin oluşur. Adenozin molekülüne bir fosfatın bağlanmasıyla adenozin monofosfat (AMP), AMP'ye bir fosfatın bağlanmasıyla adenozin difosfat (ADP), ADP'ye bir fosfatın bağlanmasıyla da adenozin trifosfat (ATP) oluşur.
+
+ATP büyük organik molekül olduğundan hücre dışına çıkamaz, dolayısıyla bir hücreden diğerine aktarılamaz. Bu nedenle her hücre ihtiyaç duyduğu ATP'yi kendisi üretir. ATP enerjisi gerektiren reaksiyonlar da hücre içinde gerçekleşir. ATP molekülünün hücrede solunum olayı ile yapımına ve metabolik faaliyetlerde kullanılmak için yıkımına ATP döngüsü  denir. ADP'ye bir fosfat bağlanması ile ATP molekülünün sentezine fosforilasyon denir. Ayrıca ATP'nin yapımı enerji gerektiren (endergonik) bir reaksiyondur. ADP ve ATP birbirine dönüşerek enerji döngüsünü oluşturur. ATP'nin yapısından bir fosfat molekülünün ayrılmasına yani ATP tüketilmesine defosforilasyon denir. Bir molekül ATP'nin hidrolizi sonucu adenozin difosfat (ADP) ve inorganik fosfat ($P_i$) ile serbest enerji açığa çıkar. Açığa çıkan bu enerji canlılık faaliyetleri için kullanılır. ATP'nin yıkımı enerji açığa çıkaran (ekzergonik) tepkimelerdir.
+
+ATP depolanamaz, sürekli kullanılan ve yenilenebilen bir moleküldür. Hücre içinde üretilir ve tüketilir. Üretimi ve tüketimi birbirini takip eden döngü şeklinde süreklilik gösterir.
+
+Canlılar hücre zarından madde taşıma, hücre bölünmesi, organik madde sentezi, hareket, sinirsel iletim ve üreme gibi yaşamsal faaliyetler için enerjiye ihtiyaç duyar. ATP bu enerjiyi karşılayan temel moleküldür.
+
+Yaşamın devamı, enerjinin varlığı ve dönüşümü ile mümkündür. ATP canlıların pek çok reaksiyonu gerçekleştirmek için ihtiyaç duyduğu enerji molekülüdür. Tüm hücrelerde ATP molekülü bulunur. ATP sentezlenmeyen hücrelerde canlılık son bulur. Ayrıca hücrelerde büyüme, üreme, hareket, biyosentez, aktif taşıma gibi birçok metabolik faaliyet ATP molekülü sayesinde geçekleşir ve ATP tüm metabolik olayların ayrılmaz parçasıdır. ATP sitoplazma, mitokondri ve kloroplast gibi yapılarda sentezlenir. Oluşumu dehidrasyon, parçalanması hidroliz tepkimesiyle gerçekleşir.
+
+# Sağlıklı Beslenme
+
+Lipit, Karbonhidrat, Protein, Vitamin, Su ve Minerallerin Sağlıklı Beslenme İle İlişkisi: Beslenme, sağlıklı olmak ve yaşam kalitesini yükseltmek için vücudun gereksinimi olan besinleri yeterli miktarda ve uygun zamanlarda almaktır. Sağlıklı beslenme yeterli, düzenli ve dengeli beslenmedir. Sağlıklı kalabilmek için bazı temel besinlere ihtiyaç vardır. Bunlardan herhangi biri ihtiyaçtan az ya da çok alındığında çeşitli sağlık problemleri ortaya çıkar. Ayrıca yeterli ve dengeli beslenme için su ve minerallerle birlikte aşağıdaki 4 temel besin grubu yaşa, kiloya, sağlık durumuna ve uzmanların önerdiği ölçüye göre günlük olarak tüketilmelidir. Özellikle yetersiz ve dengesiz beslenen çocukların bedensel ve zihinsel gelişimleri geri kalır. Sağlıklı beslenme için günlük uygun menüler hazırlanmalıdır.
+
+Süt, yoğurt, peynir ve kefir gibi besinlerdir. Tüm bireylerin protein, kalsiyum, fosfor ve B vitamini gibi birçok besin ögesinin önemli kaynağı olan süt ve süt grubu besinleri her gün tüketmesi gerekir. Ayrıca kemiklerin ve dişlerin sağlıklı gelişmesinde ve hücresel faaliyetlerde önemli rol oynar.
+
+Fındık, fıstık, ceviz, et, tavuk, balık, yumurta, nohut, kuru fasulye ve mercimek gibi besinler bu gruptadır. Proteinin yanı sıra çinko, fosfor, demir, magnezyum gibi mineralleri, A ve B vitamini içerir. Ayrıca vücudun hastalıklara karşı direnç kazanmasında en önemli besin grubudur. Kan yapımı, hücre yenilenmesi, doku onarımı, sinir sistemi, sindirim sistemi ve cilt sağlığında görev alan besinlerdir.
+
+Tüm sebze ve meyvelerden oluşan bu grup besinler; A vitamininin öncü maddesi olan beta-karoten, folik asit ($B_9$ vitamini), B, C, E vitamini, kalsiyum, potasyum, magnezyum ve demir bakımından zengindir. Büyüme ve gelişme, hücre yenilenmesi, doku onarımı, cilt, göz, diş ve diş eti sağlığı, kan yapımı için temel ögeleri içerir. Ayrıca doygunluk hissinde, hastalıklara karşı direncin oluşumunda, dengesiz beslenmeye bağlı şişmanlık, kalp-damar hastalıkları ve hipertansiyon gibi kronik hastalıkların oluşma riskini azaltır. Bağırsakların düzenli çalışmasında etkili olur.
+
+Mısır, buğday, çavdar, pirinç, yulaf gibi tahıllar ile bunlardan yapılan un, bulgur, yarma ve benzeri ürünler bu grupta yer alır. Tahıl ve tahıldan yapılan ürünler; karbonhidratlar (nişasta, lif), vitaminler, mineraller gibi birçok besin ögesini içerdiği için sağlık açısından önemli besinlerdir. Ayrıca dünya nüfusunun önemli bir bölümü, yetersiz ve dengesiz beslenme sonucu oluşan hastalıklarla mücadele etmektedir. Özellikle çocukluk döneminde hatalı beslenme alışkanlıkları yüksek tansiyon, kalp-damar hastalıkları ve obezite için risk oluşturur. Yetersiz ve dengesiz beslenme sonucu oluşan obezite birçok insan için önemli bir sağlık sorunudur. Tip 2 diyabet, kalp-damar hastalıkları, hipertansiyon, felç, karaciğer yağlanması, kas ve iskelet rahatsızlıkları, ruhsal bozukluklar gibi bazı sağlık sorunlarına neden olmaktadır. Tahıllar protein de içerir. Bu proteinin kalitesi düşük olmakla birlikte kuru baklagiller ya da et, süt ve yumurta gibi besinlerle bir arada tüketilerek protein kalitesi artırılabilir.
+
+Diyabet durumunda kan şekeri ölçümü yapılır; insülin direnci, insülin hormonuna karşı vücutta duyarsızlık gelişmesidir ve tip 2 diyabetin gelişmesine zemin hazırlar. İnsülin direncinin gelişmesinde obezite en önemli etkenlerden biridir. İnsülin, pankreastan salgılanan ve kandaki fazla şekerin hücrelere girmesini sağlayarak yükselen kan şekerini düşüren bir hormondur. İnsülin, bu düzenlemeyi yaparken insülin reseptörü denilen bir yapıya bağlanarak aktive olur. Bu reseptörlere çeşitli nedenlerle insülin bağlanamaz ise kanda yeterli miktarda olduğu hâlde görev yapamaz. İnsülin eksik veya etkisiz olduğu için şeker hücre içine alınamadığından kanda yükselerek diyabet denilen şeker hastalığı ortaya çıkar. Kan şekerinin yükselmesi; böbrek sorunları, kalp-damar hastalıkları, görme sorunları, körlük, felç, duyu kayıpları, ayak yaraları, yara iyileşmesinde gecikme gibi sağlık sorunlarına neden olur. Ayrıca sağlıklı beslenme için hazır gıdalardan uzak durulmalıdır. Televizyon ve bilgisayar karşısında fazla zaman geçirme, geç saatlerde beslenme, geç saatlerde uyuma kilo kontrolünü zorlaştıran davranışlardır. Tüm besin gruplarından düzenli ve ihtiyacımız kadar almalı, su içmeyi ihmal etmemeliyiz. Sağlıklı beslenme için hareketli yaşam tarzı önemlidir. Şeker, tuz, yağ içeriği yüksek yiyecek ve içeceklerin aşırı tüketiminin, birçok hastalığa sebep olduğu unutulmamalıdır.
+
+# Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı
+
+Hücre, görev ve yapı bakımından canlıların bütün özelliklerini gösteren en küçük birimdir. Tüm canlılar hücre ya da hücrelerden oluşur. Hücre ve organellerin yapısının keşfedilmesi, merceklerin özellikle de mikroskobun gelişmesi sayesinde mümkün olmuştur. Zacharias Janssen, hücreyi 9 kat büyüten ilk mikroskobu icat etti. Ayrıca Marcello Malpighi, kılcal damarlardaki kan akışını inceledi. İngiliz doğa bilimcisi Robert Hooke (Rabırt Huk) (1637-1703) hücre terimini ilk olarak kullanan bilim insanıdır. İncelediği meşe ağacının mantar dokusunda gördüğü küçük odacıklara hücre anlamına gelen "cellula" adını verdi. Biyolojinin en önemli gözlem ve ölçme aracı mikroskoplardır.
+
+Antonie van Leeuwenhoek sperm hücrelerini, bakterileri incelemiş; mikroskopla bakterilerin varlığını keşfeden ilk kişi ve mikrobiyoloji biliminin de kurucusu ünvanını almıştır. Matthias Schleiden, bitki hücrelerini incelemiş; çekirdeğin hücre bölünmesindeki rolünü belirtmiştir. Theodor Schwann, hayvan hücrelerini ve hayvan hücrelerinin bölünmesini inceleyerek hücrelerin canlıların yapı birimi olduğunu belirtmiştir. Rudolf Virchow, var olan hücrelerin öncekilerden meydana geldiğini belirtmiştir. Mikroskobun icadı ve gösterdiği gelişim, devrim niteliğinde buluşlara yol açmış; birçok yeni bilim dalının ortaya çıkmasını sağlamıştır. Bütün bu çalışmalar hücre teorisinin ortaya çıkmasını sağlamıştır.
+
+Hücre, canlının temel yapı ve görev birimidir. Canlılar, bir ya da birden çok hücreden meydana gelir. Ayrıca yeni hücreler, öncekilerin bölünmesi ile oluşur. Hücreler, içerdiği kalıtım maddesini bölünerek yavru hücrelere aktarır. Tüm metabolik olaylar hücre içinde gerçekleşir. Hücreler yapılarına göre prokaryot ve ökaryot hücre olmak üzere iki çeşittir. Prokaryot hücrelerde DNA halkasal yapıda olup sitoplazmada dağınık hâlde bulunur.
+
+Prokaryot hücrelerde zarlı organel bulunmaz; yalnızca protein sentezinden sorumlu ribozomlar vardır. Zarla çevrili belirgin çekirdekleri yoktur. Bakteriler ve arkeler prokaryot hücre yapısına sahip canlılardır. Prokaryot canlılar tek hücrelidir, ökaryot canlılar ise tek hücreli olabildiği gibi çok hücreli de olabilir.
+
+Ökaryot hücrelerde DNA doğrusal şekilli ve proteinle kaplı kromatin hâlindedir. Zarlı ve zarsız tüm organellere sahip olan bu hücreler çift katlı zarla çevrili bir çekirdeğe sahipken DNA çekirdek içerisinde bulunur. Protista, mantar, bitki ve hayvanların tamamı ökaryot hücre yapısına sahip canlılardır.
+
+Prokaryot hücreler, tüm yaşamsal faaliyetlerini sitoplazmada veya hücre zarındaki yapılarda gerçekleştirirken ökaryot hücrelerde yaşamsal faaliyetler hücre zarı, sitoplazma ve organellerde gerçekleşir.
+
+# Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek
+
+Günümüzde hücre zarının yapısı akıcı-mozaik zar modeli ile açıklanır. 1972 yılında Seymour Jonathan Singer (Seymur Canıtın Singır) ve Garth L. Nicolson (Gart Nikılsın) tarafından önerilen akıcı-mozaik zar modeline göre hücre zarı protein, lipit ve karbonhidrat moleküllerinden oluşmaktadır.
+
+Hücre zarı seçici-geçirgen özelliği ile hücreye madde giriş-çıkışını kontrol eder. Bazı maddeler hücre zarından geçerken bazıları geçemez. Sürekli hareket hâlindedir ve bu durum zarın akıcı olmasını sağlar. Ayrıca esnektir. Esnek olması sayesinde şekil ve yüzey değişikliği gösterebilir. Ince ve yarı saydam özelliği sayesinde hücre içindeki yapılar mikroskop yardımıyla görülebilir. Dinamiktir, enerji gerektiren faaliyetleri gerçekleştirebilir.
+
+Hücre zarı hücreyi diğer hücrelerden ve dış çevreden ayırır. Hücreye şekil verir ve bütünlüğünü sağlar, dağılmasını önleyerek dış etkilerden korur. Ayrıca kontrollü madde alışverişini, uyarıların iletimini gerçekleştirir. Yapısında bulunan glikolipit ve glikoproteinler sayesinde hücreye özgünlük yani kimlik kazandırır. Yüzeyinde taşıdığı reseptörler sayesinde hücreleri ve mikroorganizmaları tanımasını, besinlere, hormonlara, ilaçlara cevap vermesini sağlar. Hücrelerin birbiriyle iletişimini ve diğer hücrelerin tanınmasını sağlar.
+
+Hücre zarının üç temel yapı bileşeni vardır: çift katlı fosfolipit tabakası, fosfolipit tabakası arasına gömülü proteinler ve fosfolipit ya da proteinlere bağlı karbonhidratlar.
+
+Fosfolipit tabakası: Hücre zarındaki lipitler çoğunlukla fosfolipit yapıdadır. Fosfolipitler zarın yapısında iki sıra hâlinde dizilir ve akıcılığı sağlar. Su geçirmez özelliktedir. Ayrıca suda çözünmez, organik çözücülerde çözünür.
+
+Bir fosfolipit molekülü baş ve kuyruk olmak üzere iki kısımdan oluşmaktadır. Baş kısmı suyu sever (hidrofilik kısım). Hücre içi ve dışındaki sıvı çözeltilere dönük olacak şekilde zara yerleştiğinden çözeltilerle temas hâlindedir. Ayrıca baş kısımları suda çözünür. Kuyruk kısmı suyu sevmez (hidrofobik kısım). Sudan uzak olacak şekilde zarın iç kısmında bulunur. Kuyruk kısımları suda çözünmez. Hücre zarını oluşturan iki sıralı fosfolipit tabaka, Golgi, lizozom, mitokondri ve kloroplast gibi organellerin zar yapısını da oluşturur. Kolesterol; zarın dayanıklılığını akışkanlığını geçirgenliğini esnekliğini sağlar. Kolesterol, hayvan hücrelerinin zarlarında fosfolipitler arasına gömülmüş bir steroit çeşididir.
+
+Hücre zarındaki fosfolipit molekülleri arasında gömülü proteinler ise mozaik görünümü oluşturur. Proteinler zarı boydan boya katederek kanal proteinlerini meydana getirir. Kanal proteinlerinin oluşturduğu açıklıklara por adı verilir. Porlar, hücrenin dış ortamla madde alışverişini sağlayarak bazı moleküllerin zardan geçişini sağlar ayrıca sitoplazmanın homeostazisini düzenler. Karbonhidratlar, zarda protein ve lipitlere bağlı olarak bulunur. Hücre zarının dışa bakan yüzeyinde proteinlere bağlanarak glikoproteinleri, lipitlere bağlanarak ise glikolipitleri oluşturur.
+
+Glikoproteinler ve glikolipitler uyarıları algılayan reseptör olarak görev yapar. Hücrelerin birbirini tanımasını sağlar. Hücre zarının seçici geçirgenliğini denetler. Bu moleküller her hücrede farklı miktar ve dağılımda bulunarak hücrenin özgüllüğünü sağlar ayrıca kimliğini belirler ve hücreye antijenik özellik kazandırır. Hücre duvarı; bitki, alg ve mantar hücreleri ile prokaryot canlıların hücre zarının dış kısmında bulunan bir yapıdır. Bakterilerde peptidoglikan, arkelerde pseudopeptidoglikan; bitkilerde ağırlıklı olarak selüloz; alg ve mantarlarda ise kitinden yapılmıştır.
+
+Bitki hücreleri yaşlandıkça hücre duvarları kalınlaşır. Hücre zarına göre daha kalın ve dayanıklı olduğundan hücreyi iç ve dış etkilere karşı korur. Cansızdır. Ayrıca üzerindeki geçitler sayesinde tam geçirgendir.
+
+Ökaryot hücrelerde hücre zarı ile çekirdek zarı arasını doldurur. Prokaryot hücrelerin zarla çevrili çekirdeği olmadığından hücre zarı içerisindeki tüm kısım sitoplazmayı oluşturur. Yarı akışkan, sıvısal ortamdır. Ayrıca %70-%90'ı sudur. Suyun yanı sıra proteinler, yağlar, karbonhidratlar, enzimler, hormonlar, vitaminler, mineraller, tuzlar, gazlar, boşaltım atıkları, ATP, nükleotitler ve RNA'lar bulunur. Organeller ve hücre iskeletini içerir. Sürekli hareket hâlindedir. Sitoplazmanın hareketli olması hücre içinin homojen olmasını sağlar.
+
+Prokaryot hücrelerde metabolik olaylar, genellikle sitoplazmada bulunan serbest enzimlerle, ökaryot hücrelerde ise bir kısmı sitoplazmada bulunan serbest enzimlerle, bir kısmı da organellerle gerçekleştirilir.
+
+Hücrenin yönetim ve kalıtım merkezidir. Çekirdeğin olup olmaması, çekirdek sayısı ve büyüklüğü hücrelerde farklılıklar gösterir. Örneğin, birçok hücrede çekirdek bir taneyken olgun alyuvar hücrelerinde çekirdek yoktur. Paramesyum, bazı mantar hücreleri, insanların karaciğer ve çizgili kas hücreleri gibi hücrelerde ise birden fazla olabilir. Ayrıca çekirdeğin büyüklüğü ile sitoplazma hacmi arasında da bir oran vardır. Genel olarak hayatsal faaliyetler hızlı ise çekirdek oransal olarak daha büyüktür.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Her zaman çekirdek bölünmesini sitoplazma bölünmesi takip eder mi? Hücre bölünürken çekirdek bölünüp sitoplazma bölünmezse ne olur? Hücre bölünmesi sırasında çekirdek bölünür ancak sitoplazma bölünmez ise hücre çok çekirdekli olur. Çekirdek dört kısımdan oluşur: Çekirdek zarı. Çekirdek sıvısı. Ayrıca çekirdekçik. Kalıtım materyali (kromatin).
+
+Endoplazmik retikulum tarafından oluşturulur. Çekirdek sıvısı ile sitoplazmayı birbirinden ayırır. Ayrıca hücre zarı yapısında ve çift katlıdır. Dış zarı üzerinde ribozomlar vardır. Hücre bölünürken kaybolur, sonra yeniden oluşur.
+
+Çekirdek zarı üzerindeki porlar, hücre zarındaki porlardan daha büyüktür ve bu porlar mRNA, protein, DNA üzerinden üretilen RNA'lar ve ATP gibi büyük moleküllerin sitoplazmaya geçmesini sağlar.
+
+Çekirdek zarı üzerinde sitoplazma ile madde alışverişini sağlayan, çekirdekçikte üretilen ribozomların büyük ve küçük alt birimlerinin de geçebileceği büyüklükte açılıp kapanabilen porları vardır.
+
+Büyüklüğü ve sayısı hücrenin bulunduğu dokuya ve işlevine göre değişir. Zarsızdır. Çekirdek zarı gibi hücre bölünürken kaybolur, sonra yeniden oluşur. Ayrıca DNA'dan gelen talimatlar doğrultusunda rRNA sentezlenir. Ribozomun ve rRNA'nın üretim yeridir. RRNA'lar sitoplazmadan gelen proteinler ile birleşerek ribozomların büyük ve küçük alt birimleri oluşturulur. Bu alt birimler sitoplazmaya geçerek protein sentezleneceği zaman birleşerek ribozomları oluşturur.
+
+Çekirdeğin içini dolduran, sitoplazmadan daha yoğun sıvıdır. Içeriğinde su, mineraller, ATP, protein, nükleotitler, DNA, RNA'lar ve diğer maddeler bulunur. Ökaryot hücrelerde çekirdekte DNA'nın özel proteinlere sarılı hâline kromatin adı verilir. Sitoplazmadan daha yoğun olması çözünmüş maddeler ve nükleik asitler bakımından daha zengin olmasındandır. Kalıtsal bilginin depolanıp, aktarılması, büyüme, onarım, hücre bölünmesinin kontrolüdür.
+
+Çekirdeği olmayan hücreler bölünemeyeceğinden uzun süre yaşayamaz ve ölür. Örneğin, insanın alyuvarları çekirdeğini kaybettikten sonra 120 gün kadar yaşarken çekirdeğe sahip sinir hücreleri yıllarca yaşayabilir.
+
+# Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful
+
+Ribozom, tüm prokaryot ve ökaryot hücrelerde bulunan, protein sentezinden sorumlu olan organeldir. Çekirdekçikte sentezlenen rRNA'lar proteinle birleşerek küçük ve büyük alt birimleri meydana getirir. Küçük ve büyük alt birimler büyük çekirdek zarı porlarından sitoplazmaya çıkarken hücre zarından dışarı çıkamazlar. Ayrıca protein sentezi gerçekleşeceği zaman ribozomun büyük ve küçük alt birimleri bir araya gelerek ribozomu oluşturur.
+
+Bir hücre aynı proteinden aynı anda ve kısa sürede çok sayıda üretmek isterse birden fazla ribozom yan yana gelerek poliribozom (polizom) denilen yapıları oluşturur.
+
+Protein sentezidir. Sitoplazmadaki ribozomlar hücrenin kullanacağı proteinleri, çekirdek zarlarındaki ribozomlar çekirdekte kullanılacak olan proteinleri, kloroplast ve mitokondridekiler bu organellerde kullanılacak proteinleri, endoplazmik retikulum zarlarındaki ribozomlar ise hücre dışına salgılanacak olan salgılara dönüşecek proteinleri üretirler. Ayrıca ribozom aynı canlının farklı hücrelerinde farklı sayılarda olabilir.
+
+Sabit bir büyüklüğü ve şekli olmayan, dolayısıyla hücre içindeki miktarı sayı ile belirtilemeyen bir organeldir. Olgun alyuvar hücreleri dışında genellikle bütün ökaryot yapılı hücrelerde bulunur. Hücre bölünmesi sırasında eriyerek kaybolur. Bölünme tamamlandığında yeniden yapılır.
+
+Çekirdek zarından başlayıp hücre zarına kadar uzanan hücre içi kanallar sistemidir. Zar yapısı üzerinde ribozom bulunduran endoplazmik retikuluma granüllü endoplazmik retikulum, zar yapısı üzerinde ribozom bulunmuyorsa granülsüz endoplazmik retikulum adını alır.
+
+Hücre iskeleti; hücre içi madde iletimini ve hücreye desteklik sağlar, çekirdeğin belirli bir bölgede sabit kalmasını destekler, asidik-bazik tepkimelerin birbirinden ayrılmasına yardımcı olur ve $Ca^{2+}$ ile protein gibi maddeleri depolar.
+
+Protein sentezi yapar. Protein sentezinin hızlı olduğu hücrelerde bol miktarda bulunur. Salgıların çoğunluğunu sentezler. Ayrıca sentezlenen protein ve salgılar küçük keseler içinde paketlenerek Golgi aygıtına gönderilir. Hücre zarının proteinlerine lipit ekleyerek zarı büyütür.
+
+Yağ ve karbonhidrat (glikojen) sentezi yapar. Sentezlenen maddeleri keseler halinde Golgi aygıtına gönderir. Ayrıca çizgili kas hücrelerinin kasılabilmesi için gerekli olan kalsiyumu depo eder. Karaciğer hücrelerinde depolanan glikojeni glikoza parçalar. Steroit yapılı bazı hormonları sentezler. Birtakım zararlı maddeleri (böcek zehiri, ilaç, alkol gibi) değişime uğratarak zararsız hâle getirir. Hücre zarı ile çoğu organelin zar yapısına katılan yağ moleküllerini sentezler.
+
+Golgi Aygıtı: 1898 yılında İtalyan bilim insanı Camillo Golgi (Kamillo Golgi) tarafından keşfedildiği için bu organel onun adıyla anılmaktadır. Golgi aygıtı, olgun alyuvarlar ve sperm gibi ökaryot hücreler ile bakteriler gibi prokaryot hücrelerde bulunmaz.
+
+Çok sayıda yassılaşmış keseden ve küçük kofullardan meydana gelir. Protein ve yağ yapılıdır. Ayrıca granülsüz endoplazmik retikulum tarafından üretilir. Tükürük bezi hücrelerinde, hormon salgılayan bezlerde ve bitkilerin bal özü, nektar üreten hücrelerinde iyi gelişmiştir. Golgi aygıtının büyüklüğü ve gelişimi, hücre tipine ve metabolik durumuna göre değişiklik gösterir.
+
+Endoplazmik retikulumlarda üretilen maddelerin çoğunluğu Golgi aygıtında ayrıştırılır, depolanır ve paketlenir. Glikoprotein ve lipoprotein gibi maddelerin üretimi ve salgılanmasından sorumludur. Ayrıca lizozomların oluşumunda rol oynar.
+
+Hücre zarının yenilenmesi ve onarımı, bitki hücrelerinin bölünmesi sırasında ara lamelin oluşturulması, apoenzim-kofaktör ilişkisinin gerçekleştirilmesi ve bitkilerde duvar yapısına katılan pektin gibi polisakkaritlerin üretilmesi fonksiyonlarına da sahiptir.
+
+Bugüne kadar etkin bir şekilde tedavi edilemeyen bazı hastalıklarda Golgi aygıtında işlev bozukluğu olduğu anlaşılmıştır. Örneğin sinir hücrelerinde işlev kaybına neden olan Alzheimer ile kistik fibrozis hastalığında Golgi aygıtının hem yapısında hem de işlevlerinde anormallikler olduğu ortaya konulmuştur.
+
+Alyuvarlar hariç bütün hayvansal hücrelerde ve sıvı ortamda yaşayan tek hücreli canlılarda (amip, paramesyum gibi) bulunur. Yüksek yapılı bitki hücrelerinde lizozom organeli bulunmaz. Fakat içerisinde lizozoma göre daha az çeşitte ve miktarda sindirim enzimi bulunduran kesecikler vardır. Mantar hücrelerinde de lizozom yoktur.
+
+Tek katlı zarla çevrilidir. Içinde protein, karbonhidrat ve lipit gibi molekülleri parçalayan sindirim enzimleri bulunur. Ayrıca lizozom zarının iç yüzeyi, enzimlerin zarar vermesini engelleyen özel bir madde ile kaplıdır. Lizozom oluşumunda sırasıyla ribozom, endoplazmik retikulum ve Golgi aygıtı görev alır. Golgi aygıtına taşınan enzimlerin etrafı bir zarla çevrilerek paketlenir. Küçük keseler hâlindeki bu yapılara vezikül denir. Veziküllerin bazıları hücre içinde kalır ve lizozom organeline dönüşür.
+
+Hücre içi sindirim yapar. (Sindirim için ortamın pH değeri 5 olmalıdır.). Otofaji yapar. Bozulmuş ya da yıpranmış yaşlı organelleri parçalayarak ortadan kaldırır. Ayrıca savunma görevi yapan akyuvar hücreleri bakteri, virüs ve bunların toksik maddelerini etkisiz hâle getirmede lizozom görevi yapar. Otoliz olayını gerçekleştirir. Herhangi bir etki sonucu lizozom içindeki enzimlerin sitoplazmaya dağılmasıyla hücrenin sindirilmesi olayına otoliz denir.
+
+İnsan embriyosunda el ve ayak parmakları arasındaki boşlukların oluşumu, yaşlanmış ve görevini yerine getiremeyen hücrelerin ölümü ve kertenkelenin bir tehlikeyle karşılaştığında kuyruğunu bırakması otoliz olayıdır. Aşırı soğuk veya sıcağa maruz kalan deri hücrelerinde yanıkların oluşmasının sebebi lizozomların parçalanmasıdır.
+
+Lizozomlardaki fonksiyon bozuklukları, bazı hastalıklara neden olur. Örneğin Tay-Sachs (Tay Saks) hastalığında sinir hücrelerinin lizozomlarında lipitleri sindiren enzimler eksiktir. Zamanla sinir hücrelerinde biriken lipitler, hücrelerin fonksiyonlarının bozulmasına neden olur. Lizozom faaliyeti sonucu parçalanması gereken maddeler parçalanmadığından zamanla lizozomlarda birikebilir. Bu maddeler yaşlılık pigmenti adı verilen pigmentlere dönüşür. Bu durum deride kahverengi lekelerin oluşmasına yol açar. Golgi aygıtı, endoplazmik retikulum, hücre zarı ve çekirdek zarı tarafından oluşturulan hücre organelidir. Tek katlı zarla çevrilidir. Yassı keseciklerden oluşur. Ayrıca genç hücrelerde daha küçüktür. Hücre yaşlandıkça koful büyür. Besin, depo, boşaltım ve kontraktil (kasılgan) koful olarak farklı görevler üstlenen dört çeşit koful vardır.
+
+Besinlerin endositoz yoluyla hücreye alınması sonucu oluşan keseciklere denir. Genellikle amip, paramesyum gibi bir hücreli canlılarda ve insanların akyuvar gibi fagositoz yapabilen hücrelerinde bulunur. Ayrıca besinler lizozomlardaki sindirici enzimlerle parçalanır.
+
+Bitki hücrelerinde büyük ve merkezi bir koful halini alır. Hayvan hücrelerinde küçük yapıdadır. Ayrıca bitki ve hayvan hücrelerinde atık maddeleri ve suyu depo eder. Bitki hücresinde merkezi kofulda depo edilen suyun oluşturduğu basınç hücreye dolayısıyla bitkiye destek sağlar. Bitkilerde metabolizma sonucu oluşan zehirli maddeleri çeşitli tuzlarla birleştirilerek zehirsiz kristaller hâlinde biriktirir. Bitkilerde zehirli maddeler, metabolizma sonucunda meydana gelen atıklar, boya maddeleri, köklerden suyla birlikte alınan tuzun fazlası, zehirli maddeler ile organik asitler yaprak hücrelerinin kofullarında biriktirilir ve sonbaharda yaprak dökümüyle bitkiden uzaklaştırılır. Golgi aygıtında üretilen salgılar ile metabolik atıkların dışarı atılmasını sağlar.
+
+Sitoplazmaya doğru uzanan çok sayıda kol ve etrafını saran, kasılabilen ipliksi yapılardan oluşur. Tatlı sularda yaşayan amip, paramesyum, öglena gibi ökaryotik tek hücreli canlılarda hücre içine giren suyun fazlasını enerji (ATP) harcayarak hücre dışına atar. Ayrıca hücrenin su dengesinin korunmasında (homeostasi) rol oynar.
+
+# Peroksizom, Sentrozom, Hücre İskeleti
+
+Peroksizom, ökaryot hücrelerin tamamına yakınında bulunan bir organeldir. Tek katlı zarla çevrilidir. Oksitleyici ve antioksidan enzim içerir. Ayrıca elliye yakın farklı enzimi vardır.
+
+Zehirli maddelerin yok edilmesinden sorumludur. Ökaryotlarda oksijen kullanan ikinci organeldir. Diğeri ise mitokondridir. Ayrıca bazı peroksizomlar, yağ asitlerini mitokondrinin kullanabileceği daha küçük moleküllere dönüştürür. Böylece oksidasyon (oksitleyici) reaksiyon gerçekleştirmiş olur. Alkol, ilaç gibi zararlı maddelerin toksik etkilerini peroksidaz ve katalaz enzimleri ile yok eder. Hücre metabolizması sonucu oluşan hidrojen peroksit ($H_2O_2$) adlı zehiri antioksidan katalaz enzimiyle su ve oksijene ayrıştırır. Böylece hücresel yapılar ve moleküller, hidrojen peroksitin zararlı etkisinden korunmuş olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Hayvansal organizmalarda peroksizomlar; özellikle metabolik aktivitesi daha yüksek olan karaciğer, kalp, kas ve böbrek hücrelerinde daha fazla bulunur. Bitkilerde ise tohumlar ve yapraklar, peroksizom organeli bakımından daha zengindir. Sentrozom, hayvan hücrelerinin çoğunda ve ilkel yapılı bitki hücrelerinde çekirdeğe yakın bir yerde bulunan organeldir. Birbirine dik iki silindirik cisimden oluşur. Silindirik cisimler sentriyol adını alır. Ayrıca dokuz adet üçerli mikrotübülden meydana gelir.
+
+Hücre bölünmesinde görev alır. Hücre döngüsünün interfaz evresinde kendini eşler. Ayrıca sentriyoller ayrı kutuplara giderken iğ ipliklerini oluşturur. Iğ ipliklerine tutunan kromozomların kutuplara hareketini sağlar. Kamçı, sil gibi hücre hareketini sağlayan yapıların oluşumunda rol alır. Sentrozom bu yapıların dip kısımlarında bulunur.
+
+Kanser hastalığının tedavisinde kullanılan bazı ilaçlar, kanser hücrelerinde iğ ipliklerinin oluşumunu engelleyerek kanser hücrelerinin bölünmesini ve tümör dokusunun büyümesini önler.
+
+Sinir hücrelerinde, çizgili kas hücrelerinde, olgun alyuvarlarda, yumurtada, gelişmiş bitkilerin hücrelerinde, prokaryotlarda ve mantarlarda sentrozom yoktur.
+
+Sitoplazmada bulunan özel proteinlerin aralarında bağlar kurup, birleşerek oluşturduğu tüpsü ve ipliksi yapılara hücre iskeleti denir. Mikrofilament, arafilament ve mikrotübül adı verilen üç farklı yapıdan oluşur.
+
+Hücre iskeleti üç farklı yapıdan oluşur. Bunlardan mikrofilamentler en ince olanıdır; aktin proteinlerin üst üste dizilmesiyle oluşur, esnek yapıdadır ve hücrenin hareketine bağlı olarak sürekli oluşup ayrışabilir. Hayvanlarda kas hareketlerini, amiplerde yalancı ayak oluşumunu sağlar. Hücre bölünmesi sırasında boğumlanmada ve ince bağırsakta mikrovillus yapılarının oluşumunda görev alır.
+
+Arafilamentler mikrofilamentlerden kalın, mikrotübüllerden ince yapıdadır. Hücre tipine özgü çeşitli proteinlerin ipliksi biçimde üst üste sarılmasıyla oluşur. Hücre organellerinin yerini sabitler, hücreye şekil kazandırır ve gerilmeye karşı dirençli yapısı sayesinde vücut yüzeyindeki dokuların gerginliğini korur. Tırnak, tüy, balık pulu ve boynuz gibi yapıların oluşumunda da görev alır.
+
+Mikrotübüller ise tübülin proteinlerinden oluşan, içi boş uzun silindir biçimli yapılardır ve hücre iskeleti bileşenleri arasında en geniş çapa sahip olanlardır. Hücre içinde organellerin yer değiştirmesinde görevlidirler. Bitki hücrelerinde hücre duvarındaki selüloz liflerinin düzenlenmesini kontrol eder ve sentrozomun yapısına da katılırlar.
+
+# Mitokondri ve Plastitler
+
+Mitokondri, hücrenin ihtiyaç duyduğu ATP'nin büyük bir kısmını oksijen kullanarak sentezleyen organeldir. Prokaryot hücre yapısına sahip bakterilerde ve arkelerde, memeliler sınıfına dâhil canlıların olgun alyuvar hücrelerinde mitokondri bulunmaz.
+
+Çift katlı zardan oluşur. Iç zar içeriye doğru çok sayıda kıvrımlar yapmıştır. Yüzeyin artırılmasını sağlayan bu kıvrımlara krista denir; kristaların yüzeyi ne kadar geniş olursa oksijenli solunumun verimliliği de o kadar artar. Ayrıca kristaların yüzeyinde elektronların hareketini sağlayan ve ATP sentezleyen enzimler bulunur. Mitokondrinin içini dolduran sıvıya matriks denir. Matriksin içinde sayıları 5-10 arasında değişen kendine özgü halka şeklinde DNA molekülleri vardır. Tüm RNA çeşitleri, ribozomlar, ATP, solunum enzimleri, solunum reaksiyonları sırasında açığa çıkan ara ürünler, su ve mineraller bulunur.
+
+Oksijenli solunumu gerçekleştirir. Hücrenin enerji ihtiyacını karşılar. Ayrıca kendine özgü DNA'ları ile gerektiğinde çekirdek kontrolünde çoğalabilir. Ribozomları sayesinde ihtiyaç duyduğu proteinin bir kısmını sentezler. Enerji tüketiminin çok olduğu kas, sinir, böbrek ve sperm gibi hücrelerde sayısı fazladır. Mitokondri hücreden çıkarılırsa veya zarar görürse enerji üretimi duracağından hücre ölür. Bitki ve alg gibi ökaryot hücreli canlılarda bulunur. Kloroplastlar, kromoplastlar ve lökoplastlar olmak üzere üç çeşittir.
+
+Kloroplastlar çift katlı zarla çevrilmiştir. Iç kısmında tilâkoit adı verilen, klorofil pigmenti taşıyan, yassılaşmış kese şeklinde başka bir zar sistemi vardır. Ayrıca tilâkoit zarların üst üste dizilerek oluşturduğu yığına granum denir; ışığa bağımlı fotosentez tepkimeleri bu yapılarda gerçekleşir. Granum dizilerinin tamamına grana denir. Kloroplastın içini dolduran sıvıya stroma (klorofilsiz sıvı bölme; Calvin döngüsünün gerçekleştiği yer) denir. Stroma içinde halka DNA molekülü, tüm RNA çeşitleri, ribozomlar ile enzimler bulunur.
+
+Fotosentez tepkimelerini gerçekleştirir. Oksijen ve organik madde (besin) üretir. Ayrıca kloroplastlarda üretilen ATP molekülleri sadece fotosentezde kullanılır. Klorofil içeren, yeşil renkli plastitlerdir. Bitkiye yeşil rengini verir. Kendi DNA'sı sayesinde çekirdek kontrolünde çoğalır. Ihtiyaç duyduğu proteinlerin bir kısmını ribozomları ile sentezler.
+
+Başta çiçekler ve meyveler olmak üzere bitkilerin çeşitli kısımlarının rengini oluşturan plastitlerdir. Yüksek miktarda sarı (ksantofil), turuncu (karoten) ve kırmızı (likopen) renkli pigmentler taşır. Ayrıca bitkilerde çiçeklerin taç yapraklarında, bazı bitkilerin köklerinde, meyve ve tohumlarda bol miktarda bulunur. Papatya, limon gibi bitkilerde sarı renkli ksantofil bulunur. Havuç, portakal gibi bitkilerde turuncu renkli karoten bulunur. Domates, çilek gibi bitkilerde kırmızı renkli likopen bulunur. Kloroplastlar, kromoplastlara dönüşebilir.
+
+Pigment içermeyen plastitlerdir. Bitkinin ışık görmeyen kök ve toprak altı gövdesi gibi kısımlarda da bulunur. Ayrıca bazı bitkilerin ise ışık gören yapraklarında ve tohumlarında vardır. Özellikle nişasta depo etmek için özelleşmiş yapılardır. Fotosentez sonucu üretilen glikoz molekülleri lökoplastlarda nişasta taneciklerine dönüştürülür. Farklı bitki türlerinde lökoplastlar, yağ ve protein molekülleri depolayabilir. Örneğin; zeytin, fındık, avokado gibi bitkilerin lökoplastlarında bol miktarda yağ; mercimek, fasulyenin lökoplastlarında protein; patatesin lökoplastlarında ise nişasta depolanır. Lökoplastlar uzun süre ışık aldığında kloroplastlara dönüşebilir.
+
+# Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmış Difüzyon
+
+Hücre zarı canlı ve seçici geçirgen özellikte bir yapıdır. Hücre zarının en önemli görevlerinden biri de hücreye madde giriş ve çıkışını kontrol etmektir. Hücre zarından madde geçişlerinde maddenin; büyüklüğü, elektrik yükü, yağda veya suda çözünebilme özelliği ve konsantrasyonu maddenin taşınma şeklini belirler.
+
+Hücre zarından madde geçişi, molekülün büyüklüğüne göre iki ana gruba ayrılır. Küçük moleküller pasif taşıma, difüzyon, osmoz ve aktif taşıma yoluyla zardan geçerken; büyük moleküller endositoz, fagositoz, pinositoz ve ekzositoz gibi kese oluşturan mekanizmalarla hücreye alınır ya da hücre dışına verilir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Glikoz, fruktoz, galaktoz, amino asit, yağ asiti, gliserol gibi küçük organik moleküller ile su, mineral, iyonlar gibi inorganik moleküller büyük moleküllere göre hücre zarından daha kolay geçer. Nötr atomlar negatif iyonlara, negatif iyonlar da pozitif iyonlara göre hücre zarından daha kolay geçer. Ayrıca yağı çözen ve yağda çözünen maddeler, suda çözünenlerden daha hızlı geçer. Hücre zarında uyarıları algılayan, reseptör olarak görev yapan, hücrelerin birbirini tanımasını sağlayan ve hücre zarının seçici geçirgenliğini denetleyen moleküller glikoproteinler ve glikolipitlerdir.
+
+Küçük moleküllerin çok yoğun ortamdan az yoğun ortama doğru seçici geçirgen zardan difüzyonudur. Canlı ve cansız ortamlarda gerçekleşebilir. Ayrıca ATP harcanmaz. Gerekli enerji moleküllerin kinetik enerjisinden sağlanır. Moleküller, zarda bulunan fosfolipit tabakadan ya da protein kanallarından yoğunluk farkı her iki tarafta eşitleninceye kadar geçiş yapar. Gazların ve yağda çözünen moleküllerin zar proteinleri görev almadan fosfolipit tabakadan geçmesidir. ATP harcanmaz. Hücre ile doku sıvısı arasındaki oksijen karbondioksit değişimi sırasında enerji harcanmaz.
+
+Su ve suda çözünen moleküllerin geçişinde protein yapılı özel taşıyıcılar veya proteinlerin oluşturduğu kanalların görev aldığı taşınmadır. Enerji harcanmaz, madde sahip olduğu kinetik enerji ile yer değiştirir. Ayrıca glikoz, fruktoz, galaktoz, amino asitler, iyonlar, tuzlar gibi suda çözünebilen maddeler bu yolla hücre içine alınır. Kolaylaştırılmış difüzyonda madde taşıyıcı proteinle enzim substrat gibi yüzey uygunluğu gösterir. Taşıyıcı protein taşınacak moleküle özgüdür. Sıcaklık, yoğunluk farkı ve difüzyon yüzeyi arttıkça difüzyon hızı artar. Difüzyon hızını etkileyen çeşitli faktörler vardır. Bu faktörler şu şekilde sıralanabilir:
+
+Difüzyonun gerçekleşeceği iki ortam arasındaki molekül yoğunluğu farkı ne kadar fazlaysa difüzyon o kadar hızlı gerçekleşir. Difüzyonun gerçekleşeceği ortamın sıcaklığı arttıkça difüzyon hızı da artar. Çünkü sıcaklığın artması moleküllerin kinetik enerjisini artırır. Molekül ağırlığı küçük olan maddeler, büyük olan maddelere göre daha hızlı difüzyona uğrar. Hücre zarındaki por sayısı ne kadar fazla olursa difüzyon da o kadar hızlı olur. Yağda çözünen maddeler (bazı vitaminler), suda çözünenlere göre zardan daha hızlı geçer. Nötr maddeler, iyonlara (yüklü maddelere) göre hücre zarından daha hızlı geçer. Çünkü hücre zarı pozitif yüklüdür. Difüzyonun gerçekleşeceği yüzey alanı arttıkça difüzyon hızı da artar.
+
+Bir çözeltideki çözünmüş belirli maddelerin, seçici geçirgen zarın diğer tarafına konulan farklı bileşime sahip bir çözelti aracılığı ile değiştirilme işlemine diyaliz denir. Bu yöntemle, böbrekler tarafından süzülüp atılamayan zararlı maddeler ile suyun fazlası seçici geçirgen bir zardan geçirilerek madde yoğunlukları özel olarak ayarlanmış diyaliz sıvısına alınır. Hemodiyaliz denilen bu işlem sırasında hastadan alınan kan, diyaliz makinesi yardımıyla içeriği düzenlenerek hastaya geri verilir.
+
+# Osmoz
+
+Suyun çok yoğun olduğu ortamdan az yoğun olduğu ortama seçici geçirgen bir zardan geçişidir. Seçici geçirgen zar, suda çözünen büyük moleküllerin geçişine izin vermezken suyun geçişine izin verir. Bu durumda su, çok yoğun olduğu yerden az yoğun olduğu yere doğru geçer. Ayrıca osmoz olayında yoğunluğu düşük ortamdan yüksek olan ortama doğru net su geçişini durdurmak için zara uygulanan su basıncına osmotik basınç denir. Osmotik basıncın fazla olduğu yerde emme kuvveti oluşur. Su, daima osmotik basıncın yüksek olduğu yere doğru hareket eder. Suyun aktif taşıması olmaz. Hücre içindeki suyun hücre zarına yaptığı basınca turgor basıncı denir. Turgor basıncı ile osmotik basınç birbiriyle ters orantılıdır. Osmotik basınç ile turgor basıncı arasındaki fark emme kuvvetini verir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Osmotik basınç, çözünen madde miktarı ile doğru orantılı; çözücü madde miktarı ile ters orantılıdır. Ayrıca $\text{emme Kuvveti} = \text{Osmotik Basınç} - \text{Turgor Basıncı}$. Turgor basıncı bitkilere desteklik ve diklik sağlar. Stomaların açılıp kapanması, böcekçil bitkilerde ve küstüm otunda nasti hareketinin sağlanması turgor basıncı etkisi ile gerçekleşir. Uzun süre susuz kalan bitkilerde turgor basıncı azalır ve bitki solar. Hücre öz suyu ile aynı yoğunluğa sahip çözeltiler izotonik çözelti olarak bilinir. İzotonik çözelti içine konulan bir hücrenin hacminde değişiklik olmaz. Çünkü hücre ve ortam arasında osmoz olayı ile birim zamanda yer değiştiren su molekülü sayısı eşittir. Örneğin göz ve burun damlalarının izotonik olması, tedavi sırasında bu organlardaki hücrelerin plazmoliz veya turgor olmasını engeller.
+
+İzotonik Ortam: Yoğunluğu hücrenin sitoplazma yoğunluğuna eşit olan çözeltidir. Böyle bir ortamda hücre içi Osmotik basınç ile turgor basıncı birbirine eşit olduğundan emme kuvveti sıfırdır.
+
+Yoğunluğu hücrenin sitoplazma yoğunluğundan fazla olan çözeltidir. Bu tür ortamların osmotik basıncı yüksek olduğundan hücreler, su kaybeder ve büzülür; bu olaya plazmoliz denir. Plazmoliz, hücrenin turgor basıncını azaltır; osmotik basıncını artırır.
+
+Yoğunluğu hücre yoğunluğundan az olan ortamlardır. Hipotonik ortamlarda hücreler su alarak şişer ve turgor hâline geçer. Su kaybederek plazmoliz durumuna geçmiş bir hücre, hipotonik bir ortama konursa su alarak eski hâline döner; bu olaya deplazmoliz denir. Bitki hücresinde hücre duvarı plazmoliz sırasında değişime uğramaz ancak hücre su kaybederek büzüleceğinden çeper ile zar arasındaki mesafe artar. Hayvan hücreleri, hipotonik ortamda su alıp şiştiğinde hücre zarı içeri giren suyun basıncına dayanamaz ve parçalanır; bu olaya hemoliz denir.
+
+# Aktif Taşıma
+
+Küçük moleküllerin az yoğun olduğu ortamdan çok yoğun olduğu ortama doğru enerji (ATP) harcanarak enzim ve taşıyıcı proteinler yardımıyla taşınmasına aktif taşıma denir. Örneğin, sinir hücrelerinde uyartı iletimi sırasında sodyum ve potasyum iyonları aktif taşıma ile yer değiştirir.
+
+Maddeler az yoğun olduğu ortamdan çok yoğun olduğu ortama doğru taşınır. Aktif taşımada enerji (ATP) harcanır. Ayrıca canlı hücrede gerçekleşir. Enzimler görev yapar. Küçük yapılı moleküllerin geçişi sağlanır. Su, hiçbir zaman aktif yolla taşınmaz sadece osmozla yer değiştirir.
+
+# Endositoz, Ekzositoz
+
+Büyük moleküllerin hücre zarının içeriye doğru çökmesiyle oluşan cepler yardımıyla enerji harcanarak hücre içine alınmasına endositoz denir. Bakteri ve mantar hücrelerinde hücre duvarı endositozu engeller. Endositoz, fagositoz ve pinositoz olmak üzere iki şekilde gerçekleşir.
+
+Endositoz olayında Hücre zarının bir kısmı koparak koful oluşumuna katıldığı için hücre zarı yüzeyi küçülür. ATP harcanır. Ayrıca enzimler görev yapar. Her iki olayda da yoğunluk farkına bağlı olmaksızın tek yönlü taşıma gerçekleşir. Taşıma sırasında ATP harcanır.
+
+Büyük moleküllü katı partiküllerin hücre içine alınmasıdır. Büyük moleküllü katı partiküller hücre içine yalancı ayaklar (psödopod) yardımıyla alınır. Ayrıca hücre zarı bir çöküntü oluşturarak cep şeklini alır. Cep koparak sitoplazmaya geçer. Oluşan keseye besin kofulu denir. Sindirim enzimi taşıyan lizozom ile besin kofulu kaynaşır ve sindirilir. Insan vücudundaki akyuvarlar, yabancı mikroorganizmaları bu yolla yok eder. Örneğin; amip, öglena, paramesyum gibi tek hücreli ökaryot canlılar besinleri fagositoz ile hücre içine alır.
+
+Büyük moleküllü ve suda çözünebilen maddelerin hücre içine alınmasıdır. Hücre zarından gelişen cepler yardımıyla gerçekleşir. Ayrıca çözünmüş maddeler pinositoz cebinin iki ucunun birleşmesiyle oluşan besin kofulu içerisinde sitoplazmaya alınır. Pinositoz cepleri fagositoz ceplerinden daha küçüktür. Enzimlerin, bazı virüslerin ve antikorların alınması ile hormonların kan yoluyla taşınması pinositozla gerçekleşir.
+
+Hücre içinde bulunan büyük moleküllü maddelerin enerji (ATP) harcanarak kofullar yardımıyla endositozun tersi bir yöntemle hücre dışına verilmesine ekzositoz denir.
+
+Hücrede üretilen enzim, hormon, tükürük, süt gibi salgılar ve boşaltım kofullarında bulunan çeşitli atıklar ekzositoz ile hücre dışına verilir. Koful zarı, hücre zarı ile birleştiğinden hücre zarının yüzeyi büyür. Ayrıca bakteriler ve arkeler, zarlı organeller oluşturmadığı için endositoz ve ekzositoz yapamaz. Mantarlar ve bitki hücreleri, ekzositoz yapabilir. Örneğin; sindirim enzimleri, böcekçil bitkilerde ve ayrıştırıcı (çürükçül) mantarlarda bu yolla hücre dışına verilir. Maddelerin taşınım yönü yoğunluk farkına bağlı değildir. Enzimlere ihtiyaç duyulur. ATP harcanır.
+
+# Bilimsel Yöntem ve Basamakları
+
+Bilim insanları, bir problemin çözümünde çeşitli yöntemler kullanabilir. Bilimsel yöntem, bir problemi çözmek amacıyla gerçekleştirilen mantık, ölçme, gözlem ve deneylere dayalı, sistemli çalışmaların bütünüdür. Belirli bir duruma veya olaya ilişkin yapılan gözlemler ve toplanan veriler ile problem net bir şekilde tanımlanır.
+
+Gözlem duyu organları veya ölçme araçlarıyla yapılan veri toplamadır. Gözlemler duyu organları ile yapıldığında nitel, ölçme aracı kullanılarak yapıldığında ise nicel gözlem adını alır. Bir konu ile ilgili ulaşılan bilgiler veri olarak tanımlanır. Ayrıca probleme ilişkin geçici çözüm önerileri hipotez olarak adlandırılır. Hipotezlerden ortaya çıkarılan mantıklı sonuçlara tahmin adı verilir. Hipotezler gözlemle ve deneylerle test edilmelidir. Bunun için bilimsel çalışmalarda genellikle kontrollü deneyler tercih edilir. Kontrollü deney, bir olayı etkileyecek faktörlerden sadece birinin değiştirilip diğerlerinin sabit tutulmasıyla yapılan deneydir. Deney grubunda test edilecek faktör değiştirilirken kontrol grubunda tüm şartlar sabit tutulur. İki gruptan elde edilen veriler karşılaştırılır. Etkisi araştırılan değişkene bağımsız değişken, bağımsız değişkene bağlı olarak değişen değişkene ise bağımlı değişken denir. Gözlemin ve kontrollü deneylerin sonuçları bilim insanları tarafından değerlendirilir. Veriler hipotezi destekliyorsa elde edilen sonuçlar gerçek hâline dönüşür. Gerçek, herkes tarafından doğruluğu kabul edilen ve aynı şartlarda aynı sonuçlara ulaşılan gözlemlerdir. Sonuçlar hipotezi desteklemiyorsa hipotez terk edilerek yeni bir hipotez kurulur.
+
+# Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandırılmada Kullanılan Kategoriler
+
+Çeşitli canlı formlarını isimlendiren ve sınıflandıran bilim dalına taksonomi, canlıların sınıflandırılması ve akrabalık ilişkilerinin belirlenmesiyle ilgili bilim dalına da sistematik denir.
+
+Geçmişten günümüze kadar türlerin sadece isimleri yazılsa bile ciltler dolusu kitaplıklar oluşturulabilir, işlemler sırasında da birçok bilgi karmaşası yaşanabilir. Bu nedenle türlerin belirli bir düzen içerisinde sınıflandırılması ve isimlendirilmesi gerekmektedir.
+
+Canlıları belirlenmiş bilimsel kurallar dâhilinde gruplandırarak doğayı daha anlaşılır hâle getirmek. Bir canlı çeşidi üzerinde yapılan araştırmalar sonucunda elde edilen bilgilerin diğer bilim insanlarıyla paylaşılmasını sağlamak ve aynı konu üzerinde tekrar tekrar çalışılmasını önlemek. Ayrıca nesilleri tükenmiş türler ile günümüzde yaşayan türleri karşılaştırmak, akrabalık derecelerini belirlemek; yeni bulunan türlerin tanımlanmasını ve adlandırılmasını kolaylaştırmak. Ekolojik ve ekonomik kaynakları tespit etmek. Canlı türlerini birbirinden ayırt edebilecek düzenli bir sistem oluşturmak. Her canlının doğada bir rolü olduğunun bilincini geliştirmek. Dünyanın yalnızca insanlara ait olmadığı ve her canlının yaşam hakkının olduğu bilincini geliştirmek.
+
+Canlıların sınıflandırılmasında kullanılan ölçüt, yaklaşım ve modeller: Canlıların dış görünüşlerine ve yaşadıkları yere bakılarak yapılan sınıflandırmaya yapay (ampirik) veya sunî sınıflandırma denir. İlk sınıflandırmayı Aristo yapmıştır. Aristo, canlıları sınıflandırırken dış görünüşleri ve yaşadıkları yere göre sınıflandırmıştır.
+
+Embriyolojik ve filogenetik kökenleri farklı, görevleri aynı olan organlara analog organ denir. Yapay sınıflandırmada analog organlar dikkate alınır. Örneğin, kuşun kanadı ve sineğin kanadı analog organdır. Her iki organın da dış görünüşleri ve görevleri benzer olmasına rağmen kuşun kanadı kas, sinir, deri gibi yapılardan; sineğin kanadı ise deri çıkıntısından oluşur.
+
+Canlıların köken benzerliklerine, akrabalık derecelerine, sahip oldukları homolog yapılarına bakılarak yapılan sınıflandırmaya doğal (filogenetik) veya bilimsel sınıflandırma denir. İlk doğal sınıflandırmayı John Ray (Con Rey) yapmıştır. Bilimsel sınıflandırmada canlıların akrabalık derecesini tespit etmek için aşağıdaki özellikler dikkate alınır.
+
+Doğal sınıflandırmada kullanılan kriterler arasında vücut simetri benzerliği, embriyonik gelişim evrelerindeki benzerlik, fizyolojik ve biyokimyasal özellik ortaklıkları, organların kökeni ile anatomik benzerlik, hücresel yapı benzerliği ve DNA ile protein benzerliği yer almaktadır. Embriyonik kökeni aynı olan, yapı ve gelişimleri birbirine benzeyen, aynı veya farklı fonksiyonları yerine getiren organlara homolog organlar denir.
+
+Bilimsel sınıflandırmada homolog organlar dikkate alınır. Örneğin; kedi, at ve kurbağanın ön bacağı, insanın kolu, balinanın ön yüzgeci ve kuşun kanadı homolog organlardır.
+
+Homolog organlar, görev bakımından farklı olmalarına rağmen organlarının yapısında yer alan kemikler açısından benzer anatomik yapıya ve fizyolojik özelliklere sahiptir. Yapay (ampirik) ve doğal (filogenetik) sınıflandırma arasındaki farklar aşağıdaki gibi sıralanabilir.
+
+Yapay (ampirik) sınıflandırma ile doğal (filogenetik) sınıflandırma birbirinden önemli noktalarda ayrılır. Yapay sınıflandırmada yalnızca canlıların dış görünüşleri ve yaşadıkları yer dikkate alınırken doğal sınıflandırmada anatomik, fizyolojik, morfolojik, genetik ve embriyolojik özellikler gibi tüm kriterler bir arada değerlendirilir. Yapay sınıflandırma analog organlara, doğal sınıflandırma ise homolog organlara dayanır. Nitel gözleme dayanan yapay sınıflandırmanın aksine doğal sınıflandırma nicel verileri esas alır. Bilimsel adlandırmayı kullanmayan yapay sınıflandırma günümüzde geçerliliğini yitirmiş; bilimsel adlandırmayı temel alan doğal sınıflandırma ise günümüzde kabul görmektedir.
+
+Sınıflandırmada Kullanılan Kategoriler ve Kategoriler Arasındaki Hiyerarşi: Belirli bir düzene göre sıralanmış, belirli özellikler taşıyan ve buna göre adlandırılan sınıflandırma birimlerine kategori adı verilir.
+
+Canlılar; tür, cins, aile, takım, sınıf, şube ve âlem olmak üzere yedi kategoride sınıflandırılır. Kategoriler, canlının sınıflandırma basamağındaki seviyesini veya derecesini ifade eder. Kategorilerdeki sınıflandırma basamakları arasındaki geçişlerde, ortak özelliklerde artma veya azalma görülür. Belirli bir kategoriye dâhil olan ortak özelliklere sahip bireylerin oluşturduğu topluluğa takson denir.
+
+Tür kavramı ilk olarak John Ray tarafından kullanılmıştır. Ortak bir atadan gelen, yapı ve işlev bakımından benzer özellikler taşıyan ve doğal koşullarda çiftleştiklerinde kısır olmayan yavrular (verimli döller) verebilen bireyler topluluğuna tür denir.
+
+Genellikle aynı türdeki tüm bireylerin kromozom sayıları aynıdır (mutasyonlar hariç). Ancak farkı türlere ait canlıların kromozom sayıları da aynı olabilir. Örneğin: Tayvan munçağı, lepistes, sable antilobu, kurtbağrı bitkisi ve insan 46 kromozomludur. Kromozom sayılarının aynı olması bu canlılar arasında akrabalık ilişkisi olduğunu göstermez.
+
+Carolus Linnaeus (Karl Linne) tarafından önerilen ikili (binomial) adlandırma sistemi, günümüzde türlerin adlandırmasında kullanılan sistemlerin temelini oluşturur.
+
+Linneaus; her bir tür için bir cins ismi, diğeri o türü niteleyen isim olmak üzere Latince iki kelimeden oluşan ikili adlandırma sistemini kullanmıştır. Türün adlandırılmasında kullanılan ilk kelimeye cins ismi, ikinci kelimeye ise tamamlayıcı ad denir. Cins ismi tamamlayıcı adla birlikte tür adını oluşturur.
+
+Tamamlayıcı ad bir türün özelliğini belirten sıfat olup o türü tanımlamak için tek başına yeterli değildir. Çünkü birbirinden farklı türlerin tamamlayıcı adı aynı olabilir.
+
+Canlıların adlandırılmasında her bir tür için ikili adlandırma yöntemi kullanılır. İkili adlandırmada ilk ad türün ait olduğu cinsi ifade eder ve ilk harfi büyük yazılır. İkinci ad tamamlayıcı ad olarak kullanılır ve küçük harfle yazılır. İki ad birlikte tür adını oluşturur. Tür ve cins adları yazılırken italik yazı karakteri kullanılır.
+
+# Bakteriler Âlemi, Arkeler Âlemi
+
+Bakteriler, prokaryot hücre yapısına sahip mikroorganizmalardır. Sitoplazma sıvı karakterde olup yaklaşık %80'i sudan oluşur. İçerisinde nükleik asitler, enzimler, amino asitler, karbonhidratlar, lipitler ve inorganik maddeler bulunur.
+
+Bazı bakteri türlerinde hücre duvarının dışında bulunan kısa uzantılara pilus adı verilir. Pilus, aynı türden iki bakteri arasında sitoplazmik köprü oluşturarak bakteriler arasında DNA aktarımını sağlar (konjugasyon).
+
+Bazı bakterilerde bulunan kapsül bakterilerin birbirine tutunmasını ve yaşadıkları ortama yapışmasını sağlar. Ayrıca bakterinin dayanıklılığını artırır ve bakterilerde su kaybını önler.
+
+Bakterilerin genetik materyalleri tek bir dairesel kromozomdan oluşur. Bakterilerde zarla çevrili çekirdek olmadığı için kromozom sitoplazmada yer alır. DNA; hücrenin büyümesi, bölünmesi gibi hayati olayları kontrol eder.
+
+Bakterilerin hücre zarlarının üzerinde kısa peptid zincirleriyle bağlanmış, polisakkarit içeren peptidoglikan yapılı hücre duvarı bulunur. Hücre duvarı bakteriyi dış etkilerden korur ve bakteriye şekil verir.
+
+Bakterilerde hücresel yapı olarak yalnızca ribozom bulunur. Sitoplazma içerisinde dağınık olarak bulunan ribozomlar, bakterinin ihtiyacı olan proteinleri sentezler. Bakteri hücre zarı ikili fosfolipid katmanından oluşmuştur. Seçici geçirgen özellik gösterir ve madde alışverişinde görev alır.
+
+Plazmitler halkasal yapıdan daha küçük DNA parçalarıdır. Gen aktarımı amacıyla kullanıldığı için plazmite sahip bakterilerden biyokimyada, genetik mühendisliğinde ve moleküler biyoloji ile ilgili çalışmalarda yararlanılır. Kamçı, küre şeklindekiler hariç tüm bakterilerde bulunan ve hareketi sağlayan uzun uzantılardır.
+
+Bakteriler, uyum yetenekleri yüksek olduğu için hemen hemen her ortamda yaşayabilmektedir. Bakterilerin bazı türleri faydalı, bazı türleri ise zararlıdır. Bakteriler beslenme bakımından ototrof veya heterotrof olabilir. Bazı bakteriler parazit yaşar. Ototrof bakteriler, fotosentez veya kemosentez yoluyla besin üretir. Tüm bakterilerde depo polisakkarit glikojendir. Bakterilerin ayrıştırıcı olanları organik maddelerin inorganik maddelere dönüşümünü sağladığından doğadaki madde döngüsünde çok önemlidir.
+
+Bazı bakteriler, olumsuz ortam şartlarında (kuraklık, besin kıtlığı, radyasyon, zehirli maddeler gibi) endospor oluşturur. Endosporlar, çevresel değişimlere oldukça dayanıklı olup uzun süre canlı kalabilir. Ortam şartları uygun hâle geldiği zaman endospor durumu sona erer.
+
+Bakterilerde üreme, DNA'nın eşlenmesinden sonra ikiye bölünerek gerçekleşir. Bakteriler, eşeyli üreme ile çoğalmadıkları hâlde genetik çeşitliliği oldukça fazla olan âlemdir. Bu çeşitlilik mutasyon, konjugasyon gibi olaylarla sağlanır.
+
+Konjugasyonda DNA (plazmit), bakteri hücresinden diğer bir bakteri hücresine tek yönlü olarak aktarılır. Aktarma işlemi için geçici olarak stoplazmik köprü oluşturulur. DNA'nın aktarıldığı bakteri hücresi, kalıtsal açıdan kendisinde olmayan bir özellik kazanmış olur ve genetik çeşitlilik artar. Konjugasyon çoğunlukla aynı türe ait bakteriler arasında meydana gelir; ancak farklı türler arasında da gerçekleşebilir ve bu durum antibiyotik direncinin yayılmasında önemli rol oynar. Bakteri konjugasyonu sırasında birey sayısında artış meydana gelmediğinden çoğalma olarak kabul edilmez.
+
+Bakterilerde eşeysiz üreme basit ikiye bölünme yöntemiyle gerçekleşir. İçinde besin bulunan kültür ortamında bakteriler yaklaşık 20 dakikada bir bölünebilir.
+
+Bakterilerin oksijenli solunum, oksijensiz solunum ve fermantasyon yapabilen türleri vardır. Fermantasyon yapabilen bakteriler, son ürün olarak etil alkol, laktik asit gibi ürünler oluşturur. Oksijenli solunum ve fotosentez yapan bakteri türlerinde hücre zarı, içe doğru kıvrımlar yapar. Bu kıvrımlarda enzimler ve ETS (elektron taşıma sistemi) elemanları bulunur. ATP (adenozin trifosfat) kıvrımlı zarlarda sentezlenir. Bakteriler; mikroskop altında genellikle küre, çomak, virgül ya da spiral şeklinde görülür.
+
+Hastalıklara neden olan bakterilere patojen adı verilir. Tüberküloz (verem), tetanos, ülser, menenjit (beyin zarının iltihaplanması) gibi hastalıklar bakteri kaynaklıdır. Patojen bakteriler ürettikleri toksin ile organizmaya zarar verir.
+
+Fotosentez yapan bazı bakteriler, atmosfere yüksek oranda oksijen salarken bazıları atmosferde bulunan serbest azot gazının ve karbondioksitin organik bileşiklerin yapısına katılmasını sağlar.
+
+Bazı bakteriler organik atıkları inorganik bileşenlerine ayrıştırarak madde döngüsünde, toprağın - suyun zenginleşmesinde ve kirleticilerden arınmasında etkilidir.
+
+Bakteriler hızlı çoğaldıkları için gen nakillerinde onlardan yararlanılır. İnsülin gibi bazı hormonların, antibiyotiklerin, aşıların, serumların ve kanser tedavisinde kullanılan bazı ilaçların üretilmesinde kullanılır.
+
+Bazı otobur canlıların sindirim sisteminde yaşayan yararlı bakteriler, selülozun sindirimine yardımcı olur. İnsanların kalın bağırsaklarında yaşayan bakteriler, B ve K vitaminlerini üretir. Bakteriler, mayalanma yapabilme özelliklerine sahip oldukları için gıda sanayisinde kullanılır. Sütün yoğurda ya da peynire, glikozun etil alkole ya da sirkeye dönüşmesinde ve turşu yapımında bakterilerden yararlanılır.
+
+Arkeler Âlemi: 1970'lerde mikrobiyologların gen dizilimlerini ve küçük ribozomal RNA parçalarını kullanarak prokaryotları karşılaştırmaları sonucunda arkeler metabolik, hücresel ve genetik özellikleri dikkate alınarak bakterilerden ayrılmış ve ayrı bir âlem olarak incelenmeye başlanmıştır. Arkeler, bazı özellikleri bakımından ökaryotlara benzeyen tek hücreli ve prokaryot hücre yapısına sahip mikroskobik organizmalardır.
+
+Arkelerin hastalık yapıcı ve endospor oluşturan formları yoktur. Sitoplazma sıvı karakterde olup yaklaşık %80'i sudan oluşur. İçerisinde nükleik asitler, enzimler, amino asitler, karbonhidratlar, lipitler ve inorganik maddeler bulunur. Pilus, aynı türden iki arke arasında sitoplazmik köprü oluşturarak arkeler arasında DNA aktarımını sağlar (konjugasyon).
+
+DNA'sı üzerinde protein kılıfı bulunur. Ökaryot hücrelerde olduğu gibi DNA histon proteinlerine sarılıdır. Hücrenin büyümesi, bölünmesi gibi hayati olayları kontrol eder. Arke hücre zarı ikili fosfolipid katmanından oluşmuştur. Seçici geçirgen özellik gösterir ve madde alışverişinde görev alır. Arkelerin birbirine tutunmalarını ve yaşadıkları ortama yapışmasını sağlayan yapı aynı zamanda arkelerin dayanıklılığını da artırır. Arkelerdeki kamçı, hareketi sağlayan uzantıdır. Arkelerdeki hücre duvarı pseudopeptidoglikan yapıda olup arkeleri dış etkilerden korur. Arkelerdeki ribozomlar ökaryot hücrelerin ribozomuna benzer yapıda olduğu için antibiyotiklerden etkilenmezler.
+
+Arkeler, bakteriler gibi halkasal DNA taşır ancak birçoğunun DNA'sı ökaryot hücre DNA'larında olduğu gibi histon denilen özel proteinlere sarılmıştır.
+
+Bazı arkelerde bakterilerde olduğu gibi plazmit DNA'lar bulunabilir. Bunlar, gen transferi (konjugasyon) yöntemiyle bir arkeden diğerine aktarılabilir. Günümüzde tanımlaması yapılan arkelerin hastalık yapıcı ve endospor oluşturan formu yoktur.
+
+Arkeler yaşadıkları ortamın özelliklerine göre adlandırılır. Örneğin; aşırı tuzlu ortamlarda yaşayanlara halofiller, oksijensiz ortamda yaşayan ve metan gazı üretenlere metanojenler, termal su kaynakları gibi yerlerde yaşayanlara termofiller adı verilir.
+
+Arkeler, birçok canlının yaşayamadığı ortamlarda özel enzimleri sayesinde hayatta kalabilir. Direnç kazandırıcı bu özel enzimler, endüstride bazı reaksiyonların gerçekleşmesinde ve atık metallerin zehirli etkilerinin azaltılmasında kullanılmaktadır.
+
+Çiftliklerde bulunan çöplerin ve hayvan gübrelerinin üzerinde yaşayabilen bazı arkeler sayesinde biyogaz olarak da bilinen metan gazı üretilebilmektedir.
+
+Boya endüstrisinde, arıtma tanklarına dolan atık suyun temizlenmesinde ve gübre sanayisinde arkelerden yararlanılır. Otçul hayvanların bağırsaklarında yaşayan arkeler, selülozun sindirimi için gerekli enzimi sentezleyebilmektedir. Ayrıca arkeler doğadaki azot, karbon döngüsünde ve suların arıtılmasında görev yaparak ekosisteme katkı sağlamaktadır.
+
+# Protista Âlemi
+
+Protista âlemine giren canlılar altı grupta incelenir. Protistler ökaryot hücre yapısına sahip olan âlemler içerisinde en ilkel, tek ve çok hücreli organizmaların bulunduğu gruptur. Çoğunlukla sucul ortamlarda, nemli topraklarda, diğer hayvansal organizmaların vücutlarında yaşar. Protistler beslenme şekillerine göre ototrof, heterotrof ve hem ototrof hem heterotrof türleri vardır. Üretici protistler, taşıdıkları kloroplast sayesinde atmosferde ve denizlerde bulunan oksijenin büyük bir kısmını üretir.Tatlı sularda yaşayan türlerinde bulunan kontraktil kofullar, hücre içine giren suyun fazlasını dışarı atarak homeostaziyi sağlar.
+
+Kamçılılar hücre çeperine sahip değildir. Bir ya da iki kamçı bulundurur ve dış kısmında pelikula denilen koruyucu bir kılıf taşır. Kamçı yardımıyla aktif olarak hareket eder. Kamçılarının kök kısmında göz lekesi olarak bilinen ışığa duyarlı bir yapı bulunur. Kloroplast içerdikleri için kendi besinlerini üretebilir. Fotosentez yapmak için yeterli ışığın olmadığı durumlarda ise dışarıdan hazır besin alabilir.
+
+Kök ayaklılar yalancı ayaklar yardımıyla hareket eder. En iyi bilinen örneği amiptir. Amipte belirgin bir hücre şekli yoktur ve sürekli şekil değiştirir. Amipler hareket edebilmek için hücre yüzeyinden geçici sitoplazmik uzantılar çıkarır. Bu şekilde hareket ederken aynı zamanda besinlerini de yakalar. Amiplerin bazı türleri, insanın ve birçok hayvanın sindirim sisteminde parazit yaşar. Örneğin; Entamoeba histolytica (Entamoeba histolitika), insan kalın bağırsağında parazit olarak yaşayan ve amipli dizanteriye sebep olan kök ayaklı bir canlıdır.
+
+Hücre yüzeyini çevreleyen sil adı verilen yapılar; hareketi, dış çevreden gelen uyarılara uygun tepkilerin verilmesini ve beslenmeyi sağlar. Sillilerin en bilinen örneği, şeklinden dolayı terliksi hayvan olarak bilinen Paramecium caudatum'dur.
+
+Sillilerin hücrelerinde biri büyük diğeri küçük olmak üzere iki çekirdek bulunur. Büyük çekirdek, hücre metabolizması ve eşeysiz üremeyi düzenlerken küçük çekirdek, gen aktarımından (konjugasyon) sorumludur. Tatlı sularda yaşayan türlerinde hücre içine giren fazla su, kontraktil kofulların enerji (ATP) harcayarak kasılıp gevşemesi sonucu hücre dışına atılır. Böylece bu kofullar hücre içindeki osmotik dengeyi sağlamış olur.
+
+Sporlular grubu içindeki en bilinen örnek, sıtma hastalığının etkeni olan Plasmodium malariae (Pılazmodiyum malarya)'dır. Anofel cinsi dişi sivrisinekle taşınır.
+
+Sporluların hareket organelleri olmadığı için pasif olarak hareket eder. Sporlular hücre içi paraziti olarak yaşar ve besin ihtiyacını üzerinde yaşadığı canlıdan karşılar. Üremeleri sporla gerçekleşir.
+
+Algler fotosentez yapar ve hücre çeperine sahiptir. Hem karasal hem de sucul ortamlarda yaşayan türleri vardır. Dünyada üretilen serbest oksijenin çok büyük bir kısmı algler tarafından üretilir. Bir hücreli olabildikleri gibi çok hücreli olanları da vardır. Plastitlerinde değişik renklerde pigment maddeleri bulunur. Algler; taşıdıkları pigmentlere göre yeşil, kahverengi (esmer), altın sarısı ve kırmızı olmak üzere farklı renklerde olabilir.
+
+Cıvık mantarlar, ipliksi yapıda ve belirgin bir hücre şeklinden yoksun olan canlı grubudur. Cıvık mantarlar, sitoplazmasında genellikle çok sayıda çekirdeğe sahip olması, amipsi hareket etmesi ve hücre çeperinin olmaması nedeniyle gerçek mantarlardan ayrılır. Cıvık mantarlar nemli bölgelerde yaşar, eşeyli veya eşeysiz olarak çoğalabilir. Ayrıştırıcı olarak beslendikleri için madde döngüsüne katkı sağlar.
+
+Denizlerde ve tatlı sularda yaşayan bazı protistlerin hücre duvarlarında silisyum bulunur. Protistler, öldükten sonra zemine çökerek organik tortul kayaçları oluşturur. Bu tortul, diş macunlarına parlatıcı olarak katılmakta ve binalarda yalıtım malzemesi olarak kullanılmaktadır. Algler protein, vitamin ve mineral içeriği yönünden zengin olmaları nedeniyle besin olarak tüketilir. Ayrıca endüstriyel, evsel ve canlı atıkların temizlenmesinde, antibiyotik üretiminde, kozmetik ve tıbbi ürünlerin yapımında, plastik ve boya üretiminde kullanılır. Algler, fotosentez yapabildiğinden deniz ve okyanuslarda yaşayan diğer canlıların besin ve oksijen kaynağıdır. Ayrıştırıcı protistler organik atıkları inorganik bileşenlerine ayrıştırdığı için madde döngüsünde etkilidir.
+
+# Bitkiler Âlemi
+
+Bitkiler, taşıdığı kloroplastları sayesinde güneş enerjisini biyokimyasal enerjiye çevirir. Yaprak hücrelerindeki kloroplastlarda bulunan klorofil molekülü sayesinde güneş ışığını soğurup elde ettiği enerji ile su, karbondioksit gibi inorganik maddelerden organik madde sentezi yapar ve atmosfere oksijen gazı verir. Bitkiler, fotosentez yoluyla ürettiği glikozu; kök, gövde, yumru, tohum, meyve gibi yapılarında nişasta olarak depolar. Ayrıca bitkilerin fotosentez yoluyla ürettiği ve depoladığı organik maddeler, besin zinciri yoluyla diğer canlılara aktarılır.
+
+Bitkiler; fotosentetik ototrof (fotoototrof) beslenen (tam parazit bitkiler hariç), gelişmiş organizasyona sahip, ökaryot çok hücreli canlılardır. Bazı bitki türleri yarı veya tam parazit olup diğer bitkilerin üzerinde yaşar. Ökse otu yarı parazit, küsküt otu tam parazit bitkiye örnek verilebilir.
+
+Bitki hücre zarının dış kısmında ağırlıklı olarak selülozdan oluşan hücre duvarı bulunur. Selüloz çeper sayesinde hücreler turgor durumunda kalabilir. Turgor durumu, bitkiye diklik verir ve destek sağlar. Bitkilerde yapraklar mumsu bir madde olan kütin ile kaplanmıştır. Çöl gibi kurak ortamlara uyum sağlayan bitkilerde ise yapraklar körelerek dikenlere dönüşmüş; gövde, oransal olarak yüzeyi azaltmak ve ısınmayı engelleyerek su kaybını önlemek amacıyla silindir veya küre şeklini almış ve su depolayabilen özel dokular geliştirmiştir.
+
+Bitkilerde genelde yaprakların alt yüzeyinde $O_2$ - $CO_2$ değişimini ve terlemeyi sağlayan, açılıp kapanabilen gözenek  (stoma) denilen açıklıklar bulunur. Gelişmiş yapılı bitkilerin toprağın üstündeki kısımlarına sürgün, toprağın altındaki kısımlarına kök denir. Bitkilerin kökleri, topraktan suyun ve suda çözünmüş hâlde bulunan mineral tuzların alınmasını sağlar. Fotosentez sonucu üretilen maddeleri depolar ve bitkiyi toprağa bağlar. Bitkilerin sürgün kısmında gövde, dal, yaprak, çiçek, meyve, tohum gibi yapılar bulunur.
+
+Bitkiler kök, gövde ve yaprakları ile eşeysiz; çiçek, meyve ve tohumlarıyla eşeyli olarak çoğalır. Bitkilerde eşeyli üreme spor veya tohumla gerçekleşir. Bazı bitkilerde tohum oluştuktan sonra meyve gelişir.
+
+Çok yıllık bitkilerde büyüme ve gelişme bitkinin tüm yaşamı boyunca devam eder. Bitkiler toprağa bağlı hâlde yaşadığından yer değiştirme hareketi yapamaz. Ancak bitkilerde yönelim ve ırganım hareketleri görülür. Ayrıca bitkiler eşeysiz ve eşeyli olarak üreyebilir. Yüksek yapılı bitkilerde bulunan ve damar adı verilen iletim demetleri suyun, minerallerin ve organik bileşiklerin bitkinin farklı organları arasında taşınmasını sağlar. Bitkiler tohum oluşturup oluşturmamasına ve iletim demeti bulundurup bulundurmamasına göre birbirinden ayırt edilebilir. Tohum oluşturamayan ilkel yapılı bitkiler, üremelerini eşeysiz yolla ve spor denilen yapılarla gerçekleştirir. Bu bitkilerin bir kısmında iletim demeti bulunurken bir kısmında bulunmaz. Kara yosunları ve ciğer otları damarsız tohumsuz; eğrelti otu ve atkuyruğu damarlı tohumsuz bitkilere; karahindiba damarlı tohumlu bitkilere örnek verilebilir.
+
+Canlıların büyük bir çoğunluğu, özellikle otobur olanları ihtiyaç duyduğu besinleri sadece bitkisel gıdalardan karşılar. Bitkiler; mevsimlerin düzenlenmesinde, erozyonun önlenmesinde, toprağın zenginleştirilmesinde önemlidir. Ayrıca canlılara yaşam ortamı sunar, su döngüsüne katkı sağlar, çevre kirliliğini önler, dünyayı ultraviyole ışınlardan koruyan ozon tabakasının oluşmasına yardımcı olur ve küresel ısınmayı engeller. Bitkiler besin kaynağı olmalarının dışında ilaç, kozmetik, boya, ahşap ve kâğıt endüstrisinde; inşaat sektörü ile biyoyakıt üretiminde kullanılmaktadır.
+
+# Mantarlar Âlemi
+
+Mantarlar dört gruba ayrılır. Mantarlar çok hücreli (maya mantarları hariç), ökaryot hücre yapısına sahip organizmalardır. Ayrıştırıcı veya parazit olarak beslenen türleri vardır. Ayrıca ayrıştırıcı mantarlar, hücre dışına salgıladığı enzimler yoluyla organik atıkları inorganik maddelere dönüştürür. Mantarlar, doğadaki madde döngülerinde rol oynadığından ekosistemlerin devamlılığı açısından önemlidir. Parazit mantarlar insanlarda, hayvanlarda ve bitkilerde çeşitli hastalıklara yol açar. Örneğin; Pneumocystis carinii (Pünomosistis karini) adlı parazit mantar, insanlarda çok tehlikeli akciğer enfeksiyonlarına yol açar. Puccinia graminis (Puksinia gıraminis) ise tahıl grubu bitkilerin yapraklarında pas hastalığına neden olur.
+
+Mantar hücreleri, bir veya birden fazla çekirdeğe, kitinden yapılmış hücre duvarına sahiptir. Genellikle nemli ortamlarda yaşar. Ayrıca kök, gövde, yaprak gibi özelleşmiş yapılar bulundurmaz. Mantarlar, glikozu glikojen olarak depo etmesi ve tüketici olarak beslenmesi nedeniyle hayvanlara; aktif hareket edemediği için de bitkilere benzer. Çok hücreli mantarlar hif adı verilen iplikçiklerden oluşur. Hifler bir araya gelerek miselyum denilen iç içe geçmiş yapıları oluşturur. Miselyumlar mantarın bulunduğu ortama tutunmasında, yayılmasında ve beslenmesinde etkilidir. Bazı mantar türleri, bitki ve alglerle karşılıklı faydaya dayalı ortak yaşam şekilleri oluşturur. Bitkilerin köklerine yerleşen bazı mantar türleri bitkinin topraktan su, fosfor, azot gibi maddeleri almalarını kolaylaştırır. Bitkiler ise mantarlara organik besin sağlar. Mantarların ürettiği etken maddeler bitkiyi parazitlere karşı korur. Mantarlar alglerle liken adı verilen yaşam birliğini oluşturur.
+
+Bazı mantarların ürettiği metabolik son ürünlerin zehirleyici etkisi vardır. Bazı mantarlardan elde edilen etken maddeler, bakteriyel hastalıkların tedavisinde ve tarımsal mücadelede ilaç yapımında ve hatta biyolojik silah yapımında kullanılmaktadır. Mantarlarda genellikle eşeyli ve eşeysiz üremenin birbirini takip ettiği özel bir üreme şekli görülür. Üreme sırasında meydana getirilen sporlar; rüzgâr, su ve böceklerin etkisiyle çevreye dağılır. Sporlar çevre şartlarına oldukça dayanıklı olup yıllarca canlılığını koruyabilir. Bazı mantar türlerinde ise ikiye bölünme veya tomurcuklanma ile eşeysiz üreme görülür.
+
+Mantarlar, organik atıkları inorganik maddelere dönüştüren ayrıştırıcı organizmalardır. Bu nedenle yeryüzünde madde döngüsünde çok önemlidir. Maya mantarları fermantasyon yapabilme özelliği olduğu için gıda, deterjan ve ilaç sanayinde; peynir, alkol, antibiyotik ve ekmek yapımında kullanılır. Ayrıca bazı küf mantarlarından elde edilen antibiyotikler, bakterilerin yaşamsal faaliyetlerini engellediğinden bakteriyel hastalıkların tedavisinde kullanılır. Protein, B vitamini ve mineral bakımından zengin olduğundan zehirsiz bazı şapkalı mantar türleri insanlar tarafından besin olarak tüketilmektedir.
+
+# Hayvanlar Âlemi-Omurgasız Hayvanlar
+
+Hayvanlar; ökaryot, çok hücreli, aktif olarak yer değiştirebilen ve heterotrof beslenen canlılardır. Ihtiyaç duyduğu enerjiyi oksijenli solunum ile elde eder. Ayrıca hayvanların çoğu eşeyli ürer. Bazı hayvanlarda eşeyli üremenin yanında eşeysiz üreme de görülür. Hayvanların büyümeleri ve gelişmeleri sınırlıdır. Hayvanlar âlemi, omurgasızlar ve omurgalılar şeklinde iki gruba ayrılır.
+
+Hayvanlar âleminin en geniş grubudur. Kıkırdak ve kemikten oluşan iç iskeletleri ve vücutlarının sırt kısmında omurga yoktur. Sinir şeritleri karın kısmındadır. Bazılarında dış, bazılarında iç iskelet bulunur. Ayrıca bazıları suda, bazıları karada yaşar. Omurgasız hayvanlarda genellikle açık kan dolaşımı görülür. Açık kan dolaşımında kan, damarlar ve dokular arasındaki boşluklarda dolaşır. Kapalı kan dolaşımında ise kan tamamen damar içinde dolaşır. Büyük bir kısmı eşeyli, küçük bir kısmı ise tomurcuklanma veya rejenerasyonla eşeysiz olarak çoğalır.
+
+Omurgasız hayvanlar altı grupta incelenir. Süngerler; çoğunlukla denizlerde zemine bağlı olarak yaşayan, en basit organizasyona sahip, gelişmiş sistemleri bulunmayan hayvanlardır. Vücutları; torba, kadeh veya vazo şeklindedir. Ayrıca süngerlerin vücudu çok sayıda açıklığa sahiptir. Bu açıklıklardan giren su ile süngerlerin vücut hücreleri arasında gaz alışverişi, besin alımı ve atıkların uzaklaştırılması sağlanır. Süngerler, yakaladığı mikroskobik organizmaları ve organik parçacıkları hücre içi sindirim yoluyla parçalar. Süngerler, eşeyli ve eşeysiz yolla üreyebilir. Çoğu sünger çift eşeylidir (hermafrodit). Hem yumurta hem sperm üretir. Kendini yenileme yetenekleri yüksektir. Çok küçük parçalara kesilseler de her bir parçadan yeni bir canlı meydana gelebilir.
+
+Sölenterler, süngerlerden daha gelişmiş organizasyona sahip sucul hayvanlardır. Hidra, denizanası, denizşakayığı ve mercanlar sölenterlere örnektir. Sölenterlerde, sabit ve serbest yüzücü olmak üzere iki genel vücut formu vardır. Mercanlar, hidralar ve denizşakayığı sabit; denizanaları ise yüzücü sölenter örnekleridir. Ayrıca doku düzeyinde bir organizasyon gösteren sölenterlerde kas ve sinir dokuları, üreme ile ilgili yapılar bulunur.
+
+Solunum ve boşaltım sistemleri yoktur. Sölenterlerin hücrelerinin çoğu çevresindeki suyla doğrudan temas hâlinde olduğundan her türlü madde alışverişi vücut yüzeyi aracılığıyla yapılır. Ayrıca bazı sölenter türleri, diğer canlılarla karşılıklı faydaya dayalı ortak yaşam şekilleri oluşturabilir. Deniz anemonu ile palyaço balığı arasında bu şekilde bir birliktelik vardır. Hayvanlar âleminde sinir hücrelerine ilk kez sölenterlerde rastlanır. Sölenterlerin bazıları avcılardan korunmak, avlanmak, kendi türüyle veya diğer türlerle ilişki kurmak için çoğunlukla su tarafından daha az soğurulan mavi renkli bir ışık çıkarır. Buna biyolüminesans denir. Sölenterlerde eşeyli ve eşeysiz çoğalmanın birbirini takip ettiği özel bir üreme şekli görülür. Bazıları ise tomurcuklanma ile ürer.
+
+Solucanların vücutları, genellikle yuvarlak veya yassı şekillidir. Bazılarında vücut bölmelere ayrılmıştır. Ayrıca doku ve organ farklılaşması görülen ilk omurgasız canlı grubudur. Derileri nemli olup vücut yüzeyinden deri solunumu yaparlar. Boşaltım atıkları amonyaktır. Toprak veya suda serbest yaşayan türlerinin yanında parazit yaşayanları da vardır. Tenya, bağırsak solucanı, kıl kurdu gibi türleri omurgalı hayvanların sindirim sisteminde parazit yaşar. Eşeyli olarak üremelerine rağmen bazı türleri eşeysiz olarak rejenerasyonla çoğalabilir. Çift eşeyli olanlarında (hermafrodit) hem yumurta hem sperm üretilir. Ancak solucanlarda genellikle kendi kendini dölleme görülmez. Planarya, tenya, bağırsak solucanı, toprak solucanı ve sülük bu gruba ait hayvanlardır.
+
+Yumuşakçalar, eklem bacaklılardan sonraki ikinci en büyük omurgasız hayvan grubudur. Vücut büyüklüğü 1milimetre olan küçük bir salyangozdan, boyu 16 metreye ve vücut ağırlığı 2 tona ulaşabilen dev mürekkep balığına kadar değişen türleri vardır. Ayrıca yumuşakçalar tuzlu ve tatlı su ile karada yaşar.
+
+Suda yaşayanlar solungaçlarla, karada yaşayanlar ise kabuk altındaki genişlemiş yüzeyle solunum yaparlar. Çoğu yumuşakçada açık dolaşım görülür. Ahtapotta ve kalamarda ise dolaşım kapalıdır. Yumuşakçalar eşeyli olarak çoğalır. Birçok salyangoz hermafrodittir. Ayrıca bazı türlerinde, pürüzsüz ve parlak sedef tabakası bulunur. Midyeler, silleri yardımıyla solungaçları üzerindeki mukusa yapışan mikroorganizmaları yiyerek beslenir. Ahtapot, mürekkep balığı, salyangoz, istiridye yumuşakçalara örnek verilebilir. Yumuşakçaların pek çok çeşidi insanlar tarafından besin maddesi olarak tüketilir. İstiridyelerden elde edilen inci ise sedef, takı ve süs eşyası yapımında kullanılmaktadır.
+
+Eklem bacaklılar, karasal hayata başarılı şekilde uyum sağlamış; dünya üzerinde geniş alanlara yayılmış omurgasız canlılardır. Eklem bacaklılarda bulunan dayanıklı ve hafif dış iskelet, uçmayı kolaylaştırır ve hemen altındaki iç organları korur. Dış iskelet, esnek olmadığından büyümeyi sınırlar. Bu nedenle eklem bacaklılarda embriyonel dönemde başkalaşım  (metamorfoz) ve ergin dönemde deri değiştirme olayı görülür. Ayrıca eklem bacaklıların hareket organları; yürüme, yüzme, sıçrama, zıplama, uçma, yakalama, kazma, delme gibi değişik işlevleri yerine getirir. Kanat, hayvanlar âlemi içerisinde ilk olarak böceklerde görülür. Eklem bacaklılarda beslenme tiplerine göre ağız yapıları; kesme, delme, çiğneme, yalama veya emme görevlerini yerine getirecek şekilde özelleşmiştir. Solunum çoğunda trakelerle, örümceklerde kitapsı akciğerlerle, suda yaşayanlarda ise solungaçlarla olur. Böceklerin dolaşım sıvısında solunum gazlarının taşınmasını sağlayan pigment bulunmaz. Eklem bacaklılar açık dolaşım sistemine sahiptir. Boşaltım atıkları ürik asittir. Eklem bacaklılar ayrı eşeyli canlılardır. Bazı türleri hermafrodittir. Döllenme, dişi bireyin vücudu içerisinde gerçekleşir. Eklem bacaklılara yengeç, karides, ıstakoz, akrep, kene, örümcek, çekirge, kelebek, sinek, dev arı, kırkayak, çıyan gibi canlılar örnek olarak verilebilir.
+
+Derisi dikenliler, tamamı denizlerde ve okyanuslarda yaşayan omurgasız canlılardır. Derisi dikenlilerin hemen hemen hepsi destek ve koruma görevi gören, iskelete ait dikenlere sahiptir. Bu canlılara özgü su-damar sistemi ile bağlantılı tüp ayaklar; hareket, solunum, beslenme ve boşaltımda görevlidir. Solunum, solungaç veya tüp ayaklar yoluyla yapılır. Ayrıca denizyıldızı, denizhıyarı, denizkestanesi, denizlâlesi ve yılan yıldızları derisi dikenliler grubuna dâhil canlılardır. Derisi dikenliler eşeyli ve rejenerasyonla eşeysiz olarak çoğalabilir.
+
+Süngerler, ev ve vücut temizliği ile kozmetik alanında; mercan ve istiridyeler şekil, renk ve desen bakımından göz alıcı ve ilgi çekici olduğundan süs eşyalarının yapımında; bazı solucanlar ise balık üretim çiftliklerinde yem olarak ve tarımda gübre yapımında kullanılmaktadır. Böcekler, kuşlar bitkilerin tozlaşmasını sağlayan en önemli canlı türleridir. Bu açıdan ekolojik dengenin devamında önemli bir rol oynar. Bazı böcek türleri; gıda ve ilaç temininde, kozmetik malzemelerin üretiminde ve ipek kumaş yapımında kullanılır. Ayrıca biyolojik mücadelede zararlı böcek türlerine karşı doğal avcı olarak da kullanılmaktadır.
+
+# Hayvanlar Âlemi-Omurgalı Hayvanlar
+
+Omurgalıların en ayırıcı özelliği, vücutlarının sırt kısmında birbirini takip eden omurlardan yapılmış bir omurgaya sahip olmalarıdır. Omurgalı hayvanlarda kıkırdak veya kemikten yapılmış bir iç iskelet ile vücudun sırt kısmında bir sinir kordonu bulunur. Ayrıca ilkel omurgalılarda iskelet kıkırdak hâlinde olup gelişmiş omurgalılara doğru gidildikçe kemikleşmeye başlar. Bütün omurgalılarda kapalı dolaşım sistemi görülür. Kalp yapısı, balıklardan memelilere doğru gidildikçe gelişir. Kalpleri en az iki, en çok dört odacık ihtiva eder. Suda yaşayanlar solungaç, karada yaşayanlar akciğer solunumu yapar. Alyuvar hücrelerinde solunum pigmenti olarak kana kırmızı renk veren hemoglobin bulunur. Sindirim sistemleri, farklı birçok görevi yerine getiren özelleşmiş bölgeler içerir. Besinlerini katı parçalar hâlinde alıp çiğneyerek yutan omurgalıların otobur, etobur, hem otobur hem etobur olan türleri vardır. Boşaltım organları böbrek, boşaltım atıkları amonyak, üre veya ürik asittir. Boşaltım ve üreme organı açıklıkları, tek veya ayrı ayrı olarak bulunur. Omurgalıların tümü eşeyli yolla ürer. Balık ve iki yaşamlılarda dış döllenme; sürüngen, kuş ve memelilerde iç döllenme görülür. Bazılarında yavru bakımı vardır. Omurgalı hayvanlar beş gruba ayrılarak incelenir:
+
+Balıklar, tatlı ve tuzlu sularda yaşar. Vücutları, suyu geçirimsiz pullarla kaplıdır. Köpek balığı, çekiç balığı, vatoz gibi türlerinde kıkırdaktan; hamsi, sazan, levrek gibi türlerinde kemikten yapılmış iç iskelet bulunur. Ayrıca köpek balıkları gibi bazı balıklar hariç diğer tüm balıklarda dış döllenme ve dış gelişme görülür. Genelde yavru bakımı yoktur. Vücut ısıları, dış ortam sıcaklığına bağlı olarak değişen canlılardır. Balıklar kış uykusuna yatmaz. Solungaç solunumu yapar. Boşaltım atıkları amonyaktır. Kalpleri iki odacıklıdır. Kalplerinde sadece kirli kan bulunur. Kalpten pompalanan kan, solungaçlarda temizlendikten sonra kalbe geri dönmeden vücuda gönderilir. Çoğu balıkta suda batmadan kalmayı sağlayan hava kesesi bulunurken köpek balıklarında bulunmaz. Bu nedenle köpek balıkları batmamak için sürekli yüzmek zorundadır.
+
+İki yaşamlılar, tatlı sularda ve nemli karasal bölgelerde yaşamaya uyum sağladığından bu şekilde adlandırılır. Ayrı eşeyli canlılardır. Ayrıca döllenme ve embriyonel gelişmeleri suda gerçekleşir. Embriyonel gelişimini tamamlamadan yumurtadan çıkan yavrulara larva adı verilir. Larvalar, başkalaşım geçirip ergin canlılara dönüşür. İki yaşamlıların birçoğunda yavru bakımı görülmez. İki yaşamlılarda larva döneminde solungaç, ergin döneminde ise akciğer ve deri solunumu görülür. Derileri daima nemli ve kaygandır. Iki yaşamlılar kış uykusuna yatarlar. Boşaltım organları böbrekler olup boşaltım atığı embriyonel dönemde amonyak, ergin dönemde üredir. Bacaksız kurbağa, ağaç kurbağası, yılan balığı semenderi ve semender bu gruba örnek olarak verilebilir.
+
+Omurgalılar içerisinde karasal hayata uyum sağlayan ilk gruptur. Karada ve suda yaşayan türleri vardır. Vücutları, keratinden yapılmış pullarla ve kemiksi plakalarla kaplıdır. Kertenkele ve yılanlarda pullu deri, büyümeyi engellediğinden zaman zaman yenilenir. Buna deri (gömlek) değişimi denir. Ayrıca akciğer solunumu yaparlar. Vücut ısıları çevre sıcaklığına bağlı olarak değişen ayrı eşeyli canlılardır. İç döllenme ve dış gelişme görülür. Üremek için suya ihtiyaç duymazlar. Sürüngenlerde kuluçkaya yatma, yavru bakımı ve başkalaşım görülmez. Kertenkele, bukalemun, geko, timsah, yılan, su kaplumbağası sürüngenler grubuna dâhil canlılardır.
+
+Kuşlar, omurgalı hayvanlar arasında uçabilen türler bulunduran ilk gruptur. Vücutları keratinden yapılmış pul, tüy ve teleklerle kaplı canlılardır. Çene gagaya dönüşmüştür. Dişleri yoktur. Beslenme tipine göre gagaları; delmeye, parçalamaya veya yakalamaya uyum sağlayacak biçimde şekillenmiştir. Ayrıca kuşlar akciğerleriyle solunum yapar. Soluk alıp vermeye yardımcı olan ve uçmayı kolaylaştıran akciğerlere bağlı hava keseleri vardır. Kalpleri, dört odacıklı olup kirli ve temiz kan tamamen birbirinden ayrılmıştır. Kuşlar vücut ısıları sabit canlılardır. Kuşların uzun kemiklerinin içi hava odaları ile doludur. Bu özellik, iskeletin daha hafif olmasını sağlayarak uçmayı kolaylaştırır. Kuşların ön üyeleri, uçmayı sağlayan kanatlara dönüşmüştür. Bazı kuşlarda kanatlar körelmiştir. Arka üyeler ise yürümeye, yüzmeye, tırmanmaya, koşmaya ve eşmeye uyum göstermiştir. Koku alma duyuları körelmişse de görme ve işitme yetenekleri yüksektir.
+
+Yunus, balina gibi suda yaşayanların dışındaki memeli canlıların genelinin vücutları ısı kaybını engelleyen, kıllardan oluşan, kalın bir örtüyle kaplıdır. Memeliler sıcakkanlıdır. Ayrıca memelilerde solunum organı akciğerlerdir. Alveollü akciğerlerinin olması ve olgun alyuvarlarında çekirdek bulunmaması sayesinde kanın oksijen taşıma kapasitesi yüksektir. Göğüs ile karın boşluğunu birbirinden ayıran ve solunuma yardımcı olan kaslı bir diyaframları bulunur. Memeliler dört odacıklı kalbe sahiptir. Kirli ve temiz kan dolaşımı tamamen birbirinden ayrılmış olup sabit vücut ısılı canlılardır. Embriyolojik dönemde üyeler; yaşadığı ortama uygun olarak tutma, koşma, yakalama, uçma, yüzme gibi fonksiyonları yerine getirecek şekilde değişime uğramıştır. Derilerinde ter, yağ, süt bezleri gibi salgı bezleri bulunur. Boşaltım organları böbrekler, boşaltım atıkları ise üredir. Üreme ve boşaltım sistemleri birbirinden ayrılmıştır. Memelilerde çoğunlukla iç döllenme ve iç gelişme görülür. Birçoğunun ana rahminde, embriyonun beslenmesini sağlayan plasenta bulunur. Bazı türlerinde gelişimini tamamlamadan doğan yavru, gelişimini süt bezleri bulunan özel bir kesede tamamlar.
+
+Memeliler çoğunlukla yavrularını doğurur. Kanguru (keseli memeli), ornitorenk (gagalı memeli), fil, ceylan, yarasa, maymun ve fare gibi canlılar memeli grubuna örnektir.
+
+Balıklar; vücut için gerekli olan protein, esansiyel yağ, vitamin ve mineral kaynağıdır. Balıklar aynı zamanda boya ve kozmetik sanayisinde kullanılır. Yılan, örümcek, akrep gibi canlıların zehirlerinden bazı ilaçlar ve antikorlar üretilmektedir. Kümes hayvanlarının eti, yumurtası, tüyleri ve gübresi ekonomik ve ekolojik açıdan değerlidir. Özellikle kuş gübresi; fosfor, azot, potasyum gibi mineraller açısından oldukça zengindir. Ayrıca memelilerin eti, sütü, derisi ve kemikleri önemlidir. Derilerinden ve postlarından ayakkabı, çanta, kemer, cüzdan gibi eşyalar üretilir.
+
+# Virüsler
+
+Virüsler, biyolojik varlıklar olarak kabul edilseler de hiçbir canlı âlemi altında sınıflandırılamayan özel bir gruptur.
+
+Virüsler; protein kılıf ile sarılmış, DNA veya RNA'ya sahip cansız ile canlılar arasındaki geçiş formudur. Elektron mikroskopları ile görülebilen çubuk, küre, elips veya spiral şekilli nükleoprotein taneciğidir. Kendilerine ait sitoplazmaları ve enzim sistemleri bulunmadığından metabolik aktivite gerçekleştiremezler.
+
+Virüsler sadece hücre içerisinde canlılık özelliği gösterebilen zorunlu hücre içi parazitlerdir. Canlı dışındaki ortamlarda kristalleşirler. Virüsler belirli bir canlıyı, o canlının belirli bir dokusunu ve o dokudaki belirli bir hücreyi enfekte edebilir. Örneğin; hepatit virüsü karaciğeri, kuduz ve çocuk felci virüsü sinir hücrelerini, suçiçeği ve uçuk virüsü deri hücrelerini ve HIV ise akyuvar hücrelerini enfekte eder. Virüsler; pH, radyasyon, sıcaklık değişimlerinden ve kimyasal maddelerden çabuk etkilenir.
+
+Virüsler, enzim sistemlerine sahip olmadığı için antibiyotiklerden etkilenmez. Hava, su, doğrudan temas, vücut sıvıları ve diğer canlılar yoluyla bulaşıp hastalıklara yol açar. Viral hastalıklara karşı bağışıklığı sağlamak amacıyla aşı, koruyucu ve tedavi edici olarak da serumlar kullanılır.
+
+Virüsler, mutasyona kolay uğradığından hızlı bir şekilde form ve konak değiştirebilir. Virüsle enfekte olan insan hücreleri, virüse karşı savunma sağlayan interferon denilen bir protein salgılar.
+
+Virüsler kullanılarak çok sayıda deneysel çalışma yapılmıştır. Virüsler sayesinde DNA eşlenmesinin mekanizması ve birçok hastalığın oluşumu aydınlatılmıştır. Genetik mühendisleri virüsleri kullanarak bir organizmadan diğerine gen aktarımı yapabilmişlerdir. Bu sayede biyoteknoloji ve tıp alanında önemli gelişmeler kaydedilmektedir. Örneğin; virüsler, kanser ve bazı kalıtsal hastalıkların gen terapisi ile tedavi edilmesinde yeni imkânlar sunmaktadır.
+
+Virüsler, konak hücrenin enzim ve enerji sistemleri ile ham madde kaynaklarını kullanarak kendilerini hızlı bir şekilde çoğaltır. Bakteriyofajlar da bakteri hücrelerinde çoğalır.
+
+Grip virüsleri; genetik materyali RNA olan, üst solunum yollarına etki eden, hava yoluyla bulaşabilen virüslerdir. Grip, virüs enfeksiyonu olduğu için antibiyotik ile tedavi edilemez. Ayrıca doktor kontrolü altında 3-5 gün istirahat edilmesi gerekir.
+
+Uçuk, Herpes simplex (Herpes simpleks) adı verilen virüsün neden olduğu bulaşıcı bir cilt hastalığıdır. Uçuk hastalığında ağız kenarlarında, dudaklarda ve genital bölgede içi sıvı dolu küçük kabarcıklar oluşur. Ayrıca bu dönemde virüs oldukça bulaşıcıdır. Hastalığın bulaşmaması için hasta kişinin özel eşyaları kullanılmamalı ve hasta ile doğrudan temas edilmemelidir. Kabarcıkların patlaması virüsün yayılmasına neden olur. Virüsle enfekte olmuş bölgede karıncalanma, kaşınma, yanma gibi belirtiler görülür. Bu belirtiler hissedildiğinde enfekte bölgeye tıbbi uçuk kremi sürülmeli ve soğuk kompres uygulanmalıdır.
+
+Genellikle kedi, köpek, tilki, sincap, yarasa gibi memeli canlılar arasında yaygındır. Seyrek olarak insana geçer. Kuduz virüsü konak canlının sinir hücrelerini enfekte eder. Bütün memeli canlılar kuduz hastalığına yakalanabilmelerine karşın bazı türleri hastalığı bulaştırır. Ayrıca kuduz hastalığından korunmanın en etkili yolu aşı olmaktır.
+
+Hepatit B, sarılık hastalığının bir çeşididir. Hepatite sebep olan virüslerin A, B, C, D ve E şeklinde çeşitleri vardır. Bu virüsler karaciğer hücrelerini enfekte ederek kanser, siroz gibi ciddi hastalıklara yol açar. Hepatit B virüsü; kan, vücut sıvıları ve doğrudan temas sonucu bulaşabilir. Özellikle insanların toplu olarak bulunduğu, beslendiği yerlerde bu hastalığın bulaşma riski artmaktadır. Ayrıca hepatit B virüsü vücuda girdikten sonra 40 ila 80 gün arasında değişen uzun bir kuluçka dönemi geçirir. Baş ağrısı, ateş, yorgunluk, hâlsizlik, kırıklık, iştahsızlık, bulantı, kusma, karın ağrısı, üşüme gibi enfeksiyon belirtileri görülür. Virüs, karaciğer hücrelerini tahrip ederek fonksiyonlarını bozar. Bu hastalıktan korunmak için hijyen kurallarına uyulmalı ve aşı olunmalıdır.
+
+AIDS, Edinilmiş Bağışıklık Yetmezliği Sendromu anlamına gelen İngilizce kelimelerinin baş harflerinden oluşan, insan bağışıklık yetmezliği virüsünün (HIV) sebep olduğu çok tehlikeli bir hastalıktır. Virüs, hasta kişinin bağışıklık sisteminin tamamen çökmesine ve diğer basit hastalıklardan bile ölmesine yol açmaktadır. Ayrıca güvenli olmayan cinsel ilişki, hijyenik olmayan cerrahi müdahaleler, kanında HIV bulunan kişinin kanının sağlıklı kişiye transferi gibi yollarla bulaşan bir hastalıktır.
+
+Gece terlemeleri, yüksek ateş, hızlı kilo kaybı, hâlsizlik, devamlı öksürük, özellikle ağızda mantar enfeksiyonu, deri döküntüleri, sindirim sistemi bozuklukları, menenjit gibi hastalıkların görülmesi AIDS hastalığının belirtileridir.
+
+Viral hastalıklardan korunmak için yapılması gerekenler şunlardır: Yemekten önce ve sonra, tuvaletten önce ve sonra eller sabun ve bol su ile iyice yıkanmalıdır. Kişisel temizliğe ve hijyene özen gösterilmeli, hastalık durumunda insanlarla doğrudan temastan kaçınılmalı. Ayrıca toplu yaşanılan yerlerde öksürürken, aksırırken ağız bir mendille kapatılmalı. Sokaklara tükürülmemeli. Islak veya kâğıt mendil ya da havlu kullanmalı. Içme ve kullanma suyu ihtiyacı güvenli kaynaklardan karşılanmalı, şüpheli durumlarda içme suları kaynatılmalı veya klorlanmalı. Çiğ tüketilen meyve ve sebzeler, bol su ile yıkandıktan sonra tüketilmeli. Gıdalar, olabildiğince taze tüketilmeli ve buzdolabında saklanmalı, açıkta satılan ve son kullanma tarihi geçmiş ürünlerden kaçınmalı. Pastörize edilmiş ya da UHT (çok yüksek sıcaklık) yöntemi ile paketlenmiş sütler tüketilmeli, açıkta satılan sütlerden alınmamalı. Ayrıca hayvansal gıdalar iyice pişirilmeli, soğuk hava odalarında saklanmalı. Ayrıca hastalıklara karşı aşı yaptırılmalıdır.
+
+# Hücre Bölünmesinin Gerekliliği, Hücre Döngüsü ve İnterfaz
+
+Hücre bölünmesi; canlılarda genel olarak üremeyi, büyümeyi, gelişmeyi ve hasar görmüş yapıların onarımını sağlar. Sitoplazmanın hücre yüzey oranına göre aşırı artması, çekirdeğin kontrol gücünün azalması ve hormonların uyarıcı etkisi bölünme için gerekli faaliyetleri başlatır. Büyüme sırasında hacim-yüzey oranı bozulur, yüzey artışı hacim artışına yetersiz kalır ve kontrol gücü azalan çekirdek bölünme emrini verir.
+
+Bölünme hızı, her canlıda hatta aynı bireyin değişik dokularında farklılık gösterebilir. Örneğin; kemik iliği, epitel doku hücreleri ve embriyo hücreleri hızlı bölünebilirken ileri derecede özelleşmiş bazı sinir hücreleri bölünmez. Bu kavramların tanımlarını bilmek önemlidir: DNA, canlıların genetik bilgilerini içeren yönetici moleküldür. Nükleotit, nükleik asitlerin anlamlı yapı birimidir. Gen, DNA'da (bazı virüslerde RNA'da) özgül bir nükleotit dizisinden oluşmuş kalıtsal bilgiyi taşıyan birimdir. Kromatin, ökaryot bir hücrenin kromozomunu oluşturan DNA ve protein kompleksidir. Kromozom, bölünme sırasında kromatin ipliklerin kısalıp kalınlaşarak özel katlanmalar sonucu oluşturduğu yapıdır. Kromatit, eşlenen bir kromozomun iki parçasından her biridir; kardeş kromatit ise bir kromozomun birbirinin kopyası olan iki kromatitine verilen addır. Sentromer kardeş kromatitleri bir arada tutan bölgedir; kinetokor ise sentromerde bulunan ve iğ ipliklerinin bağlandığı proteinlerdir. Kromozomların sayıları ve şekilleri bir canlı türünün sağlıklı bireylerinde kural olarak belli ve sabittir. Ayrıca canlının organizasyon ya da gelişmişlik derecesi kromozom sayısı ile belirlenemez. Canlıların gelişmişliğini kromozomlar üzerindeki genler belirler. Aynı kromozom sayısına sahip farklı türler olabilir. Goril, patates ve kırmızı karınca farklı türler olmasına rağmen kromozom sayıları 48'dir. Yeni oluşmuş bir hücrenin bölünerek yeni hücreler meydana getirmesi sürecine hücre döngüsü denir.
+
+Hücre döngüsü iki ana evreden oluşmaktadır. Hazırlık sürecine karşılık gelen interfaz evresinin ardından bölünme evresi olan mitotik evre gelir. Mitotik evre kendi içinde çekirdek bölünmesini kapsayan karyokinez ile sitoplazma bölünmesini kapsayan sitokineze ayrılır. Yaşamsal faaliyetlerin devam ettiği hücrenin hızla büyüdüğü, metabolizmanın hızlandığı ve bölünme ile ilgili hazırlıkların yapıldığı en uzun evredir.
+
+İnterfaz evresinde hücrenin hacmi artar, DNA replikasyonu gerçekleşir, bazı organellerin sayısı artar ve ATP ile protein sentezi gibi metabolik olaylar hızlanır. Hayvan hücrelerinde sentrozom eşlenmesi görülürken bitki hücrelerinde sentrozom bulunmadığından bu olay gerçekleşmez.
+
+Hücre döngüsünün süresi, aynı canlının farklı dokularında değişiklik gösterebilir. Hücre döngüsünün süresi, farklı canlı türlerinde değişiklik gösterebilir. Ayrıca çok hücreli organizmaların bazı hücreleri gerekli durumlarda bölünürken bazı hücreleri bölünmeyebilir. Embriyo hücreleri tam büyümeden DNA replikasyonu gerçekleşir.
+
+Embriyonik hücreler bölünecekse  $G_1$  evresi görülmeden S evresine geçilir. Daha sonra  $G_2$  evresini geçirir. Bu sebeple embriyonik hücreler, hücre döngülerini daha kısa sürede tamamlar.
+
+$G_1$ evresinde metabolik olaylar yoğun şekilde sürer. Madde alışverişi, sentez ve yıkım reaksiyonları, organel yapımı (mitokondri, endoplazmik retikulum gibi), RNA sentezi devam eder; hücreler bu evrede hızlı büyür. S evresinde DNA kendini eşler ve her genin bir kopyası oluşur, DNA miktarı iki katına çıkar. $G_2$ evresinde protein, enzim ve RNA sentezi devam eder; sitoplazmik organel sayısı artar.
+
+# Mitozun Genel Özellikleri ve Evreleri
+
+Mitoz; tek hücreli ökaryotlarda üremeyi sağlarken çok hücrelilerde organizmanın büyümesini, gelişmesini ve yıpranan kısımların onarılmasını sağlar. Ancak hücre gibi karmaşık bir yapının bölünmesi sadece ikiye ayrılma şeklinde gerçekleşen basit bir olay değildir. Mitozun diğer bir amacı da ana hücredeki kalıtım maddesinin yavru hücrelere aynen ve eşit şekilde aktarılmasıdır. Mitoz, interfazın sonu ile başlayan ve birbirini takip eden evrelerden oluşur.
+
+Hücre bölünmesi interfaz ve mitotik evre olmak üzere iki temel aşamadan oluşmaktadır. Mitotik evre de kendi içinde iki alt aşamaya ayrılır: çekirdek bölünmesi olan mitoz (karyokinez) ve sitoplazma bölünmesi olan sitokinez. Mitozun dört alt evresi ise sırasıyla profaz, metafaz, anafaz ve telofazdır. Bazı hücre tiplerinin mitoz yeteneği yoktur. Örneğin, memelilerin kanında bulunan alyuvar hücreleri olgunlaşırken çekirdeklerini kaybeder. Bu hücreler mitoz geçiremediği için bir süre sonra ölür ve kemik iliği tarafından yeni alyuvar hücreleri üretilir.
+
+Mitotik evre, bölünme ile ilgili tüm hazırlıklar yapıldıktan sonra bölünmenin gerçekleştiği evredir. Farklı kromozom takımlarına sahip (n, 2n, 3n gibi) hücrelerde gerçekleşebilir.
+
+Ökaryotik tek hücrelilerde üremeyi; çok hücrelilerde ise çoğunlukla büyümeyi, gelişmeyi, yenilenmeyi, kromozom yapısı ve sayısı değişmediğinden kalıtsal devamlılığı sağlar.
+
+1. Mitoz (Karyokinez): Profaz, metafaz, anafaz ve telofaz olmak üzere dört evrede gerçekleşir. Profaz başlangıcında kromatin iplikler kısalarak kromozom hâlini almaya başlar. Çekirdekçikler kaybolur. Ayrıca çekirdek zarı ve endoplazmik retikulum parçalanmaya başlar. Mitotik iğ iplikleri oluşur. Her bir kromozom sentromer bölgelerinden birbirine tutunmuş özdeş iki kromatitten oluşur. Sentrozoma sahip olan hücrelerde interfazda eşlenen sentrozomlar, birbirinden uzaklaşır ve zıt kutuplara doğru gider. Profaz sonuna doğru çekirdek zarı parçalanır.
+
+İğ ipliklerine kinetokorlarından tutunmuş kromozomlar, hücrenin ekvatoral düzleminde (metafaz plağı) yan yana dizilir. Metafaz, kromozomların en belirgin görüldüğü evredir.
+
+Kardeş kromatitler ayrılarak zıt kutuplara çekilir. Bu olay, anafazın başlangıcı olarak kabul edilir. Kardeş kromatitler, kutuplara gitmek üzere ayrıldığında artık kromozom olarak adlandırılır. Ayrıca kromozomlar kutuplara ulaştığında anafaz tamamlanır.
+
+Çekirdek zarının yeniden oluşmasıyla iki çekirdekli bir hücre oluşur. Iğ iplikleri kaybolur. Ayrıca çekirdekçikler yeniden oluşur. Kromozomlar kromatin ipliklere dönüşür ve çekirdek bölünmesi tamamlanır. Genellikle telofazın sonuna doğru bitki hücrelerinde orta lamel (ara plak) oluşumu, hayvan hücrelerinde sitoplazma boğumlanması başlar.
+
+Profazda meydana gelen olaylar, bitki hücrelerinde hayvan hücrelerine göre farklılıklar gösterir. Bunlardan biri mitotik iğ ipliklerinin oluşumunda görülür. Bitki hücrelerinde sentrozom olmadığı için iğ ipliklerini mikrotübül organize edici bölge oluşturur. Kromozomların büyüklüğüne ve biçimine göre çiftler hâlinde görüntülenmesi yöntemine karyotip denir. Metafazda kromozomların karyotipi çıkarılarak varsa sayı ve şekil bakımından kromozom anormallikleri belirlenir. Bu yöntemle bazı kalıtsal hastalıkların erken teşhisi konulur.
+
+2. Sitoplazma Bölünmesi (Sitokinez): Çekirdek bölünmesinin ardından meydana gelen sitoplazma bölünmesine sitokinez denir. Sitokinez genellikle telofazla başlar ve mitozun bitişinden kısa bir süre sonra iki yavru hücre oluşur. Sitokinez bitki ve hayvan hücrelerinde farklıdır. Hayvan hücrelerinde mikroflamentlerin kasılmasıyla hücre zarının her iki yönde dıştan içe boğumlanması, sitoplazmayı ikiye böler.
+
+Bitki hücrelerinde hücre duvarı bulunduğu için boğumlanma gerçekleşmez. Golgiden ayrılan keseciklerin orta lamel oluşturmasıyla sitoplazma bölünmesi sağlanır. Lamel oluşumu, ortada başlayıp merkezden kenarlara doğru iki yönde zara değinceye kadar devam eder.
+
+İnterfazda DNA eşlendiğinden miktarı iki katına çıkar. Sitokinezin tamamlanmasıyla hücreler ayrılırken oluşan her hücreye eşit miktarda DNA aktarılır. Böylece yeni hücreler, bölünmeye giren ata hücreyle aynı miktarda DNA'ya sahip olur.
+
+Anafazda kardeş kromatitler ayrılarak kromozoma dönüştüğünden hücrenin kromozom sayısı geçici olarak iki katına çıkar. Sitokinezde hücreler ayrıldığından her hücre başlangıçtaki ata hücrenin kromozom sayısına sahip olur. Mitoz sonucu oluşacak hücre sayısı $2^n$ ile hesaplanır (n = bölünme sayısı).
+
+# Hücre Döngüsünün Kontrolü
+
+Hücrelerin yaşam döngüsünde gerçekleşen tüm olaylar genlerle kontrol edilir. Hücre bölünmesinin doğru ilerleyebilmesi için bölünmenin çeşitli aşamalarında kontrol noktaları vardır. Bu kontrol noktalarında bulunan protein yapıda bazı işlevsel moleküller görev alır. Hücrede $G_1$, $G_2$ ve M olmak üzere üç tane kontrol noktası vardır. Bu kontrol noktalarındaki işlevsel proteinler ile "Dur." ve "Devam et." sinyalleri verilerek hücrenin bölünme sürecindeki bütün aşamaların sırayla gerçekleşmesi kontrol edilir. Kontrol noktalarında bir önceki süreç tamamlanmadan bir sonraki aşamanın gerçekleşmesi engellenir.
+
+$G_1$ kontrol noktasında "Devam et." sinyali alan hücre, döngünün diğer aşamasına geçme imkânı bulur. $G_1$ kontrol noktasında hücre yeterli büyüklüğe ulaşmışsa, ortamda yeterli besin ve büyüme faktörleri varsa, DNA'da hasar yoksa "Devam et." sinyali verilir ve S evresi başlar. S evresinde DNA kendini eşler. Hücrede "Dur." sinyali verilirse hücre döngüden çıkar ve bölünmez. Hücrenin bölünememe durumu $G_0$ olarak adlandırılır.
+
+$G_2$ kontrol noktasında DNA eşlenmesinin doğru yapılıp yapılmadığı kontrol edilir. DNA eşlenirken hata veya hasar oluşmuş ise "Dur." sinyali verilir. DNA eşlenmesinde hata yoksa "Devam et." sinyali verilir.
+
+M kontrol noktasında kromozomların iğ ipliklerine bağlanıp bağlanmadığı kontrol edilir. Kinetokorlar iğ ipliğine bağlanmazsa anafaz başlamaz. İğ ipliklerinin kromozomlara bağlanmasında hata yoksa "Devam et." sinyali verilir. Bu kontrol, yavru hücrelere eşit sayıda kromozom aktarılmasını sağlar.
+
+Hücre bölünmesi için gerekli koşullar hazır değilse döngü devam etmez. Bölünmenin gerçekleşebilmesi için ortamda yeteri kadar besin ve büyüme faktörü bulunmalıdır. Büyüme faktörü, vücut hücreleri tarafından salınır ve diğer hücrelerin bölünmesinde etkilidir.
+
+Ortamda büyüme faktörleri olmasa da bazen hücreler "Dur." sinyaline cevap vermez ve bölünmeye devam eder. Bu durumda hücre döngüsü kontrolden çıkar. Büyüme faktöründen başka hücre döngüsünü kontrol eden genlerde herhangi bir nedenle meydana gelecek mutasyonlar da hücre döngüsünün bozulmasına neden olur. Hücre döngüsü bozulursa kanser ortaya çıkabilir.
+
+Kanser, bir organ veya dokudaki hücrelerin kontrolsüz olarak bölünüp çoğalmasıdır. Kanserli hücreler, DNA'daki hasardan oluşur. DNA, kendisinde oluşan hataları onarabilecek genlere sahiptir. Hücrenin normal yaşam döngüsü sırasında DNA'da hasar oluşursa hücre bunu ya onarır ya da ölür. Kanser hücrelerinde hasarlı DNA onarılamaz, hücre döngüsünün kontrolü bozulur ve hücreler sinyallere cevap veremez.
+
+Bağışıklık sistemi, genellikle kontrol mekanizması bozulan hücreleri yok eder. Ancak bağışıklık sisteminin yok edemediği bu hücreler, çoğalarak anormal hücre kitleleri olan tümörleri (ur) oluşturur. Hücre kitlesi, hızlı büyüme ve yayılma özelliği göstermiyorsa bu tip tümörlere iyi huylu tümör denir. İyi huylu tümörler, genellikle soruna neden olmaz ve cerrahi müdahale yoluyla çıkartılır. Tümör oluşturan hücre kitlesi bir ya da birkaç organın işlevini bozacak şekilde vücuda yayılırsa bu tümörlere kötü huylu tümör veya kanser denir. Kanser hücrelerinin bu şekilde kan ya da lenf dolaşımı aracılığı ile vücudun diğer bölgelerine taşınıp yayılmasına metastaz adı verilir.
+
+Kanser sebeplerine genetik yatkınlık, tütün ürünleri, alkol kullanımı, yanlış beslenme, obezite, radyasyon, çevre kirliliği, yaşlanma, genlerde meydana gelen bozukluklar, virüsler ve aşırı güneş ışınına maruz kalma örnek verilebilir.
+
+Dünyada kanser hastalarının sayısı hızla artmaktadır. Örneğin, kolon kanseri adı verilen kalın bağırsak kanseri bunlardan biridir. Her yaşta görülebilmesine rağmen en sık 50 yaşından sonra gözlenmektedir. Kolon kanseri, kalın bağırsak iç yüzeyini örten hücrelerin kontrolsüz bölünüp çoğalmasıyla gelişir.
+
+# Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri
+
+Eşeysiz üreme, döllenme olmadan tek bir atadan çeşitli yollarla kendisiyle aynı genetik yapıya sahip yeni bireylerin meydana gelmesidir. Eşeysiz üremenin temelini birçok canlıda mitoz oluşturur. Tek hücreli ve çok hücreli canlıların bazıları eşeysiz olarak çoğalabilir.
+
+Eşeysiz üreme ile kısa zamanda çok sayıda yeni bireyler meydana gelir. Genellikle yavrular, ata bireyle ve birbiriyle kalıtsal olarak aynı özelliğe sahiptir. Eşeysiz üreyen canlılar, kendileri için uygun olan çevre koşullarında meydana gelen olumsuz değişiklikler nedeniyle çevreye adapte olmakta zorlanır. Çevre koşullarında bir olumsuzluk olursa yok olma tehlikesiyle karşı karşıya kalır. Ancak eşeysiz üreme, bireylerin uyum sağladıkları çevresel koşullarda hızlı çoğalmasına ve yayılmasına olanak sağlar.
+
+Eşeysiz üreyen canlılarda mutasyon sonucu tür içi kalıtsal çeşitlilik ortaya çıkabilir (Mutasyon; radyasyon, ultraviyole, X, beta ve gama ışınları gibi yüksek enerjili ışınlar ve bazı kimyasal maddelerin etkisiyle genlerde meydana gelen kalıcı değişimlerdir.). Eşeysiz üreme çeşitleri; bölünerek üreme, tomurcuklanma, rejenerasyon, sporla üreme, partenogenez ve vejetatif üremedir.
+
+Belli bir büyüklüğe ulaşan tek hücreli canlının ikiye bölünmesiyle gerçekleşen eşeysiz üreme şeklidir. Prokaryot canlılardan bakterilerde ve arkelerde; ökaryot canlılardan amip, öglena, paramesyum gibi protista üyelerinde görülür. Bölünme sonucu oluşan hücreler, genetik açıdan ata hücreyle ve birbirleriyle aynıdır. Ancak hücrelerin sitoplazma miktarı ve organel sayısı farklı olabilir.
+
+Prokaryot canlıların (bakteriler ve arkeler) üremesi, hücrenin uzayıp boğumlanmasıyla ikiye bölünme şeklinde gerçekleşir. Zarla çevrili çekirdek taşımadıkları ve iğ ipliklerini oluşturacak proteinlere sahip olmadıkları için ikiye bölünmeleri sırasında mitoza ait evreler gerçekleşmez. Örneğin; bakterilerde büyüyen hücre, DNA'sını eşler. Bu sırada hücrenin boyu uzar ve DNA'lar birbirinden uzaklaşır. Daha sonra hücre zarı içe doğru çökme yaparak büyür, çökme bölgesinde yeni çeper oluşturulur. Böylece iki yeni bakteri hücresi meydana gelir.
+
+Bölünme, hücrenin şekline ve simetrisine göre farklı bölgelerden gerçekleşebilir. Örneğin; tek hücrelilerden amip, her yönden bölünebilirken paramesyum enine, öglena boyuna bölünür. Bölünerek üreme sonucu oluşan yavru hücrelerde; sitoplazma miktarı, organel sayısı ve metabolizma hızı gibi bazı özellikler farklılık gösterebilir.
+
+Tomurcuklanarak üremede ana canlı üzerinde mitoz ile tomurcuk şeklinde bir çıkıntı oluşur. Ana canlı üzerinde oluşan bu çıkıntı, gelişerek yeni canlılar meydana getirir. Gelişen bu yapılar, ana bireyin genetik kopyasıdır. Tomurcuklar, ana canlıdan ayrılıp bağımsız yaşayabildiği gibi ana canlıya bağlı kalarak koloni de oluşturabilir. Tek hücrelilerden bir mantar çeşidi olan bira mayasında, çok hücrelilerden hidra ve mercan gibi omurgasız hayvanlarda tomurcuklanma görülür.
+
+Hidranın tomurcuklanması ile oluşan yeni canlı, ana bireye bağlı kalabileceği gibi ayrılıp bir zemine tutunarak da yaşayabilir. Bir zemine tutunarak yaşayan canlıya polip denir. Poliplerden eşeysiz olarak çoğalan, bağımsız yüzen bireylere medüz  (denizanası) denir. Medüzlerde tomurcuklanma görülmez.
+
+Rejenerasyon (yenilenme), çok hücreli canlılarda dokuların ve organların onarımını sağlar. Bazı canlılarda ise kopan parçalardan yeni canlı oluşumu ile eşeysiz üremeyi sağlar. Rejenerasyon sırasında mitoz, büyüme ve farklılaşma olayları görülürken genetik çeşitlilik oluşmaz. Canlıların gelişmişlik düzeyi arttıkça rejenerasyon yeteneği azalmaktadır. Rejenerasyon ile üreme, bir cins yassı solucan olan planaryada gözlenebilir.
+
+Çoğu denizyıldızında beş kol ve kolların birleştiği yerde merkezî disk bulunur. Denizyıldızlarında kollardan biri ya da birkaçı koparsa denizyıldızları kopan kollarını yenileme özelliğine sahiptir. Hatta bir cinsin üyelerinde kopan tek bir kol, bağlı olduğu merkezî diskten pay almak koşuluyla yeni bir denizyıldızı oluşturabilmektedir. Kopan kol merkezî diskten pay almamışsa yenilenme organ düzeyindedir. Planarya ve denizyıldızı gibi canlılarda rejenerasyonla tüm vücut yenilenebilir. Bu canlılarda rejenerasyon, vücut düzeyinde gerçekleştiği ve yeni bir canlı oluşumunu sağladığı için eşeysiz üreme kabul edilir.
+
+Sporlar, ana canlıdan mitoz veya mayoz ile oluşturulur. Sporlar; etrafı sert bir çeperle kaplanmış, olumsuz çevre koşullarına dayanıklı, n kromozomlu özelleşmiş üreme hücrelerdir. Sporlar, ortam şartları uygun olduğunda döllenme olayı gözlenmeden mitoz ile gelişerek yeni bireyler oluşturur.
+
+Sporla üreme; bir hücreli canlılardan sıtma hastalığına neden olan plazmodiumda (plazmodyum), su yosunu gibi alglerde, mantarlarda, tohumsuz bitkilerden eğrelti otu ve karayosunlarında gerçekleşir.
+
+Mayoz ile oluşan yumurta hücresinin döllenmeden mitozla gelişerek yeni bir birey oluşturmasına partenogenez denir. Omurgasızlardan arılar, karıncalar, yaprak bitleri, su pireleri, bazı çekirge ve kelebek türlerinde; omurgalılardan balık, kurbağa, sürüngen ve kuşların bazı türlerinde görülebilmektedir. Partenogenezle çoğalan türlerin çoğunda aynı zamanda eşeyli üreme de gerçekleşmektedir.
+
+Partenogenez, bazı türlerde cinsiyetin belirlenmesini denetlemede kullanılır. Örneğin, bal arılarında erkek bireyler partenogenezle oluşmuştur ve haploit kromozomludur. Dişi olan kraliçe arı ve işçi arılar döllenmiş yumurtalardan gelişmiştir ve diploit kromozomludur. Kraliçe arı üremeden sorumlu iken işçi arılar kısırdır. Kraliçe arı, mayoz ile çok sayıda yumurta üretir ve bunları bir kesede depolar. Haploit olan erkek arı ise mitozla spermler üretir. Kraliçe arı yılda bir kez çiftleşme uçuşu gerçekleştirir. Erkek arıdan alınan spermler, kraliçe arının vücudunda başka bir kesede depolanır. Kraliçe arının yumurtaları spermle döllenirse kraliçe ya da işçi arı, yumurta döllenmeden gelişirse erkek arı meydana gelir.
+
+Döllenmeyle meydana gelen embriyoların polenle beslenmeleri sonucunda işçi arılar, arı sütü ile beslenmeleri sonucunda kraliçe arılar oluşur. Bunun nedeni beslenme farklılığına bağlı olarak ortaya çıkan ve kalıtsal olmayan değişikliklerdir.
+
+Yüksek yapılı (gelişmiş) bitkilerin kök, gövde, dal ve yaprak gibi kısımlarından kopan bir parçanın ana bitkiyle aynı genetik yapıya sahip yeni bir bitki oluşturmasına vejetatif üreme denir. Temeli mitoza ve yenilenmeye dayanır.
+
+Vejetatif Üreme Çeşitleri ve Tarım Sektöründe Kullanım Alanları: Vejetatif üretim yöntemleri ile bitkilerin sürünücü gövde, yumru gövde, rizom gövde, doku kültürü tekniği ve çelik ile eşeysiz olarak üretimi yapılabilmektedir.
+
+Bazı bitkilerin toprak yüzeyinde uzanan gövde uzantıları, toprağa kök salar ve bu bölgelerden yeni bitkiler gelişir. Sürünücü gövde büyüyerek çilek ve kuş otu gibi bitkilerin geniş bir alana yayılmasını sağlar. Örneğin; çilek bitkisinde toprak yüzeyinde büyüyen sürünücü gövde üzerindeki göz adı verilen yapılar, köklenerek yeni çilek bitkilerini meydana getirir.
+
+Bazı bitkilerin toprak altında bulunan ve besin depolayan toprak altı gövdelerine yumru denir. Patates, yer elması gibi bitkilerin yumru gövdeleri üzerinde bulunan ve nodyum denilen gözlerden gelişen sürgünler, yavru bitkileri oluşturur.
+
+Rizomlar yedek besin maddesi depo eden, toprak altında yatay olarak uzanan, silindir şeklindeki toprak altı gövdeleridir. Rizomlar, toprak altı gövdelerinde olduğu gibi tepe ve yan tomurcuklara sahiptir. Ayrık otu, zencefil, süsen gibi bitkilerin üzerinde bulunan tomurcuklar gelişerek toprak altı veya toprak üstü sürgünlerini oluşturur. Rizomlu bitkiler, toprak altındaki rizomları sayesinde çok yıllık bitki özelliği gösterir.
+
+Begonya, sardunya ve menekşe gibi saksı bitkilerinde ve meyve ağaçlarında ana bitkinin kök, gövde, dal ya da yapraklarından alınan ve çelik adı verilen parçaların kullanılmasıyla yeni bitkilerin elde edilmesidir. Afrika menekşesi, aşkın gözyaşları bitkisi gibi bazı bitkilerde tek yapraktan tüm bir bitki gelişir.
+
+Çelikle üretimde başarılı olmak için alınan parçalar, genç organlardan seçilir. Bunun nedeni, bitkinin genç organlarında mitozun daha hızlı olmasıdır. Kavak, söğüt, asma ve incir gibi bitkilerden istenilen miktarda çelik alınıp kullanılabilir.
+
+Bahçecilik ve tarım sektöründe lale, zambak, nergis ve süsen gibi bitkiler; görünümleri, güzel çiçekleri ve hoş kokularından dolayı önemli bir yere sahiptir. Süs bitkisi olarak üretilen ve ticareti yapılan bu bitkiler, soğan adı verilen toprak altı yapıların dikimi ile üretilir. Soğanlı bitkilerden lale, zambak, nergis gibi çiçek türleri en çok üretilenler arasında yer almaktadır. Bitkilerin soğanlarında bulunan tomurcuklar, uygun ortam koşullarında gelişerek genç bitkiyi oluşturur.
+
+Sonbaharda dikilen soğanlar, ilkbaharda çiçek açar. Olgunlaşma dönemleri sonunda oluşturdukları yavru soğanlar, sonraki yıl üretimde kullanılır. Bu tür bitkiler, tohumla da üretilebilir. Ancak tohumla üretimde tohumun ekilmesinden çiçek açımına kadar geçen süre çok uzundur.
+
+Doku kültürü ile üretim, laboratuvar ortamında steril şartlarda gerçekleştirilir. Ekonomik değeri yüksek, üretimi zor bitkilerin ve soyu tükenmekte olan türlerin korunmasına yönelik çalışmalar için bu yöntem kullanılır. Bitkilerin kök ve gövde uçlarında meristem adı verilen bölünme yeteneğine sahip ve henüz farklılaşmamış hücre grupları bulunur.
+
+Çoğaltılmak istenilen bitkinin kök ve gövde ucundan meristem özellik gösteren hücre ya da küçük doku parçaları alınıp sterilize edilerek yapay besi ortamına konur. Doku parçaları, besi ortamında mitoz ile kallus adı verilen düzensiz hücre topluluğunu oluşturur. Oluşan kallus hücreleri, buradan alınarak bitki büyümesinde ve farklılaşmasında görevli hormonları içeren ortama konur. Bu ortamda hücreler, farklılaşarak kök ve gövde gibi yapılara sahip küçük, yeni bitkiler oluşturur.
+
+Vejetatif üreme, tarımda verimliliği artıran bir yöntemdir. Kısa sürede fazla ve kaliteli üretim yapılmasını sağlar. Tohumla üremeye göre daha kısa sürede gerçekleşir. Tohumla üreyen bitkilerin genetik yapılarında farklılıklar oluşur. Vejetatif üremeyle oluşan bitkiler ise genetik açıdan birbirinin kopyasıdır. Vejetatif üreme ile bitkilerin sahip olduğu iyi özellikler korunmuş olur. Tohum yapma yeteneğini kaybetmiş olan muz, çekirdeksiz üzüm gibi bitkiler bu şekilde üretilir.
+
+# Mayozun Genel Özellikleri ve Evreleri
+
+Eşeyli üreyen canlılarda gametlerin (erkek veya dişi üreme hücresi) oluşumunu sağlayan bölünme şekline mayoz denir. Eşeyli üremenin ve genetik çeşitliliğin temelini, mayoz bölünme ve döllenme oluşturur.
+
+Mayoz: 2n (diploit) üreme ana hücrelerinde görülür. Bölünmeler tamamlandığında kromozom sayısı yarıya iner. Ayrıca tür içi kromozom sayısının sabit kalmasını sağlar. Canlı çeşitliliğini sağlamada rol oynar. Mayoz I ve mayoz II olarak iki aşamada gerçekleşir. Tetrat, sinapsis ve krosing over olayları görülür. Bir takım kromozom taşıyan hücrelere haploit hücre denir. Haploit hücre n ile gösterilir.
+
+Eşeyli üreyen canlıların vücut hücreleri, biri anneden diğeri babadan gelen toplam iki takım kromozoma sahipse 2n ile gösterilir. 2n kromozomlu bu hücrelere diploit hücre denir. Biri anneden diğeri babadan gelen, şekil ve yapı bakımından birbirine benzeyen kromozomlara denir. Homolog kromozomların yan yana gelerek dört kromatitten oluşturduğu yapıya tetrat adı verilir. Homolog kromozomların yan yana gelip fiziksel olarak birbirlerine geçici bağlanması olayına sinapsis denir.
+
+Sinapsis sırasında homolog kromozomların kardeş olmayan kromatitleri, çapraz olarak üst üste gelir. Bu şekilde temas ettikleri bölgelere kiyazma denir. Tetratlarda kardeş olmayan kromatitlerin, gen alışverişi yapmalarına krossing over (parça değişimi) denir. Hücrenin mayoza başlamadan önce geçirdiği hazırlık evresidir.
+
+İnterfazda büyüme, solunum ve metabolizma hızı artar. ATP sentezi, protein sentezi ve enzim sentezi gerçekleşir. Ayrıca DNA kendini eşler. Organel sayısı artırılır. Hayvan hücrelerinde sentrozom sayısı 2 katına çıkar. DNA miktarı iki katına çıkar. Mitozda görülen interfazla aynıdır.
+
+Mayoz, birbirini takip eden mayoz I ve mayoz II aşamalarından oluşur. DNA'nın bir kez eşlenmesinden sonra arka arkaya iki çekirdek ve iki sitoplazma bölünmesi gerçekleşir. Mayoz ile kromozom sayısı yarıya inmiş ve kalıtsal özellikleri birbirinden farklı üreme hücreleri oluşur.
+
+Mayozun en uzun ve en karmaşık evresidir. Kromatin iplikler, kıvrılıp katlanır ve birbirinin kopyası iki kardeş kromatitten oluşan kromozomları oluşturur. Ayrıca çekirdek zarı parçalanır, çekirdekçik kaybolur. Hayvan hücrelerinde eşlenen sentrozomlar ve bunların uzantısı mikrotübüllerden iğ iplikleri oluşur. Kromozomlar kinetokorlarından iğ ipliklerine tutunarak ekvatoral düzleme göç etmeye başlar. Bu evrede mitozdan farklı olarak homolog kromozomlar yan yana gelerek dört kromatitli tetrat yapısını oluşturur. Homolog kromozomların yan yana gelip fiziksel olarak birbirlerine geçici bağlanmasıyla sinapsis olayı gerçekleşir. Homolog kromozomların kardeş olmayan kromatitleri, çapraz olarak üst üste gelerek temasla kiyazma bölgesini oluşturur. Homolog kromozomların kardeş olmayan kromatitlerin oluşturduğu kiyazma bölgelerinde krossing over (parça değişimi) gerçekleşir.
+
+Krossing over sayesinde oluşan yeni gen kombinasyonları, birbirinden farklı gametlerin oluşmasını sağlar. Her mayozda tetrat ve sinapsis oluşumu gözlenir ancak krossing over her zaman gerçekleşmeyebilir. Ayrıca bir kromozom üzerinde bulunan genler arasındaki uzaklık arttıkça krossing over olma olasılığı da artar. Krossing over sayesinde kromozomlar yeni bir genetik dizilime sahip olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Tetrat sayısı o hücrenin haploit kromozom sayısına eşittir. Kromatit sayısı kromozom sayısının 2 katıdır.
+
+Tetrat hâlindeki homolog kromozomlar, kinetokorlarından kinetokor mikrotübüllerine tutunur. Hücrenin ekvatoral bölgesinde birisi bir kutba, diğeri diğer kutba dönerek rastgele karşılıklı konumlanır. Bu konumlanma kalıtsal çeşitliliğe neden olur.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Metafaz I'de kromozomların kinetokorlarına iğ ipliklerinin bağlanıp bağlanmadığı kontrol edilir. Tüm kromozomların kinetokorlarına iğ iplikleri bağlanmışsa anafaz I'e geçilir.
+
+Homolog kromozom çiftleri (tetrat) birbirinden ayrılır. Homolog kromozomların kardeş kromatitleri birbirine bağlı kalarak zıt kutuplara doğru iğ iplikleri sayesinde hareket eder. Ayrıca homolog kromozom çiftlerinin ayrılması, oluşan hücrelerin kromozom sayısının ana hücreninkinin yarısı kadar olmasına neden olur. Anafaz I' de kromozomların kutuplara rastgele çekilmesi başka bir deyişle bağımsız açılımın gerçekleşmesi kalıtsal çeşitliliğin temel nedenlerindendir. Profaz I' de krossing over olmasa da bu olay sayesinde genetik çeşitlilik sağlanır.
+
+Telofaz I'de zıt kutuplara çekilmiş kromozomlarda sentromer ayrılması gerçekleşmediğinden eşlenmiş kromatitler bir arada bulunur. Iğ iplikleri kaybolur; çekirdek zarı ve çekirdekçik, türe özgü olarak yeniden oluşabilir. Ayrıca bu evrede her bir kutupta haploit kromozom takımı bulunur. Genellikle telofaz ile başlayan sitoplazma bölünmesi hayvan hücrelerinde anafazda başlayabilir.
+
+Hayvan hücrelerinde boğumlanma, bitki hücrelerinde ara lamel oluşumu ile gerçekleşir. Sitokinez olayı sonucunda genetik yapısı birbirinden farklı, haploit (n) kromozomlu 2 tane hücre meydana gelir. Mayoz I ile mayoz II arasında interfaz safhası meydana gelmez ve DNA kendisini eşlemez.
+
+Mayoz I'de oluşan n sayıda kromozoma sahip iki hücre, ayrı ayrı mayoz II adı verilen bölünme sürecine girer. Mayoz II; profaz II, metafaz II, anafaz II, telofaz II evrelerinden oluşur. Ayrıca mayoz II, kardeş kromatitlerin ayrılmasından dolayı mitoza benzer. Mayoz I'den daha kısa sürer. Mayoz II'den önce DNA eşlenmez, varsa sentriol eşlenir. Mayoz II sonucunda oluşan hücrelerin hem kromozom sayıları hem de DNA miktarları ana hücrenin yarısı kadardır.
+
+Mayoz I sonunda çekirdek zarı ve çekirdekçik oluşmuşsa bunlar profaz II' de parçalanarak kaybolur, iğ iplikleri oluşur. Kromozomlar belirginleşir. Bu evre profaz I'e göre kısa sürer.
+
+Metafaz II'de kinetokorlarından mikrotübüllere bağlanmış kromozomlar kardeş kromatitli hâlde hücrenin ekvator düzlemine tek sıra hâlinde dizilir. Mayoz I'de krossing over olduğundan her kromozomun kardeş iki kromatiti genetik olarak birbirinin aynı değildir.
+
+Kardeş kromatitleri sentromerde bir arada tutan proteinlerin yıkılması sonucu kromatitler birbirinden ayrılır. Kardeş kromatitler iğ iplikleri ile zıt kutuplara çekilir. Ayrıca kromatitler, bu aşamadan sonra kromozom adını alır ve hücre bölününceye kadar kromozom sayısı iki kat görünür. Telofaz II'de çekirdekler oluşur. Çekirdek zarı, çekirdekçik ve endoplazmik retikulum yeniden oluşur; sitoplazma bölünmesi de bu evreyle başlar.
+
+Hayvan hücrelerinde boğumlanma, bitki hücrelerinde ise ara lamel oluşumu ile bölünme gerçekleşir. Sitokinez II sonucu haploit kromozom takımına sahip, birbirinden ve atasal hücreden genetik olarak farklı dört kardeş hücre oluşur.
+
+Mitoz ve mayoz bölünme birçok temel özellik bakımından birbirinden ayrılır. Mitozda bir hücrenin bölünmesi sonucu iki yeni hücre oluşurken mayozda bir üreme ana hücresinden dört yeni hücre oluşur. Mitozda yavru hücrelerin kromozom sayısı ana hücreyle (n veya 2n) aynı kalırken mayozda bu sayı ana hücrenin yarısına iner. Mitoz zigot döneminde başlayarak yaşam boyu sürerken mayoz yalnızca bireyin eşeysel olgunluk döneminde gerçekleşir. Mitozda anafazda kardeş kromatit ayrılması görülürken mayozda anafaz I'de homolog kromozomlar, anafaz II'de ise kardeş kromatitler ayrılır. Profaz I'e özgü olan krossing over yalnızca mayozda gerçekleşir; mitozda bu olay görülmez. Son olarak, mitoz sonucu oluşan hücrelerdeki DNA miktarı bölünen hücreyle aynıyken mayoz sonucu oluşan hücrelerdeki DNA miktarı ana hücrenin yarısı kadardır.
+
+# Eşeyli Üremenin Genel Özellikleri ve Örnekleri
+
+Genellikle farklı cinsiyete sahip aynı tür iki canlının iki haploit gametinin döllenmesiyle yeni yavrular meydana gelmesi olayına eşeyli üreme denir.
+
+Eşeyli üremenin temelini mayoz bölünme ve döllenme oluşturur. Haploit (n kromozomlu) üreme hücrelerinin kalıtsal içeriğinin birleşmesine (çekirdek birleşmesi) döllenme denir. Ayrıca dişi bireyde oluşan gametlere yumurta, erkek bireyde oluşan gametlere sperm adı verilir. Döllenmiş yumurtaya zigot denir. Zigot diploit (2n kromozomlu) bir hücredir. Zigot, mitozla embriyonik gelişim aşamalarını tamamlayarak yeni bireyi meydana getirir. Döllenme olayında gametler şansa bağlı olarak bir araya geldiklerinden tür içi genetik çeşitlilik meydana gelir. Çeşitlilik ise değişen çevresel koşullarda türün neslini devam ettirme olasılığını artırır. Bitkilerin, hayvanların, mantarların çoğunda ve bazı protistlerde çoğalma eşeyli üreme ile gerçekleşir. Oluşan her yavruda anne ve babadan gelen genler bulunur. Her iki ebeveynin genetik karışımı olan yavrular ortaya çıkar. Bazı canlılarda erkek ve dişi gamet, aynı canlı tarafından üretilebilir. Böyle canlılara erselik canlılar (hermafrodit) denir. Ayrıca birey sayısının artması ve türün devamlılığının sağlanması eşeysiz ve eşeyli üremenin ortak özellikleridir.
+
+Prokaryotlarda mitoz, mayoz ve döllenme gerçekleşmez. Bitkide tohum oluşumu, eşeyli üremenin gerçekleştiğinin göstergesidir. Ayrıca eşeyli üreme canlının adaptasyon yeteneğini artırır.
+
+Eşeyli üreme birçok canlı türünde görülür. Bitkiler âleminin tohumlu bitkiler grubundaki çoğu bitki eşeyli ürer. Ayrıca kapalı tohumlu bitkilerin üreme organı çiçektir. Birçok tohumlu bitkinin çiçeğinde erkek ve dişi organ birlikte bulunur. Örneğin; çarkıfelek, şeftali, süsen, orkide ve bezelye gibi bitkiler örnek verilebilir.
+
+Üreme organlarında oluşturulan gametler döllendikten sonra oluşan tohumlar çimlenerek yeni bitkileri meydana getirir. Bazı bitkilerin çiçek yapıları da hem erkek hem de dişi organlarını içerir. Tam çiçek yapısına sahip bu bitkilerin çok azı kendi kendini döller. Ayrıca birçok erselik canlı kendini döllemeyi engelleyen adaptasyonlara sahiptir. Hermafrodit birey yumurtayı ve spermi farklı zamanlarda üreterek aynı türün başka bir bireyi ile döllenmeye katılabilir. Bu sayede gerçekleşebilecek tür içi çeşitlilik olasılığı artar. Örneğin; toprak solucanı, yumurtayı ve spermi farklı zamanlarda üreterek hermafroditliğini tek başına kullanmaz, farklı bir toprak solucanı ile çiftleşerek tür içi çeşitliliği artırır. Güve ve istiridye gibi hayvanlar da bu tür canlılara örnek verilebilir.
+
+Eşeysiz üreme ile eşeyli üreme birçok temel özellik bakımından birbirinden ayrılmaktadır. Eşeysiz üremede mutasyonlar dışında tür içi genetik çeşitlilik oluşmazken eşeyli üreme genetik çeşitlilik üretir. Eşeysiz üremede tek bir ata bulunurken eşeyli üremede genetik katkı sağlayan iki ata söz konusudur. Eşeysiz üremenin temeli mitozdur, eşeyli üremenin temeli ise mayozdur. Eşeysiz üremede döllenme gerçekleşmez; eşeyli üremede döllenme zorunludur. Son olarak eşeysiz üreyen türlerin değişen çevre koşullarına uyum sağlama olasılığı genellikle düşük kalırken eşeyli üreyen türlerin uyum kapasitesi daha yüksektir.
+
+# Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması
+
+Gen: Bir karakterin oluşumunda etkili olan DNA parçasıdır. Genler, özelliklerin bir nesilden diğer nesile aktarılmasını sağlar.
+
+Kalıtsal bilgileri taşıyan, DNA ve proteinden oluşan yapıdır. Bölünme sırasında kromatin ipliklerin kısalıp kalınlaşarak özel katlanmaları sonucu oluşur. Bir genin kromozom üzerindeki özgül yerleşim yeridir (çoğul: lokuslar).
+
+Diploit (2n) canlılarda biri anneden diğeri babadan gelen ve aynı özelliğin genlerini taşıyan kromozomlardır. Aleller; homolog kromozomların karşılıklı lokuslarında yer alan, biri anneden diğeri babadan gelen ve aynı karaktere etki eden gen çiftine denir. Bir genin farklı alelleri, aynı harfin büyüğü ya da küçüğü ile sembolize edilir. Bir karakterle ilgili genin aynı alellerine sahip canlılardır. Homozigot bireyler mayozla tek çeşit gamet oluşturur.
+
+Örnek: DD homozigot yuvarlak tohumlu bezelye, dd homozigot buruşuk tohumlu bezelye Bir karakterle ilgili genin farklı alellerine sahip canlılardır. Heterozigot bireyler, mayozla iki çeşit gamet oluşturur. Heterozigot durumda canlının fenotipinde etkisini gösteren aleldir ve büyük harf ile gösterilir (A, B, C, D, E, ..). Baskın fenotipli bireylerin genotipi homozigot (AA) ya da heterozigot (Aa) olabilir. Heterozigot durumdayken canlının dış görünüşünde etkisini gösteremeyen genlerdir ve küçük harf ile gösterilir (a, b, c, d, e,.). Çekinik fenotipli bireylerin genotipleri her zaman homozigottur (aa). Bir bireyin sahip olduğu genlerin (baskın ve çekinik) tamamıdır. Diploit canlının (2n) genotipinde her bir özellik için aynı harfin büyüğü ve küçüğü bir arada yazılır. Haploit (n) canlıda her bir özellik için birer gen bulunacağından sadece bir harf kullanılır. Canlının dış görünüşünde gözlenebilen ya da ölçülebilen özelliklerdir. Fenotip etkisini gösteren genin harfiyle ifade edilir. DD ve Dd genotipli bezelyelerin fenotipi yuvarlaktır ve D ile gösterilir. dd genotipli bezelyelerin fenotipi buruşuktur ve d ile gösterilir.
+
+Canlılar arasında çeşitlilik gösteren, dölden döle aktarılabilen, bireylerin sahip olduğu niteliklerin her birine karakter adı verilir. İnsanda göz rengi; bezelyede tohumun şekli, rengi ve çiçek rengi karaktere örnek olarak verilebilir.
+
+Bir karakterin her bir farklı tipine özellik denir. Göz renginin ela ya da yeşil olması, bezelye tohumunun düz ya da buruşuk olması yine bu tohumun sarı veya yeşil renge sahip olması özelliğe örnek olarak verilebilir.
+
+Karakter ve özellik kavramları şu şekilde örneklendirilebilir: göz rengi bir karakterdir; mavi, kahverengi ve yeşil göz rengi ise bu karakterin farklı özellikleridir.
+
+Dikkat edilmesi gereken önemli bir nokta şudur: Göz rengi, kan grubu, renk körlüğü gibi fenotipik özelliklerin bazıları sadece genlerin etkisiyle; bazı fenotipik özellikler ise hem genlerin hem çevrenin etkisiyle meydana gelir. Çevre şartları (ısı, ışık, nem, ilaçlar gibi) genlerin işleyişinde değişiklikler yapar (modifikasyon) ancak genin yapısında bir değişiklik olmaz. İnsanda zekâ, boy uzunluğu, derinin bronzlaşması gibi özellikler bu duruma örnek verilebilir.
+
+Şansa bağlı bir olayın bir defa denenmesinden elde edilen sonuç, daha sonraki denemelerden elde edilen sonuçları etkilemez; bağımsız olayların sonuçları da bağımsızdır. Örneğin, madeni para havaya atıldığında her defasında tura veya yazı gelme olasılığı yine $\frac{1}{2}$'dir. Şansa bağlı iki bağımsız olayın aynı anda gerçekleşme olasılığı, ayrı ayrı olma olasılıklarının çarpımına eşittir; iki paranın ikisinin de aynı anda tura gelme olasılığı $\frac{1}{2} \times \frac{1}{2} = \frac{1}{4}$'tür. Şansa bağlı bir olay iki ya da daha fazla yolla gerçekleşiyorsa olma olasılığı bağımsız olasılıkların toplamıdır; örneğin aynı anda atılan iki paradan birinin tura diğerinin yazı gelme olasılığı $\frac{1}{4} + \frac{1}{4} = \frac{2}{4}$'tür.
+
+Eşeyli üreyen canlılarda, mayoz sonucu oluşan n kromozomlu erkek ve dişi üreme hücrelerine gamet adı verilir ve gametler, her karakterle ilgili bir alel taşır. Karakterlere etki eden aleller farklı kromozomlar üzerinde ise bunlara bağımsız gen denir. Karakterlere etki eden aleller aynı kromozom üzerinde ise bunlara bağlı gen denir.
+
+1) Bağımsız genlerde gamet çeşidinin bulunması: Homozigot Alellerin Gametlere Taşınması: Bir ya da daha fazla karakter bakımından homozigot genotipli bireyler, mayozla tek çesit gamet oluşturur. Homozigot karakter sayısı gamet çeşitliliğini değiştirmez. Ayrıca AA, aa genotipli bireylerin oluşturacağı gametler tek çeşittir. Oluşabilecek gamet çeşidi sayısı $2^n$ ile hesaplanır. n heterozigot karakter sayısıdır.
+
+Verilen homozigot baskın (AA) ve homozigot çekinik (aa) bireylerde heterozigot gamet bulunmadığından her biri için  $2^n = 2^0 = 1$  çeşit gamet oluşur.
+
+Bir karakter bakımından bağımsız genlere sahip heterozigot bireyler, mayoz sonucu iki çeşit gamet oluştururlar. Bireylerin oluşturabileceği gamet çeşidi sayısı bulunurken $2^n$ formülünden yararlanılabilir. n, heterozigot karakter sayısını ifade eder. Ayrıca verilen heterozigot baskın (Aa) bireyde tek bir heterozigot gamet bulunduğundan $2^n = 2^1 = 2$ çeşit gamet oluşur. Heterozigot baskın durumda · Bir canlının genotipindeki heterozigot karakter sayısı arttıkça mayoz sonucu oluşturacağı gamet çeşidi sayısı artar.
+
+Bir bireyin oluşturabileceği gamet çeşidi sayısı, sahip olduğu heterozigot karakter sayısına göre $2^n$ formülüyle hesaplanır. Buna göre BBdd genotipi yalnızca tek çeşit gamet (Bd) oluştururken Bbdd genotipi iki çeşit gamet (Bd ve bd) oluşturur. AaDd genotipi dört çeşit gamet (AD, Ad, aD, ad) üretir; AaDDBb genotipi de yine dört çeşit gamet (ADB, ADb, aDB, aDb) oluşturur.
+
+Mendel yasaları, bağımsız genler için geçerlidir. Genetik ile ilgili problemlerde aksi belirtilmedikçe genlerin bağımsız olduğu varsayılır. Bağlı gen varsa ayrıca belirtilir.
+
+2) Bağlı genlerde gamet çeşidinin bulunması: Mayozda krossing over veya mutasyon yoksa, bağlı genler birlikte hareket edip aynı gamete geçerler.
+
+Krossing over (mayoz sırasında homolog kromozomlar arasında gen alışverişi) olduğunda bu genler birbirinden ayrılabilir. Bu durumda meydana gelebilecek gamet çeşidi, bağımsız genlerde olduğu gibi toplam heterozigot gen sayısı alınarak $2^n$ formülü ile hesaplanır. Krossing over olayı, gamet çeşitliliğinin artmasını sağlar. Çünkü krossing over sonucunda yeni gen kombinasyonlarına sahip kromozomlar oluşur ve gamet çeşitliliği artar. Ayrıca genler arasındaki mesafe ile krossing over meydana gelme olasılığı doğru orantılıdır. Bağlı genler birbirinden ne kadar uzak ise krossing over ile ayrılarak farklı gametlere gitme olasılığı o kadar yüksektir.
+
+# Mendel İlkeleri ve Çaprazlamalar
+
+Avusturyalı bilim insanı Gregor Mendel, bezelyeler üzerinde yaptığı denemelerden elde ettiği bilgilere dayanarak bugünkü modern genetiğin temellerini kurmuş ve bu sebeple "Genetiğin Babası" ünvanını almıştır. Canlıların çeşitliliği konusundaki merakı, Mendel'i kalıtım ile ilgili çalışmalar yapmaya yönlendirmiştir.
+
+1856 yılında yaptığı genetik ile ilgili araştırmalarda bezelye bitkisini kullanmasında bezelye bitkisinin sahip olduğu bazı özellikler etkili olmuştur.
+
+Hızlı üreyen bir bitkidir. Dişi ve erkek organları aynı çiçek üzerinde bulunduğundan kendi kendini dölleyebilir. Ayrıca her nesilde çok sayıda yavru verir. Yapay döllenmeye uygundur. Gözle görülebilen ve bireyden bireye farklılık gösteren çeşitli özelliklere sahiptir. Mendel, yaptığı çalışmalarda bezelyelerin yedi adet gözlemlenebilen karakterini seçmiştir.
+
+Bu yedi karakter çıplak gözle rahatlıkla izlenebilen niteliklerdir. Bu karakterlerden her biri, birbirinden farklı olan iki özellik ile temsil edilmektedir.
+
+Mendel'in çalışmalarında kullandığı yedi karakterin her biri baskın ve çekinik olmak üzere iki özellik taşımaktadır. Tohum renginde baskın özellik sarı, çekinik özellik yeşildir. Tohum şeklinde baskın özellik yuvarlak, çekinik özellik buruşuktur. Çiçek renginde baskın özellik mor, çekinik özellik beyazdır. Tohum zarfı renginde baskın özellik yeşil, çekinik özellik sarıdır. Tohum zarfı biçiminde baskın özellik şişkin, çekinik özellik boğumludur. Çiçek konumunda baskın özellik ortada, çekinik özellik uçtadır. Son olarak gövde uzunluğunda baskın özellik uzun, çekinik özellik cücedir. Bezelye çiçeklerinde hem erkek hem de dişi organ bulunduğu için bezelye çiçekleri kendi kendini dölleyebilir ve bu sayede arı döller oluşabilir.
+
+Mendel, çiçeklerin kendi kendini döllemesini önleyerek beyaz bir bezelyeden aldığı polenleri mor bir bezelyenin dişi organına taşıyarak çapraz döllenme ile melez bireyler elde etmiştir.
+
+Mendel, homozigot mor ve beyaz çiçekli bitkileri çaprazlayarak elde ettiği melez tohumları ekmiş ve oluşan yavru bezelyelerin mor çiçek renkli olarak geliştiğini gözlemlemiştir.
+
+Bu çalışmada Mendel, bezelyelerdeki her bir karakterin birbirine zıt iki özelliğini seçerek bunları kendi aralarında çaprazlamış ve her seferinde aynı sonuçlara ulaşmıştır. Bir karakter bakımından heterozigot iki bireyin çaprazlanmasına monohibrit çaprazlama denir.
+
+Mor (AA) ve beyaz (aa) çiçekli bezelyelerin alelleri homozigot durumdadır. Genotipi, herhangi bir özellik bakımından homozigot durumda olan bireylere arı döl denir.
+
+Mendel, arı dölleri (Parental = P) çaprazlayarak $F_1$ kuşağındaki (Filial=Kuşak=Nesil) tüm bezelyelerin mor çiçekli olduğunu görmüştür.
+
+Mor çiçek renk faktörünün bezelyede mevcut olduğu sürece beyaz çiçek renk faktörününün gizlendiği sonucuna varmıştır. Mendel birinci nesilde açığa çıkan özelliği baskın, gizlenen özelliği ise çekinik olarak tanımlamıştır. Bu duruma baskınlık ilkesi adını vermiştir. Baskınlık ilkesinin sonucu olarak birinci nesildeki tüm bezelyeler mor renkli olmuştur.
+
+Mendel, bir karakter için zıt özelliğe sahip homozigot iki bireyin çaprazlanması sonucu birinci nesildeki tüm bireylerin aynı olmasına benzerlik ilkesi adını vermiştir.
+
+Mendel, daha sonra $F_1$ kuşağındaki bireyleri de kendi arasında çaprazlayarak (kendileştirme) $F_2$ kuşağını elde etmiş ve bu kuşakta mor ile beyaz çiçekli bezelyeleri gözlemlemiştir. Aynı genotipte iki bireyin çaprazlanmasına kendileştirme denir. Bu durum, $F_1$ kuşağındaki mor çiçekli bezelyelerin genotipindeki baskın ve çekinik alellerin birbirinden ayrılarak gametlere eşit olasılıkla aktarıldığını göstermiştir; Mendel bu ilkeye ayrılma ilkesi adını vermiştir. Genetik çaprazlamalar sonucu oluşması muhtemel genotipler, Punnett karesi olarak adlandırılan tablo ile de gösterilebilir.
+
+Bu yöntem, İngiliz genetik bilimci Reginald Curundall Punnett (Recinıld Kırandıl Panıt) tarafından geliştirildiği için Punnett karesi olarak adlandırılır.
+
+Punnett karesi yöntemi, ebeveynlerin oluşturabileceği gametler ile döllenme sonucu oluşabilecek fenotip ve genotip çeşitlerinin daha iyi anlaşılması için kullanılır.
+
+$F_1$'in oluşturduğu gametler, satır ve sütunlara yerleştirilir. Satır ve sütunların kesiştiği kutulara yavruların oluşabilecek genotipleri yazılır.
+
+Aa genotipli iki bireyin çaprazlanmasında erkek gametler A ve a, dişi gametler ise B ve a olmak üzere iki çeşittir. Bu çaprazlama sonucunda AA, Aa ve aa genotipli bireyler oluşmaktadır. $F_1$ kuşağındaki bireyler kendileştirildiğinde şu sonuçlar ortaya çıkar: Homozigot mor (AA), heterozigot mor (Aa) ve beyaz (aa) olmak üzere üç çeşit genotip elde edilir. Heterozigot genotipli (Aa) bireylerin oluşma ihtimali %50'dir. Bu oran aynı zamanda oluşan yavruların atasıyla aynı genotipe sahip olma ihtimalini de gösterir. Ayrıca çekinik fenotipli (a) bireylerin oluşma ihtimali %25'tir. Mor ve beyaz olmak üzere iki çeşit fenotip elde edilir. Baskın fenotipli (A) bireylerin oluşma ihtimali %75'tir. Genotip oranı: 1:2:1, Fenotip oranı: 3:1'dir.
+
+İki karakter yönüyle heterozigot (melez) olan bireylere dihibrit, böyle iki bireyin çaprazlanmasına dihibrit çaprazlama denir. Mendel, bezelye bitkilerini yetiştirirken hem tohum rengini (sarı veya yeşil) hem de tohum şeklini (düzgün veya buruşuk) incelemiştir.
+
+Mendel, önce iki karakter açısından homozigot sarı ve düzgün tohumlu bezelyelerle yeşil ve buruşuk tohumlu bezelyeleri çaprazlamıştır. Böylece tohumun rengi ve şekli açısından heterozigot baskın bireyler (dihibrit) elde etmiştir. Sarı tohum aleli S, yeşil tohum aleli s, düzgün tohum aleli D ve buruşuk tohum aleli d olarak gösterilmiştir. Daha sonra $F_1$ kuşağındaki dihibrit bireyleri kendi arasında çaprazlayıp $F_2$ kuşağını elde etmiştir. Bunun için önce $F_1$ bireylerinin oluşturabileceği gametler belirlenir; bu gametler Punnett karesine yerleştirilerek $F_2$ kuşağındaki olası genotip ve fenotip oranları bulunur.
+
+İkinci nesli ($F_2$) elde etmek için gametleri tüm ihtimalleri göz önüne alarak birleştirmek gerekmektedir. Bu işlem sırasında oluşabilecek karışıklıkları önlemek amacıyla Punnett karesi kullanmak daha güvenilir olacaktır.
+
+İki karakterin birlikte kalıtıldığı dihybrit çaprazlamasında $F_2$ kuşağında 9 farklı genotip elde edilir. Fenotipik açıdan değerlendirildiğinde bireylerin $\frac{9}{16}$'ı sarı-düzgün (SSDD, SSDd, SsDD, SsDd), $\frac{3}{16}$'ı sarı-buruşuk (SSdd, Ssdd), $\frac{3}{16}$'ı yeşil-düzgün (ssDD, ssDd) ve $\frac{1}{16}$'ı yeşil-buruşuk (ssdd) özelliktedir. Bu oran Mendel'in bağımsız açılım ilkesinin klasik 9:3:3:1 fenotip oranını yansıtmaktadır. Genotip Oranı: 1:2:2:4:1:2:1:2:1 Fenotip Oranı: 9:3:3:1 olarak bulunur. Mendel, bu çaprazlama sonucu oluşan bazı yavruların dişi ata bireye bazılarının da erkek ata bireye benzediğini fark etmiştir.
+
+Dişi ve erkek atada bulunan iki farklı karakterin birbirinden bağımsız olarak aktarılmasıyla yeni gen kombinasyonuna sahip bireyler oluşmuştur. Bunun sonucunda ebeveynlere tamamen benzemeyen sarı-buruşuk, yeşil-düzgün ve yeşil-buruşuk bezelyeler meydana gelmiştir. Mendel'e göre her karakteri kontrol eden gen, gametlere bağımsız olarak aktarılır.
+
+Çaprazlama sonucunda hem sarı ve düzgün tohumlu hem de sarı ve buruşuk tohumlu bezelyelerin görülmesi, tohum rengi ve şekli karakterlerini belirleyen alellerin birbirinden bağımsız olarak gametlere aktarıldığını gösterir.
+
+Mendel, bu duruma bağımsız açılım ilkesi adını vermiştir. Bağımsız genlerde heterozigot karakter sayısı n olarak alındığında, fenotip çeşit sayısı $2^n$, genotip çeşit sayısı $3^n$ ve gamet çeşit sayısı $2^n$ formülleriyle hesaplanabilir.
+
+Baskınlık İlkesi: Bir bireyde, bir karakterin farklı özelliklerine ait genler bir arada bulunuyorsa bu genlerden yalnız biri tam olarak etkisini gösterir.  $Ss \rightarrow S$
+
+Bir özellik bakımından farklı iki arı dölün çaprazlanması sonucu $F_1$ dölündeki bireylerin hepsi birbirine Bir çift genden her biri eşit olasılıkla birbirinden ayrılarak farklı gametlere gider. Oluşan gametler her alel çiftinden sadece birini taşır.
+
+Melezlerin kendi aralarında çaprazlanması ile her karakteri kontrol eden gen, gametlere bağımsız olarak aktarılır. Bu durumun sebebi homolog kromozom çiftlerinin mayoz sırasında bağımsız bir şekilde ayrılmasıdır. Bağımsız açılım ilkesine göre gametler SsDd ya da ssDd şeklinde oluşabilir.
+
+Fenotipinde baskın bir özelliği taşıyan bireyde bu özelliği kontrol eden gen çiftinin homozigot mu yoksa heterozigot mu olduğunu belirlemek için yapılan çaprazlamalara kontrol çaprazlaması denir.
+
+Kontrol çaprazlamasıyla genotipi bulunmaya çalışılan birey, homozigot çekinik bireyle çaprazlanır ve oluşan yavrulara bakılarak genotipi bilinmeyen bireyin genotipi bulunmuş olur. Genotipi bilinmeyen düzgün tohumlu bezelye (baskın fenotipli), buruşuk tohumlu bezelye (çekinik fenotipli) ile çaprazlanır.
+
+Oluşan yavrular a'daki gibi hep baskın fenotipli (düzgün tohumlu bezelye) oluyorsa genotipi belirlenmek istenen bezelye bitkisi muhtemelen homozigot genotiplidir (DD ). b'deki gibi oluşan yavrular arasında çekinik fenotipli bireyler varsa genotipi bilinmeyen birey kesinlikle heterozigottur (Dd ).
+
+# Eş Baskınlık, Çok Alellilik, Kan Gruplarının Kalıtımı
+
+Bir karakteri belirleyen farklı alellerin fenotipteki etkilerinin eşit olmasına eş baskınlık denir. Aleller arasında baskınlık, çekiniklik yoktur. Heterozigot durumda her alel, etkisini fenotipte gösterir. Ayrıca insandaki AB ve MN kan grupları bu duruma örnek verilebilir.
+
+MN kan grubu sisteminde MM genotipli bireyler M kan grubu olarak adlandırılır. NN genotipli bireyler N kan grubudur. Ayrıca MN genotipli bireyler MN kan grubuna sahiptir. MN kan grubu sisteminde M, N ve MN olmak üzere üç farklı fenotip ortaya çıkar.
+
+MN kan grubu sisteminde üç fenotip bulunmaktadır. MM genotipi M kan grubunu oluşturur ve alyuvar zarında yalnızca M antijeni taşır. NN genotipi N kan grubunu oluşturur ve yalnızca N antijeni taşır. MN genotipi ise MN kan grubunu oluşturur ve alyuvar zarında hem M hem de N antijenini bir arada bulundurur. M ve N antijenlerine karşı insan serumunda antikorlar meydana gelmediğinden kan naklinde herhangi bir sorun söz konusu olmaz. Bir karakterin ortaya çıkmasında etkili olan alel çeşidinin ikiden fazla olmasıdır.
+
+Tavşanlarda kürk rengi ve insanlarda kan gruplarının kalıtımı çok alelliliğe örnektir. Kan gruplarını belirleyen 3 farklı alel vardır (A, B ve O). Ayrıca A ve B alelleri eş baskın, O aleli ise çekiniktir. Bir karakterle ilgili alel çeşidi ne kadar fazla olursa olsun diploit canlı bu alellerden en fazla ikisine, haploit canlı ise bir tanesine sahiptir. Kan grubunu ortaya çıkaran aleller, vücut kromozomları (otozom kromozomları) üzerinde taşınır. Kan gruplarını belirleyen 3 farklı alel (A, B ve O) olduğundan kalıtımında farklı genotipler oluşur.
+
+Genotip çeşitlerini bulmak için $\frac{n(n+1)}{2}$ formülü kullanılır. Kan gruplarında 3 alel bulunduğu için formülde n yerine 3 yazılır. $\frac{3(3+1)}{2} = 6$ bulunur.
+
+ABO kan grubu sisteminde dört fenotip bulunmaktadır. A kan grubunun genotipi homozigot AA ya da heterozigot AO olabilir; alyuvar zarında A antijeni taşır ve plazmada anti-B antikoru bulunur. B kan grubunun genotipi homozigot BB ya da heterozigot BO olabilir; alyuvar zarında B antijeni taşır ve plazmada anti-A antikoru bulunur. AB kan grubu yalnızca heterozigot AB genotipiyle oluşur; hem A hem B antijeni taşır ve plazmada hiçbir antikor bulunmaz. O kan grubu ise homozigot OO genotipiyle oluşur; alyuvar zarında antijen taşımaz, plazmada ise hem anti-A hem de anti-B antikoru bulunur. Genotipler AA, AO, BB, BO, AB ve OO'dır. Fenotipler A, B, AB ve O'dır.
+
+Alyuvar zarında bulunan ve kan gruplarını belirleyen özel maddelere antijen denir. Kan grubunda gruplandırmalar, alyuvar hücrelerinin zarında bulunan A ve B olarak adlandırılan antijenlere göre yapılır.
+
+A kan grubuna sahip bireylerde A antijeni bulunur. B kan grubuna sahip bireylerde B antijeni bulunur. Ayrıca AB kan grubuna sahip bireylerde hem A antijeni hem de B antijeni bulunur. O kan grubuna sahip bireylerin alyuvar zarında ise A antijeni ve B antijeni bulunmaz. Alyuvar zarında bulunan ve bir çeşit antijen olan Rh faktörü kan alışverişlerinde dikkat edilmesi gereken bir unsurdur. Rh faktörünü belirleyen alel "R" simgesiyle ifade edilir. Kanlarında Rh antijeni olan insanlar Rh+ (pozitif), olmayanlar ise Rh (negatif) kan grubuna sahiptir. Rh+ kan grubuna sahip bireylerin genotipi "RR" ya da "Rr" şeklinde ifade edilmiştir. Rh kan grubuna sahip bireylerin genotipi ise "rr"dir.
+
+Rh kan grubu sisteminde iki fenotip vardır. Rh+ kan grubunun genotipi homozigot RR ya da heterozigot Rr olabilir; alyuvar zarında Rh antijeni taşır ve plazmada antikor bulunmaz. Rh− kan grubunun genotipi ise yalnızca homozigot rr'dir; alyuvar zarında Rh antijeni yoktur ve Rh antijeniyle ilk karşılaşmada plazmada Rh antikorları oluşmaya başlar.
+
+Annenin kan grubunun Rh, babanın kan grubunun Rh+ ve fetüsün kan grubunun Rh+ olduğu durumlarda kan uyuşmazlığından söz edilir. Bu duruma tıp dilinde eritroblastosis fetalis (eritroblastozis fetalis) adı verilmektedir.
+
+Hamilelik süresince normalde Rh () bir annenin kanı ile Rh (+) bebeğin kanı birbirine karışmaz. Gebelik sırasında oluşan kanamalarda ve doğum sırasında bebeğin kanı anne kanına karışabilir.
+
+Rh (+) kan anne kanına karıştığında annenin bağışıklık sistemi anti Rh antikoru üretir. İlk gebelikte anne kanında bebeğe zarar verecek ölçüde anti Rh antikoru üretilemediğinden bir problem oluşturmaz.
+
+Sonraki gebeliklerde; eğer çocuğun kan grubu yine Rh (+) olursa, annenin kanında daha önceki gebeliğe bağlı olarak oluşmuş anti Rh antikorları plasentadan bebeğe geçerek Rh (+) antijeni taşıyan alyuvarların parçalanmasına neden olur.Bu durumda bebekte kansızlık ve buna bağlı sağlık sorunları ortaya çıkar.
+
+# Eşeye Bağlı Kalıtım, Akraba Evliliği
+
+Canlıların birçoğu ayrı eşeylidir. Erkek ve dişilerde gözlenen çok sayıda anatomik ve fizyolojik farklılığın kromozomal bir temeli vardır.
+
+Eşeyi (cinsiyeti) belirleyen genleri taşıyan kromozomlara eşey kromozomları (gonozom) adı verilir. Eşey kromozomları eşeyin belirlenmesinden sorumlu genlerin yanı sıra vücut karakterlerine ve metabolizmasına ait genler de taşımaktadır. Ayrıca insanlarda eşey kromozomları, X ve Y olarak belirlenmiştir. Kromozomlar üzerinde taşınan karakterlerin kalıtımına eşeye bağlı kalıtım denir. Insanlarda XX kromozomlarına sahip bireyler dişi, XY kromozomlarına sahip bireyler ise erkek olarak gelişir. Cinsiyeti, babadan gelen eşey kromozomu belirler. Babadan Y kromozomu alan bireylerin cinsiyeti erkek olur. Babadan X kromozomu alan bireylerin cinsiyeti kız olur. Kız ve erkek çocuğun dünyaya gelme ihtimali eşittir.
+
+İnsan vücut hücrelerinde $2n = 46$ kromozom bulunur. X ve Y kromozomların homolog Bölgesinde Taşınan Özelliklerin Kalıtımı: X ve Y kromozomlarının şekil ve büyüklükleri birbirinden farklıdır. Bu kromozomlar üzerinde homolog (eş) olan ve homolog olmayan bölgeler bulunur. Homolog olan bölgede aynı karakterlerle etki eden aleller bulunur. Ayrıca X ve Y kromozomlarının homolog bölgesinde taşınan özellikler, hem anneden hem babadan gelen iki alelle belirlenir. Tam renk körlüğü bu duruma örnektir.
+
+X kromozomu, hem dişi hem erkekte bulunur. X kromozomu üzerinde bulunan genlerin kalıtımına X kromozomuna bağlı kalıtım denir. x kromozomunun Y ile homolog olmayan bölgesinde taşınan özellikler (X'e bağlı kalıtım) her iki cinsiyette de ortaya çıkabilir. Ayrıca bu özellikler anneden hem erkek hem de kız çocuklarına aktarılır. Ancak dişilerde iki X kromozomu bulunduğundan iki alelle, erkeklerde bir X kromozomu bulunduğundan bir alelle belirlenir. · X kromozomuna bağlı kalıtımda en çok bilinen hastalıklar kısmi renk körlüğü, kas distrofisi ve hemofilidir.
+
+Kırmızı ve yeşil renkleri ayırt edememe hastalığıdır. Bu hastalığı taşıyan kişilerin görme merkezinde özel bir pigment molekülü bulunmaz veya gerektiğinden az bulunur.
+
+Kısmi renk körlüğü, X kromozomunun Y kromozomu ile homolog olmayan kısmında bulunan çekinik genle taşınır. Kadınlarda iki tane X kromozomu bulunduğundan kısmi renk körlüğünün ortaya çıkabilmesi için çekinik genin her iki kromozom üzerinde de bulunması gerekir. Ayrıca erkeklerde bir tane X kromozomu bulunduğundan tek başına çekinik alel, hastalığın ortaya çıkması için yeterlidir ve bu yüzden renk körlüğünün erkeklerde görülme ihtimali kadınlardan daha fazladır. Kısmi renk körlüğü, X kromozomu üzerinde taşındığından erkek çocuk çekinik geni sadece anneden alır. Kız çocuk ise çekinik geni hem anneden hem babadan alır. Anne kısmi renk körü ise erkek çocukların hepsi kısmi renk körüdür. Kız çocuk kısmi renk körü ise baba da kısmi renk körüdür. X^R Sağlıklı gen.
+
+Kısmi renk körü kalıtımında kadınların üç olası genotipi bulunmaktadır. X^R X^R genotipi sağlıklı, X^R X^r genotipi sağlıklı ve taşıyıcı, X^r X^r genotipi ise kısmi renk körü fenotipini verir. Erkeklerde ise yalnızca iki durum söz konusudur: X^R Y genotipi sağlıklı, X^r Y genotipi kısmi renk körü fenotipiyle sonuçlanır. Erkeklerde taşıyıcılık görülmez; çünkü Y kromozomunda bu gen bulunmamaktadır.
+
+Kısmi renk körü bir baba ile taşıyıcı annenin evliliğinden doğacak çocuklarda hastalık oluşma olasılıkları $\frac{1}{4}$ taşıyıcı, $\frac{1}{4}$ sağlıklı, $\frac{2}{4}$ kısmi renk körü şeklindedir.
+
+Kanın pıhtılaşması için gerekli bir ya da daha fazla proteinin eksikliğinde görülen ve X kromozomu üzerinde çekinik genle taşınan kalıtsal hastalıktır.
+
+Hemofili hastaları yaralandığı zaman kan pıhtılaşmaz ya da dayanıklı pıhtı oluşumu gecikir. Kan pıhtılaşmadığından uzun süren kanamaları olur. Ayrıca hemofili hastalarında diz, ayak bileği ya da eklemlerde meydana gelen kanamalar; ağrı, şişlik, morluk oluşturur. Bu kanama, organ ya da dokulara zarar verebilir. Hemofili hastalığında kanama durumunda uygun tedavi uygulanmazsa ölüm riski yüksek olur.
+
+Günümüzde hemofili hastaları, kanama durumunda kendisinde eksik olan proteinler (kanamayı yavaşlatıcı ya da durdurucu) enjekte edilerek tedavi edilmektedir. Uygulanan tedavi yöntemi ile bu hastaların daha uzun yaşaması sağlanabilmektedir.
+
+Hemofili kalıtımında kadınların üç olası genotipi vardır. X^H X^H genotipi sağlıklı, X^H X^h genotipi sağlıklı ve taşıyıcı, X^h X^h genotipi ise hemofili fenotipini verir. Erkeklerde ise X^H Y genotipi sağlıklı, X^h Y genotipi hemofili fenotipiyle sonuçlanır. Kısmi renk körüne benzer şekilde erkeklerde taşıyıcılık görülmez.
+
+Sadece Y kromozomu üzerinde bulunan genlerin kalıtımına ise Y kromozomuna bağlı kalıtım adı verilir. y kromozomunun X kromozomu ile homolog olmayan bölgesinde taşınan özellikler, babadan gelen tek bir genle belirlenir (Tek alelle kontrol edilir.). Ayrıca y kromozomuna bağlı özellikler dişilerde Y kromozomu olmadığından babadan sadece erkek çocuklarına aktarılır.
+
+Y kromozomunun homolog olmayan bölgesinde taşınan bir genin X kromozomu üzerinde aleli olmadığı için aleller baskın veya çekinik olsa da fenotipte daima etkisini gösterir.
+
+Y kromozomu üzerinde bulunan SRY geni erkek cinsiyet gelişiminde rol oynayan en önemli gendir. SRY geni, erkeklerin embriyonik dönemdeki cinsiyete bağlı özelliklerin gelişiminde ve testis oluşumunda etkilidir.
+
+Aralarında kan bağı olan kişiler arasında yapılan evliliklere akraba evliliği denir. Bu tür evliliklerde hastalık alellerinin bir araya gelme olasılığı arttığı için aileden gelen kalıtsal hastalıklar varsa bu hastalıkların ortaya çıkma olasılığı da artar.
+
+Kalıtsal hastalıkların çoğu çekinik alellerle taşınır. Çekinik gen sadece homozigot hâlde etkisini gösterir. Ayrıca hastalıkların ortaya çıkması için çekinik alelin hem anneden hem de babadan bireye aktarılması gerekir. Çekinik alellerle kalıtılan bir özellik bakımından taşıyıcı olan anne babanın, çekinik alelleri kız ve erkek çocuklarına aktardıklarında hem sağlıklı hem de taşıyıcı ve hasta çocukları olabilir.
+
+Akraba evliliğinde en büyük sorun, sağlıklı bireylerin DNA'larındaki hastalık genlerini çocuklarına aktarmasıdır. Akraba evliliği ile doğan çocuklarda renk körlüğü, orak hücreli anemi, Akdeniz anemisi, sağırlık, fenilketonüri, kistik fibroz hastalıklarının yanı sıra şizofreni gibi ruhsal hastalıklar da sık görülmektedir.
+
+Akraba evliliklerine bağlı kalıtsal hastalıkların görülme sıklığını azaltmanın yolu, toplumu bilinçlendirmekten ve eğitim düzeyini yükseltmekten geçmektedir.
+
+# Soyağacı Analizi ve Örnekleri
+
+Genetik bilimciler tarafından geliştirilmiş anne, baba, çocuk ve aralarında kan bağı bulunan akrabalar arasında belirli bir karakterin kuşaktan kuşağa geçişini açıklayan şemaya soyağacı denir.
+
+Soyağacı hazırlanırken evrensel semboller kullanılır: kare erkek, daire dişi bireyi gösterir; ikisi arasındaki yatay çizgi evlilik bağını, altındaki dikey çizgiler ise çocukları soldan sağa doğum sırasına göre temsil eder. İncelenen özelliği fenotipte gösteren bireyler renkli ya da taralı olarak gösterilir.
+
+İnsanların eşeysel olgunluğa erişmesinin uzun zaman alması, genetik çalışma ve araştırma uygulamalarında insan kullanımını zorlaştırır. Bu durum etik açıdan da belli ilkeler gerektirir; katılımcı yeterli düzeyde bilgilendirilmeli, onayı alınmalı ve kimlik ile genetik bilgileri gizli tutulmalıdır. Genetikçiler, daha önce gerçekleşmiş olan evliliklerin sonuçlarını analiz ederler. Bunun için bir özellik bakımından seçilen ailenin tüm bilgileri toplanarak kuşaktan kuşağa nasıl aktarıldığı soyağacı üzerinde gösterilir. Soyağacı sorularında verilen özellikler tek tek denenir. Genellikle bir özelliği taşıyan birey, koyu renkli ya da içi taralı olarak belirtilir. Otozomal baskın, otozomal çekinik, otozomal eş baskın, X ve Y kromozomuna bağlı özellikler aşağıdaki şekilde gösterilebilir:
+
+Soyağacı gösteriminde otozomal baskın alel büyük harf (A), otozomal çekinik alel küçük harf (a), otozomal eş baskın aleller AB veya MN gibi iki büyük harf ile gösterilir. X'e bağlı çekinik alel X^a, X'e bağlı baskın alel X^A; Y'ye bağlı baskın alel Y^A, Y'ye bağlı çekinik alel Y^a ile sembolize edilir. X ve Y'nin homolog bölgesinde taşınan çekinik aleller ise X^aY^a şeklinde gösterilir.
+
+Taralı veya renkli verilen bireylerin özelliği yerine yazılır ve kalıtımın doğruluğu denenir. Soyağacında olmaması gereken bir özellik ortaya çıkmışsa mutasyondan söz edilebilir.
+
+Soyağaçları ile yapılan çalışmalarda birinci nesil (ata) bireylerin fenotip ve genotip özelliklerinden yola çıkarak daha sonraki nesillerin genotipleri veya sonraki nesillerin fenotiplerine bakılarak ata bireylerin genotipleri tahmin edilmeye çalışılır. Kalıtsal hastalıkların çoğu çekinik alellerle taşınır.
+
+Kan grupları, otozomal ve gonozomal kalıtıma ait soyağacı örnekleri genetik problemlerde, ata bireylerden yola çıkarak sonraki nesillerin genotiplerini ya da tam tersine sonraki nesillerin fenotiplerinden ata bireylerin genotiplerini belirlemeye yönelik uygulamalarda kullanılır.
+
+# Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik
+
+Aynı türe ait bireylerin karakteristik özelliklerini belirleyen türe özgü gen dizilimleri vardır. Tür içindeki gen dizilimlerinin çeşitliliği genetik varyasyon olarak adlandırılır. Görseldeki midyelerin ve patateslerin farklı renklerinin bulunması genetik varyasyon örneğidir.
+
+Tür içindeki genetik varyasyonun başlıca nedenleri şunlardır: yumurtayı hangi spermin döllediğinin şansa bağlı olması, mayoz sırasında gerçekleşen krossing over ve homolog kromozomların bağımsız dağılımı ile mutasyon gibi olaylar. Bir ya da birden fazla genin nükleotit diziliminde meydana gelen kalıcı değişimler mutasyon olarak adlandırılır.
+
+Mutasyonlar sonucunda genetik varyasyonlar ortaya çıkar. Mutasyonlar rastlantı sonucu oluşur ve mutasyonların çoğu zararlıdır. Ayrıca Vücut hücrelerinde meydana gelen mutasyonlar sadece - mutasyonun gerçekleştiği canlıyı etkiler, - kalıtsal değildir, - yavrularına aktarılmaz. Üreme ve üreme ana hücrelerinde meydana gelen mutasyonlar ise gelecek kuşaklara aktarılabilir. Tür içinde gözlenen genetik varyasyonlar, türe ait bireylerin değişen ortam koşullarına uyum yapma yeteneğini artırır. Böylece türün değişen ortama adapte olması kolaylaşır. Bazı faktörler, mutasyonun meydana gelme olasılığını artırır. Mutasyona sebep olan faktörlere mutajen adı verilir. - Radyasyon, ultraviyole ışınları, X ışınları, radyoaktif maddeler, nitrik asit, hardal gazı, formaldehit, uyuşturucu maddeler ve bazı ilaçlar mutasyona sebep olmaktadır.
+
+Aynı genetik yapıya sahip bireylerin fazla olduğu popülasyonlarda çevre koşulları değiştiğinde bireylerin yeni koşullara uyum olasılığı düşüktür. Bu durum, popülasyonun yok olmasına neden olabilir. Doğada dar bir alana sıkışmış ve kendi türünden başka popülasyondaki bireylerle çiftleşmesi engellenmiş popülasyonlar bulunabilir. Bu tür popülasyonlarda soy içi üreme olasılığı fazladır. Soy içi üreme, genellikle genetik varyasyonları ve bireylerin değişen çevresel koşullara uyum yeteneklerini azaltır. Bu bölgelerde var olan biyolojik çeşitlilik bu durumdan olumsuz etkilenir.
+
+Aynı türe ait genotip yapısı farklı bireylerin çevrenin etkisiyle fenotipleri de değişkenlik gösterir. Ortaya çıkan bu genetik zenginlik, bireylerin çevreye uyum yeteneğini dolayısıyla popülasyonların devamlılığını artırır.
+
+Bir ekosistemde yaşayan canlı çeşitliliği ve sayısı biyolojik çeşitlilik olarak adlandırılır. Genetik olarak tür içinde ya da türler arasında ortaya çıkan farklılıklar, genetik çeşitliliğe yol açar.
+
+Ekosistemlerdeki hayvan, bitki ve mikroorganizmaların ortaya çıkardığı biyolojik çeşitlilik yaşamın sürdürülebilmesi için büyük bir öneme sahiptir. Artan insan nüfusunun ihtiyaçlarının karşılanabilmesi için biyolojik çeşitliliğin korunması zorunludur.
+
+# Ekolojik Kavramlar, Ekosistemin Canlı ve Cansız Bileşenleri
+
+Canlıların birbirleriyle ve yaşadığı çevreyle olan ilişkilerini inceleyen bilim dalına ekoloji denir. Belirli bir bölgede yaşayan farklı canlı türleri hem birbirleriyle hem de kendilerini kuşatan çevre ile yoğun bir etkileşim hâlindedir. Çevre, bir canlı topluluğunun yaşamsal faaliyetlerini doğrudan etkileyen fiziksel, kimyasal ve biyolojik bileşenlerin tümüdür. Canlı gruplarının üzerinde ya da içinde yaşadıkları kara, su ve hava gibi ortamlar cansız çevreyi; yaşama koşulları üzerinde etkili olan diğer canlılar ise canlı çevreyi oluşturur.
+
+Ortak atadan gelen, yapı ve görev bakımından benzer özellikler gösteren, çiftleştiklerinde verimli döller oluşturan canlı grubuna tür denir. Ekolojik organizasyonun en alt biriminde yer alan tür, ekolojide organizma olarak da alınır. Aynı türün bireyleri arasında büyüklük, renk, görünüş gibi çeşitli karakterler bakımından farklılıklar bulunabilir.
+
+Ekosistemde aynı tür canlılardan oluşan, belirli bir zaman diliminde aynı yaşam alanını paylaşan canlı grubuna popülasyon denir. Popülasyonlar, benzer çevre koşullarından etkilenen bireylerden oluşur. Popülasyonun bireyleri aralarında gen alışverişi yapar, beslenme şekilleri aynıdır. Toroslarda yaşayan Alageyikler, Beynam ormanlarının Kızılçamları, Van Gölü'nde yaşayan İnci kefalleri, Kapadokya Yılkı atları popülasyona örnek verilebilir.
+
+Belirli bir alanda yaşayan ve birbirleriyle etkileşim içinde olan popülasyonların oluşturduğu topluluklara komünite denir. Örneğin, bir tatlısu ekosisteminde birden fazla tür yaşar. Bir gölde bulunan balıklar, kurbağalar, bitkiler, böcekler ve bakteriler doğrudan etkileşim içerisindedir ve o gölün komünitesini oluşturur. Yine bir orman, ekosisteminde yaşayan tüm canlılar birbirleri ile etkileşim hâlindedir ve bu canlılar, ormandaki komüniteyi oluşturur. Bu canlılar, ortak bir çevrede yaşadıkları için aralarında besin rekabeti ve av-avcı ilişkisi görülür.
+
+Komüniteler yalnızca canlı etmenlerden oluşur. İki komünitenin kesiştiği alanlar ekoton olarak adlandırılır. A, B, C ekosistemleri ve bu ekosistemlerin kesişimleri ile oluşan K, L, M, N ekotonları şemada gösterilmiştir. Ekotonlarda tür sayısı fazla, türlerin birey sayısı azdır. Örneğin; çayır ekosistemi ile orman ekosisteminin geçiş bölgesi olan ekotonda, çalılar ve kısa boylu ağaç türleri birlikte bulunabilir. Ekotonlarda; canlı çeşitliliği çok, madde döngüleri hızlı, canlılar arası rekabet fazladır.
+
+Ekosistem, belirli bir bölgedeki canlı komüniteleri ve bu canlılarla etkileşim hâlinde olan fiziksel faktörlerden oluşur. Ekosistemler, karasal ekosistemler ve sucul ekosistemler olarak iki grupta incelenir. Çöl, çayır ve tropikal yağmur ormanları karasal ekosistemlere örnek oluşturur. Sucul ekosistemler tatlı su ve tuzlu su ekosistemlerinden oluşur. Göl, akarsu, bataklık, yer altı suları, barajlar, göletler, dere, çay ve nehirler tatlı su; denizler ve okyanuslar tuzlu su ekosistemleridir. Mercan resifleri, nehir ağızları, longozlar ve lagünler de denizlerin kıyılara yakın kısımlarında bulunan özel ekosistemlerdir. Bir kıta, bir okyanus ekosistem olarak kabul edilebileceği gibi bir orman, çayır, göl hatta akvaryum da birer ekosistemdir. Dünya en büyük ekosistemdir.
+
+Biyosfer (ekosfer, küresel ekosistem), dünya üzerinde canlıların yaşamlarını sürdürdüğü tüm ekosistemlerin toplamıdır. Kısaca biyosfer dünya üzerinde canlıların yaşadığı alanların tümüdür.
+
+Ekolojik organizasyon düzeyleri küçükten büyüğe doğru şu şekilde sıralanır: Şuna özellikle dikkat etmek gerekir: Aynı türe ait canlılar popülasyonu, popülasyonlar komüniteyi, komüniteler ise cansız çevre ile birlikte ekosistemi meydana getirir. Biyosfer, tüm ekosistemleri içine alan dünya üzerinde canlıların yaşamını sürdürdüğü alandır. Büyük iklim kuşaklarında geniş yaşam alanlarını, karakteristik bitki ve hayvan topluluklarını içine alan büyük coğrafik alanlara biyom denir; bir biyomun sınırlarını büyük ölçüde iklim koşulları belirler. Karasal biyomlar, tatlısu biyomları, tropikal yağmur ormanları ve tundralar bu alanlara örnektir. Biyomun büyüklüğü; popülasyonların birey sayısı, çevresel koşullar ve coğrafik özelliklere göre değişir. Örneğin, çöl çok geniş bir alan olmasına rağmen barındırdığı tür çeşitliliği azdır. Biyomlar geniş ekosistemlerdir. Ayrıca bir organizmanın yaşayıp çoğalabildiği yaşam alanına habitat denir; habitat, bir türün yalnızca barındığı fiziksel ortamdır ve ekolojik nişten farklıdır. Örneğin; balinanın habitatı okyanus, kutup ayısının habitatı ise tundralardır. Ayrıca habitat içindeki bireylerin yaşamlarını sürdürürken gerçekleştirdikleri beslenme, üreme, davranış, yaşam biçimi ve diğer canlılarla ilişkileri gibi faaliyetlerin tamamı ekolojik niş olarak tanımlanır. Kraliçe arının ekolojik nişi, yumurta üreterek çoğalmayı sağlamaktır. Ekosistemler, cansız (abiyotik faktörler) ve canlı (biyotik faktörler) bileşenlerden oluşur.
+
+Ekosistem canlı ve cansız olmak üzere iki temel bileşen grubundan oluşmaktadır. Cansız (abiyotik) faktörler arasında ışık, sıcaklık, iklim, su, pH ile toprak ve mineraller yer almaktadır. Canlı (biyotik) faktörler ise üreticiler (ototroflar), tüketiciler (heterotroflar) ve ayrıştırıcılar (saprotroflar) olmak üzere üç işlevsel gruptan meydana gelir.
+
+Bir ekosistemin varlığını dengeli bir şekilde sürdürmesi ve fonksiyonlarını yerine getirmesi için önemli olan cansız bileşenler ışık, sıcaklık, iklim, su, ortamın pH değeri, toprak ve minerallerdir.
+
+Yaşam için gerekli olan enerjinin kaynağı Güneş'ten gelen ışıktır. Işığın canlılar üzerindeki etkisi; ışığın tipine, şiddetine ve ortamın ışıklanma süresine göre değişir. Güneş ışığının dalga boyu ve şiddeti fotosentezin hızını etkiler. Gün ışığının süresi, aynı zamanda bitkilerde çiçeklenmeyi de etkiler. Örneğin, çiğdem ilkbaharda; kasımpatı sonbaharda çiçek açar. Güneş ışığının şiddeti, miktarı ve süresi bitkilerin uygun coğrafik alanlara yayılmasında etkilidir. Işık, hayvanların davranışı ve hareketi üzerinde de etkilidir. Bazı hayvanlar gündüz, bazıları ise gece aktiftir. Yarasa, baykuş, köstebek, kirpi gibi hayvanlar gece; arı, çekirge, serçe, kertenkele gibi hayvanlar gündüz aktiftir.
+
+Güneş ışığı; hayvanlarda üreme, göç etme, renk değiştirme gibi davranış değişikliklerine de yol açar. Hayvanlar genellikle ilkbahar döneminde ürer. Sucul ekosistemlerde Güneş ışığı ancak belirli derinliklere kadar ulaşabildiği için tür çeşitliliği ve sayısı sınırlıdır.
+
+Canlıların yapısında bulunan ve kimyasal tepkimeleri hızlandıran enzimler, sıcaklık değişimlerinden etkilenir. Sıcaklığın çok yüksek ya da çok düşük olması, enzimlerin çalışmasını olumsuz etkiler. Bu durum canlı türlerinin çeşitliliğini azaltır. Bitkilerin çimlenme ve çiçeklenme dönemleri sıcaklığa bağlı olarak değişiklik gösterir. Hayvanların göç etme, kış uykusu, üreme, metabolizma hızı, hareket gibi faaliyetleri, sıcaklık değişimlerinden etkilenir.
+
+Belirli bir bölgede uzun zaman aralığında etkili olan atmosfer koşullarına iklim denir. Bir bölgenin iklimini o bölgenin ekvatora olan uzaklığı, deniz seviyesinden yüksekliği, denize uzaklığı, yeryüzü şekilleri, bitki örtüsü gibi faktörler belirler. İklim; canlıların gelişimini, üremelerini, yeryüzüne yayılışlarını ve davranışlarını şekillendirir. Örneğin; ülkemizde çay ve fındık gibi bitkiler Karadeniz ikliminin hâkim olduğu Karadeniz Bölgesi'nde yaygın bir şekilde yetiştirilirken portakal, turunç ve muz gibi bitkiler Akdeniz ikliminin hâkim olduğu Akdeniz Bölgesi'nde yaygın olarak yetiştirilmektedir.
+
+Yaşam için çok önemli bir cansız faktördür. Canlılık faaliyetlerinin gerçekleşebilmesi, doğrudan ya da dolaylı olarak suya bağlıdır. Tüm canlılarda görev alan enzimler ortamdaki su miktarının belirli bir değerin altına düşmesi durumunda çalışamaz. Bir bölgede mevsimsel olarak değişen yağış miktarı, bitkilerin yayılışını etkiler. Fazla yağış alan bölgelerde ormanlar ve çayırlar daha çok gelişir. Yağışı az olan kurak bölgelerde tek yıllık ve genellikle tohumla üreyen bitkiler yer alır. Bitkiler, terleme ve damlama yoluyla suyun fazlasını vücutlarından uzaklaştırır. Böylece bitki dokularında sıcaklık kontrolü de sağlanmış olur. Hayvanlarda su miktarının dengede tutulması yaşamsal faaliyetlerin düzenlenmesinde önemlidir. Hayvanlar, su gereksinimini içme yoluyla ya da besinlerdeki sudan sağlar.
+
+Enzimlerin çalışabildikleri uygun pH değerleri vardır. Canlıların enzim aktiviteleri belli bir pH aralığında gerçekleşir. Tatlısu ve toprağın pH değeri, çevre koşullarının etkisiyle değişebilir. Kimyasal atıklar, tarım ilaçları, çöpler, kanalizasyon atıkları, asit yağmurları pH değerinin bozulmasına yol açan sebeplerdir.
+
+Birçok canlıya yaşama ortamı oluşturan toprak, katmanlı bir yapıya sahiptir. Toprak, bitkilerin kökleriyle tutundukları su ve mineral ihtiyaçlarını karşıladıkları yaşam ortamıdır. Bu nedenle toprağın içerdiği mineral miktarı, hava ve su tutma kapasitesi gibi fiziksel özellikler bitki türlerinin dağılımını etkiler. Toprakta bulunan organik maddeler; mikroorganizmalar, ölü bitki ve hayvanlar ile canlı atıklarından oluşur. Organik atıklar parçalanınca humus meydana gelir. Böylece toprağın verimi artar.
+
+Bir ekosistemde birbirlerini doğrudan ya da dolaylı olarak etkileyen organizmaların tamamına canlı bileşenler adı verilir. Ekosistemlerde bulunan ve birbirleriyle doğrudan ya da dolaylı etkileşim içinde olan canlılar; üreticiler, tüketiciler ve ayrıştırıcılar olmak üzere üç grupta incelenir.
+
+İnorganik maddeleri, organik maddelere dönüştürerek kendi besinlerini üreten canlılara üretici (ototrof) denir. Siyanobakteriler, fitoplanktonlar, algler ve bitkiler üretici canlı gruplarıdır. Üreticiler, besin maddelerini üretme ve atmosferdeki oksijen ile karbondioksit dengesini koruma bakımından oldukça önemlidir. Ayrıca bitkiler, toprağın üst kısmını tutarak erozyonu önlemede de etkilidir.
+
+Besinlerini dışarıdan hazır olarak alan canlılara tüketici (heterotrof) denir. Bazı bakteriler, protistlerin birçoğu, mantarlar ve hayvanlar tüketicidir.
+
+Canlıların atık organik moleküllerini ve ölü kalıntılarını hücre dışına salgıladıkları enzimler sayesinde inorganik moleküllere parçalayan organizmalara ayrıştırıcı (saprotrof) denir. Bazı bakteriler ve bazı mantarlar ayrıştırıcıdır. Bu canlılar, organik maddeleri inorganik hâle getirerek yeniden üreticilerin kullanımına sunar ve böylece ekosistemde madde döngüsüne katkıda bulunurlar.
+
+# Canlılardaki Beslenme Şekilleri
+
+Ekosistemde bulunan canlılar; beslenme şekillerine göre ototrof canlılar, heterotrof canlılar ve hem ototrof hem heterotrof canlılar olmak üzere üç grupta incelenir.
+
+İnorganik maddelerden organik madde sentezi yapabilen canlılardır. Üreticiler, fotosentez veya kemosentez olaylarını gerçekleştirerek kendi besinlerini yapar. Yeşil bitkiler (tam parazit bitkiler hariç), bazı bakteriler, arkeler, bazı protistler, siyanobakteriler ve algler ototrof canlılara örnektir. Suda yaşayan ve fotosentez yapabilen mikroskobik canlılara fitoplankton denir. Fitoplanktonla beslenen mikroskobik canlılara ise zooplankton denir. Üretici organizmalar, tüm canlıların besin ihtiyacını üretir ve ayrıca atmosferdeki oksijen ve karbondioksit dengesini de sağlar.
+
+Üretici canlılar, besinlerini üretirken kullandıkları enerji kaynağına göre fotosentetik ototroflar ve kemosentetik ototroflar  olmak üzere ikiye ayrılır.
+
+Fotosentetik Ototroflar: Işık enerjisi yardımıyla $CO_2$ ve $H_2O$ gibi inorganik bileşiklerden organik madde sentezi yapan üreticilerdir. Yeşil bitkiler (tam parazit olanlar hariç), siyanobakteriler, öglena gibi bazı protistler, bazı bakteriler ve algler fotosentetik canlılardır.
+
+Bazı inorganik maddelerin oksidasyonuyla elde edilen kimyasal enerji yardımıyla $CO_2$ ve $H_2O$'dan organik madde sentezi yapan üreticilerdir. Bazı bakteri ve arkebakteriler kemosentetik canlılardır.
+
+İhtiyacı olan besinleri üretemeyen, bulundukları ortamdan hazır alan canlılardır. Hayvanlar, mantarlar, bazı bakteri ve arkeler, amip ve paramesyum gibi protistler ve tam parazit bitkiler tüketici canlılardır. Tüketici canlılar yaşadıkları ortam ve kullandıkları besin çeşidine göre holozoik beslenenler ve ayrıştırıcılar olarak adlandırılır. Holozoik beslenen canlılar, besinlerini katı parçalar hâlinde alır. Ağız ve çene yapıları beslenme şekillerine uygun olarak oluşmuştur. Bu canlılarda gelişmiş sindirim sistemi bulunur. Aldıkları besinlerin yapısına göre otçullar (herbivorlar), etçiller (karnivorlar) ve hem etçiller hem otçullar (omnivorlar) olmak üzere üç grupta incelenir.
+
+Doğrudan üretici canlılarla beslenen tüketicilere otçul (herbivor) denir. Böcekler, kemirici memeliler, geviş getiren hayvanlar, fitoplanktonlarla beslenen zooplanktonlar, alglerle beslenen balıklar ve alglerle beslenen diğer canlılardır. Deve, zürafa, tavşan, koyun, çekirge otçullara örnek verilebilir.
+
+Plankton; suda bulunan, aktif hareket etme yeteneği olmayan, akıntıya bağlı olarak hareket edebilen canlılara verilen genel isimdir. Bunlardan fotosentez yapanlar "fitoplankton", diğer planktonları yiyerek beslenenler ise "zooplankton" olarak adlandırılır. Besin zincirinde diğer tüketicileri yiyerek beslenen canlılara etçil (karnivor) denir. Etçil canlılara; leopar, timsah, bazı böcek ve balık türleri, aslan, piton, kartal, kurt, baykuş, martı, köpek balığı gibi hayvanlar örnek verilebilir. Hem üretici hem de tüketici canlıları yiyerek beslenen canlılara karışık beslenenler (omnivor) denir. Hem etçil hem otçul canlılara insan, ayı, leylek, hindi, fare ve bazı balık türleri örnek verilebilir. Ayrıştırıcılar ise ölü bitki ve hayvan atıkları ile organik atıkların üzerine sindirim enzimleri salgılayarak bu maddeleri parçalar ve hücrelerine alır; böylece hem kendi besin ihtiyacını karşılar hem de madde döngülerinde rol oynar. Ayrıştırıcı canlılara bazı bakteri ve arkeler, cıvık mantarlar ve bazı mantar türleri örnek verilebilir. Bir ayrıştırıcı organizma, prokaryotik (bakteri) ya da ökaryotik (mantar) hücre yapısına sahip olabilir.
+
+Ekosistemlerdeki canlılar arasında bir denge vardır. Bu dengeyi üreticiler besin üretimiyle, tüketiciler madde aktarımıyla, ayrıştırıcılar da inorganik maddelerin doğaya geri dönüştürülmesiyle sağlar. Ayrıştırıcılar, doğadaki madde döngüsünün kilit canlılarıdır.
+
+Bir ekosistemde ayrıştırıcı organizma sayısı azalırsa inorganik madde miktarı düşer, organik atıkların birikmesiyle çevre kirliliği artar, başta azot olmak üzere madde döngüleri yavaşlar ve üretici ile tüketici canlıların sayısı azalır. Bir ekosistemden ayrıştırıcı canlılar çıkarılırsa ekosistem varlığını devam ettiremez.
+
+Bazı canlı türleri fotosentez yaparak organik besin ihtiyacını karşılarken dış ortamdan da hazır olarak besin alabilir. Bu tür canlılara hem ototrof hem heterotrof canlılar denir. Hem üretici hem tüketici olan canlılara öglena örnek verilebilir.
+
+Öglena kloroplast organeli bulundurur ve ışık varlığında kendi besinini kendisi sentezler. Bu yönüyle ototroftur. Işık yokluğunda ise dış ortamdan besinini hazır olarak alabilir. Bu yönüyle de heterotroftur. Ayrıştırıcılar hem sucul hem de karasal besin zincirlerinin tüm basamaklarında bulunur.
+
+# Ekosistemde Madde ve Enerji Akışı
+
+Tüm canlıların yaşamsal faaliyetlerini sürdürebilmesi için enerjiye ve karbon, azot gibi elementlere ihtiyaçları vardır. Işık enerjisi, bitkiler tarafından kimyasal bağ enerjisine dönüştürülerek inorganik maddelerden üretilen organik besinlerin yapısına aktarılır. Organik besinlerin yapısında bulunan enerji, besin zinciri yolu ile tüm canlılara aktarılır. Canlıların atıkları ve kalıntıları ayrıştırıcılar tarafından ayrıştırılır. Ekosistemdeki madde ve enerji akışı; üretici, tüketici ve ayrıştırıcı canlılar aracılığı ile dengede kalır. Bu dengenin sağlanmasında besin zincirleri ve madde döngüleri önemli rol oynar.
+
+Sadece üreticilerle beslenen canlılara birincil tüketici, birincil tüketicilerle beslenenlere canlılara ise ikincil tüketici denir. Birincil tüketiciler, otçul (herbivor); ikincil tüketiciler ise etçildir (karnivor). Ayrıca etçiller üzerinden beslenen tüketiciler de vardır; bunlara da üçüncül tüketici denir.
+
+Ayrıştırıcılar, ekosistemdeki tüm canlıların kalıntılarını ayrıştırarak ekosisteme kazandırılmasını sağlar. Ayrıştırıcılar azaldığında ya da yok olduğunda diğer canlıların dağılımı da etkilenmiş olur.
+
+Üreticilerden başlayarak canlılar arasında bir zincirin halkaları gibi devam eden beslenme ilişkisine besin zinciri adı verilir. Besin zinciri, üreticilerin Güneş'ten gelen ışık enerjisini fotosentezde kullanmasıyla başlar. Üreticilerde besin olarak depolanan bu enerji, besin zinciri yoluyla ekosistemin bütün üyelerine dağılır. Ekosistemde farklı besin zincirlerinin bir araya gelmesiyle zaman zaman kesişen karmaşık yapıdaki beslenme ilişkisine besin ağı denir.
+
+Besin zinciri ve besin ağlarını oluşturan canlılarda enerji akışının üretici basamağından başlayarak son tüketici basamağına kadar gösterildiği dizilimdir.
+
+Popülasyonu oluşturan tüm bireylerin toplam kütlesini ifade eder. Genellikle üretici biyokütlesinin yaklaşık %10'u bir sonraki beslenme basamağında bulunan birincil tüketiciye geçer. Biyokütle piramidinde, alt basamaktan (üreticilerden) yukarıya doğru çıkıldıkça toplam biyokütle de azalır. Trofik düzey ise belirli bir türün popülasyonlarının beslenme düzeyindeki her bir basamağını ifade eder. Örneğin, birinci trofik düzeyde biyokütlesi en fazla olan üreticiler yer alır. İkinci trofik düzeyde otçullar, üçüncü trofik düzeyde etçiller, dördüncü trofik düzeyde hem et hem otla beslenen canlılar yer alır. Ayrıştırıcılar ise tüm trofik düzeylerde bulunur. Besin piramidinde üreticiden son tüketiciye doğru gidildikçe aşağıda sıralanan değişimler olur:
+
+Birey sayısı azalır. Üreme hızı azalır. Ayrıca aktarılan enerji azalır. Toplam biyokütle (biyomas) azalır. Enerji kaybı artar. Biyolojik birikim artar. Bireylerin vücut büyüklüğü genellikle artar. Gelişmişlik ve organizasyon derecesi artar. Canlıların vücut büyüklüğü ile birey sayısı ters orantılıdır. Besin zinciri ne kadar uzunsa enerji kaybı da o kadar çok olur.
+
+Besin zincirlerinde enerjinin aktarımı, üreticilerden tüketicilere ve ayrıştırıcılara doğru tek yönlüdür. Bir trofik düzeydeki kullanılabilir enerjinin yaklaşık %10'u bir üst basamağa aktarılabilirken %90'ı aktarılamaz (%10 yasası). Bu enerji kaybı basamak sayısı uzadıkça artar. Aktarılmayan enerjinin bir kısmı büyümede ve gelişmede, bir kısmı ise hücre solunumunda ısı olarak kaybolur. Enerjinin bir bölümü de besinlerle sindirilmeden dışkı ile atılır. Vücuttan atılan bu atıklar, ayrıştırıcılar tarafından tüketilir. Besin piramidinde bir trofik düzeyi oluşturan canlıların toplam kütlesi olan biyokütle, enerji kaybına bağlı olarak piramitte yukarıya doğru çıktıkça azalır. Besin piramidinde tabandan tepeye gidildikçe genellikle kullanılabilir enerjinin azalmasından dolayı her basamaktaki canlı sayısı da azalmaktadır.
+
+Doğaya insanlar tarafından atılan birçok kimyasal ve sentetik madde mikroorganizmalar tarafından ayrıştırılarak veya havaya ve suya karışarak seyrelir; canlılara zarar veremeyecek düzeye gelir. Bazı kirleticiler, mikroorganizmalar tarafından parçalanamaz ve çevrede yıllarca kalır. Bu tip kirleticiler, besin piramidini oluşturan farklı trofik düzeylerdeki canlıların dokularında birikmeye başlar. Bu olaya biyolojik birikim denir. Besin piramidinde üreticilerden üst basamaklara doğru çıkıldıkça canlıların vücudunda biriken zehirli madde miktarı artar.
+
+Organizmalarda biyolojik birikimin sebepleri bu maddelerin yağda çözünerek yağ dokuda depo edilmesi, canlı metabolizması tarafından kullanılamaması, vücuttan atılamaması gibi özelliklere sahip olmasıdır.
+
+Bazı radyoaktif maddeler, cıva, kurşun gibi ağır metaller, siyanür ve DDT (dikloro difenil trikloroetan) biyolojik birikim yoluyla aktarılan maddelere örnek verilebilir. Bu tip kirleticilerin en son ulaşacağı yer toprak ve su ortamıdır; kimyasal maddeler yeraltı sularına ve içme sularına karışabilir, toprağa karışanlar ise besin zinciriyle üreticilerden tüketicilere aktarılarak birikim giderek artar. Biyolojik birikim yapan maddeler besin zincirinde gittikçe artan oranda birikir.
+
+# Madde Döngüleri
+
+Doğada yaşamın sürekliliği için karbon, su, oksijen, azot, kükürt ve fosfor gibi maddeler devirli olarak kullanılır. Yani canlılar ihtiyaç duydukları bu maddeleri yaşadıkları ortamdan alır, kullanır ve sonra çeşitli yöntemlerle ortama geri verir. Maddelerin ekosistem içindeki bu dolaşımına madde döngüsü denir.
+
+Önemli madde döngülerinin başında su, karbon ve azot döngüleri gelir. Su, tüm canlıların yaşamsal faaliyetlerini sürdürmesi için zorunlu bir bileşiktir.
+
+Yeryüzündeki suların büyük kısmı okyanuslarda bulunur. Su atmosferde buhar hâlinde; okyanus, deniz, göl, akarsu, yer altı kaynaklarında ve kayalıklardaki çatlakların arasında sıvı hâlde; kutuplarda buz hâlinde bulunur. Su döngüsü, güneş enerjisinin ve yer çekiminin etkisi ile atmosfer ve yeryüzü arasında düzenli olarak gerçekleşir.
+
+Su döngüsü, buharlaşma ve yoğuşma gibi iki fiziksel olaya dayalı olarak gerçekleşir. Su, güneş ışınlarının etkisiyle okyanusların, göllerin, nehirlerin ve kara parçalarının yüzeyinden buharlaşarak atmosfere geçer. Ayrıca bitkilerden ve diğer canlılardan terleme ve solunum yoluyla buharlaşan su da atmosfere geçer.
+
+Su buharı atmosferin soğuk bölgelerinde yoğuşarak kar, yağmur vb. Yağışlar şeklinde yeryüzüne ulaşır. Suyun bir kısmı göl, gölet gibi su birikintilerinde toplanır. Bir kısmı da toprağa ve yer altı sularına katılır. Yer altı suları da çeşitli yollarla tekrar yer üstü sularına dâhil olur.
+
+Bitkiler ihtiyaç duydukları suyu kökleriyle, hayvanlar ise içtikleri suyla ve yedikleri besinlerle alır. Bitkiler ve hayvanlar terleme ve solunum sonucu oluşan suyu buhar şeklinde tekrar atmosfere verir. Aynı zamanda bitkiler, kökleriyle suyun toprakta tutulmasında en büyük etkendir.
+
+Karbon (C) canlıların yapısını oluşturan organik moleküllerin temel elementlerinden biridir. Karbonun atmosfer, okyanus, deniz ve tatlısu, toprak ve canlıların yapısında dönüşümlü olarak bulunmasına karbon döngüsü denir. Yeryüzünde bu döngünün gerçekleşmesini sağlayan kilit molekül, karbonlu bileşiklerdir. Karbonlu bileşiklerden  $CO_2$ , atmosferde gaz hâlinde; suda ise çözünmüş hâlde bulunur. Suda yaşayan fitoplankton adı verilen mikroskobik canlılar suda çözünmüş olan  $CO_2$ 'i fotosentezde kullanır. Karalarda ise bitkiler atmosferdeki  $CO_2$ 'i kullanır. Fotosentez olayında, havadaki  $CO_2$  yeşil bitkiler tarafından kullanıldığında karbon içeren bileşikler fotosentez yapan canlıların yapısına geçer ve beslenme yoluyla hayvanlara da aktarılır. Organik besinlerin yapısına katılan karbon, solunum sonucu tekrar atmosfere verilir. Canlıların yapısında biriken karbon, ölü bitki ve hayvan kalıntıları ile toprağa karışır. Kalıntılar, topraktaki ayrıştırıcılar tarafından parçalandığında karbondioksit açığa çıkar. Kömür, doğal gaz, petrol gibi fosil yakıtların yanması sonucunda da atmosfere karbondioksit verilir. Doğada fosil yakıtlar, toprak ve sucul ekosistemlerde bulunan kayaçlar da karbonlu bileşikler içerir. Bu kayaçlar havayla temas ettiğinde aşınır ve içindeki karbon yavaşça ayrışıp karbondioksit hâlinde okyanuslara ve atmosfere katılır. Atmosferdeki karbondioksitin canlı bünyesine girmesi, ototrof canlıların yaptığı fotosentez ve kemosentez olayları ile olur.
+
+Azot; amino asitlerin, proteinlerin ve nükleik asitlerin yapısına katılır. Bu nedenle canlılar için önemli bir elementtir. Azotun başlıca kaynağı atmosferdir. Atmosferdeki azotun canlılar tarafından kullanımı ve tekrar atmosfere dönmesi olayına azot döngüsü denir. Atmosfer, yaklaşık %78 oranında serbest azot gazı ($N_2$) içerir. Diğer azot kaynakları toprak, göller, nehirler, okyanuslar, yer altı suları ve canlılardır. Atmosferdeki serbest azot gazı, kara ve su ekosistemlerindeki canlılar tarafından kullanılmaya uygun formda değildir. Canlılar tarafından azotun kullanılabilir azotlu bileşiklere dönüştürülmesine azot fiksasyonu (azotun tespit edilmesi) denir. Azotun fikse edilmesinde azot gazı, amonyak ($NH_3$) veya amonyum iyonuna ($NH_4^+$) dönüştürülür. Bu dönüşüm farklı yollarla gerçekleşir.
+
+Baklagillerin kök yumrularında yaşayan *Rhizobium* (Rizobium) cinsi (azot bağlayıcı) bakteriler, toprakta serbest yaşayan azotobakteriler ve bazı siyanobakteriler atmosferin serbest azotunu (azot elementini) tutup toprakta nitrat tuzlarına dönüştürür. Buna biyotik fiksasyon denir.
+
+Yıldırım ve şimşek gibi atmosferik olaylar, atmosfer azotunun amonyak  ($NH_3$) , amonyum  ($NH_4^+$) , nitrat  ($NO_3^-$)  şeklinde yağmur yoluyla toprağa geçmesine neden olur. Atmosferdeki serbest azotun yıldırım, şimşek gibi olaylarla toprağa geçmesine abiyotik fiksasyon denir.
+
+Bitkiler, topraktan amonyum  ($NH_4$)  ve nitrat  ($NO_3$)  olarak aldıkları azotu organik besinlerin üretiminde kullanır. Hayvanlarsa azot ihtiyaçlarını bitki ya da diğer hayvanlarla beslenme yoluyla elde eder. Bitki ya da hayvan atıklarında bulunan azotlu organik bileşikler, bakteri ve mantarlar gibi ayrıştırıcı canlılar tarafından parçalanarak amonyağa  ($NH_3$)  ve amonyuma  ($NH_4$)  çevrilir. Amonyak, nitrit bakterileri tarafından nitrite  ($NO_2$) ; nitrit de nitrat bakterileri tarafından nitrata  ($NO_3$)  dönüştürülür. Bu olaya nitrifikasyon denir. Nitrifikasyonda görev alan bakteriler kemoototroftur. Nitrifikasyon sayesinde bitkiler, nitrat iyonlarını kökleriyle alarak kullanabilir.
+
+Toprakta yaşayan bazı bakteriler, nitratı serbest azota dönüştürerek atmosfere verir. Bu reaksiyona denitrifikasyon denir. Denitrifikasyon sayesinde atmosferdeki azot dengede tutulur.
+
+# Güncel Çevre Sorunlarının Sebepleri, Hava Kirliliği, Asit Yağmurları, Küresel İklim Değişikliği
+
+Güncel çevre sorunlarına neden olan etmenler; fiziksel, kimyasal ve biyolojik olarak gruplandırılabilir. Bu etmenlerin büyük çoğunluğu, insan faaliyetleri sonucu ortaya çıkmaktadır. Teknolojik gelişmeler ile insanların beslenme, barınma, ulaşım gibi faaliyetleri yaşadıkları çevreyi olumsuz etkiler. Canlıların yaşam alanlarında meydana gelen kirlilik; ekosistemlerin bozulmasına, tür çeşitliliğinin azalmasına veya bazı türlerin yok olmasına neden olur.
+
+Çevre sorunları nedeniyle her yıl dünyadaki milyonlarca insan çeşitli hastalıklara yakalanıp yaşamını yitirmektedir. Çevre sorunlarının büyük bir kısmı, az gelişmiş ve gelişmekte olan ülkelerde görülür. Çevre sorunları sadece insanları değil aynı zamanda hayvanları, bitkileri ve cansız çevreyi de olumsuz yönde etkiler.
+
+Güncel çevre sorunlarına; biyolojik çeşitliliğin azalması, hava kirliliği, su kirliliği, toprak kirliliği, radyoaktif kirlilik, ses kirliliği, asit yağmurları, küresel iklim değişikliği, erozyon, doğal hayat alanlarının tahribi ve orman yangınları örnek verilebilir. Hızlı nüfus artışına bağlı olarak insanların üretim ve tüketim faaliyetleri sonucu ortaya çıkan kirleticiler, havanın doğal bileşimini bozmaktadır.
+
+Canlıların sağlığını olumsuz etkileyecek ve cansız çevreyi bozabilecek maddelerin katı, sıvı ve gaz hâlindeki kükürtdioksit ($SO_2$), karbondioksit ($CO_2$), ozon ($O_3$), azotdioksit ($NO_2$) gibi gazların ve kimyasalların havada normal sınırların üzerinde bulunması hava kirliliği olarak adlandırılır. Hava kirliliği, doğal olaylar ve insanların sebep olduğu yapay kirlilikler sonucu oluşur. Doğal kirleticiler; orman yangınları, volkan patlamaları, kum fırtınaları, okyanus ve denizlerden atmosfere katılan gaz, toz ve su buharıdır. Yapay kirleticiler, tümüyle insan etkisiyle ortaya çıkar. Fosil yakıtların çok fazla yakılması, kalitesiz kömür kullanılması sonucu ortaya çıkan gazlar ve motorlu tasıtlardan salınan egzoz gazları yapay kirleticilerdir.
+
+Kirli havada bulunan yüksek miktardaki zararlı maddelerin solunması; kronik bronşit, nefes darlığı, üst solunum yolu enfeksiyonları gibi rahatsızlıklara neden olur. Hava kirliliği; toprak, su ve yer altı sularının da kirlenmesinde etkilidir. Atmosferde birikerek hava kirliliği oluşturan sera gazları ve asidik gazlar; küresel iklim değişikliğine, ozon tabakasının incelmesine, asit yağmurlarına ve yer altı sularının kirlenmesine sebep olur.
+
+Hava kirliliğini önlemek için sanayi tesislerinde bacalara filtre takılmalı, yenilenebilir enerji kaynakları kullanılmalı, yeşil alanlar artırılmalı, ormanlık alanlar korunmalı ve çoğaltılmalıdır. Ulaşımda toplu taşıma araçları tercih edilmeli, biyoyakıt kullanımı teşvik edilmeli, çevre kirliliği konusunda bireyler bilinçlendirilmelidir.
+
+Egzozlardan, fabrika bacalarından, fosil yakıtlardan çıkan karbonmonoksit (CO), karbondioksit, kükürt dioksit ve azot dioksit gibi asidik gazlar havaya yükselir. Asidik gazlar, su buharı ile tepkimeye girerek kuvvetli asitler olan nitrik asit ($HNO_3$) ve sülfürik aside ($H_2SO_4$) dönüşür. Atmosferde oluşan bu asitler, tüm canlılar için tehlikeli olabilir. Asitli su buharı (pH'ı 5,6'dan düşük olan) bulutlarla karışır, hava akımıyla kirlilik kaynağından çok uzaklara sürüklenebilir. Asitli su buharının kar ve yağmur olup yağması sonucunda asit yağmurları oluşur.
+
+Asit yağmurları; toprağa, topraktan akarsulara, yer altı sularına ve göllere karışır. Asit yağmurları sonucu toprağın yapısı bozulur. Akarsular, doğal içme suyu kaynakları ve yeşil alanlar tahrip olur. Göl sularında asit ve metal tuzların yoğunluğunun artması göl ekosisteminin bu durumdan daha fazla etkilenmesine yol açar. Tatlısularda yaşayan balık türlerinin çoğu asit yağmuru sonucu oluşan pH değişikliğine dayanamaz ve ölür. Asit yağmurları; tatlısuda yaşayan balıklarda toplu ölümlere, balık popülasyonunun yok olmasına neden olabilir. Asidin tahriş edici özelliği insanların solunum organlarında, ciltte ve gözde sağlık sorunlarına yol açabilir.
+
+Asit yağmurları toprağa düştüğünde bazı metallerle tepkimeye girerek bu metallerin su kaynaklarına karışmasına neden olur. Özellikle alüminyum ve cıva gibi ağır metaller besin zincirine karışarak canlı dokularında birikir. İnsanlarda biyolojik birikimin fazla olması zehirlenmelere ve kansere yol açabilir. Asit yağmurlarından korunmak için bütün dünya ülkelerinin duyarlı olması ve bu konuda tedbir alması gerekir. Fosil yakıtlar yerine güneş enerjisi, jeotermal enerji ve doğal gaz kullanımı tercih edilmelidir. Asit yağmurları; bitki, hayvan, insan gibi canlıların yanı sıra cansız maddeleri ve iklimleri de etkiler.
+
+Asit yağmurlarının tarihî, sanatsal ve mimari yapıları tahrip edici etkisi vardır. Ülkemiz, dünyada eşine az rastlanan zengin bir kültür hazinesine sahiptir. Tarihî eserlerimizi her türlü tehlikeden korumak ve onların zarar görmesini engellemek örnek olunması gereken bir vatandaşlık görevidir.
+
+Dünyamız, canlıların yaşaması için uygun sıcaklık değerlerinde farklı ekosistemlere sahiptir. Çünkü ısı yalıtımını sağlayan bir atmosferi vardır. Havada bulunan karbondioksit, su buharı, ozon, azot oksitler, metan gibi gazlar; Güneş'ten gelen ve tekrar yeryüzünden atmosfere yansıyan ısıyı tutarak uygun sıcaklık değerlerinin ortaya çıkmasını sağlar. Bu doğal duruma sera etkisi denir. Bu tip gazlar atmosferde bulunmasaydı dünya sıcaklığı çok düşük değerlerde olurdu. Bu durum belki de canlıların yaşamasına imkân vermezdi.
+
+Fosil yakıtların fazla kullanımı ve sanayi kuruluşlarından havaya salınan gazlar, atmosferde sera etkisi yaratan gazların birikmesine neden olur. Bu durum, atmosferin sera etkisini artırır. Bunun sonucunda dünya sıcaklığı normal değerlerin üstüne çıkar.
+
+Atmosferde ve okyanuslarda ölçülen sıcaklık değerlerinin artışı küresel ısınma olarak adlandırılır. Sera etkisiyle ortaya çıkan küresel ısınma, küresel iklim değişikliklerine neden olur. İklim değişiklikleri nedeniyle dünya üzerinde ortalama sıcaklıklar artar. Küresel iklim değişikliklerine bağlı olarak denizlerde su seviyesi artar. Küresel ısınmanın devam etmesi; bitki örtüsünün bozulmasına, buzulların erimesine, kıyı ekosistemlerinin bozulmasına ve bazı canlı türlerinin yaşam alanlarının yok olmasına neden olabilir. Kıyıların su altında kalması karasal alanların azalmasına da neden olur. Yüksek sıcaklık artışları nedeniyle göllerde ve akarsularda aşırı buharlaşma görülür. Buharlaşmanın artmasıyla su miktarının azalması; bazı bölgelerde şiddetli kuraklığa, aşırı yağış, sel ve toprak kaymasına yol açabilir. Kuraklık, çölleşmeyi de beraberinde getirir. Bu durum canlı türlerinin azalmasına neden olur.
+
+# Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği
+
+Su, canlı yaşamı için vazgeçilmez bir gereksinimdir. Yeryüzünde içme ve kullanma suyunun miktarı sınırlıdır. Suların giderek kirlenmesi, temiz su kaynaklarını daha da önemli kılmaktadır. Küresel ısınma ve çevre kirliliği gibi sebeplerden su kaynakları her geçen gün azalmaktadır. Canlılığın devamı için var olan su kaynaklarının korunması ve temiz tutulması gerekmektedir.
+
+Toprakta meydana gelen kirlilik, su kirliliğine de neden olmaktadır. Su kaynaklarına yakın olan kanalizasyon suları, fabrika ve petrol atıkları, evsel atıklar suları kirletmektedir. Ayrıca tarımsal ilaçlar ve gübreleme, madencilik ve nükleer atıklar, elektronik cihazlar ve pillerde bulunan ağır metallerin suya ve toprağa bırakılması kirlilik sebepleridir.
+
+Tarımda kullanılan gübrelerin, evsel ve endüstriyel atıkların su kaynaklarına karışması sudaki azot ve fosforun miktarını artırır. Bu durum su bitkilerinin ve alg türlerinin ortamda kontrolsüz bir şekilde çoğalmalarına neden olur. Su yüzeyi alglerle kaplandığından suyun üstü, yeşil renge döner. Bu da ışığın suyun alt kısımlarına ulaşmasını engeller. Alttaki bitkiler, fotosentez yapamaz hâle gelir. Mevsim süresince alg ve bitki ölümleriyle sudaki organik madde miktarında artış gerçekleşir. Bu durum ayrıştırıcı bakterilerin artmasına neden olur. Bakterilerin faaliyetleri sırasında sudaki oksijen miktarı hızla azalır ve zehirli gazlar ortaya çıkar. Suda kokuşma olur ve su canlılar tarafından kullanılamaz hâle gelir. Bunun sonucunda sudaki birçok canlı türü yok olur ve besin zincirleri olumsuz etkilenir, biyolojik çeşitlilik azalır. Su kirliliğine de neden olan bu olaya ötrofikasyon denir.
+
+İçme ve kullanma sularının çeşitli etkenlerle kirlenmesi insanlarda çeşitli hastalıklara sebep olur. Özellikle az gelişmiş ve gelişmekte olan ülkelerde bu sorunlar daha çok görülmektedir. Kolera, sarılık, tifo, ishal ve amipli dizanteri gibi hastalıklar atık ve kirli sulardan kaynaklanır.
+
+Kirli sularla bulaşan bu hastalıkların her biri insanlar için tehlikelidir ve önleyici tedbirler alınması gerekmektedir. Zararlı ve atık maddelerin toprağa karışması sonucu toprağın yapısının bozulmasına ise toprak kirliliği denir. Birçok canlıya ev sahipliği yapan toprağa bırakılan kirleticiler, topraktan bitkilere geçer. Besin zinciri yoluyla insana kadar ulaşır. Toprağın temiz kalması, toprağa bağımlı yaşayan canlılar için oldukça önemlidir. Kirlenmiş topraklarda bitkiler yetişmez, toprağın içerisinde yaşayan milyonlarca canlı yaşamını yitirir. Ekosistemin devamlılığı için bu canlıların her biri ayrı öneme sahiptir. Evsel, endüstriyel ve radyoaktif atıklar; iş yeri, hastane ve şehir kanalizasyon atıkları; araçların egzoz gazları ve fabrika bacalarından çıkan gazlar toprak kirliliğine yol açar. Aynı zamanda asit yağmurları ve su kirliliği, toprak kirliliğine neden olurken toprak kirliliği de yer altı sularının kirlenmesine neden olur. Toprak kirliliğini önlemede kullanılan en önemli uygulamalardan bazıları;
+
+Geri dönüştürülebilir atık maddeler geri dönüşüme kazandırılmalıdır. Verimli topraklar korunmalı, yeşil alanlar artırılmalıdır. Ayrıca evsel ve endüstriyel atıklar, toprağa zarar veremeyecek şekilde toplanıp imha edilmelidir. Tarım ilaçlarının yanlış kullanımı önlenmelidir. Sanayi atıkları arıtılmadan toprağa verilmemelidir. Nükleer enerji santrallerinin kurulumu toprağa zarar vermeyecek şekilde planlanmalıdır.
+
+Lağım suları ile kirlenmiş topraktan insanlara kolera, tifo, amipli dizanteri gibi hastalıklar bulaşır. Kimyasal ve radyoaktif kirlilik sonucu topraktan ağır metaller, radyoaktif maddeler ve zehirli atıklar insanlara toprakla veya besin yoluyla geçebilir. Bunlar zehirlenme, alerji ve kanser gibi hastalıklara neden olur.
+
+Bazı radyoaktif maddeler; atom çekirdeği parçalandığı zaman çevreye alfa, beta ve gama ışınlarını yayar. Duyu organları ile algılanamayan bu zararlı ışınlara radyasyon denir.
+
+Radyasyon kaynaklarının başında uzay ve Güneş'ten gelen kozmik ışınlar, yer kabuğundaki uranyum ve toryum gibi radyoizotoplar, tıbbi amaçla kullanılan X ışını cihazları, nükleer santraller ve televizyon, bilgisayar, mikrodalga fırın, cep telefonu gibi elektronik cihazlar gelir. Radyasyon canlılarda gen mutasyonlarına, kansere, sakat doğumlara ve doku hasarlarına yol açabilir.
+
+Radyasyonun canlılar üzerindeki etkisi; cins, yaş ve organlara göre ayrıca radyasyonun şiddetine, maruz kalınan süreye ve ışınların türüne göre değişmektedir. Özellikle göz, en fazla etkilenen organdır.
+
+Görme zayıflığına, katarakta ve göz uyumunun yavaşlamasına sebep olabilir. DNA moleküllerinde kalıcı hasara yol açarak hayati tehlike oluşturabilir. Ayrıca cilt, kemik iliği, bağırsak hücreleri gibi hızlı bölünen hücreler radyoaktif ışımaya karşı daha da hassastır. Bu da cilt, akciğer ve tiroit kanseri görülme riskini artırır. Özellikle hamilelerin ve bebeklerin radyasyondan olabildiğince korunması gereklidir.
+
+Radyasyonun zararları genellikle zamanla ortaya çıkan bir etki olup ani etki ancak atom bombalarının yol açtığı ölümler ve yüksek radyasyondaki yanmalar şeklinde kendini göstermektedir.
+
+İnsanlar, günlük hayatta radyasyonla sürekli iç içe yaşamaktadır. Telefonlar, çalar saatler, elektrikli ev aletleri, elektromanyetik radyasyon yaymaktadır. Radyasyondan daha fazla etkilenmemek için telefonla uzun süreli konuşma yapmamak ve telefonları başucundan uzak yerde bulundurmak gerekir. Yatak odalarında bilgisayar ve televizyon bulundurmamak, kullanılmadığı zamanlarda elektrikli aletlerin fişini çekmek bu aletlerin çevreye yaydığı elektromanyetik radyasyonun etkilerini azaltacaktır.
+
+İnsanlar üzerinde olumsuz etki yapan ve belirli bir ses şiddetinin üzerinde olan, istenmeyen seslere gürültü veya ses kirliliği denir. Ses kirliliğini bazen bir insan sesi, bazen bir ev eşyası, bazen de otomobilden gelen rahatsız edici bir ses oluşturabilir. Genellikle trafik gürültüsü, sanayi tesisleri, inşaat faaliyetleri, yüksek sesli müzik aletleri ile kara, hava, deniz ve demir yolu araçları gibi ulaşım araçları ses kirliliğine neden olmaktadır.
+
+Ses kirliliği, insanlar üzerinde fizyolojik ve psikolojik etkilere sebep olur. Kalıcı işitme kayıpları, yüksek tansiyon, solunum rahatsızlıkları, sinirlilik, stres, uyku düzensizliği, yorgunluk ve zihinsel performansta yavaşlama ses kirliliğinin insanlar üzerindeki etkileridir.
+
+Ses kirliliğini önlemek için sanayi bölgeleri ve hava alanları şehirden uzakta kurulmalı, kamuoyuna açık yerlerde yüksek sesli müzik çalınması engellenmelidir. Akustik teknolojiye göre şehir planlaması yapılmalı, iş yerlerinde ve binalarda ses yalıtımı sağlanmalı, bireyler toplu taşıma kullanmaya teşvik edilmelidir.
+
+# Erozyon, Doğal Hayat Alanlarının Tahribi ve Orman Yangınları, Biyolojik Çeşitliliğin Azalması
+
+Toprağın verimli üst tabakasının akarsular, rüzgâr, deniz, buzul gibi çeşitli dış kuvvetlerin etkisiyle aşındırılıp zamanla bulunduğu yerden taşınması ve sürüklenmesi olayına erozyon denir. Arazinin eğimli olması, bitki örtüsünün tahrip edilmiş olması ve tarım alanlarının yanlış kullanılması erozyon riskini artırır. Erozyon sonucunda toprağın verimli kısmı kaybolur. Toprak kaybının fazla olması, su kaybını da beraberinde getirir.
+
+Verimli toprak katmanlarını kaybeden arazilerde çölleşme başlar. Çölleşen topraklarda yağmur suları tutulup depolanamaz. Tarım alanlarının verimi azalır. Bu durum, toplumsal sorunların artmasına neden olur.
+
+Erozyonu önlemek için çeşitli yöntemler uygulanabilir. Engebeli ve eğimli ve eğimli olması durumunda suyun yüzeysel akışını denetlemek için teraslama yapılmalıdır. Tarımda kullanılan eğimli arazilerde toprak eğime dik sürülmelidir. Ayrıca yanlış sulama, yanlış ekim ve toprak işleme yöntemleri önlenmelidir. Mevcut bitki örtüsü korunmalı ve ağaçlandırma kampanyalarına daha fazla önem verilmelidir. Ormanların tahrip edilmesi önlenmelidir. Orman yangınları ve başka nedenlerle zarar görmüş çıplak arazilerde ağaçlandırma yapılmalıdır.
+
+Doğal yaşam alanlarında canlı yaşamı, iç içe geçmiş birliktelikler oluşturur. Bitkilerin ve hayvanların oluşturduğu bu hayat birliği yaban hayatı olarak adlandırılır. İnsanoğlu doğal yaşam alanlarına her türlü müdahalede bulunabilmekte, diğer canlılardan farklı olarak doğadaki birçok şeyi istediği gibi kullanabilmektedir. Ekosistemler, yaban hayatı için doğal yaşam alanıdır.
+
+Artan insan nüfusu, sanayileşme ve gelişen teknoloji sonucu yeryüzündeki ekosistemlerin neredeyse tamamı tehdit altındadır. Tarım ilaçlarının yaygın ve yanlış kullanımı, sulak alanların kurutulması, aşırı avlanma, plansız yapılaşma; verimli tarım arazilerinin, ormanlık alanların, sulak alanların yok olmasına neden olmaktadır.
+
+Tüm bunların yanında yol yapım çalışmaları, baraj yapımı, orman yangınları vb. Olaylar yaban hayvanlarının doğal yaşam ortamını olumsuz etkilemektedir. Bitkilerin ve hayvanların yaşamlarını sürdürmek için gereksinim duydukları havanın, suyun ve toprağın tahrip edilmesi, kirlenmesi birçok canlı türünün sayısının azalmasına hatta nesillerinin yok olmasına neden olmaktadır.
+
+Doğa kendi kendini yenileyebilir. İnsan kaynaklı faktörlerin dışında doğal afetler, canlılar arasındaki av-avcı ilişkileri, iklim değişiklikleri gibi etkilerden kaynaklanan doğal dengesizlikleri ekosistemler zaman içinde dengeler. İnsanın uzun yıllar doğadaki tüm maddeleri tükenmez bir kaynak olarak görmesi, doğayı bilinçsizce kullanmasına neden olmuştur. Bu bilinçsiz kullanım doğanın kendini yenileme özelliğini azaltmış, yaban hayatını da olumsuz etkilemiştir.
+
+Ormanlar, biyolojik çeşitliliğin fazla olduğu alanlardır. Ormanlık alanların bir kısmı yıldırım düşmesi, yanardağ patlaması ve yüksek sıcaklık gibi doğal sebeplerden; bir kısmı da insan kaynaklı olarak ihmal, dikkatsizlik ve kaza sonucu çıkan yangınlardan dolayı yok olur. Ormanlara atılan cam kırıkları bir mercek gibi güneş ışınlarını çekerek kuru yaprakların, otların tutuşmasına sebep olur. Ormanların yanması burada yaşayan canlıların yaşam ortamının bozulmasına veya canlıların yok olmasına neden olur. Bitkiler, fotosentezle havada karbondioksit birikmesini önler; canlıların ihtiyaç duyduğu oksijenin önemli bir kısmını oluşturur. Ormanların iklim üzerinde önemli etkisi vardır. Yangın sonucu bitkilerin yok olması, oksijen-karbondioksit dengesinin bozulmasına sebep olur. Ağaçlar, kökleriyle toprağı korur ve erozyonu önler. Orman yangınları hava kirliliğine, toprağın ve suların kirlenmesine, ekolojik dengenin bozulmasına neden olur.
+
+Orman yangınlarının önlenmesi için insanlar bilinçlendirilmeli, doğa sevgisi aşılanmalıdır. Ormanlık alanlarda ateş, ormana yakın tarlalarda anız ve kuru otlar yakılmamalıdır. Yangına müdahale etmek için orman içi yollar ve söndürme hatları yapılmalıdır. Ülkemizde orman yangınlarının yaklaşık %97'si yaz aylarında çıkmaktadır.
+
+Yeryüzündeki tüm canlılar toprak, hava, su ve diğer canlı toplulukları ile dünya ekosistemini oluşturur. Biyoçeşitlilik, tek hücreli canlılardan büyük organizmalara kadar yeryüzündeki bütün canlıların hem genetik çeşitliliklerini hem de yaşadıkları ortamları (yaşam birliği-ekosistem çeşitliliği) ele alarak tanımlar.
+
+Ekosistemler kendi içinde denge hâlindedir. Doğal alanlar üzerindeki madencilik faaliyetleri, erozyon, anız yakma, tarımsal faaliyetler, sulak alanların kurutulması, barajlar, günümüzdeki hızlı nüfus artışı ve buna bağlı olarak tüketimin artması, şehirleşme, endüstrileşme, ev ve sanayi atıkları, küresel ısınma gibi faktörler biyolojik çeşitliliği tehdit eden unsurlardandır. Tüm bunların yanında artan enerji ihtiyacı ve aşırı tüketim, canlıların yaşam alanlarının değişmesine neden olmaktadır.
+
+Ekosistemlerin yapısında çok kısa süre içerisinde gerçekleşen bu değişimler, hızlı yıkımlara ve yok oluşlara neden olmaktadır. Canlı türleri oluşan yeni koşullara uyum sağlayamazsa ya göç edecek veya nesillerinin tükenme tehlikesiyle karşı karşıya kalacaktır. İsteyerek ya da istemeden gelişen insan kaynaklı bu süreç tersine çevrilmedikçe birçok canlı türü yok olacaktır. Türlerin yok olması ve bozulan ekosistemler; insanların temiz suya, havaya ve sağlıklı gıdaya erişimini de olumsuz yönde etkileyecektir. İnsanoğlu biyoçeşitliliğin bir parçasıdır. İnsanların ve tüm canlıların neslinin devamı için doğayı korumak çok önemli ve gereklidir.
+
+Topraklarımızda dünyanın başka hiçbir yerinde bulunmayan endemik bitki türleri yetişir. Birçok böcek, balık, kurbağa, sürüngen, kuş ve memeli türü açısından Türkiye, komşularına göre oldukça zengin biyoçeşitliliğe sahiptir. Sahip olunan bu çeşitliliği koruyup kollamak her bireyin sorumluluğudur.
+
+# Çevre Sorunlarının Ortaya Çıkmasında Bireylerin Rolü ve Çözüm Önerileri
+
+İnsanların günlük yaşantıları sırasında tüketilen doğal kaynakların yeniden üretimi ve oluşan atıkların geri kazanımı için belirli bir miktar verimli toprağa ve suya ihtiyaç vardır. İnsanların üretim ve tüketim faaliyetleri sonucu kullandığı enerjinin, kaynakların ve ham maddenin yeniden üretilmesi ve oluşturulan atıkların etkisiz hâle getirilmesi için gerekli olan toprak ve su alanı miktarının ölçümüne ekolojik ayak izi denir. Ekolojik ayak izi, doğal kaynaklar ve ekosistem üzerinde belirli bir nüfusun doğaya yükünü hesaplamak amacıyla oluşmuş bir yöntemdir. Doğal kaynakların tükenmemesi ve sürdürülebilir bir kalkınmanın sağlanabilmesi için bireylerin ekolojik ayak izlerinin bilincinde olması gerekir.
+
+Ekolojik ayak izini küçültmek için fosil yakıtlar yerine yenilenebilir enerji kaynakları tercih edilmeli, enerji ve gıda israfı önlenmeli, elektrik, kâğıt ve su tüketimi azaltılmalıdır.
+
+Her birey; ulaşım, barınma, beslenme, elektrik tüketimi gibi faaliyetler ve satın aldığı ürünlerle atmosfere karbondioksit salmaktadır. Bu etkinlikler sonucu atmosfere salınan karbondioksit miktarının tamamı canlıların karbon ayak izini oluşturur. Karbon ayak izi genellikle ton, kg ya da g olarak ifade edilir ve bir yıllık zaman dilimi için hesaplanır; ölçülürken diğer sera gazları da dikkate alınır. Karbon ayak izi birincil ayak izi ve ikincil ayak izi olarak iki ana parçadan oluşur. Birincil ayak izi; evsel enerji tüketimi, ulaşım ve fosil yakıtların yanmasıyla ortaya çıkan karbondioksit oranının ölçüsüdür. İkincil ayak izi ise kişilerin günlük yaşantısında kullandığı ürünlerin imalatından bozulmasına kadar olan süreçteki dolaylı karbondioksit oranının ölçüsüdür. Atmosfere salınan karbondioksit miktarını azaltmak için alınacak bazı önlemler;
+
+Plastik poşet ve şişe kullanımını azaltmak. Ambalajlanmış veya uzak mesafelerden gelen yiyecek ve içeceklerin israfını önlemek. Ayrıca mümkün olduğunca ulaşımda toplu taşıma araçlarını tercih etmek. Fabrika bacalarına filtre takmak. Güneş ve rüzgâr enerjisi gibi yenilenebilir enerji kullanmak. Aydınlatmada tasarruflu ampulleri tercih etmek. Binalara yalıtım yapmak. Evsel atıkları ve fabrika atıklarını geri dönüşüme kazandırmak. Yeşil alanları korumak ve ağaçlandırma çalışmalarını artırmak.
+
+Su ayak izi, birim zamanda kullanılan (buharlaşma dâhil) ya da kirletilen su miktarı ile ölçülmektedir. Bir bireyin, toplumun ya da kurumun su ayak izi; bireyin veya toplumun tükettiği malların ve hizmetlerin üretimi için kullanılan veya üreticinin mal ve hizmet üretimi için kullandığı toplam temiz su kaynaklarının miktarıdır. Tüketilen her malın ve hizmetin imalatından tüketimine kadar harcanan suyun miktarını saptama bakımından önemli bir araçtır.
+
+Su ayak izinin yeşil, mavi ve gri olmak üzere üç bileşeni vardır. Yeşil ve mavi renkler su tüketimini, gri su ise su üzerindeki kirliliği anlatır. Türkiye'de içme ve kullanma amacıyla günlük kişi başına düşen ortalama su miktarı 216 litre, mal ve hizmetler aracılığıyla tüketilen su miktarı ise kişi başı günlük 5.416 litredir. "Mal ve hizmetler aracılığıyla tüketilen su miktarı" bir malın tüketiciye varana kadar geçirdiği tüm süreçlerde kullanılan su miktarını ifade eder. Örneğin, bir fincan sade kahvenin son kullanıcıya kadar geçirdiği süreçler şöyle özetlenebilir: Kahve bitkisinin ekilmesi, yetiştirilmesi, ürünün toplanması, işlenmesi, nakliyesi, kahve çekirdeklerinin paketlenmesi, kahvenin satılması ve pişirilip fincana konulması gibi işlemler için gereken su miktarı yaklaşık 140 litredir. Bu kahve, kâğıt bardakta süt ve şeker eklenerek tüketildiğinde ise harcanan su miktarı 208 litreye çıkmaktadır.
+
+İnsanoğlu yaşanacak başka bir dünya olmadığının farkına varmakta, bu nedenle insanlarda çevre koruma bilinci gelişmekte, ülkeler bu konuda yerel çapta ve dünya çapında önlemler almaktadır. Yerel ve küresel bağlamda çevre kirliliğini önlemek için yapılan bazı çalışmalar aşağıda verilmiştir.
+
+Ülkemiz tarafından da imzalanan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında sera gazları salınımını azaltmaya yönelik önlemleri içeren bir anlaşmadır.
+
+Paris Anlaşması çerçevesinde verilen taahhütler, dünyanın en büyük sekiz ekonomisi tarafından tedarik edilen yenilenebilir enerji miktarının önümüzdeki 15 yıl içinde iki misli artacağını göstermektedir.
+
+Yosun kültürü ve uygun bitkilerle kaplı bu dikey ünite, şehrin görüntüsü içinde kaybolan ama toz, azot oksit ve karbondioksit temizleyebilen faydalı bir uygulamadır. Şehir Ağacı Projesi, büyük şehirlerde hava kirliliğini önlemek amacıyla betonlaşmış bölgelere yeni bir soluk getirebilecek ve hava kirliliğinin etkisini azaltabilecek bir çalışmadır.
+
+Dünyada ve ülkemizde çevre kirliliğinin sebepleri aynıdır. Dünya üzerindeki ülkeler kendi çevre kirlilikleri için çözümler üretirken diğer taraftan da başka ülkelerle iş birliği yaparak çevre kirliliğinin çözümü için ortak projeler geliştirmektedir. Ülkemizde Çevre ve Şehircilik Bakanlığı, yaşanabilir bir çevre için tüm kirletici faktörlerin önlenmesi ve kontrolü için uluslararası projelerde yer alarak dünya çevre kirliliği ile ilgili konularda ülkemizin üzerine düşen görevleri yerine getirmek için çalışmaktadır. Ayrıca pek çok toplum kuruluşu; bireylerin çevre konusunda bilinçlendirilmesi, çevrenin tarihî ve doğal güzelliklerinin korunmasına yönelik çalışmalar yapmaktadır. Millî Eğitim Bakanlığı ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından ortak yürütülen "Temiz
+
+Okul ve Temiz Enerji, Çevre Dostu 1000 Okul" projesi kapsamında, seçilen pilot okulların çatısına güneş enerjisi panelleri kurulmuştur. Ayrıca çatıya düşen yağmur sularını depolama sistemi kurularak toplanan yağmur suları okulların su ihtiyacında ve bahçe sulamasında kullanılmaktadır. Bu projeyle enerji tasarrufu ve yağmur suyunun geri dönüşümü sağlanırken öğrencilerde de çevre bilinci oluşturma amaçlanmaktadır.
+
+# Doğal Kaynakların Sürdürülebilirliğinin Önemi
+
+Canlıların ve doğal kaynakların dünyada devamlılığının sağlanmasına sürdürülebilirlik denir. İnsanlar için biyolojik çeşitliliğin sürdürülebilir kullanımı, bir yandan bugünkü nesillerin ihtiyaçlarını eşit olarak karşılayabilmeyi bir yandan da gelecek nesillerin haklarını koruma altına almayı kapsamalıdır.
+
+Cansız doğal kaynaklar, canlıların yaşamsal faaliyetlerini sürdürmelerinde mutlaka gerekli olan çevresel etmenlerdir. Bir ekosistemde bu kaynaklar azalır ya da bozulursa ekosistemde bulunan tüm canlılar bu durumdan olumsuz etkilenir.
+
+İnsanlar, cansız doğal kaynaklardan yararlanarak ekonomik getiriler elde etme yollarını bulmuşlardır. Dolayısıyla biyosferde bulunan ekosistemler, insanların etkisiyle değişikliğe uğramaktadır. Cansız doğal kaynakların aşırı tüketimi ve çeşitli sebeplerle bozulması, ekosistemde yenilenme mekanizmasını da engellemektedir. İnsanların doğaya müdahaleleri habitatları yok edebilmekte ve bunun sonucu olarak da türler yok olabilmektedir. Örneğin, maden çıkarma faaliyetleri sırasında ve sonrasında arazinin orijinal morfolojisi değişmekte; yer altı ve yer üstü su dengesi bozulmakta; bitki örtüsü zarar görmekte; toprak erozyonu, hava ve su kirliliği meydana gelebilmektedir.
+
+İnsanların doğadaki canlı kaynaklar üzerinde de müdahaleleri söz konusudur. Örneğin orman ekosistemleri; kereste ve kâğıt ham maddesi elde etmek, yerleşim yerleri olarak kullanmak, hayvanların otlayacağı yerler hâline getirmek gibi sebeplerle yok edilmektedir. Tahrip edilen orman ekosistemleri onarılmak istenildiğinde genellikle tek tür ağaçlar dikilmektedir. Bu durum, doğal orman ekosisteminde yer alan komünitelerin yok olmasına neden olmaktadır.
+
+Tarım arazileri insanlar için çok önemlidir. Ancak yeni tarım arazileri açmak için canlıların habitatları tahrip edilmektedir. Sanayinin gelişmesiyle oluşan endüstriyel atıkların artması ve bunların doğaya bırakılması, orman yangınları, fosil yakıtların aşırı kullanımı, suyun aşırı tüketimi ve kirletilmesi gibi insan faaliyetleri doğal canlı kaynaklarını olumsuz etkilemektedir.
+
+Doğal kaynakların ihtiyaçları karşılayabilecek şekilde ve kalitesi bozulmadan gelecek nesillere bırakılabilmesi önemlidir. İnsanların bu konuda daha bilinçli olmaları sağlanmalıdır.
+
+Günümüzde ekoloji biliminin daha çok önem kazanmasıyla sürdürülebilirliği engelleyen uygulamalar terk edilmeye başlanmıştır. İnsanlar tarafından daha verimli ve dayanıklı canlılar elde edebilmek için ıslah çalışmaları ve bazı türleri kültüre alma çalışmaları yapılmaktadır. Böylece azalan türleri koruma, habitatların kaybını engelleme, yayılmacı türleri kontrol altına alma, iklim değişikliklerinin sonuçlarını azaltma sağlanabilecektir.
+
+Doğal kaynakların sürdürülebilirliği için Türkiye genelinde başarılı uygulamalar yapılmaktadır. Bu uygulamalara örnek olarak yenilenebilir enerji kaynaklarının elektrik enerjisi üretiminde kullanılması verilebilir.
+
+Bu çalışmalar insan aktivitesi sonucu oluşan olumsuzlukların hızla arttığı günümüzde önem kazanmaktadır. Rüzgâr enerjisi, ticari anlamda elverişli bir enerji türüdür. Ülkemiz sahip olduğu iklim özellikleri sayesinde önemli bir rüzgâr potansiyeline sahiptir.
+
+2006 yılında Türkiye Rüzgâr Enerjisi Potansiyel Atlası (REPA) hazırlanmıştır. Rüzgâr potansiyeli bakımından uygun olan bölgelere rüzgâr türbinleri yerleştirilmiştir.
+
+Güneş enerjisi, dünyada ve Türkiye'de daha çok önem kazanmış ve tercih edilmiştir. Doğal enerji kaynaklarının çoğunun kökeni olan güneş enerjisinden ısıtma ve elektrik elde etme gibi amaçlarda yararlanılabilmektedir.
+
+Güneş enerjisi; fosil yakıtlara alternatif olabilecek, temiz, çevreci bir enerji kaynağıdır. Türkiye'nin iklim koşulları ve konumu gereği güneş enerjisi potansiyeli yüksektir. Son yıllarda ülkemizde de güneş panellerinin kullanımı yaygın hâle gelmiştir.
+
+Son zamanlarda ülkemizde hem sivil toplum örgütlerinin hem de kamu kuruluşlarının gerçekleştirdiği geri dönüşüm projeleri dikkat çekmektedir. Doğada ayrıştırıcılar tarafından parçalanması zor veya imkânsız olan ambalaj, plastik, metal vb. Ürünlerin toplanması sağlanmaktadır. Doğada parçalanabilen ancak geri dönüşüme katılarak yeni ürünler elde edilebilen maddeler de toplanmaktadır. Böylece ekonomik açıdan da kazanç sağlanabilmektedir. Çevreyi kirleten ürünlerin üretimi yasalarla kontrol edilmekte ve çevreye dost ürünler tercih edilmektedir. Dünyada bulunan doğal kaynakların sürdürülebilirliği çok önemlidir. Bu kaynakların hiç bitmeyecek gibi ya da ihtiyaçtan daha fazla tüketilmesi durumuna israf denir. Doğal kaynakların israf edilmemesi için alınacak tedbirlerin başında eğitim ve bilinçlendirme çalışmaları gelmektedir.
+
+İsraf, çoğu ülkede olduğu gibi ülkemizde de dikkat çekici boyutlara ulaşmaktadır. İsraf, direkt doğal kaynaklarda olabildiği gibi bu kaynaklardan elde edilen ürünlerde de olmaktadır. Su, elektrik ve besinlerin israf edilmesi bu duruma örnek verilebilir. Büyümekte ve kalkınmakta olan ülkemizde nüfusun da çoğalmasıyla enerji tüketimi hızla artmaktadır.
+
+Bilinçsiz tüketim, israfı doğurmaktadır. Günlük kullanımda temel tüketim maddelerinin yanı sıra ekmek, su ve enerji kaynaklarının israfının önlenmesi için bilinç oluşturulmalıdır. Doğal kaynakların verimli kullanımının sağlanması ve tüketim sonunda oluşan birtakım atıkların doğayı kirletmesinin önüne geçilmesi süreklilik açısında çok önemlidir.
+
+# Biyolojik Çeşitliliğin Yaşam İçin Önemi ve Korunması
+
+Biyolojik çeşitlilik, belirli bir bölgede yaşayan birbirinden farklı canlıları ifade eder. Biyolojik çeşitliliğin belirlenebilmesi için genetik çeşitlilik, tür çeşitliliği ve ekosistem çeşitliliğinin bilinmesi gerekir.
+
+Bir türün bireyleri arasındaki farklılığa genetik çeşitlilik adı verilir. Belirli bir bölgede yaşayan farklı türler ise tür çeşitliliğini oluşturur. Canlıların cansız etmenlerle olan etkileşimlerindeki farklılıklar ise ekosistem çeşitliliğinden kaynaklanır.
+
+Dünya üzerindeki biyolojik çeşitlilik, ekvatordan kutuplara doğru gidildikçe azalır. Ekvator bölgelerinde dünya mirası olarak korunan tropikal yağmur ormanları gibi biyolojik çeşitliliği çok yüksek olan bölgeler bulunur.
+
+Biyolojik çeşitlilik, doğal bir zenginliktir. Doğal zenginliklerin fazla olmasının, insanların kullanabileceği kaynakların fazla olmasına ve sürdürülebilirliğe katkısı büyük olacaktır. Biyolojik çeşitliliğin azalması, bu gereksinimlerin teminini zorlaştıracaktır.
+
+Endemik Türlerin Ülkemizin Biyolojik Çeşitliliği Açısından Değeri ve Önemi: Bulunduğu bölgedeki ekolojik şartlar sebebiyle yalnızca belirli bir bölgede yaşayan dünyanın başka hiçbir yerinde bulunmayan, sınırlı bir yayılışa sahip olan türlere endemik tür denir.
+
+Coğrafik konumu, iklimsel ve coğrafik özellikleri; ülkemize çok çeşitli orman, dağ, step, sulak alan, kıyı ve deniz ekosistemleri kazandırmıştır. Bu durum, biyolojik çeşitliliğin fazla olmasını sağlamıştır. Türkiye'nin Akdeniz ve Ege kıyılarındaki bazı habitatlar; Akdeniz foku, deniz kaplumbağası ve yeşil deniz kaplumbağası gibi nesli tehlikede olan türlere barınma ortamı sağlamaktadır. Ülkemizde çok sayıda endemik bitki ve hayvan türü de mevcuttur. 3.000'den fazla bitki türü sadece Türkiye'ye özgüdür. Endemik türler ve ırklar genellikle yaşadıkları yerin adını alarak isimlendirilir:
+
+Sivas kangal köpeği. Denizli horozu. Ayrıca ankara tiftik keçisi. Van kedisi. Saimbeyli mavisi kelebeği. Van Gölü inci kefali. Safranbolu safranı. Muğla ve Fethiye çevresinde sığla ağacı. Amanos kekiği. Munzur kekiği. Ayrıca kapadokya madımağı. Yozgat adaçayı. Mardin nohutu. Van ters lalesi. Kahramanmaraş orkidesi. Osmaniye orkidesi.
+
+Biyolojik çeşitlilik ve endemik türler küresel ve millî bir mirastır. Endemik türlerin korunması ve sonraki nesillere kaybolmadan aktarılabilmesi için halkın da bilinçlendirilmesi gerekir. Bu konuda medya kuruluşları, basın yayın organları, üniversiteler ve gönüllü kuruluşlardan destek alınmalıdır.
