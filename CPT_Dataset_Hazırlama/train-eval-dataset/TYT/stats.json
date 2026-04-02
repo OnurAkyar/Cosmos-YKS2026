@@ -1,0 +1,19 @@
+{
+  "subjects": {
+    "biyoloji": 50,
+    "cografya": 17,
+    "din": 11,
+    "felsefe": 10,
+    "fizik": 10,
+    "kimya": 14,
+    "matematik": 9,
+    "tarih": 39,
+    "turkce": 1
+  },
+  "total_before_dedup": 0,
+  "total_after_dedup": 161,
+  "train_records": 152,
+  "val_records": 9,
+  "dedup_enabled": false,
+  "llm_augmented": true
+}
